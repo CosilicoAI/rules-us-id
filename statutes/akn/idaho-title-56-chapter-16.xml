@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-16" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-16" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="56-16" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-16/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-16/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-16/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-16/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_56_16">
+        <akn:num>Chapter 16</akn:num>
+        <akn:heading>Chapter 16</akn:heading>
+        <akn:section eId="sec_56_1601">
+          <akn:num>56-1601</akn:num>
+          <akn:heading>short title — legislative intent</akn:heading>
+          <akn:subsection eId="56_1601__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>This chapter shall be known and may be cited as the "Idaho Intermediate Care Facility Assessment Act."</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1601__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>It is the intent of the legislature to encourage the maximization of financial resources eligible and available for medicaid services by establishing a fund within the Idaho department of health and welfare to receive ICF assessments to be used in securing federal matching funds under federally prescribed programs available through the state medicaid plan. History: [56-1601, added 2011, ch. 164, sec. 24, p. 479.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1601. short title — legislative intent.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1601__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>This chapter shall be known and may be cited as the "Idaho Intermediate Care Facility Assessment Act."</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1601__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>It is the intent of the legislature to encourage the maximization of financial resources eligible and available for medicaid services by establishing a fund within the Idaho department of health and welfare to receive ICF assessments to be used in securing federal matching funds under federally prescribed programs available through the state medicaid plan. History: [56-1601, added 2011, ch. 164, sec. 24, p. 479.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1601. short title — legislative intent.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1601__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>This chapter shall be known and may be cited as the "Idaho Intermediate Care Facility Assessment Act."</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1601__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>It is the intent of the legislature to encourage the maximization of financial resources eligible and available for medicaid services by establishing a fund within the Idaho department of health and welfare to receive ICF assessments to be used in securing federal matching funds under federally prescribed programs available through the state medicaid plan. History: [56-1601, added 2011, ch. 164, sec. 24, p. 479.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1601. short title — legislative intent.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1601__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>This chapter shall be known and may be cited as the "Idaho Intermediate Care Facility Assessment Act."</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1601__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>It is the intent of the legislature to encourage the maximization of financial resources eligible and available for medicaid services by establishing a fund within the Idaho department of health and welfare to receive ICF assessments to be used in securing federal matching funds under federally prescribed programs available through the state medicaid plan. History: [56-1601, added 2011, ch. 164, sec. 24, p. 479.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1601. short title — legislative intent.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1601__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>This chapter shall be known and may be cited as the "Idaho Intermediate Care Facility Assessment Act."</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1601__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>It is the intent of the legislature to encourage the maximization of financial resources eligible and available for medicaid services by establishing a fund within the Idaho department of health and welfare to receive ICF assessments to be used in securing federal matching funds under federally prescribed programs available through the state medicaid plan. History: [56-1601, added 2011, ch. 164, sec. 24, p. 479.]
+56-1601. short title — legislative intent.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1601__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>This chapter shall be known and may be cited as the "Idaho Intermediate Care Facility Assessment Act."</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1601__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>It is the intent of the legislature to encourage the maximization of financial resources eligible and available for medicaid services by establishing a fund within the Idaho department of health and welfare to receive ICF assessments to be used in securing federal matching funds under federally prescribed programs available through the state medicaid plan.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1602">
+          <akn:num>56-1602</akn:num>
+          <akn:heading>definitions</akn:heading>
+          <akn:subsection eId="56_1602__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"CMS" means the centers for medicare and medicaid services.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Fiscal year" means the time period from July 1 to June 30.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Fund" means the ICF assessment fund established pursuant to section 56-1603 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"ICF" means an intermediate care facility f as defined in section 39-1301 , Idaho Code, and licensed pursuant to chapter 13, title 39 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Net patient service revenue" means gross revenues from services provided to ICF patients, less reductions from gross revenue resulting from an inability to collect payment of charges. Patient service revenue excludes nonpatient care revenues such as beauty and barber, vending income, interest and contributions, revenues from sale of meals and all outpatient revenues. Reductions from gross revenue includes: bad debts; contractual adjustments; uncompensated care; administrative, courtesy and policy discounts and adjustments; and other such revenue deductions.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Resident day" means a calendar day of care provided to an ICF resident, including the day of admission and excluding the day of discharge, provided that one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>resident day shall be deemed to exist when admission and discharge occur on the same day.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Upper payment limit" means the limitation established in 42 CFR section 447.272, that disallows federal matching funds when state medicaid agencies pay certain classes of facilities an aggregate amount for services that exceed the amount that is paid for the same services furnished by that class of facilities under medicare payment principles. History: [56-1602, added 2011, ch. 164, sec. 24, p. 479; am. 2025, ch. 122, sec. 39, p. 647.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1602. definitions. As used in this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"CMS" means the centers for medicare and medicaid services.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Fiscal year" means the time period from July 1 to June 30.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Fund" means the ICF assessment fund established pursuant to section 56-1603 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"ICF" means an intermediate care facility f as defined in section 39-1301 , Idaho Code, and licensed pursuant to chapter 13, title 39 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Net patient service revenue" means gross revenues from services provided to ICF patients, less reductions from gross revenue resulting from an inability to collect payment of charges. Patient service revenue excludes nonpatient care revenues such as beauty and barber, vending income, interest and contributions, revenues from sale of meals and all outpatient revenues. Reductions from gross revenue includes: bad debts; contractual adjustments; uncompensated care; administrative, courtesy and policy discounts and adjustments; and other such revenue deductions.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Resident day" means a calendar day of care provided to an ICF resident, including the day of admission and excluding the day of discharge, provided that one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>resident day shall be deemed to exist when admission and discharge occur on the same day.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Upper payment limit" means the limitation established in 42 CFR section 447.272, that disallows federal matching funds when state medicaid agencies pay certain classes of facilities an aggregate amount for services that exceed the amount that is paid for the same services furnished by that class of facilities under medicare payment principles. History: [56-1602, added 2011, ch. 164, sec. 24, p. 479; am. 2025, ch. 122, sec. 39, p. 647.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1602. definitions. As used in this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"CMS" means the centers for medicare and medicaid services.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Fiscal year" means the time period from July 1 to June 30.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Fund" means the ICF assessment fund established pursuant to section 56-1603 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"ICF" means an intermediate care facility f as defined in section 39-1301 , Idaho Code, and licensed pursuant to chapter 13, title 39 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Net patient service revenue" means gross revenues from services provided to ICF patients, less reductions from gross revenue resulting from an inability to collect payment of charges. Patient service revenue excludes nonpatient care revenues such as beauty and barber, vending income, interest and contributions, revenues from sale of meals and all outpatient revenues. Reductions from gross revenue includes: bad debts; contractual adjustments; uncompensated care; administrative, courtesy and policy discounts and adjustments; and other such revenue deductions.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Resident day" means a calendar day of care provided to an ICF resident, including the day of admission and excluding the day of discharge, provided that one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>resident day shall be deemed to exist when admission and discharge occur on the same day.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Upper payment limit" means the limitation established in 42 CFR section 447.272, that disallows federal matching funds when state medicaid agencies pay certain classes of facilities an aggregate amount for services that exceed the amount that is paid for the same services furnished by that class of facilities under medicare payment principles. History: [56-1602, added 2011, ch. 164, sec. 24, p. 479; am. 2025, ch. 122, sec. 39, p. 647.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1602. definitions. As used in this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"CMS" means the centers for medicare and medicaid services.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Fiscal year" means the time period from July 1 to June 30.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Fund" means the ICF assessment fund established pursuant to section 56-1603 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"ICF" means an intermediate care facility f as defined in section 39-1301 , Idaho Code, and licensed pursuant to chapter 13, title 39 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Net patient service revenue" means gross revenues from services provided to ICF patients, less reductions from gross revenue resulting from an inability to collect payment of charges. Patient service revenue excludes nonpatient care revenues such as beauty and barber, vending income, interest and contributions, revenues from sale of meals and all outpatient revenues. Reductions from gross revenue includes: bad debts; contractual adjustments; uncompensated care; administrative, courtesy and policy discounts and adjustments; and other such revenue deductions.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Resident day" means a calendar day of care provided to an ICF resident, including the day of admission and excluding the day of discharge, provided that one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>resident day shall be deemed to exist when admission and discharge occur on the same day.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Upper payment limit" means the limitation established in 42 CFR section 447.272, that disallows federal matching funds when state medicaid agencies pay certain classes of facilities an aggregate amount for services that exceed the amount that is paid for the same services furnished by that class of facilities under medicare payment principles. History: [56-1602, added 2011, ch. 164, sec. 24, p. 479; am. 2025, ch. 122, sec. 39, p. 647.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1602. definitions. As used in this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"CMS" means the centers for medicare and medicaid services.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Fiscal year" means the time period from July 1 to June 30.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Fund" means the ICF assessment fund established pursuant to section 56-1603 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"ICF" means an intermediate care facility f as defined in section 39-1301 , Idaho Code, and licensed pursuant to chapter 13, title 39 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Net patient service revenue" means gross revenues from services provided to ICF patients, less reductions from gross revenue resulting from an inability to collect payment of charges. Patient service revenue excludes nonpatient care revenues such as beauty and barber, vending income, interest and contributions, revenues from sale of meals and all outpatient revenues. Reductions from gross revenue includes: bad debts; contractual adjustments; uncompensated care; administrative, courtesy and policy discounts and adjustments; and other such revenue deductions.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Resident day" means a calendar day of care provided to an ICF resident, including the day of admission and excluding the day of discharge, provided that one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>resident day shall be deemed to exist when admission and discharge occur on the same day.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Upper payment limit" means the limitation established in 42 CFR section 447.272, that disallows federal matching funds when state medicaid agencies pay certain classes of facilities an aggregate amount for services that exceed the amount that is paid for the same services furnished by that class of facilities under medicare payment principles. History: [56-1602, added 2011, ch. 164, sec. 24, p. 479; am. 2025, ch. 122, sec. 39, p. 647.]
+56-1602. definitions. As used in this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"CMS" means the centers for medicare and medicaid services.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Fiscal year" means the time period from July 1 to June 30.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Fund" means the ICF assessment fund established pursuant to section 56-1603 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"ICF" means an intermediate care facility f as defined in section 39-1301 , Idaho Code, and licensed pursuant to chapter 13, title 39 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Net patient service revenue" means gross revenues from services provided to ICF patients, less reductions from gross revenue resulting from an inability to collect payment of charges. Patient service revenue excludes nonpatient care revenues such as beauty and barber, vending income, interest and contributions, revenues from sale of meals and all outpatient revenues. Reductions from gross revenue includes: bad debts; contractual adjustments; uncompensated care; administrative, courtesy and policy discounts and adjustments; and other such revenue deductions.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Resident day" means a calendar day of care provided to an ICF resident, including the day of admission and excluding the day of discharge, provided that one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>resident day shall be deemed to exist when admission and discharge occur on the same day.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1602__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Upper payment limit" means the limitation established in 42 CFR section 447.272, that disallows federal matching funds when state medicaid agencies pay certain classes of facilities an aggregate amount for services that exceed the amount that is paid for the same services furnished by that class of facilities under medicare payment principles.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1603">
+          <akn:num>56-1603</akn:num>
+          <akn:heading>INTERMEDIATE CARE FACILITY assessment fund</akn:heading>
+          <akn:subsection eId="56_1603__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>All moneys collected or received by the department from ICF assessments required pursuant to this chapter;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>All federal matching funds received by the department as a result of expenditures made by the department that are attributable to moneys deposited in the fund;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any interest or penalties levied in conjunction with the administration of this chapter; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Any appropriation or federal funds.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1603__subsec_d__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The fund is created for the purpose of receiving moneys in accordance with the provisions of this section and section 56-1604 , Idaho Code. The fund shall not be used to replace any moneys appropriated to the Idaho medical assistance program by the legislature. Moneys in the fund, which are deemed to be perpetually appropriated, shall be used exclusively for the following purposes:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>To pay administrative expenses incurred by the department or its agent in performing the activities authorized pursuant to this chapter, provided that such expenses shall not exceed a total of one percent (1%) of the aggregate assessment funds collected for the prior fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>To reimburse the medicaid share of the assessment as a pass-through.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>To secure federal matching funds available through the state medicaid plan, which funds shall be used to make medicaid payments for ICF services that equal or exceed the amount of ICF medicaid rates, in the aggregate, as calculated in accordance with the approved state medicaid plan in effect on July 1, 2011.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>To increase ICF payments to fund covered services to medicaid beneficiaries within medicare upper payment limits.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>To make refunds to ICFs. If an ICF is unable to refund payments, the state shall develop a payment plan and deduct moneys from future medicaid payments. The state will refund the federal government for the federal share of these overpayments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>To make transfers to any other fund in the state treasury, provided such transfers shall not exceed the amount transferred previously from that other fund into the ICF assessment fund. History: [56-1603, added 2011, ch. 164, sec. 24, p. 480; am. 2012, ch. 327, sec. 1, p. 908; am. 2025, ch. 82, sec. 77, p. 375.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1603. INTERMEDIATE CARE FACILITY assessment fund.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1603__subsec_f__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>There is hereby created in the office of the state treasurer a dedicated fund to be known as the ICF assessment fund to be administered by the department. The state treasurer shall invest idle moneys in the fund, and any interest received on those investments shall be returned to the fund.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1603__subsec_f__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>Moneys in the fund shall consist of:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>All moneys collected or received by the department from ICF assessments required pursuant to this chapter;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>All federal matching funds received by the department as a result of expenditures made by the department that are attributable to moneys deposited in the fund;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any interest or penalties levied in conjunction with the administration of this chapter; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Any appropriation or federal funds.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1603__subsec_d__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The fund is created for the purpose of receiving moneys in accordance with the provisions of this section and section 56-1604 , Idaho Code. The fund shall not be used to replace any moneys appropriated to the Idaho medical assistance program by the legislature. Moneys in the fund, which are deemed to be perpetually appropriated, shall be used exclusively for the following purposes:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>To pay administrative expenses incurred by the department or its agent in performing the activities authorized pursuant to this chapter, provided that such expenses shall not exceed a total of one percent (1%) of the aggregate assessment funds collected for the prior fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>To reimburse the medicaid share of the assessment as a pass-through.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>To secure federal matching funds available through the state medicaid plan, which funds shall be used to make medicaid payments for ICF services that equal or exceed the amount of ICF medicaid rates, in the aggregate, as calculated in accordance with the approved state medicaid plan in effect on July 1, 2011.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>To increase ICF payments to fund covered services to medicaid beneficiaries within medicare upper payment limits.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>To make refunds to ICFs. If an ICF is unable to refund payments, the state shall develop a payment plan and deduct moneys from future medicaid payments. The state will refund the federal government for the federal share of these overpayments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>To make transfers to any other fund in the state treasury, provided such transfers shall not exceed the amount transferred previously from that other fund into the ICF assessment fund. History: [56-1603, added 2011, ch. 164, sec. 24, p. 480; am. 2012, ch. 327, sec. 1, p. 908; am. 2025, ch. 82, sec. 77, p. 375.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1603. INTERMEDIATE CARE FACILITY assessment fund.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1603__subsec_f__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>There is hereby created in the office of the state treasurer a dedicated fund to be known as the ICF assessment fund to be administered by the department. The state treasurer shall invest idle moneys in the fund, and any interest received on those investments shall be returned to the fund.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1603__subsec_f__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>Moneys in the fund shall consist of:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>All moneys collected or received by the department from ICF assessments required pursuant to this chapter;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>All federal matching funds received by the department as a result of expenditures made by the department that are attributable to moneys deposited in the fund;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any interest or penalties levied in conjunction with the administration of this chapter; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Any appropriation or federal funds.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1603__subsec_d__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The fund is created for the purpose of receiving moneys in accordance with the provisions of this section and section 56-1604 , Idaho Code. The fund shall not be used to replace any moneys appropriated to the Idaho medical assistance program by the legislature. Moneys in the fund, which are deemed to be perpetually appropriated, shall be used exclusively for the following purposes:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>To pay administrative expenses incurred by the department or its agent in performing the activities authorized pursuant to this chapter, provided that such expenses shall not exceed a total of one percent (1%) of the aggregate assessment funds collected for the prior fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>To reimburse the medicaid share of the assessment as a pass-through.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>To secure federal matching funds available through the state medicaid plan, which funds shall be used to make medicaid payments for ICF services that equal or exceed the amount of ICF medicaid rates, in the aggregate, as calculated in accordance with the approved state medicaid plan in effect on July 1, 2011.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>To increase ICF payments to fund covered services to medicaid beneficiaries within medicare upper payment limits.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>To make refunds to ICFs. If an ICF is unable to refund payments, the state shall develop a payment plan and deduct moneys from future medicaid payments. The state will refund the federal government for the federal share of these overpayments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>To make transfers to any other fund in the state treasury, provided such transfers shall not exceed the amount transferred previously from that other fund into the ICF assessment fund. History: [56-1603, added 2011, ch. 164, sec. 24, p. 480; am. 2012, ch. 327, sec. 1, p. 908; am. 2025, ch. 82, sec. 77, p. 375.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1603. INTERMEDIATE CARE FACILITY assessment fund.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1603__subsec_f__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>There is hereby created in the office of the state treasurer a dedicated fund to be known as the ICF assessment fund to be administered by the department. The state treasurer shall invest idle moneys in the fund, and any interest received on those investments shall be returned to the fund.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1603__subsec_f__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>Moneys in the fund shall consist of:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>All moneys collected or received by the department from ICF assessments required pursuant to this chapter;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>All federal matching funds received by the department as a result of expenditures made by the department that are attributable to moneys deposited in the fund;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any interest or penalties levied in conjunction with the administration of this chapter; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Any appropriation or federal funds.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1603__subsec_d__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The fund is created for the purpose of receiving moneys in accordance with the provisions of this section and section 56-1604 , Idaho Code. The fund shall not be used to replace any moneys appropriated to the Idaho medical assistance program by the legislature. Moneys in the fund, which are deemed to be perpetually appropriated, shall be used exclusively for the following purposes:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>To pay administrative expenses incurred by the department or its agent in performing the activities authorized pursuant to this chapter, provided that such expenses shall not exceed a total of one percent (1%) of the aggregate assessment funds collected for the prior fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>To reimburse the medicaid share of the assessment as a pass-through.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>To secure federal matching funds available through the state medicaid plan, which funds shall be used to make medicaid payments for ICF services that equal or exceed the amount of ICF medicaid rates, in the aggregate, as calculated in accordance with the approved state medicaid plan in effect on July 1, 2011.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>To increase ICF payments to fund covered services to medicaid beneficiaries within medicare upper payment limits.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>To make refunds to ICFs. If an ICF is unable to refund payments, the state shall develop a payment plan and deduct moneys from future medicaid payments. The state will refund the federal government for the federal share of these overpayments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>To make transfers to any other fund in the state treasury, provided such transfers shall not exceed the amount transferred previously from that other fund into the ICF assessment fund. History: [56-1603, added 2011, ch. 164, sec. 24, p. 480; am. 2012, ch. 327, sec. 1, p. 908; am. 2025, ch. 82, sec. 77, p. 375.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1603. INTERMEDIATE CARE FACILITY assessment fund.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1603__subsec_f__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>There is hereby created in the office of the state treasurer a dedicated fund to be known as the ICF assessment fund to be administered by the department. The state treasurer shall invest idle moneys in the fund, and any interest received on those investments shall be returned to the fund.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1603__subsec_f__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>Moneys in the fund shall consist of:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>All moneys collected or received by the department from ICF assessments required pursuant to this chapter;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>All federal matching funds received by the department as a result of expenditures made by the department that are attributable to moneys deposited in the fund;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any interest or penalties levied in conjunction with the administration of this chapter; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Any appropriation or federal funds.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1603__subsec_d__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The fund is created for the purpose of receiving moneys in accordance with the provisions of this section and section 56-1604 , Idaho Code. The fund shall not be used to replace any moneys appropriated to the Idaho medical assistance program by the legislature. Moneys in the fund, which are deemed to be perpetually appropriated, shall be used exclusively for the following purposes:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>To pay administrative expenses incurred by the department or its agent in performing the activities authorized pursuant to this chapter, provided that such expenses shall not exceed a total of one percent (1%) of the aggregate assessment funds collected for the prior fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>To reimburse the medicaid share of the assessment as a pass-through.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>To secure federal matching funds available through the state medicaid plan, which funds shall be used to make medicaid payments for ICF services that equal or exceed the amount of ICF medicaid rates, in the aggregate, as calculated in accordance with the approved state medicaid plan in effect on July 1, 2011.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>To increase ICF payments to fund covered services to medicaid beneficiaries within medicare upper payment limits.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>To make refunds to ICFs. If an ICF is unable to refund payments, the state shall develop a payment plan and deduct moneys from future medicaid payments. The state will refund the federal government for the federal share of these overpayments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>To make transfers to any other fund in the state treasury, provided such transfers shall not exceed the amount transferred previously from that other fund into the ICF assessment fund. History: [56-1603, added 2011, ch. 164, sec. 24, p. 480; am. 2012, ch. 327, sec. 1, p. 908; am. 2025, ch. 82, sec. 77, p. 375.]
+56-1603. INTERMEDIATE CARE FACILITY assessment fund.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1603__subsec_f__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>There is hereby created in the office of the state treasurer a dedicated fund to be known as the ICF assessment fund to be administered by the department. The state treasurer shall invest idle moneys in the fund, and any interest received on those investments shall be returned to the fund.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1603__subsec_f__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>Moneys in the fund shall consist of:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>All moneys collected or received by the department from ICF assessments required pursuant to this chapter;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>All federal matching funds received by the department as a result of expenditures made by the department that are attributable to moneys deposited in the fund;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any interest or penalties levied in conjunction with the administration of this chapter; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Any appropriation or federal funds.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1603__subsec_d__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The fund is created for the purpose of receiving moneys in accordance with the provisions of this section and section 56-1604 , Idaho Code. The fund shall not be used to replace any moneys appropriated to the Idaho medical assistance program by the legislature. Moneys in the fund, which are deemed to be perpetually appropriated, shall be used exclusively for the following purposes:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>To pay administrative expenses incurred by the department or its agent in performing the activities authorized pursuant to this chapter, provided that such expenses shall not exceed a total of one percent (1%) of the aggregate assessment funds collected for the prior fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>To reimburse the medicaid share of the assessment as a pass-through.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>To secure federal matching funds available through the state medicaid plan, which funds shall be used to make medicaid payments for ICF services that equal or exceed the amount of ICF medicaid rates, in the aggregate, as calculated in accordance with the approved state medicaid plan in effect on July 1, 2011.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>To increase ICF payments to fund covered services to medicaid beneficiaries within medicare upper payment limits.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>To make refunds to ICFs. If an ICF is unable to refund payments, the state shall develop a payment plan and deduct moneys from future medicaid payments. The state will refund the federal government for the federal share of these overpayments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1603__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>To make transfers to any other fund in the state treasury, provided such transfers shall not exceed the amount transferred previously from that other fund into the ICF assessment fund.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1604">
+          <akn:num>56-1604</akn:num>
+          <akn:heading>INTERMEDIATE CARE FACILITY assessments</akn:heading>
+          <akn:subsection eId="56_1604__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The ICF shall pay the ICF assessment to the fund in accordance with the provisions of this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The aggregated amount of assessments for all ICFs during a fiscal year shall be an amount not exceeding the maximum percentage allowed under federal law of the total aggregate net patient service revenue of assessed ICFs from each provider’s prior fiscal year. The department shall determine the assessment rate prospectively for the applicable fiscal year on a per-resident-day basis. The per-resident-day assessment rate shall be uniform for all ICFs.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The department shall collect, and each ICF shall pay, the ICF assessment on an annual basis subject to the terms of this subsection. The ICF assessment shall be due no later than thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after the receipt of the department invoice. History: [56-1604, added 2011, ch. 164, sec. 24, p. 481.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1604. INTERMEDIATE CARE FACILITY assessments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The ICF shall pay the ICF assessment to the fund in accordance with the provisions of this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The aggregated amount of assessments for all ICFs during a fiscal year shall be an amount not exceeding the maximum percentage allowed under federal law of the total aggregate net patient service revenue of assessed ICFs from each provider’s prior fiscal year. The department shall determine the assessment rate prospectively for the applicable fiscal year on a per-resident-day basis. The per-resident-day assessment rate shall be uniform for all ICFs.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The department shall collect, and each ICF shall pay, the ICF assessment on an annual basis subject to the terms of this subsection. The ICF assessment shall be due no later than thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after the receipt of the department invoice. History: [56-1604, added 2011, ch. 164, sec. 24, p. 481.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1604. INTERMEDIATE CARE FACILITY assessments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The ICF shall pay the ICF assessment to the fund in accordance with the provisions of this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The aggregated amount of assessments for all ICFs during a fiscal year shall be an amount not exceeding the maximum percentage allowed under federal law of the total aggregate net patient service revenue of assessed ICFs from each provider’s prior fiscal year. The department shall determine the assessment rate prospectively for the applicable fiscal year on a per-resident-day basis. The per-resident-day assessment rate shall be uniform for all ICFs.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The department shall collect, and each ICF shall pay, the ICF assessment on an annual basis subject to the terms of this subsection. The ICF assessment shall be due no later than thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after the receipt of the department invoice. History: [56-1604, added 2011, ch. 164, sec. 24, p. 481.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1604. INTERMEDIATE CARE FACILITY assessments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The ICF shall pay the ICF assessment to the fund in accordance with the provisions of this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The aggregated amount of assessments for all ICFs during a fiscal year shall be an amount not exceeding the maximum percentage allowed under federal law of the total aggregate net patient service revenue of assessed ICFs from each provider’s prior fiscal year. The department shall determine the assessment rate prospectively for the applicable fiscal year on a per-resident-day basis. The per-resident-day assessment rate shall be uniform for all ICFs.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The department shall collect, and each ICF shall pay, the ICF assessment on an annual basis subject to the terms of this subsection. The ICF assessment shall be due no later than thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after the receipt of the department invoice. History: [56-1604, added 2011, ch. 164, sec. 24, p. 481.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1604. INTERMEDIATE CARE FACILITY assessments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The ICF shall pay the ICF assessment to the fund in accordance with the provisions of this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The aggregated amount of assessments for all ICFs during a fiscal year shall be an amount not exceeding the maximum percentage allowed under federal law of the total aggregate net patient service revenue of assessed ICFs from each provider’s prior fiscal year. The department shall determine the assessment rate prospectively for the applicable fiscal year on a per-resident-day basis. The per-resident-day assessment rate shall be uniform for all ICFs.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The department shall collect, and each ICF shall pay, the ICF assessment on an annual basis subject to the terms of this subsection. The ICF assessment shall be due no later than thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after the receipt of the department invoice. History: [56-1604, added 2011, ch. 164, sec. 24, p. 481.]
+56-1604. INTERMEDIATE CARE FACILITY assessments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The ICF shall pay the ICF assessment to the fund in accordance with the provisions of this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The aggregated amount of assessments for all ICFs during a fiscal year shall be an amount not exceeding the maximum percentage allowed under federal law of the total aggregate net patient service revenue of assessed ICFs from each provider’s prior fiscal year. The department shall determine the assessment rate prospectively for the applicable fiscal year on a per-resident-day basis. The per-resident-day assessment rate shall be uniform for all ICFs.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The department shall collect, and each ICF shall pay, the ICF assessment on an annual basis subject to the terms of this subsection. The ICF assessment shall be due no later than thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1604__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after the receipt of the department invoice.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1608">
+          <akn:num>56-1608</akn:num>
+          <akn:heading>penalties for failure to pay INTERMEDIATE CARE FACILITY assessment</akn:heading>
+          <akn:subsection eId="56_1608__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>If an ICF fails to pay the full amount of an ICF assessment when due, there shall be added to the assessment, unless waived by the department for reasonable cause, a penalty equal to five percent (5%) of the amount of the assessment that was not paid when due. Any subsequent payments shall be credited first to unpaid assessment amounts rather than to penalty or interest amounts, beginning with the most delinquent installment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1608__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>In addition to the penalty identified in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1608__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section, the department may seek any of the following remedies for failure of any ICF to pay its assessment when due: (a)  Withhold any medical assistance reimbursement payments until such time as the assessment amount is paid in full; (b)  Suspend or revoke the ICF license; or (c)  Develop a plan that requires the ICF to pay any delinquent assessment in installments. History: [56-1608, added 2011, ch. 164, sec. 24, p. 481.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1608. penalties for failure to pay INTERMEDIATE CARE FACILITY assessment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1608__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>If an ICF fails to pay the full amount of an ICF assessment when due, there shall be added to the assessment, unless waived by the department for reasonable cause, a penalty equal to five percent (5%) of the amount of the assessment that was not paid when due. Any subsequent payments shall be credited first to unpaid assessment amounts rather than to penalty or interest amounts, beginning with the most delinquent installment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1608__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>In addition to the penalty identified in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1608__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section, the department may seek any of the following remedies for failure of any ICF to pay its assessment when due: (a)  Withhold any medical assistance reimbursement payments until such time as the assessment amount is paid in full; (b)  Suspend or revoke the ICF license; or (c)  Develop a plan that requires the ICF to pay any delinquent assessment in installments. History: [56-1608, added 2011, ch. 164, sec. 24, p. 481.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1608. penalties for failure to pay INTERMEDIATE CARE FACILITY assessment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1608__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>If an ICF fails to pay the full amount of an ICF assessment when due, there shall be added to the assessment, unless waived by the department for reasonable cause, a penalty equal to five percent (5%) of the amount of the assessment that was not paid when due. Any subsequent payments shall be credited first to unpaid assessment amounts rather than to penalty or interest amounts, beginning with the most delinquent installment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1608__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>In addition to the penalty identified in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1608__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section, the department may seek any of the following remedies for failure of any ICF to pay its assessment when due: (a)  Withhold any medical assistance reimbursement payments until such time as the assessment amount is paid in full; (b)  Suspend or revoke the ICF license; or (c)  Develop a plan that requires the ICF to pay any delinquent assessment in installments. History: [56-1608, added 2011, ch. 164, sec. 24, p. 481.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1608. penalties for failure to pay INTERMEDIATE CARE FACILITY assessment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1608__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>If an ICF fails to pay the full amount of an ICF assessment when due, there shall be added to the assessment, unless waived by the department for reasonable cause, a penalty equal to five percent (5%) of the amount of the assessment that was not paid when due. Any subsequent payments shall be credited first to unpaid assessment amounts rather than to penalty or interest amounts, beginning with the most delinquent installment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1608__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>In addition to the penalty identified in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1608__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section, the department may seek any of the following remedies for failure of any ICF to pay its assessment when due: (a)  Withhold any medical assistance reimbursement payments until such time as the assessment amount is paid in full; (b)  Suspend or revoke the ICF license; or (c)  Develop a plan that requires the ICF to pay any delinquent assessment in installments. History: [56-1608, added 2011, ch. 164, sec. 24, p. 481.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 16 IDAHO INTERMEDIATE CARE FACILITY ASSESSMENT ACT 56-1608. penalties for failure to pay INTERMEDIATE CARE FACILITY assessment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1608__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>If an ICF fails to pay the full amount of an ICF assessment when due, there shall be added to the assessment, unless waived by the department for reasonable cause, a penalty equal to five percent (5%) of the amount of the assessment that was not paid when due. Any subsequent payments shall be credited first to unpaid assessment amounts rather than to penalty or interest amounts, beginning with the most delinquent installment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1608__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>In addition to the penalty identified in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1608__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section, the department may seek any of the following remedies for failure of any ICF to pay its assessment when due: (a)  Withhold any medical assistance reimbursement payments until such time as the assessment amount is paid in full; (b)  Suspend or revoke the ICF license; or (c)  Develop a plan that requires the ICF to pay any delinquent assessment in installments. History: [56-1608, added 2011, ch. 164, sec. 24, p. 481.]
+56-1608. penalties for failure to pay INTERMEDIATE CARE FACILITY assessment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1608__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>If an ICF fails to pay the full amount of an ICF assessment when due, there shall be added to the assessment, unless waived by the department for reasonable cause, a penalty equal to five percent (5%) of the amount of the assessment that was not paid when due. Any subsequent payments shall be credited first to unpaid assessment amounts rather than to penalty or interest amounts, beginning with the most delinquent installment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1608__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>In addition to the penalty identified in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1608__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section, the department may seek any of the following remedies for failure of any ICF to pay its assessment when due:</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

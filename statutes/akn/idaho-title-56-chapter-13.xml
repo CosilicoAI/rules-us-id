@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-13" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-13" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="56-13" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-13/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-13/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-13/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-13/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_56_13">
+        <akn:num>Chapter 13</akn:num>
+        <akn:heading>Chapter 13</akn:heading>
+        <akn:section eId="sec_56_1301">
+          <akn:num>56-1301</akn:num>
+          <akn:heading>Short title</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1301. Short title. This chapter shall be known and may be cited as the "Idaho Long-term Care Partnership Program." History: [(56-1301) 56-1201, added 2004, ch. 261, sec. 1, p. 737; am. and redesig. 2005, ch. 25, sec. 113, p. 129.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1301. Short title. This chapter shall be known and may be cited as the "Idaho Long-term Care Partnership Program." History: [(56-1301) 56-1201, added 2004, ch. 261, sec. 1, p. 737; am. and redesig. 2005, ch. 25, sec. 113, p. 129.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1301. Short title. This chapter shall be known and may be cited as the "Idaho Long-term Care Partnership Program." History: [(56-1301) 56-1201, added 2004, ch. 261, sec. 1, p. 737; am. and redesig. 2005, ch. 25, sec. 113, p. 129.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1301. Short title. This chapter shall be known and may be cited as the "Idaho Long-term Care Partnership Program." History: [(56-1301) 56-1201, added 2004, ch. 261, sec. 1, p. 737; am. and redesig. 2005, ch. 25, sec. 113, p. 129.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1301. Short title. This chapter shall be known and may be cited as the "Idaho Long-term Care Partnership Program." History: [(56-1301) 56-1201, added 2004, ch. 261, sec. 1, p. 737; am. and redesig. 2005, ch. 25, sec. 113, p. 129.]
+56-1301. Short title. This chapter shall be known and may be cited as the "Idaho Long-term Care Partnership Program."</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_1302">
+          <akn:num>56-1302</akn:num>
+          <akn:heading>Definitions</akn:heading>
+          <akn:subsection eId="56_1302__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Asset disregard" means the total assets an individual owns and may retain under medicaid and still qualify for benefits at the time the individual applies for benefits if the individual is a beneficiary of a long-term care partnership program approved policy.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Long-term care partnership program approved policy" means a long-term care insurance policy which is approved by the department of insurance and is provided through state approved long-term care insurers through the Idaho long-term care partnership program.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Medicaid" means the federal medical assistance program established under title XIX of the social security act. History: [(56-1302) 56-1202, added 2004, ch. 261, sec. 1, p. 737; am. and redesig. 2005, ch. 25, sec. 114, p. 129; am. 2007, ch. 253, sec. 1, p. 756.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1302. Definitions. The following words and phrases when used in this chapter have the meanings given to them unless the context clearly indicates otherwise:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Asset disregard" means the total assets an individual owns and may retain under medicaid and still qualify for benefits at the time the individual applies for benefits if the individual is a beneficiary of a long-term care partnership program approved policy.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Long-term care partnership program approved policy" means a long-term care insurance policy which is approved by the department of insurance and is provided through state approved long-term care insurers through the Idaho long-term care partnership program.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Medicaid" means the federal medical assistance program established under title XIX of the social security act. History: [(56-1302) 56-1202, added 2004, ch. 261, sec. 1, p. 737; am. and redesig. 2005, ch. 25, sec. 114, p. 129; am. 2007, ch. 253, sec. 1, p. 756.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1302. Definitions. The following words and phrases when used in this chapter have the meanings given to them unless the context clearly indicates otherwise:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Asset disregard" means the total assets an individual owns and may retain under medicaid and still qualify for benefits at the time the individual applies for benefits if the individual is a beneficiary of a long-term care partnership program approved policy.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Long-term care partnership program approved policy" means a long-term care insurance policy which is approved by the department of insurance and is provided through state approved long-term care insurers through the Idaho long-term care partnership program.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Medicaid" means the federal medical assistance program established under title XIX of the social security act. History: [(56-1302) 56-1202, added 2004, ch. 261, sec. 1, p. 737; am. and redesig. 2005, ch. 25, sec. 114, p. 129; am. 2007, ch. 253, sec. 1, p. 756.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1302. Definitions. The following words and phrases when used in this chapter have the meanings given to them unless the context clearly indicates otherwise:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Asset disregard" means the total assets an individual owns and may retain under medicaid and still qualify for benefits at the time the individual applies for benefits if the individual is a beneficiary of a long-term care partnership program approved policy.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Long-term care partnership program approved policy" means a long-term care insurance policy which is approved by the department of insurance and is provided through state approved long-term care insurers through the Idaho long-term care partnership program.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Medicaid" means the federal medical assistance program established under title XIX of the social security act. History: [(56-1302) 56-1202, added 2004, ch. 261, sec. 1, p. 737; am. and redesig. 2005, ch. 25, sec. 114, p. 129; am. 2007, ch. 253, sec. 1, p. 756.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1302. Definitions. The following words and phrases when used in this chapter have the meanings given to them unless the context clearly indicates otherwise:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Asset disregard" means the total assets an individual owns and may retain under medicaid and still qualify for benefits at the time the individual applies for benefits if the individual is a beneficiary of a long-term care partnership program approved policy.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Long-term care partnership program approved policy" means a long-term care insurance policy which is approved by the department of insurance and is provided through state approved long-term care insurers through the Idaho long-term care partnership program.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Medicaid" means the federal medical assistance program established under title XIX of the social security act. History: [(56-1302) 56-1202, added 2004, ch. 261, sec. 1, p. 737; am. and redesig. 2005, ch. 25, sec. 114, p. 129; am. 2007, ch. 253, sec. 1, p. 756.]
+56-1302. Definitions. The following words and phrases when used in this chapter have the meanings given to them unless the context clearly indicates otherwise:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Asset disregard" means the total assets an individual owns and may retain under medicaid and still qualify for benefits at the time the individual applies for benefits if the individual is a beneficiary of a long-term care partnership program approved policy.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Long-term care partnership program approved policy" means a long-term care insurance policy which is approved by the department of insurance and is provided through state approved long-term care insurers through the Idaho long-term care partnership program.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1302__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Medicaid" means the federal medical assistance program established under title XIX of the social security act.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1303">
+          <akn:num>56-1303</akn:num>
+          <akn:heading>Long-term care partnership program</akn:heading>
+          <akn:subsection eId="56_1303__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Provide incentives for individuals to insure against the costs of providing for their long-term care needs;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Provide a mechanism for individuals to qualify for coverage of the cost of their long-term care needs under medicaid without first being required to substantially exhaust their resources;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Provide counseling services to individuals planning for their long-term care needs; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Alleviate the financial burden on the state’s medical assistance program by encouraging the pursuit of private initiatives.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1303__subsec_d__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>In the case of an individual who has received or is entitled to receive benefits under a long-term care partnership program policy, certain resources of that individual, as described in subsection</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1303__subsec_d__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>of this section, shall not be considered by the department as a determination of any of the following:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Eligibility for medicaid;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Amount of any medicaid payment; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any subsequent recovery by the state of a payment for medical services.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1303__subsec_c__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The department shall promulgate necessary rules and amendments to the state plan to allow for asset disregard. To provide asset disregard, for purchasers of a long-term care partnership program policy, the department shall count insurance benefits paid under the policy toward asset disregard to the extent the payments are for covered services under the long-term care partnership program policy. History: [(56-1303) 56-1203, added 2004, ch. 261, sec. 1, p. 737; am. and redesig. 2005, ch. 25, sec. 115, p. 129; am. 2007, ch. 253, sec. 2, p. 756.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1303. Long-term care partnership program.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1303__subsec_c__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>Upon the repeal of restrictions to asset protection contained in the omnibus budget reconciliation act of 1993 (public law 103-66, 107 Stat. 312), there shall be established the Idaho long-term care partnership program, to be administered by the department with the assistance of the department of insurance to do the following:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Provide incentives for individuals to insure against the costs of providing for their long-term care needs;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Provide a mechanism for individuals to qualify for coverage of the cost of their long-term care needs under medicaid without first being required to substantially exhaust their resources;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Provide counseling services to individuals planning for their long-term care needs; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Alleviate the financial burden on the state’s medical assistance program by encouraging the pursuit of private initiatives.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1303__subsec_d__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>In the case of an individual who has received or is entitled to receive benefits under a long-term care partnership program policy, certain resources of that individual, as described in subsection</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1303__subsec_d__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>of this section, shall not be considered by the department as a determination of any of the following:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Eligibility for medicaid;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Amount of any medicaid payment; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any subsequent recovery by the state of a payment for medical services.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1303__subsec_c__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The department shall promulgate necessary rules and amendments to the state plan to allow for asset disregard. To provide asset disregard, for purchasers of a long-term care partnership program policy, the department shall count insurance benefits paid under the policy toward asset disregard to the extent the payments are for covered services under the long-term care partnership program policy. History: [(56-1303) 56-1203, added 2004, ch. 261, sec. 1, p. 737; am. and redesig. 2005, ch. 25, sec. 115, p. 129; am. 2007, ch. 253, sec. 2, p. 756.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1303. Long-term care partnership program.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1303__subsec_c__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>Upon the repeal of restrictions to asset protection contained in the omnibus budget reconciliation act of 1993 (public law 103-66, 107 Stat. 312), there shall be established the Idaho long-term care partnership program, to be administered by the department with the assistance of the department of insurance to do the following:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Provide incentives for individuals to insure against the costs of providing for their long-term care needs;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Provide a mechanism for individuals to qualify for coverage of the cost of their long-term care needs under medicaid without first being required to substantially exhaust their resources;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Provide counseling services to individuals planning for their long-term care needs; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Alleviate the financial burden on the state’s medical assistance program by encouraging the pursuit of private initiatives.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1303__subsec_d__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>In the case of an individual who has received or is entitled to receive benefits under a long-term care partnership program policy, certain resources of that individual, as described in subsection</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1303__subsec_d__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>of this section, shall not be considered by the department as a determination of any of the following:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Eligibility for medicaid;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Amount of any medicaid payment; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any subsequent recovery by the state of a payment for medical services.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1303__subsec_c__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The department shall promulgate necessary rules and amendments to the state plan to allow for asset disregard. To provide asset disregard, for purchasers of a long-term care partnership program policy, the department shall count insurance benefits paid under the policy toward asset disregard to the extent the payments are for covered services under the long-term care partnership program policy. History: [(56-1303) 56-1203, added 2004, ch. 261, sec. 1, p. 737; am. and redesig. 2005, ch. 25, sec. 115, p. 129; am. 2007, ch. 253, sec. 2, p. 756.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1303. Long-term care partnership program.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1303__subsec_c__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>Upon the repeal of restrictions to asset protection contained in the omnibus budget reconciliation act of 1993 (public law 103-66, 107 Stat. 312), there shall be established the Idaho long-term care partnership program, to be administered by the department with the assistance of the department of insurance to do the following:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Provide incentives for individuals to insure against the costs of providing for their long-term care needs;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Provide a mechanism for individuals to qualify for coverage of the cost of their long-term care needs under medicaid without first being required to substantially exhaust their resources;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Provide counseling services to individuals planning for their long-term care needs; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Alleviate the financial burden on the state’s medical assistance program by encouraging the pursuit of private initiatives.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1303__subsec_d__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>In the case of an individual who has received or is entitled to receive benefits under a long-term care partnership program policy, certain resources of that individual, as described in subsection</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1303__subsec_d__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>of this section, shall not be considered by the department as a determination of any of the following:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Eligibility for medicaid;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Amount of any medicaid payment; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any subsequent recovery by the state of a payment for medical services.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1303__subsec_c__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The department shall promulgate necessary rules and amendments to the state plan to allow for asset disregard. To provide asset disregard, for purchasers of a long-term care partnership program policy, the department shall count insurance benefits paid under the policy toward asset disregard to the extent the payments are for covered services under the long-term care partnership program policy. History: [(56-1303) 56-1203, added 2004, ch. 261, sec. 1, p. 737; am. and redesig. 2005, ch. 25, sec. 115, p. 129; am. 2007, ch. 253, sec. 2, p. 756.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1303. Long-term care partnership program.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1303__subsec_c__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>Upon the repeal of restrictions to asset protection contained in the omnibus budget reconciliation act of 1993 (public law 103-66, 107 Stat. 312), there shall be established the Idaho long-term care partnership program, to be administered by the department with the assistance of the department of insurance to do the following:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Provide incentives for individuals to insure against the costs of providing for their long-term care needs;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Provide a mechanism for individuals to qualify for coverage of the cost of their long-term care needs under medicaid without first being required to substantially exhaust their resources;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Provide counseling services to individuals planning for their long-term care needs; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Alleviate the financial burden on the state’s medical assistance program by encouraging the pursuit of private initiatives.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1303__subsec_d__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>In the case of an individual who has received or is entitled to receive benefits under a long-term care partnership program policy, certain resources of that individual, as described in subsection</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1303__subsec_d__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>of this section, shall not be considered by the department as a determination of any of the following:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Eligibility for medicaid;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Amount of any medicaid payment; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any subsequent recovery by the state of a payment for medical services.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1303__subsec_c__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The department shall promulgate necessary rules and amendments to the state plan to allow for asset disregard. To provide asset disregard, for purchasers of a long-term care partnership program policy, the department shall count insurance benefits paid under the policy toward asset disregard to the extent the payments are for covered services under the long-term care partnership program policy. History: [(56-1303) 56-1203, added 2004, ch. 261, sec. 1, p. 737; am. and redesig. 2005, ch. 25, sec. 115, p. 129; am. 2007, ch. 253, sec. 2, p. 756.]
+56-1303. Long-term care partnership program.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1303__subsec_c__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>Upon the repeal of restrictions to asset protection contained in the omnibus budget reconciliation act of 1993 (public law 103-66, 107 Stat. 312), there shall be established the Idaho long-term care partnership program, to be administered by the department with the assistance of the department of insurance to do the following:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Provide incentives for individuals to insure against the costs of providing for their long-term care needs;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Provide a mechanism for individuals to qualify for coverage of the cost of their long-term care needs under medicaid without first being required to substantially exhaust their resources;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Provide counseling services to individuals planning for their long-term care needs; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Alleviate the financial burden on the state’s medical assistance program by encouraging the pursuit of private initiatives.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1303__subsec_d__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>In the case of an individual who has received or is entitled to receive benefits under a long-term care partnership program policy, certain resources of that individual, as described in subsection</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1303__subsec_d__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>of this section, shall not be considered by the department as a determination of any of the following:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Eligibility for medicaid;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Amount of any medicaid payment; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1303__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any subsequent recovery by the state of a payment for medical services.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1303__subsec_c__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The department shall promulgate necessary rules and amendments to the state plan to allow for asset disregard. To provide asset disregard, for purchasers of a long-term care partnership program policy, the department shall count insurance benefits paid under the policy toward asset disregard to the extent the payments are for covered services under the long-term care partnership program policy.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1304">
+          <akn:num>56-1304</akn:num>
+          <akn:heading>Specific eligibility</akn:heading>
+          <akn:subsection eId="56_1304__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An individual who is a beneficiary of a long-term care partnership program policy is eligible for assistance under medicaid using the asset disregard under section 56-1303</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1304__subsec_1__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>, Idaho Code.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1304__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>If the program is discontinued, an individual who purchased a long-term care partnership policy prior to the date the program is discontinued shall be eligible to receive asset disregard.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1304__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The department may enter into reciprocal agreements with other states to extend the asset disregard to residents of the state who purchased long-term care policies in another state which has a substantially similar asset disregard program to the program under section 56-1303 , Idaho Code. History: [(56-1304) 56-1204, added 2004, ch. 261, sec. 1, p. 738; am. and redesig. 2005, ch. 25, sec. 116, p. 130.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1304. Specific eligibility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1304__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An individual who is a beneficiary of a long-term care partnership program policy is eligible for assistance under medicaid using the asset disregard under section 56-1303</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1304__subsec_1__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>, Idaho Code.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1304__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>If the program is discontinued, an individual who purchased a long-term care partnership policy prior to the date the program is discontinued shall be eligible to receive asset disregard.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1304__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The department may enter into reciprocal agreements with other states to extend the asset disregard to residents of the state who purchased long-term care policies in another state which has a substantially similar asset disregard program to the program under section 56-1303 , Idaho Code. History: [(56-1304) 56-1204, added 2004, ch. 261, sec. 1, p. 738; am. and redesig. 2005, ch. 25, sec. 116, p. 130.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1304. Specific eligibility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1304__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An individual who is a beneficiary of a long-term care partnership program policy is eligible for assistance under medicaid using the asset disregard under section 56-1303</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1304__subsec_1__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>, Idaho Code.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1304__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>If the program is discontinued, an individual who purchased a long-term care partnership policy prior to the date the program is discontinued shall be eligible to receive asset disregard.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1304__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The department may enter into reciprocal agreements with other states to extend the asset disregard to residents of the state who purchased long-term care policies in another state which has a substantially similar asset disregard program to the program under section 56-1303 , Idaho Code. History: [(56-1304) 56-1204, added 2004, ch. 261, sec. 1, p. 738; am. and redesig. 2005, ch. 25, sec. 116, p. 130.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1304. Specific eligibility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1304__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An individual who is a beneficiary of a long-term care partnership program policy is eligible for assistance under medicaid using the asset disregard under section 56-1303</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1304__subsec_1__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>, Idaho Code.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1304__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>If the program is discontinued, an individual who purchased a long-term care partnership policy prior to the date the program is discontinued shall be eligible to receive asset disregard.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1304__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The department may enter into reciprocal agreements with other states to extend the asset disregard to residents of the state who purchased long-term care policies in another state which has a substantially similar asset disregard program to the program under section 56-1303 , Idaho Code. History: [(56-1304) 56-1204, added 2004, ch. 261, sec. 1, p. 738; am. and redesig. 2005, ch. 25, sec. 116, p. 130.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1304. Specific eligibility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1304__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An individual who is a beneficiary of a long-term care partnership program policy is eligible for assistance under medicaid using the asset disregard under section 56-1303</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1304__subsec_1__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>, Idaho Code.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1304__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>If the program is discontinued, an individual who purchased a long-term care partnership policy prior to the date the program is discontinued shall be eligible to receive asset disregard.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1304__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The department may enter into reciprocal agreements with other states to extend the asset disregard to residents of the state who purchased long-term care policies in another state which has a substantially similar asset disregard program to the program under section 56-1303 , Idaho Code. History: [(56-1304) 56-1204, added 2004, ch. 261, sec. 1, p. 738; am. and redesig. 2005, ch. 25, sec. 116, p. 130.]
+56-1304. Specific eligibility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1304__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An individual who is a beneficiary of a long-term care partnership program policy is eligible for assistance under medicaid using the asset disregard under section 56-1303</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1304__subsec_1__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>, Idaho Code.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1304__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>If the program is discontinued, an individual who purchased a long-term care partnership policy prior to the date the program is discontinued shall be eligible to receive asset disregard.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1304__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The department may enter into reciprocal agreements with other states to extend the asset disregard to residents of the state who purchased long-term care policies in another state which has a substantially similar asset disregard program to the program under section 56-1303 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1305">
+          <akn:num>56-1305</akn:num>
+          <akn:heading>Administration</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1305. Administration. The department and the department of insurance are authorized to adopt rules to implement the provisions of this chapter and for its administration. History: [(56-1305) 56-1205, added 2004, ch. 261, sec. 1, p. 738; am. and redesig. 2005, ch. 25, sec. 117, p. 130.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1305. Administration. The department and the department of insurance are authorized to adopt rules to implement the provisions of this chapter and for its administration. History: [(56-1305) 56-1205, added 2004, ch. 261, sec. 1, p. 738; am. and redesig. 2005, ch. 25, sec. 117, p. 130.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1305. Administration. The department and the department of insurance are authorized to adopt rules to implement the provisions of this chapter and for its administration. History: [(56-1305) 56-1205, added 2004, ch. 261, sec. 1, p. 738; am. and redesig. 2005, ch. 25, sec. 117, p. 130.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1305. Administration. The department and the department of insurance are authorized to adopt rules to implement the provisions of this chapter and for its administration. History: [(56-1305) 56-1205, added 2004, ch. 261, sec. 1, p. 738; am. and redesig. 2005, ch. 25, sec. 117, p. 130.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1305. Administration. The department and the department of insurance are authorized to adopt rules to implement the provisions of this chapter and for its administration. History: [(56-1305) 56-1205, added 2004, ch. 261, sec. 1, p. 738; am. and redesig. 2005, ch. 25, sec. 117, p. 130.]
+56-1305. Administration. The department and the department of insurance are authorized to adopt rules to implement the provisions of this chapter and for its administration.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_1306">
+          <akn:num>56-1306</akn:num>
+          <akn:heading>Notice requirement</akn:heading>
+          <akn:subsection eId="56_1306__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An insurer issuing or marketing policies that qualify as partnership policies shall explain the benefits associated with a partnership policy by providing an asset disregard notice indicating that at the time of issue the coverage is an approved long-term care partnership policy. This asset disregard notice shall be provided to the policyholder or certificate holder no later than the time of policy or certificate delivery. This asset disregard notice shall also provide disclosure that the partnership status may be lost if the insured moves to a different state or modifies the coverage after issue, or if changes in federal or state laws occur.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1306__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The notice to the consumer under subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1306__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section shall be developed by the director of the department of insurance. History: [(56-1306) 56-1206, added 2004, ch. 261, sec. 1, p. 738; am. and redesig. 2005, ch. 25, sec. 118, p. 130; am. 2007, ch. 253, sec. 3, p. 757.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1306. Notice requirement.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1306__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An insurer issuing or marketing policies that qualify as partnership policies shall explain the benefits associated with a partnership policy by providing an asset disregard notice indicating that at the time of issue the coverage is an approved long-term care partnership policy. This asset disregard notice shall be provided to the policyholder or certificate holder no later than the time of policy or certificate delivery. This asset disregard notice shall also provide disclosure that the partnership status may be lost if the insured moves to a different state or modifies the coverage after issue, or if changes in federal or state laws occur.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1306__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The notice to the consumer under subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1306__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section shall be developed by the director of the department of insurance. History: [(56-1306) 56-1206, added 2004, ch. 261, sec. 1, p. 738; am. and redesig. 2005, ch. 25, sec. 118, p. 130; am. 2007, ch. 253, sec. 3, p. 757.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1306. Notice requirement.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1306__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An insurer issuing or marketing policies that qualify as partnership policies shall explain the benefits associated with a partnership policy by providing an asset disregard notice indicating that at the time of issue the coverage is an approved long-term care partnership policy. This asset disregard notice shall be provided to the policyholder or certificate holder no later than the time of policy or certificate delivery. This asset disregard notice shall also provide disclosure that the partnership status may be lost if the insured moves to a different state or modifies the coverage after issue, or if changes in federal or state laws occur.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1306__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The notice to the consumer under subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1306__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section shall be developed by the director of the department of insurance. History: [(56-1306) 56-1206, added 2004, ch. 261, sec. 1, p. 738; am. and redesig. 2005, ch. 25, sec. 118, p. 130; am. 2007, ch. 253, sec. 3, p. 757.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1306. Notice requirement.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1306__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An insurer issuing or marketing policies that qualify as partnership policies shall explain the benefits associated with a partnership policy by providing an asset disregard notice indicating that at the time of issue the coverage is an approved long-term care partnership policy. This asset disregard notice shall be provided to the policyholder or certificate holder no later than the time of policy or certificate delivery. This asset disregard notice shall also provide disclosure that the partnership status may be lost if the insured moves to a different state or modifies the coverage after issue, or if changes in federal or state laws occur.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1306__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The notice to the consumer under subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1306__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section shall be developed by the director of the department of insurance. History: [(56-1306) 56-1206, added 2004, ch. 261, sec. 1, p. 738; am. and redesig. 2005, ch. 25, sec. 118, p. 130; am. 2007, ch. 253, sec. 3, p. 757.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 13 LONG-TERM CARE PARTNERSHIP PROGRAM 56-1306. Notice requirement.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1306__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An insurer issuing or marketing policies that qualify as partnership policies shall explain the benefits associated with a partnership policy by providing an asset disregard notice indicating that at the time of issue the coverage is an approved long-term care partnership policy. This asset disregard notice shall be provided to the policyholder or certificate holder no later than the time of policy or certificate delivery. This asset disregard notice shall also provide disclosure that the partnership status may be lost if the insured moves to a different state or modifies the coverage after issue, or if changes in federal or state laws occur.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1306__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The notice to the consumer under subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1306__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section shall be developed by the director of the department of insurance. History: [(56-1306) 56-1206, added 2004, ch. 261, sec. 1, p. 738; am. and redesig. 2005, ch. 25, sec. 118, p. 130; am. 2007, ch. 253, sec. 3, p. 757.]
+56-1306. Notice requirement.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1306__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An insurer issuing or marketing policies that qualify as partnership policies shall explain the benefits associated with a partnership policy by providing an asset disregard notice indicating that at the time of issue the coverage is an approved long-term care partnership policy. This asset disregard notice shall be provided to the policyholder or certificate holder no later than the time of policy or certificate delivery. This asset disregard notice shall also provide disclosure that the partnership status may be lost if the insured moves to a different state or modifies the coverage after issue, or if changes in federal or state laws occur.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1306__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The notice to the consumer under subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1306__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section shall be developed by the director of the department of insurance.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

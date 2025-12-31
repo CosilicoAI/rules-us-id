@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-23" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-23" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="56-23" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-23/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-23/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-23/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-23/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_56_23">
+        <akn:num>Chapter 23</akn:num>
+        <akn:heading>Chapter 23</akn:heading>
+        <akn:section eId="sec_56_2301">
+          <akn:num>56-2301</akn:num>
+          <akn:heading>short title</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 23 QUALITY ASSURANCE FOR CLINICAL LABORATORIES 56-2301. short title. This chapter shall be known and may be cited as the "Quality Assurance for Clinical Laboratories." History: [56-2301, added 2025, ch. 84, sec. 14, p. 398.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 23 QUALITY ASSURANCE FOR CLINICAL LABORATORIES 56-2301. short title. This chapter shall be known and may be cited as the "Quality Assurance for Clinical Laboratories." History: [56-2301, added 2025, ch. 84, sec. 14, p. 398.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 23 QUALITY ASSURANCE FOR CLINICAL LABORATORIES 56-2301. short title. This chapter shall be known and may be cited as the "Quality Assurance for Clinical Laboratories." History: [56-2301, added 2025, ch. 84, sec. 14, p. 398.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 23 QUALITY ASSURANCE FOR CLINICAL LABORATORIES 56-2301. short title. This chapter shall be known and may be cited as the "Quality Assurance for Clinical Laboratories." History: [56-2301, added 2025, ch. 84, sec. 14, p. 398.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 23 QUALITY ASSURANCE FOR CLINICAL LABORATORIES 56-2301. short title. This chapter shall be known and may be cited as the "Quality Assurance for Clinical Laboratories." History: [56-2301, added 2025, ch. 84, sec. 14, p. 398.]
+56-2301. short title. This chapter shall be known and may be cited as the "Quality Assurance for Clinical Laboratories."</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_2302">
+          <akn:num>56-2302</akn:num>
+          <akn:heading>registration requirements</akn:heading>
+          <akn:subsection eId="56_2302__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A clinical laboratory shall register with the department of health and welfare on a department form prior to accepting specimens for testing.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Registered clinical laboratories shall submit a completed registration form every two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>years and indicate any changes in laboratory operations.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>To be registered, a clinical laboratory shall submit evidence of certification from one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of the following: (a)  The centers for medicare and medicaid services (CMS) clinical laboratory improvement amendments certification program; (b)  An agency approved by CMS as an accreditation program; or (c)  Other certification programs approved by the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The following laboratories and facilities are excluded from compliance with this chapter: (a)  Teaching, research, forensic, and pre-employment drug screening laboratories, if test results are not used for diagnosis or treatment; (b)  Prosthetic dental laboratories; and (c)  Facilities performing skin testing solely for the detection of allergies and sensitivities. History: [56-2302, added 2025, ch. 84, sec. 14, p. 398.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 23 QUALITY ASSURANCE FOR CLINICAL LABORATORIES 56-2302. registration requirements.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A clinical laboratory shall register with the department of health and welfare on a department form prior to accepting specimens for testing.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Registered clinical laboratories shall submit a completed registration form every two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>years and indicate any changes in laboratory operations.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>To be registered, a clinical laboratory shall submit evidence of certification from one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of the following: (a)  The centers for medicare and medicaid services (CMS) clinical laboratory improvement amendments certification program; (b)  An agency approved by CMS as an accreditation program; or (c)  Other certification programs approved by the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The following laboratories and facilities are excluded from compliance with this chapter: (a)  Teaching, research, forensic, and pre-employment drug screening laboratories, if test results are not used for diagnosis or treatment; (b)  Prosthetic dental laboratories; and (c)  Facilities performing skin testing solely for the detection of allergies and sensitivities. History: [56-2302, added 2025, ch. 84, sec. 14, p. 398.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 23 QUALITY ASSURANCE FOR CLINICAL LABORATORIES 56-2302. registration requirements.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A clinical laboratory shall register with the department of health and welfare on a department form prior to accepting specimens for testing.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Registered clinical laboratories shall submit a completed registration form every two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>years and indicate any changes in laboratory operations.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>To be registered, a clinical laboratory shall submit evidence of certification from one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of the following: (a)  The centers for medicare and medicaid services (CMS) clinical laboratory improvement amendments certification program; (b)  An agency approved by CMS as an accreditation program; or (c)  Other certification programs approved by the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The following laboratories and facilities are excluded from compliance with this chapter: (a)  Teaching, research, forensic, and pre-employment drug screening laboratories, if test results are not used for diagnosis or treatment; (b)  Prosthetic dental laboratories; and (c)  Facilities performing skin testing solely for the detection of allergies and sensitivities. History: [56-2302, added 2025, ch. 84, sec. 14, p. 398.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 23 QUALITY ASSURANCE FOR CLINICAL LABORATORIES 56-2302. registration requirements.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A clinical laboratory shall register with the department of health and welfare on a department form prior to accepting specimens for testing.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Registered clinical laboratories shall submit a completed registration form every two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>years and indicate any changes in laboratory operations.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>To be registered, a clinical laboratory shall submit evidence of certification from one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of the following: (a)  The centers for medicare and medicaid services (CMS) clinical laboratory improvement amendments certification program; (b)  An agency approved by CMS as an accreditation program; or (c)  Other certification programs approved by the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The following laboratories and facilities are excluded from compliance with this chapter: (a)  Teaching, research, forensic, and pre-employment drug screening laboratories, if test results are not used for diagnosis or treatment; (b)  Prosthetic dental laboratories; and (c)  Facilities performing skin testing solely for the detection of allergies and sensitivities. History: [56-2302, added 2025, ch. 84, sec. 14, p. 398.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 23 QUALITY ASSURANCE FOR CLINICAL LABORATORIES 56-2302. registration requirements.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A clinical laboratory shall register with the department of health and welfare on a department form prior to accepting specimens for testing.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Registered clinical laboratories shall submit a completed registration form every two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>years and indicate any changes in laboratory operations.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>To be registered, a clinical laboratory shall submit evidence of certification from one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of the following: (a)  The centers for medicare and medicaid services (CMS) clinical laboratory improvement amendments certification program; (b)  An agency approved by CMS as an accreditation program; or (c)  Other certification programs approved by the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The following laboratories and facilities are excluded from compliance with this chapter: (a)  Teaching, research, forensic, and pre-employment drug screening laboratories, if test results are not used for diagnosis or treatment; (b)  Prosthetic dental laboratories; and (c)  Facilities performing skin testing solely for the detection of allergies and sensitivities. History: [56-2302, added 2025, ch. 84, sec. 14, p. 398.]
+56-2302. registration requirements.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A clinical laboratory shall register with the department of health and welfare on a department form prior to accepting specimens for testing.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Registered clinical laboratories shall submit a completed registration form every two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>years and indicate any changes in laboratory operations.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>To be registered, a clinical laboratory shall submit evidence of certification from one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of the following:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2302__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The following laboratories and facilities are excluded from compliance with this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_2303">
+          <akn:num>56-2303</akn:num>
+          <akn:heading>department inspections</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 23 QUALITY ASSURANCE FOR CLINICAL LABORATORIES 56-2303. department inspections. Qualified representatives of the department of health and welfare are authorized to inspect any registered clinical laboratory to determine the adequacy of the supervision, staffing, and quality assurance program. History: [56-2303, added 2025, ch. 84, sec. 14, p. 399.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 23 QUALITY ASSURANCE FOR CLINICAL LABORATORIES 56-2303. department inspections. Qualified representatives of the department of health and welfare are authorized to inspect any registered clinical laboratory to determine the adequacy of the supervision, staffing, and quality assurance program. History: [56-2303, added 2025, ch. 84, sec. 14, p. 399.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 23 QUALITY ASSURANCE FOR CLINICAL LABORATORIES 56-2303. department inspections. Qualified representatives of the department of health and welfare are authorized to inspect any registered clinical laboratory to determine the adequacy of the supervision, staffing, and quality assurance program. History: [56-2303, added 2025, ch. 84, sec. 14, p. 399.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 23 QUALITY ASSURANCE FOR CLINICAL LABORATORIES 56-2303. department inspections. Qualified representatives of the department of health and welfare are authorized to inspect any registered clinical laboratory to determine the adequacy of the supervision, staffing, and quality assurance program. History: [56-2303, added 2025, ch. 84, sec. 14, p. 399.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 23 QUALITY ASSURANCE FOR CLINICAL LABORATORIES 56-2303. department inspections. Qualified representatives of the department of health and welfare are authorized to inspect any registered clinical laboratory to determine the adequacy of the supervision, staffing, and quality assurance program. History: [56-2303, added 2025, ch. 84, sec. 14, p. 399.]
+56-2303. department inspections. Qualified representatives of the department of health and welfare are authorized to inspect any registered clinical laboratory to determine the adequacy of the supervision, staffing, and quality assurance program.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_2304">
+          <akn:num>56-2304</akn:num>
+          <akn:heading>general requirements</akn:heading>
+          <akn:subsection eId="56_2304__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A clinical laboratory shall have adequate space, equipment, and supplies to perform the services offered by the laboratory with accuracy, precision, and safety.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Practitioners legally authorized to diagnose, treat, and prescribe are authorized to order both waived and nonwaived tests and receive results. Laboratory directors are authorized to order the waived tests listed on an approved registration form and receive results.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Clinical laboratories shall satisfactorily participate in proficiency testing programs approved by the department of health and welfare and ensure all proficiency testing results are available to the department.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Clinical laboratories shall: (a)  Identify the person responsible for performing a procedure; (b)  Maintain testing records for at least two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>years and ensure that test reports are readily accessible upon request; and (c)  Identify specimens referred to other certified laboratories and identify the reference laboratory by name and address. History: [56-2304, added 2025, ch. 84, sec. 14, p. 399.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 23 QUALITY ASSURANCE FOR CLINICAL LABORATORIES 56-2304. general requirements.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A clinical laboratory shall have adequate space, equipment, and supplies to perform the services offered by the laboratory with accuracy, precision, and safety.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Practitioners legally authorized to diagnose, treat, and prescribe are authorized to order both waived and nonwaived tests and receive results. Laboratory directors are authorized to order the waived tests listed on an approved registration form and receive results.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Clinical laboratories shall satisfactorily participate in proficiency testing programs approved by the department of health and welfare and ensure all proficiency testing results are available to the department.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Clinical laboratories shall: (a)  Identify the person responsible for performing a procedure; (b)  Maintain testing records for at least two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>years and ensure that test reports are readily accessible upon request; and (c)  Identify specimens referred to other certified laboratories and identify the reference laboratory by name and address. History: [56-2304, added 2025, ch. 84, sec. 14, p. 399.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 23 QUALITY ASSURANCE FOR CLINICAL LABORATORIES 56-2304. general requirements.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A clinical laboratory shall have adequate space, equipment, and supplies to perform the services offered by the laboratory with accuracy, precision, and safety.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Practitioners legally authorized to diagnose, treat, and prescribe are authorized to order both waived and nonwaived tests and receive results. Laboratory directors are authorized to order the waived tests listed on an approved registration form and receive results.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Clinical laboratories shall satisfactorily participate in proficiency testing programs approved by the department of health and welfare and ensure all proficiency testing results are available to the department.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Clinical laboratories shall: (a)  Identify the person responsible for performing a procedure; (b)  Maintain testing records for at least two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>years and ensure that test reports are readily accessible upon request; and (c)  Identify specimens referred to other certified laboratories and identify the reference laboratory by name and address. History: [56-2304, added 2025, ch. 84, sec. 14, p. 399.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 23 QUALITY ASSURANCE FOR CLINICAL LABORATORIES 56-2304. general requirements.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A clinical laboratory shall have adequate space, equipment, and supplies to perform the services offered by the laboratory with accuracy, precision, and safety.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Practitioners legally authorized to diagnose, treat, and prescribe are authorized to order both waived and nonwaived tests and receive results. Laboratory directors are authorized to order the waived tests listed on an approved registration form and receive results.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Clinical laboratories shall satisfactorily participate in proficiency testing programs approved by the department of health and welfare and ensure all proficiency testing results are available to the department.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Clinical laboratories shall: (a)  Identify the person responsible for performing a procedure; (b)  Maintain testing records for at least two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>years and ensure that test reports are readily accessible upon request; and (c)  Identify specimens referred to other certified laboratories and identify the reference laboratory by name and address. History: [56-2304, added 2025, ch. 84, sec. 14, p. 399.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 23 QUALITY ASSURANCE FOR CLINICAL LABORATORIES 56-2304. general requirements.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A clinical laboratory shall have adequate space, equipment, and supplies to perform the services offered by the laboratory with accuracy, precision, and safety.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Practitioners legally authorized to diagnose, treat, and prescribe are authorized to order both waived and nonwaived tests and receive results. Laboratory directors are authorized to order the waived tests listed on an approved registration form and receive results.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Clinical laboratories shall satisfactorily participate in proficiency testing programs approved by the department of health and welfare and ensure all proficiency testing results are available to the department.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Clinical laboratories shall: (a)  Identify the person responsible for performing a procedure; (b)  Maintain testing records for at least two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>years and ensure that test reports are readily accessible upon request; and (c)  Identify specimens referred to other certified laboratories and identify the reference laboratory by name and address. History: [56-2304, added 2025, ch. 84, sec. 14, p. 399.]
+56-2304. general requirements.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A clinical laboratory shall have adequate space, equipment, and supplies to perform the services offered by the laboratory with accuracy, precision, and safety.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Practitioners legally authorized to diagnose, treat, and prescribe are authorized to order both waived and nonwaived tests and receive results. Laboratory directors are authorized to order the waived tests listed on an approved registration form and receive results.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Clinical laboratories shall satisfactorily participate in proficiency testing programs approved by the department of health and welfare and ensure all proficiency testing results are available to the department.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Clinical laboratories shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2304__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>years and ensure that test reports are readily accessible upon request; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

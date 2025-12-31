@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-5" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-5" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="56-5" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-5/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-5/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-5/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-5/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_56_5">
+        <akn:num>Chapter 5</akn:num>
+        <akn:heading>TANF</akn:heading>
+        <akn:section eId="sec_56_501">
+          <akn:num>56-501</akn:num>
+          <akn:heading>short title</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 5 REFUGEE MEDICAL ASSISTANCE ACT 56-501. short title. This chapter shall be known and may be cited as the "Refugee Medical Assistance Act." History: [56-501, added 2025, ch. 166, sec. 1, p. 798.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 5 REFUGEE MEDICAL ASSISTANCE ACT 56-501. short title. This chapter shall be known and may be cited as the "Refugee Medical Assistance Act." History: [56-501, added 2025, ch. 166, sec. 1, p. 798.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 5 REFUGEE MEDICAL ASSISTANCE ACT 56-501. short title. This chapter shall be known and may be cited as the "Refugee Medical Assistance Act." History: [56-501, added 2025, ch. 166, sec. 1, p. 798.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 5 REFUGEE MEDICAL ASSISTANCE ACT 56-501. short title. This chapter shall be known and may be cited as the "Refugee Medical Assistance Act." History: [56-501, added 2025, ch. 166, sec. 1, p. 798.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 5 REFUGEE MEDICAL ASSISTANCE ACT 56-501. short title. This chapter shall be known and may be cited as the "Refugee Medical Assistance Act." History: [56-501, added 2025, ch. 166, sec. 1, p. 798.]
+56-501. short title. This chapter shall be known and may be cited as the "Refugee Medical Assistance Act."</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_502">
+          <akn:num>56-502</akn:num>
+          <akn:heading>definitions</akn:heading>
+          <akn:subsection eId="56_502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Federal poverty guidelines" or "FPG" means federal poverty guidelines issued annually by the department of health and human services.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"I-94" means an alien identification card issued to refugees prior to their release to a sponsor.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Refugee medical assistance program" means services funded by 42 U.S.C. 1396 and 1397 as contingent upon federal funding and state spending authority. History: [56-502, added 2025, ch. 166, sec. 1, p. 798.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 5 REFUGEE MEDICAL ASSISTANCE ACT 56-502. definitions. As used in this chapter, unless the context otherwise requires:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Federal poverty guidelines" or "FPG" means federal poverty guidelines issued annually by the department of health and human services.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"I-94" means an alien identification card issued to refugees prior to their release to a sponsor.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Refugee medical assistance program" means services funded by 42 U.S.C. 1396 and 1397 as contingent upon federal funding and state spending authority. History: [56-502, added 2025, ch. 166, sec. 1, p. 798.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 5 REFUGEE MEDICAL ASSISTANCE ACT 56-502. definitions. As used in this chapter, unless the context otherwise requires:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Federal poverty guidelines" or "FPG" means federal poverty guidelines issued annually by the department of health and human services.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"I-94" means an alien identification card issued to refugees prior to their release to a sponsor.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Refugee medical assistance program" means services funded by 42 U.S.C. 1396 and 1397 as contingent upon federal funding and state spending authority. History: [56-502, added 2025, ch. 166, sec. 1, p. 798.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 5 REFUGEE MEDICAL ASSISTANCE ACT 56-502. definitions. As used in this chapter, unless the context otherwise requires:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Federal poverty guidelines" or "FPG" means federal poverty guidelines issued annually by the department of health and human services.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"I-94" means an alien identification card issued to refugees prior to their release to a sponsor.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Refugee medical assistance program" means services funded by 42 U.S.C. 1396 and 1397 as contingent upon federal funding and state spending authority. History: [56-502, added 2025, ch. 166, sec. 1, p. 798.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 5 REFUGEE MEDICAL ASSISTANCE ACT 56-502. definitions. As used in this chapter, unless the context otherwise requires:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Federal poverty guidelines" or "FPG" means federal poverty guidelines issued annually by the department of health and human services.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"I-94" means an alien identification card issued to refugees prior to their release to a sponsor.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Refugee medical assistance program" means services funded by 42 U.S.C. 1396 and 1397 as contingent upon federal funding and state spending authority. History: [56-502, added 2025, ch. 166, sec. 1, p. 798.]
+56-502. definitions. As used in this chapter, unless the context otherwise requires:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Federal poverty guidelines" or "FPG" means federal poverty guidelines issued annually by the department of health and human services.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"I-94" means an alien identification card issued to refugees prior to their release to a sponsor.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_502__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Refugee medical assistance program" means services funded by 42 U.S.C. 1396 and 1397 as contingent upon federal funding and state spending authority.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_503">
+          <akn:num>56-503</akn:num>
+          <akn:heading>eligibility</akn:heading>
+          <akn:subsection eId="56_503__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Has an I-94 indicating that such person has been:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Paroled under 8 U.S.C. 1182; (ii)  Admitted as a conditional entrant under 8 U.S.C. 1153; (iii) Admitted as a refugee under 8 U.S.C. 1157; or (iv)  Granted asylum under 8 U.S.C. 1158;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Is an Afghan special immigrant, pursuant to P.L. 110-161, who has special immigration status after December 26, 2007; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Is an Iraqi special immigrant, pursuant to P.L. 110-181, who has special immigration status after January 28, 2008.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_503__subsec_c__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>A person whose status is Cuban/Haitian entrant shall be determined pursuant to 45 CFR 401.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_503__subsec_c__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>An Amerasian or close family member admitted as an immigrant but eligible for refugee medical assistance as though such person was admitted as a refugee must have either of the following documents verifying such person’s status:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>An I-94 coded AM1, AM2, or AM3, stamped "processed for I-551. Temporary evidence of lawful admission for permanent residence. Valid until (expiration date). Employment authorized." and containing the stamped word "admitted" on the back; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>A permanent identification document, form I-551, coded AM6, AM7, or AM8. History: [56-503, added 2025, ch. 166, sec. 1, p. 798.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 5 REFUGEE MEDICAL ASSISTANCE ACT 56-503. eligibility.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_503__subsec_b__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>A person has refugee status for purposes of assistance under the refugee medical assistance program if such person:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Has an I-94 indicating that such person has been:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Paroled under 8 U.S.C. 1182; (ii)  Admitted as a conditional entrant under 8 U.S.C. 1153; (iii) Admitted as a refugee under 8 U.S.C. 1157; or (iv)  Granted asylum under 8 U.S.C. 1158;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Is an Afghan special immigrant, pursuant to P.L. 110-161, who has special immigration status after December 26, 2007; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Is an Iraqi special immigrant, pursuant to P.L. 110-181, who has special immigration status after January 28, 2008.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_503__subsec_c__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>A person whose status is Cuban/Haitian entrant shall be determined pursuant to 45 CFR 401.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_503__subsec_c__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>An Amerasian or close family member admitted as an immigrant but eligible for refugee medical assistance as though such person was admitted as a refugee must have either of the following documents verifying such person’s status:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>An I-94 coded AM1, AM2, or AM3, stamped "processed for I-551. Temporary evidence of lawful admission for permanent residence. Valid until (expiration date). Employment authorized." and containing the stamped word "admitted" on the back; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>A permanent identification document, form I-551, coded AM6, AM7, or AM8. History: [56-503, added 2025, ch. 166, sec. 1, p. 798.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 5 REFUGEE MEDICAL ASSISTANCE ACT 56-503. eligibility.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_503__subsec_b__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>A person has refugee status for purposes of assistance under the refugee medical assistance program if such person:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Has an I-94 indicating that such person has been:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Paroled under 8 U.S.C. 1182; (ii)  Admitted as a conditional entrant under 8 U.S.C. 1153; (iii) Admitted as a refugee under 8 U.S.C. 1157; or (iv)  Granted asylum under 8 U.S.C. 1158;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Is an Afghan special immigrant, pursuant to P.L. 110-161, who has special immigration status after December 26, 2007; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Is an Iraqi special immigrant, pursuant to P.L. 110-181, who has special immigration status after January 28, 2008.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_503__subsec_c__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>A person whose status is Cuban/Haitian entrant shall be determined pursuant to 45 CFR 401.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_503__subsec_c__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>An Amerasian or close family member admitted as an immigrant but eligible for refugee medical assistance as though such person was admitted as a refugee must have either of the following documents verifying such person’s status:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>An I-94 coded AM1, AM2, or AM3, stamped "processed for I-551. Temporary evidence of lawful admission for permanent residence. Valid until (expiration date). Employment authorized." and containing the stamped word "admitted" on the back; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>A permanent identification document, form I-551, coded AM6, AM7, or AM8. History: [56-503, added 2025, ch. 166, sec. 1, p. 798.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 5 REFUGEE MEDICAL ASSISTANCE ACT 56-503. eligibility.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_503__subsec_b__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>A person has refugee status for purposes of assistance under the refugee medical assistance program if such person:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Has an I-94 indicating that such person has been:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Paroled under 8 U.S.C. 1182; (ii)  Admitted as a conditional entrant under 8 U.S.C. 1153; (iii) Admitted as a refugee under 8 U.S.C. 1157; or (iv)  Granted asylum under 8 U.S.C. 1158;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Is an Afghan special immigrant, pursuant to P.L. 110-161, who has special immigration status after December 26, 2007; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Is an Iraqi special immigrant, pursuant to P.L. 110-181, who has special immigration status after January 28, 2008.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_503__subsec_c__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>A person whose status is Cuban/Haitian entrant shall be determined pursuant to 45 CFR 401.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_503__subsec_c__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>An Amerasian or close family member admitted as an immigrant but eligible for refugee medical assistance as though such person was admitted as a refugee must have either of the following documents verifying such person’s status:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>An I-94 coded AM1, AM2, or AM3, stamped "processed for I-551. Temporary evidence of lawful admission for permanent residence. Valid until (expiration date). Employment authorized." and containing the stamped word "admitted" on the back; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>A permanent identification document, form I-551, coded AM6, AM7, or AM8. History: [56-503, added 2025, ch. 166, sec. 1, p. 798.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 5 REFUGEE MEDICAL ASSISTANCE ACT 56-503. eligibility.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_503__subsec_b__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>A person has refugee status for purposes of assistance under the refugee medical assistance program if such person:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Has an I-94 indicating that such person has been:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Paroled under 8 U.S.C. 1182; (ii)  Admitted as a conditional entrant under 8 U.S.C. 1153; (iii) Admitted as a refugee under 8 U.S.C. 1157; or (iv)  Granted asylum under 8 U.S.C. 1158;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Is an Afghan special immigrant, pursuant to P.L. 110-161, who has special immigration status after December 26, 2007; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Is an Iraqi special immigrant, pursuant to P.L. 110-181, who has special immigration status after January 28, 2008.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_503__subsec_c__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>A person whose status is Cuban/Haitian entrant shall be determined pursuant to 45 CFR 401.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_503__subsec_c__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>An Amerasian or close family member admitted as an immigrant but eligible for refugee medical assistance as though such person was admitted as a refugee must have either of the following documents verifying such person’s status:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>An I-94 coded AM1, AM2, or AM3, stamped "processed for I-551. Temporary evidence of lawful admission for permanent residence. Valid until (expiration date). Employment authorized." and containing the stamped word "admitted" on the back; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>A permanent identification document, form I-551, coded AM6, AM7, or AM8. History: [56-503, added 2025, ch. 166, sec. 1, p. 798.]
+56-503. eligibility.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_503__subsec_b__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>A person has refugee status for purposes of assistance under the refugee medical assistance program if such person:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Has an I-94 indicating that such person has been:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Paroled under 8 U.S.C. 1182;
+(ii)  Admitted as a conditional entrant under 8 U.S.C. 1153;
+(iii) Admitted as a refugee under 8 U.S.C. 1157; or
+(iv)  Granted asylum under 8 U.S.C. 1158;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Is an Afghan special immigrant, pursuant to P.L. 110-161, who has special immigration status after December 26, 2007; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Is an Iraqi special immigrant, pursuant to P.L. 110-181, who has special immigration status after January 28, 2008.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_503__subsec_c__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>A person whose status is Cuban/Haitian entrant shall be determined pursuant to 45 CFR 401.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_503__subsec_c__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>An Amerasian or close family member admitted as an immigrant but eligible for refugee medical assistance as though such person was admitted as a refugee must have either of the following documents verifying such person’s status:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>An I-94 coded AM1, AM2, or AM3, stamped "processed for I-551. Temporary evidence of lawful admission for permanent residence. Valid until (expiration date). Employment authorized." and containing the stamped word "admitted" on the back; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_503__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>A permanent identification document, form I-551, coded AM6, AM7, or AM8.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_504">
+          <akn:num>56-504</akn:num>
+          <akn:heading>limitation on benefits</akn:heading>
+          <akn:subsection eId="56_504__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Medical assistance under the refugee medical assistance program is determined under 45 CFR 400.211.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_504__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>A person with refugee status whose countable income does not exceed one hundred thirty-three percent (133%) of the federal poverty guidelines is eligible for refugee medical assistance. A person with refugee status whose income exceeds such threshold may subtract his medical costs from his income and spend down to the FPG limit for his family size.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_504__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Income is counted or excluded in accordance with medicaid program rules except that the following are excluded from income when determining eligibility: (a)  Refugee cash assistance; and (b)  The income of sponsors and the in-kind services and shelter provided to refugees by their sponsors. History: [56-504, added 2025, ch. 166, sec. 1, p. 799.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 5 REFUGEE MEDICAL ASSISTANCE ACT 56-504. limitation on benefits.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_504__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Medical assistance under the refugee medical assistance program is determined under 45 CFR 400.211.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_504__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>A person with refugee status whose countable income does not exceed one hundred thirty-three percent (133%) of the federal poverty guidelines is eligible for refugee medical assistance. A person with refugee status whose income exceeds such threshold may subtract his medical costs from his income and spend down to the FPG limit for his family size.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_504__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Income is counted or excluded in accordance with medicaid program rules except that the following are excluded from income when determining eligibility: (a)  Refugee cash assistance; and (b)  The income of sponsors and the in-kind services and shelter provided to refugees by their sponsors. History: [56-504, added 2025, ch. 166, sec. 1, p. 799.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 5 REFUGEE MEDICAL ASSISTANCE ACT 56-504. limitation on benefits.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_504__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Medical assistance under the refugee medical assistance program is determined under 45 CFR 400.211.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_504__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>A person with refugee status whose countable income does not exceed one hundred thirty-three percent (133%) of the federal poverty guidelines is eligible for refugee medical assistance. A person with refugee status whose income exceeds such threshold may subtract his medical costs from his income and spend down to the FPG limit for his family size.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_504__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Income is counted or excluded in accordance with medicaid program rules except that the following are excluded from income when determining eligibility: (a)  Refugee cash assistance; and (b)  The income of sponsors and the in-kind services and shelter provided to refugees by their sponsors. History: [56-504, added 2025, ch. 166, sec. 1, p. 799.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 5 REFUGEE MEDICAL ASSISTANCE ACT 56-504. limitation on benefits.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_504__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Medical assistance under the refugee medical assistance program is determined under 45 CFR 400.211.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_504__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>A person with refugee status whose countable income does not exceed one hundred thirty-three percent (133%) of the federal poverty guidelines is eligible for refugee medical assistance. A person with refugee status whose income exceeds such threshold may subtract his medical costs from his income and spend down to the FPG limit for his family size.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_504__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Income is counted or excluded in accordance with medicaid program rules except that the following are excluded from income when determining eligibility: (a)  Refugee cash assistance; and (b)  The income of sponsors and the in-kind services and shelter provided to refugees by their sponsors. History: [56-504, added 2025, ch. 166, sec. 1, p. 799.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 5 REFUGEE MEDICAL ASSISTANCE ACT 56-504. limitation on benefits.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_504__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Medical assistance under the refugee medical assistance program is determined under 45 CFR 400.211.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_504__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>A person with refugee status whose countable income does not exceed one hundred thirty-three percent (133%) of the federal poverty guidelines is eligible for refugee medical assistance. A person with refugee status whose income exceeds such threshold may subtract his medical costs from his income and spend down to the FPG limit for his family size.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_504__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Income is counted or excluded in accordance with medicaid program rules except that the following are excluded from income when determining eligibility: (a)  Refugee cash assistance; and (b)  The income of sponsors and the in-kind services and shelter provided to refugees by their sponsors. History: [56-504, added 2025, ch. 166, sec. 1, p. 799.]
+56-504. limitation on benefits.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_504__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Medical assistance under the refugee medical assistance program is determined under 45 CFR 400.211.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_504__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>A person with refugee status whose countable income does not exceed one hundred thirty-three percent (133%) of the federal poverty guidelines is eligible for refugee medical assistance. A person with refugee status whose income exceeds such threshold may subtract his medical costs from his income and spend down to the FPG limit for his family size.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_504__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Income is counted or excluded in accordance with medicaid program rules except that the following are excluded from income when determining eligibility:</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

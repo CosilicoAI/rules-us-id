@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-17" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-17" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="56-17" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-17/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-17/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-17/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-17/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_56_17">
+        <akn:num>Chapter 17</akn:num>
+        <akn:heading>Crisis Standards of Care Act</akn:heading>
+        <akn:section eId="sec_56_1701">
+          <akn:num>56-1701</akn:num>
+          <akn:heading>SHORT TITLE</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1701. SHORT TITLE. This chapter shall be known and may be cited as the "Crisis Standards of Care Act." History: [56-1701, added 2022, ch. 253, sec. 1, p. 829.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1701. SHORT TITLE. This chapter shall be known and may be cited as the "Crisis Standards of Care Act." History: [56-1701, added 2022, ch. 253, sec. 1, p. 829.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1701. SHORT TITLE. This chapter shall be known and may be cited as the "Crisis Standards of Care Act." History: [56-1701, added 2022, ch. 253, sec. 1, p. 829.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1701. SHORT TITLE. This chapter shall be known and may be cited as the "Crisis Standards of Care Act." History: [56-1701, added 2022, ch. 253, sec. 1, p. 829.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1701. SHORT TITLE. This chapter shall be known and may be cited as the "Crisis Standards of Care Act." History: [56-1701, added 2022, ch. 253, sec. 1, p. 829.]
+56-1701. SHORT TITLE. This chapter shall be known and may be cited as the "Crisis Standards of Care Act."</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_1702">
+          <akn:num>56-1702</akn:num>
+          <akn:heading>legislative intent</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1702. legislative intent. The Idaho legislature recognizes the need for the department of health and welfare to prepare for various public health crises and natural disasters and carry out response activities when a public health crisis or natural disaster occurs. The legislature recognizes the legitimacy of preparing emergency plans and guidance to provide the most benefit possible when health care resources are limited as a result of a public health crisis or natural disaster. However, the department of health and welfare is charged with the responsibility of limiting the duration and scope of operating in crisis standards of care by using all measures that are available and within its authority. The department is further charged with the responsibility of developing long-term capacity strategies to reasonably prepare for future surges in health care demand. Such strategies shall recognize the pace of Idaho’s population growth. History: [56-1702, added 2022, ch. 253, sec. 1, p. 829.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1702. legislative intent. The Idaho legislature recognizes the need for the department of health and welfare to prepare for various public health crises and natural disasters and carry out response activities when a public health crisis or natural disaster occurs. The legislature recognizes the legitimacy of preparing emergency plans and guidance to provide the most benefit possible when health care resources are limited as a result of a public health crisis or natural disaster. However, the department of health and welfare is charged with the responsibility of limiting the duration and scope of operating in crisis standards of care by using all measures that are available and within its authority. The department is further charged with the responsibility of developing long-term capacity strategies to reasonably prepare for future surges in health care demand. Such strategies shall recognize the pace of Idaho’s population growth. History: [56-1702, added 2022, ch. 253, sec. 1, p. 829.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1702. legislative intent. The Idaho legislature recognizes the need for the department of health and welfare to prepare for various public health crises and natural disasters and carry out response activities when a public health crisis or natural disaster occurs. The legislature recognizes the legitimacy of preparing emergency plans and guidance to provide the most benefit possible when health care resources are limited as a result of a public health crisis or natural disaster. However, the department of health and welfare is charged with the responsibility of limiting the duration and scope of operating in crisis standards of care by using all measures that are available and within its authority. The department is further charged with the responsibility of developing long-term capacity strategies to reasonably prepare for future surges in health care demand. Such strategies shall recognize the pace of Idaho’s population growth. History: [56-1702, added 2022, ch. 253, sec. 1, p. 829.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1702. legislative intent. The Idaho legislature recognizes the need for the department of health and welfare to prepare for various public health crises and natural disasters and carry out response activities when a public health crisis or natural disaster occurs. The legislature recognizes the legitimacy of preparing emergency plans and guidance to provide the most benefit possible when health care resources are limited as a result of a public health crisis or natural disaster. However, the department of health and welfare is charged with the responsibility of limiting the duration and scope of operating in crisis standards of care by using all measures that are available and within its authority. The department is further charged with the responsibility of developing long-term capacity strategies to reasonably prepare for future surges in health care demand. Such strategies shall recognize the pace of Idaho’s population growth. History: [56-1702, added 2022, ch. 253, sec. 1, p. 829.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1702. legislative intent. The Idaho legislature recognizes the need for the department of health and welfare to prepare for various public health crises and natural disasters and carry out response activities when a public health crisis or natural disaster occurs. The legislature recognizes the legitimacy of preparing emergency plans and guidance to provide the most benefit possible when health care resources are limited as a result of a public health crisis or natural disaster. However, the department of health and welfare is charged with the responsibility of limiting the duration and scope of operating in crisis standards of care by using all measures that are available and within its authority. The department is further charged with the responsibility of developing long-term capacity strategies to reasonably prepare for future surges in health care demand. Such strategies shall recognize the pace of Idaho’s population growth. History: [56-1702, added 2022, ch. 253, sec. 1, p. 829.]
+56-1702. legislative intent. The Idaho legislature recognizes the need for the department of health and welfare to prepare for various public health crises and natural disasters and carry out response activities when a public health crisis or natural disaster occurs. The legislature recognizes the legitimacy of preparing emergency plans and guidance to provide the most benefit possible when health care resources are limited as a result of a public health crisis or natural disaster. However, the department of health and welfare is charged with the responsibility of limiting the duration and scope of operating in crisis standards of care by using all measures that are available and within its authority. The department is further charged with the responsibility of developing long-term capacity strategies to reasonably prepare for future surges in health care demand. Such strategies shall recognize the pace of Idaho’s population growth.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_1703">
+          <akn:num>56-1703</akn:num>
+          <akn:heading>definitions</akn:heading>
+          <akn:subsection eId="56_1703__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Activation" means a declaration by the director of the department of health and welfare that health care facilities may operate under crisis standards of care as necessary when scarce resource limitations preclude operating under usual standards of care.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Assistance" means aid in meeting daily living needs.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Crisis standards of care" means a substantial change in the usual health care operations and the level of care it is possible to deliver, justified by specific circumstances and formally declared by a state government in recognition that crisis operations will be in effect for a sustained period.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Declaration" means the issuance by the director of the department of health and welfare of a declaration or documentation that crisis standards of care have been activated in a particular region or statewide.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Director" means the director of the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Essential caregiver" means a person designated by a patient or resident to visit the patient or resident at a health care facility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Health care facility" or "facility" means a hospital, a nursing facility, or an intermediate care facility as defined in chapter 13, title 39 , Idaho Code, or a residential care or assisted living facility as defined in chapter 33, title 39 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_9">
+            <akn:num>(9)</akn:num>
+            <akn:content>
+              <akn:p>"Health care services" means services for the diagnosis, prevention, treatment, cure, or relief of a health condition, illness, injury, or disease.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>"Patient" means a person receiving health care services at a health care facility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_11">
+            <akn:num>(11)</akn:num>
+            <akn:content>
+              <akn:p>"Resident" means a person receiving assistance at a health care facility. History: [56-1703, added 2022, ch. 253, sec. 1, p. 829; am. 2025, ch. 122, sec. 40, p. 648.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1703. definitions. As used in this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Activation" means a declaration by the director of the department of health and welfare that health care facilities may operate under crisis standards of care as necessary when scarce resource limitations preclude operating under usual standards of care.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Assistance" means aid in meeting daily living needs.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Crisis standards of care" means a substantial change in the usual health care operations and the level of care it is possible to deliver, justified by specific circumstances and formally declared by a state government in recognition that crisis operations will be in effect for a sustained period.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Declaration" means the issuance by the director of the department of health and welfare of a declaration or documentation that crisis standards of care have been activated in a particular region or statewide.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Director" means the director of the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Essential caregiver" means a person designated by a patient or resident to visit the patient or resident at a health care facility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Health care facility" or "facility" means a hospital, a nursing facility, or an intermediate care facility as defined in chapter 13, title 39 , Idaho Code, or a residential care or assisted living facility as defined in chapter 33, title 39 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_9">
+            <akn:num>(9)</akn:num>
+            <akn:content>
+              <akn:p>"Health care services" means services for the diagnosis, prevention, treatment, cure, or relief of a health condition, illness, injury, or disease.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>"Patient" means a person receiving health care services at a health care facility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_11">
+            <akn:num>(11)</akn:num>
+            <akn:content>
+              <akn:p>"Resident" means a person receiving assistance at a health care facility. History: [56-1703, added 2022, ch. 253, sec. 1, p. 829; am. 2025, ch. 122, sec. 40, p. 648.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1703. definitions. As used in this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Activation" means a declaration by the director of the department of health and welfare that health care facilities may operate under crisis standards of care as necessary when scarce resource limitations preclude operating under usual standards of care.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Assistance" means aid in meeting daily living needs.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Crisis standards of care" means a substantial change in the usual health care operations and the level of care it is possible to deliver, justified by specific circumstances and formally declared by a state government in recognition that crisis operations will be in effect for a sustained period.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Declaration" means the issuance by the director of the department of health and welfare of a declaration or documentation that crisis standards of care have been activated in a particular region or statewide.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Director" means the director of the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Essential caregiver" means a person designated by a patient or resident to visit the patient or resident at a health care facility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Health care facility" or "facility" means a hospital, a nursing facility, or an intermediate care facility as defined in chapter 13, title 39 , Idaho Code, or a residential care or assisted living facility as defined in chapter 33, title 39 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_9">
+            <akn:num>(9)</akn:num>
+            <akn:content>
+              <akn:p>"Health care services" means services for the diagnosis, prevention, treatment, cure, or relief of a health condition, illness, injury, or disease.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>"Patient" means a person receiving health care services at a health care facility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_11">
+            <akn:num>(11)</akn:num>
+            <akn:content>
+              <akn:p>"Resident" means a person receiving assistance at a health care facility. History: [56-1703, added 2022, ch. 253, sec. 1, p. 829; am. 2025, ch. 122, sec. 40, p. 648.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1703. definitions. As used in this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Activation" means a declaration by the director of the department of health and welfare that health care facilities may operate under crisis standards of care as necessary when scarce resource limitations preclude operating under usual standards of care.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Assistance" means aid in meeting daily living needs.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Crisis standards of care" means a substantial change in the usual health care operations and the level of care it is possible to deliver, justified by specific circumstances and formally declared by a state government in recognition that crisis operations will be in effect for a sustained period.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Declaration" means the issuance by the director of the department of health and welfare of a declaration or documentation that crisis standards of care have been activated in a particular region or statewide.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Director" means the director of the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Essential caregiver" means a person designated by a patient or resident to visit the patient or resident at a health care facility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Health care facility" or "facility" means a hospital, a nursing facility, or an intermediate care facility as defined in chapter 13, title 39 , Idaho Code, or a residential care or assisted living facility as defined in chapter 33, title 39 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_9">
+            <akn:num>(9)</akn:num>
+            <akn:content>
+              <akn:p>"Health care services" means services for the diagnosis, prevention, treatment, cure, or relief of a health condition, illness, injury, or disease.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>"Patient" means a person receiving health care services at a health care facility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_11">
+            <akn:num>(11)</akn:num>
+            <akn:content>
+              <akn:p>"Resident" means a person receiving assistance at a health care facility. History: [56-1703, added 2022, ch. 253, sec. 1, p. 829; am. 2025, ch. 122, sec. 40, p. 648.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1703. definitions. As used in this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Activation" means a declaration by the director of the department of health and welfare that health care facilities may operate under crisis standards of care as necessary when scarce resource limitations preclude operating under usual standards of care.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Assistance" means aid in meeting daily living needs.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Crisis standards of care" means a substantial change in the usual health care operations and the level of care it is possible to deliver, justified by specific circumstances and formally declared by a state government in recognition that crisis operations will be in effect for a sustained period.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Declaration" means the issuance by the director of the department of health and welfare of a declaration or documentation that crisis standards of care have been activated in a particular region or statewide.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Director" means the director of the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Essential caregiver" means a person designated by a patient or resident to visit the patient or resident at a health care facility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Health care facility" or "facility" means a hospital, a nursing facility, or an intermediate care facility as defined in chapter 13, title 39 , Idaho Code, or a residential care or assisted living facility as defined in chapter 33, title 39 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_9">
+            <akn:num>(9)</akn:num>
+            <akn:content>
+              <akn:p>"Health care services" means services for the diagnosis, prevention, treatment, cure, or relief of a health condition, illness, injury, or disease.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>"Patient" means a person receiving health care services at a health care facility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_11">
+            <akn:num>(11)</akn:num>
+            <akn:content>
+              <akn:p>"Resident" means a person receiving assistance at a health care facility. History: [56-1703, added 2022, ch. 253, sec. 1, p. 829; am. 2025, ch. 122, sec. 40, p. 648.]
+56-1703. definitions. As used in this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Activation" means a declaration by the director of the department of health and welfare that health care facilities may operate under crisis standards of care as necessary when scarce resource limitations preclude operating under usual standards of care.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Assistance" means aid in meeting daily living needs.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Crisis standards of care" means a substantial change in the usual health care operations and the level of care it is possible to deliver, justified by specific circumstances and formally declared by a state government in recognition that crisis operations will be in effect for a sustained period.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Declaration" means the issuance by the director of the department of health and welfare of a declaration or documentation that crisis standards of care have been activated in a particular region or statewide.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Director" means the director of the Idaho department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Essential caregiver" means a person designated by a patient or resident to visit the patient or resident at a health care facility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Health care facility" or "facility" means a hospital, a nursing facility, or an intermediate care facility as defined in chapter 13, title 39 , Idaho Code, or a residential care or assisted living facility as defined in chapter 33, title 39 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_9">
+            <akn:num>(9)</akn:num>
+            <akn:content>
+              <akn:p>"Health care services" means services for the diagnosis, prevention, treatment, cure, or relief of a health condition, illness, injury, or disease.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>"Patient" means a person receiving health care services at a health care facility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1703__subsec_11">
+            <akn:num>(11)</akn:num>
+            <akn:content>
+              <akn:p>"Resident" means a person receiving assistance at a health care facility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1704">
+          <akn:num>56-1704</akn:num>
+          <akn:heading>duties of the director</akn:heading>
+          <akn:subsection eId="56_1704__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Declare that crisis standards of care are activated in a region or statewide if conditions warrant a declaration; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1704__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Promulgate rules that are necessary to carry out the policies and purposes of this chapter. History: [56-1704, added 2022, ch. 253, sec. 1, p. 830.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1704. duties of the director. The director shall have the power and duty to:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1704__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Declare that crisis standards of care are activated in a region or statewide if conditions warrant a declaration; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1704__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Promulgate rules that are necessary to carry out the policies and purposes of this chapter. History: [56-1704, added 2022, ch. 253, sec. 1, p. 830.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1704. duties of the director. The director shall have the power and duty to:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1704__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Declare that crisis standards of care are activated in a region or statewide if conditions warrant a declaration; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1704__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Promulgate rules that are necessary to carry out the policies and purposes of this chapter. History: [56-1704, added 2022, ch. 253, sec. 1, p. 830.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1704. duties of the director. The director shall have the power and duty to:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1704__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Declare that crisis standards of care are activated in a region or statewide if conditions warrant a declaration; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1704__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Promulgate rules that are necessary to carry out the policies and purposes of this chapter. History: [56-1704, added 2022, ch. 253, sec. 1, p. 830.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1704. duties of the director. The director shall have the power and duty to:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1704__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Declare that crisis standards of care are activated in a region or statewide if conditions warrant a declaration; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1704__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Promulgate rules that are necessary to carry out the policies and purposes of this chapter. History: [56-1704, added 2022, ch. 253, sec. 1, p. 830.]
+56-1704. duties of the director. The director shall have the power and duty to:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1704__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Declare that crisis standards of care are activated in a region or statewide if conditions warrant a declaration; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1704__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Promulgate rules that are necessary to carry out the policies and purposes of this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1705">
+          <akn:num>56-1705</akn:num>
+          <akn:heading>Patient and resident Rights under Crisis Standards of Care</akn:heading>
+          <akn:subsection eId="56_1705__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>All existing and applicable state and federal patient and resident rights shall be applied. These rights include but are not limited to adherence to a patient’s or resident’s advance directives and access to patient or resident advocates and decision-makers. No patient or resident shall be denied life-sustaining nutrition and hydration, except when expressly authorized by the patient or resident or the patient’s or resident’s legal representative for health care decisions; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1705__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>A patient or resident in a facility has the right to visitation from essential caregivers while receiving assistance or health care services at a facility, even if other visitors are being excluded by the facility. However, the essential caregiver must follow safety and other protocols imposed by the facility, and a facility may place reasonable restrictions as to where and when the essential caregiver may visit. For purposes of this subsection, a restriction is reasonable if the restriction: (a)  Is necessary to prevent the disruption of assistance or health care services to the patient or resident; and (b)  Does not interfere with the patient’s or resident’s general right to visitation by an essential caregiver. History: [56-1705, added 2022, ch. 253, sec. 1, p. 830.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1705. Patient and resident Rights under Crisis Standards of Care. During any period of time in which crisis standards of care are activated:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1705__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>All existing and applicable state and federal patient and resident rights shall be applied. These rights include but are not limited to adherence to a patient’s or resident’s advance directives and access to patient or resident advocates and decision-makers. No patient or resident shall be denied life-sustaining nutrition and hydration, except when expressly authorized by the patient or resident or the patient’s or resident’s legal representative for health care decisions; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1705__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>A patient or resident in a facility has the right to visitation from essential caregivers while receiving assistance or health care services at a facility, even if other visitors are being excluded by the facility. However, the essential caregiver must follow safety and other protocols imposed by the facility, and a facility may place reasonable restrictions as to where and when the essential caregiver may visit. For purposes of this subsection, a restriction is reasonable if the restriction: (a)  Is necessary to prevent the disruption of assistance or health care services to the patient or resident; and (b)  Does not interfere with the patient’s or resident’s general right to visitation by an essential caregiver. History: [56-1705, added 2022, ch. 253, sec. 1, p. 830.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1705. Patient and resident Rights under Crisis Standards of Care. During any period of time in which crisis standards of care are activated:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1705__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>All existing and applicable state and federal patient and resident rights shall be applied. These rights include but are not limited to adherence to a patient’s or resident’s advance directives and access to patient or resident advocates and decision-makers. No patient or resident shall be denied life-sustaining nutrition and hydration, except when expressly authorized by the patient or resident or the patient’s or resident’s legal representative for health care decisions; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1705__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>A patient or resident in a facility has the right to visitation from essential caregivers while receiving assistance or health care services at a facility, even if other visitors are being excluded by the facility. However, the essential caregiver must follow safety and other protocols imposed by the facility, and a facility may place reasonable restrictions as to where and when the essential caregiver may visit. For purposes of this subsection, a restriction is reasonable if the restriction: (a)  Is necessary to prevent the disruption of assistance or health care services to the patient or resident; and (b)  Does not interfere with the patient’s or resident’s general right to visitation by an essential caregiver. History: [56-1705, added 2022, ch. 253, sec. 1, p. 830.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1705. Patient and resident Rights under Crisis Standards of Care. During any period of time in which crisis standards of care are activated:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1705__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>All existing and applicable state and federal patient and resident rights shall be applied. These rights include but are not limited to adherence to a patient’s or resident’s advance directives and access to patient or resident advocates and decision-makers. No patient or resident shall be denied life-sustaining nutrition and hydration, except when expressly authorized by the patient or resident or the patient’s or resident’s legal representative for health care decisions; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1705__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>A patient or resident in a facility has the right to visitation from essential caregivers while receiving assistance or health care services at a facility, even if other visitors are being excluded by the facility. However, the essential caregiver must follow safety and other protocols imposed by the facility, and a facility may place reasonable restrictions as to where and when the essential caregiver may visit. For purposes of this subsection, a restriction is reasonable if the restriction: (a)  Is necessary to prevent the disruption of assistance or health care services to the patient or resident; and (b)  Does not interfere with the patient’s or resident’s general right to visitation by an essential caregiver. History: [56-1705, added 2022, ch. 253, sec. 1, p. 830.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1705. Patient and resident Rights under Crisis Standards of Care. During any period of time in which crisis standards of care are activated:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1705__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>All existing and applicable state and federal patient and resident rights shall be applied. These rights include but are not limited to adherence to a patient’s or resident’s advance directives and access to patient or resident advocates and decision-makers. No patient or resident shall be denied life-sustaining nutrition and hydration, except when expressly authorized by the patient or resident or the patient’s or resident’s legal representative for health care decisions; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1705__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>A patient or resident in a facility has the right to visitation from essential caregivers while receiving assistance or health care services at a facility, even if other visitors are being excluded by the facility. However, the essential caregiver must follow safety and other protocols imposed by the facility, and a facility may place reasonable restrictions as to where and when the essential caregiver may visit. For purposes of this subsection, a restriction is reasonable if the restriction: (a)  Is necessary to prevent the disruption of assistance or health care services to the patient or resident; and (b)  Does not interfere with the patient’s or resident’s general right to visitation by an essential caregiver. History: [56-1705, added 2022, ch. 253, sec. 1, p. 830.]
+56-1705. Patient and resident Rights under Crisis Standards of Care. During any period of time in which crisis standards of care are activated:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1705__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>All existing and applicable state and federal patient and resident rights shall be applied. These rights include but are not limited to adherence to a patient’s or resident’s advance directives and access to patient or resident advocates and decision-makers. No patient or resident shall be denied life-sustaining nutrition and hydration, except when expressly authorized by the patient or resident or the patient’s or resident’s legal representative for health care decisions; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1705__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>A patient or resident in a facility has the right to visitation from essential caregivers while receiving assistance or health care services at a facility, even if other visitors are being excluded by the facility. However, the essential caregiver must follow safety and other protocols imposed by the facility, and a facility may place reasonable restrictions as to where and when the essential caregiver may visit. For purposes of this subsection, a restriction is reasonable if the restriction:</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1706">
+          <akn:num>56-1706</akn:num>
+          <akn:heading>guiding principles under crisis standards of care</akn:heading>
+          <akn:subsection eId="56_1706__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The focus of crisis standards of care is on saving the most lives with limited health care resources, while maintaining equitable health care access for all patients and residents;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>No patients or residents will be discriminated against based on disability, race, color, national origin, age, sex, gender, or exercise of conscience or religion;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>In determining candidacy for treatment or access to critical care resources, categorical exclusions are prohibited; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Decisions regarding candidacy for treatment should be based on individualized assessments using the best available objective medical evidence. History: [56-1706, added 2022, ch. 253, sec. 1, p. 830.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1706. guiding principles under crisis standards of care. A health care facility operating under crisis standards of care must do so according to the following guiding principles:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The focus of crisis standards of care is on saving the most lives with limited health care resources, while maintaining equitable health care access for all patients and residents;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>No patients or residents will be discriminated against based on disability, race, color, national origin, age, sex, gender, or exercise of conscience or religion;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>In determining candidacy for treatment or access to critical care resources, categorical exclusions are prohibited; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Decisions regarding candidacy for treatment should be based on individualized assessments using the best available objective medical evidence. History: [56-1706, added 2022, ch. 253, sec. 1, p. 830.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1706. guiding principles under crisis standards of care. A health care facility operating under crisis standards of care must do so according to the following guiding principles:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The focus of crisis standards of care is on saving the most lives with limited health care resources, while maintaining equitable health care access for all patients and residents;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>No patients or residents will be discriminated against based on disability, race, color, national origin, age, sex, gender, or exercise of conscience or religion;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>In determining candidacy for treatment or access to critical care resources, categorical exclusions are prohibited; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Decisions regarding candidacy for treatment should be based on individualized assessments using the best available objective medical evidence. History: [56-1706, added 2022, ch. 253, sec. 1, p. 830.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1706. guiding principles under crisis standards of care. A health care facility operating under crisis standards of care must do so according to the following guiding principles:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The focus of crisis standards of care is on saving the most lives with limited health care resources, while maintaining equitable health care access for all patients and residents;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>No patients or residents will be discriminated against based on disability, race, color, national origin, age, sex, gender, or exercise of conscience or religion;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>In determining candidacy for treatment or access to critical care resources, categorical exclusions are prohibited; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Decisions regarding candidacy for treatment should be based on individualized assessments using the best available objective medical evidence. History: [56-1706, added 2022, ch. 253, sec. 1, p. 830.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1706. guiding principles under crisis standards of care. A health care facility operating under crisis standards of care must do so according to the following guiding principles:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The focus of crisis standards of care is on saving the most lives with limited health care resources, while maintaining equitable health care access for all patients and residents;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>No patients or residents will be discriminated against based on disability, race, color, national origin, age, sex, gender, or exercise of conscience or religion;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>In determining candidacy for treatment or access to critical care resources, categorical exclusions are prohibited; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Decisions regarding candidacy for treatment should be based on individualized assessments using the best available objective medical evidence. History: [56-1706, added 2022, ch. 253, sec. 1, p. 830.]
+56-1706. guiding principles under crisis standards of care. A health care facility operating under crisis standards of care must do so according to the following guiding principles:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The focus of crisis standards of care is on saving the most lives with limited health care resources, while maintaining equitable health care access for all patients and residents;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>No patients or residents will be discriminated against based on disability, race, color, national origin, age, sex, gender, or exercise of conscience or religion;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>In determining candidacy for treatment or access to critical care resources, categorical exclusions are prohibited; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1706__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Decisions regarding candidacy for treatment should be based on individualized assessments using the best available objective medical evidence.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1707">
+          <akn:num>56-1707</akn:num>
+          <akn:heading>Department report — report by facilities</akn:heading>
+          <akn:subsection eId="56_1707__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The director shall within one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1707__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>week of such activation, or as soon as feasible thereafter, make a formal written report to the governor, the president pro tempore of the senate, the speaker of the house of representatives, the senate health and welfare committee, and the house of representatives health and welfare committee regarding the exact nature of any shortage driving the need for activation. The written report shall include a mitigation plan that addresses how the state can help support the health care facility in addressing resource shortages to limit the scope and duration of operating under crisis standards of care. If the governor has declared a disaster emergency pursuant to chapter 10, title 46 , Idaho Code, due to the same or related conditions that necessitated the activation of crisis standards of care, then the director shall also include in the written report recommendations for the use of funds available in the disaster emergency account to mitigate the scarce resource limitations; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1707__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Any health care facility operating under crisis standards of care shall provide a daily report to the department on conditions at the facility, including an assessment as to whether crisis standards of care remain necessary. History: [56-1707, added 2022, ch. 253, sec. 1, p. 831.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1707. Department report — report by facilities. Upon activation of crisis standards of care:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1707__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The director shall within one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1707__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>week of such activation, or as soon as feasible thereafter, make a formal written report to the governor, the president pro tempore of the senate, the speaker of the house of representatives, the senate health and welfare committee, and the house of representatives health and welfare committee regarding the exact nature of any shortage driving the need for activation. The written report shall include a mitigation plan that addresses how the state can help support the health care facility in addressing resource shortages to limit the scope and duration of operating under crisis standards of care. If the governor has declared a disaster emergency pursuant to chapter 10, title 46 , Idaho Code, due to the same or related conditions that necessitated the activation of crisis standards of care, then the director shall also include in the written report recommendations for the use of funds available in the disaster emergency account to mitigate the scarce resource limitations; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1707__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Any health care facility operating under crisis standards of care shall provide a daily report to the department on conditions at the facility, including an assessment as to whether crisis standards of care remain necessary. History: [56-1707, added 2022, ch. 253, sec. 1, p. 831.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1707. Department report — report by facilities. Upon activation of crisis standards of care:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1707__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The director shall within one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1707__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>week of such activation, or as soon as feasible thereafter, make a formal written report to the governor, the president pro tempore of the senate, the speaker of the house of representatives, the senate health and welfare committee, and the house of representatives health and welfare committee regarding the exact nature of any shortage driving the need for activation. The written report shall include a mitigation plan that addresses how the state can help support the health care facility in addressing resource shortages to limit the scope and duration of operating under crisis standards of care. If the governor has declared a disaster emergency pursuant to chapter 10, title 46 , Idaho Code, due to the same or related conditions that necessitated the activation of crisis standards of care, then the director shall also include in the written report recommendations for the use of funds available in the disaster emergency account to mitigate the scarce resource limitations; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1707__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Any health care facility operating under crisis standards of care shall provide a daily report to the department on conditions at the facility, including an assessment as to whether crisis standards of care remain necessary. History: [56-1707, added 2022, ch. 253, sec. 1, p. 831.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1707. Department report — report by facilities. Upon activation of crisis standards of care:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1707__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The director shall within one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1707__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>week of such activation, or as soon as feasible thereafter, make a formal written report to the governor, the president pro tempore of the senate, the speaker of the house of representatives, the senate health and welfare committee, and the house of representatives health and welfare committee regarding the exact nature of any shortage driving the need for activation. The written report shall include a mitigation plan that addresses how the state can help support the health care facility in addressing resource shortages to limit the scope and duration of operating under crisis standards of care. If the governor has declared a disaster emergency pursuant to chapter 10, title 46 , Idaho Code, due to the same or related conditions that necessitated the activation of crisis standards of care, then the director shall also include in the written report recommendations for the use of funds available in the disaster emergency account to mitigate the scarce resource limitations; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1707__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Any health care facility operating under crisis standards of care shall provide a daily report to the department on conditions at the facility, including an assessment as to whether crisis standards of care remain necessary. History: [56-1707, added 2022, ch. 253, sec. 1, p. 831.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1707. Department report — report by facilities. Upon activation of crisis standards of care:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1707__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The director shall within one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1707__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>week of such activation, or as soon as feasible thereafter, make a formal written report to the governor, the president pro tempore of the senate, the speaker of the house of representatives, the senate health and welfare committee, and the house of representatives health and welfare committee regarding the exact nature of any shortage driving the need for activation. The written report shall include a mitigation plan that addresses how the state can help support the health care facility in addressing resource shortages to limit the scope and duration of operating under crisis standards of care. If the governor has declared a disaster emergency pursuant to chapter 10, title 46 , Idaho Code, due to the same or related conditions that necessitated the activation of crisis standards of care, then the director shall also include in the written report recommendations for the use of funds available in the disaster emergency account to mitigate the scarce resource limitations; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1707__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Any health care facility operating under crisis standards of care shall provide a daily report to the department on conditions at the facility, including an assessment as to whether crisis standards of care remain necessary. History: [56-1707, added 2022, ch. 253, sec. 1, p. 831.]
+56-1707. Department report — report by facilities. Upon activation of crisis standards of care:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1707__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The director shall within one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1707__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>week of such activation, or as soon as feasible thereafter, make a formal written report to the governor, the president pro tempore of the senate, the speaker of the house of representatives, the senate health and welfare committee, and the house of representatives health and welfare committee regarding the exact nature of any shortage driving the need for activation. The written report shall include a mitigation plan that addresses how the state can help support the health care facility in addressing resource shortages to limit the scope and duration of operating under crisis standards of care. If the governor has declared a disaster emergency pursuant to chapter 10, title 46 , Idaho Code, due to the same or related conditions that necessitated the activation of crisis standards of care, then the director shall also include in the written report recommendations for the use of funds available in the disaster emergency account to mitigate the scarce resource limitations; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1707__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Any health care facility operating under crisis standards of care shall provide a daily report to the department on conditions at the facility, including an assessment as to whether crisis standards of care remain necessary.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1708">
+          <akn:num>56-1708</akn:num>
+          <akn:heading>office of patient ombudsman</akn:heading>
+          <akn:subsection eId="56_1708__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>weeks after the declaration of crisis standards of care is terminated. The ombudsman will be provided with sufficient resources for staffing and advertising. When an office of patient ombudsman has been established, the governor’s office shall provide a written report to the president pro tempore of the senate, the speaker of the house of representatives, the senate health and welfare committee, and the house of representatives health and welfare committee that contains the number of contacts received, cases engaged, and resolutions obtained by the office of patient ombudsman. History: [56-1708, added 2022, ch. 253, sec. 1, p. 831.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1708. office of patient ombudsman. If crisis standards of care are declared by the director, there will be established within the governor’s office an office of patient ombudsman to receive calls, emails, and written complaints from Idaho patients, residents, or families seeking help in obtaining health care services. The ombudsman shall advocate for the rights and needs of patients and residents negatively impacted by crisis standards of care. The office shall operate for the duration of the crisis standards of care and shall cease to operate no later than three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1708__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>weeks after the declaration of crisis standards of care is terminated. The ombudsman will be provided with sufficient resources for staffing and advertising. When an office of patient ombudsman has been established, the governor’s office shall provide a written report to the president pro tempore of the senate, the speaker of the house of representatives, the senate health and welfare committee, and the house of representatives health and welfare committee that contains the number of contacts received, cases engaged, and resolutions obtained by the office of patient ombudsman. History: [56-1708, added 2022, ch. 253, sec. 1, p. 831.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1708. office of patient ombudsman. If crisis standards of care are declared by the director, there will be established within the governor’s office an office of patient ombudsman to receive calls, emails, and written complaints from Idaho patients, residents, or families seeking help in obtaining health care services. The ombudsman shall advocate for the rights and needs of patients and residents negatively impacted by crisis standards of care. The office shall operate for the duration of the crisis standards of care and shall cease to operate no later than three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1708__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>weeks after the declaration of crisis standards of care is terminated. The ombudsman will be provided with sufficient resources for staffing and advertising. When an office of patient ombudsman has been established, the governor’s office shall provide a written report to the president pro tempore of the senate, the speaker of the house of representatives, the senate health and welfare committee, and the house of representatives health and welfare committee that contains the number of contacts received, cases engaged, and resolutions obtained by the office of patient ombudsman. History: [56-1708, added 2022, ch. 253, sec. 1, p. 831.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1708. office of patient ombudsman. If crisis standards of care are declared by the director, there will be established within the governor’s office an office of patient ombudsman to receive calls, emails, and written complaints from Idaho patients, residents, or families seeking help in obtaining health care services. The ombudsman shall advocate for the rights and needs of patients and residents negatively impacted by crisis standards of care. The office shall operate for the duration of the crisis standards of care and shall cease to operate no later than three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1708__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>weeks after the declaration of crisis standards of care is terminated. The ombudsman will be provided with sufficient resources for staffing and advertising. When an office of patient ombudsman has been established, the governor’s office shall provide a written report to the president pro tempore of the senate, the speaker of the house of representatives, the senate health and welfare committee, and the house of representatives health and welfare committee that contains the number of contacts received, cases engaged, and resolutions obtained by the office of patient ombudsman. History: [56-1708, added 2022, ch. 253, sec. 1, p. 831.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 17 CRISIS STANDARDS OF CARE ACT 56-1708. office of patient ombudsman. If crisis standards of care are declared by the director, there will be established within the governor’s office an office of patient ombudsman to receive calls, emails, and written complaints from Idaho patients, residents, or families seeking help in obtaining health care services. The ombudsman shall advocate for the rights and needs of patients and residents negatively impacted by crisis standards of care. The office shall operate for the duration of the crisis standards of care and shall cease to operate no later than three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1708__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>weeks after the declaration of crisis standards of care is terminated. The ombudsman will be provided with sufficient resources for staffing and advertising. When an office of patient ombudsman has been established, the governor’s office shall provide a written report to the president pro tempore of the senate, the speaker of the house of representatives, the senate health and welfare committee, and the house of representatives health and welfare committee that contains the number of contacts received, cases engaged, and resolutions obtained by the office of patient ombudsman. History: [56-1708, added 2022, ch. 253, sec. 1, p. 831.]
+56-1708. office of patient ombudsman. If crisis standards of care are declared by the director, there will be established within the governor’s office an office of patient ombudsman to receive calls, emails, and written complaints from Idaho patients, residents, or families seeking help in obtaining health care services. The ombudsman shall advocate for the rights and needs of patients and residents negatively impacted by crisis standards of care. The office shall operate for the duration of the crisis standards of care and shall cease to operate no later than three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1708__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>weeks after the declaration of crisis standards of care is terminated. The ombudsman will be provided with sufficient resources for staffing and advertising. When an office of patient ombudsman has been established, the governor’s office shall provide a written report to the president pro tempore of the senate, the speaker of the house of representatives, the senate health and welfare committee, and the house of representatives health and welfare committee that contains the number of contacts received, cases engaged, and resolutions obtained by the office of patient ombudsman.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

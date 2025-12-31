@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-24" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-24" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="56-24" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-24/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-24/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-24/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-24/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_56_24">
+        <akn:num>Chapter 24</akn:num>
+        <akn:heading>Chapter 24</akn:heading>
+        <akn:section eId="sec_56_2401">
+          <akn:num>56-2401</akn:num>
+          <akn:heading>short title</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 22 [24] DRINKING WATER LABORATORY CERTIFICATION PROGRAM 56-2201 [56-2401]. short title. This chapter shall be known and may be cited as the "Drinking Water Laboratory Certification Program." History: [56-2201 [56-2401], added 2025, ch. 84, sec. 13, p. 397.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 22 [24] DRINKING WATER LABORATORY CERTIFICATION PROGRAM 56-2201 [56-2401]. short title. This chapter shall be known and may be cited as the "Drinking Water Laboratory Certification Program." History: [56-2201 [56-2401], added 2025, ch. 84, sec. 13, p. 397.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 22 [24] DRINKING WATER LABORATORY CERTIFICATION PROGRAM 56-2201 [56-2401]. short title. This chapter shall be known and may be cited as the "Drinking Water Laboratory Certification Program." History: [56-2201 [56-2401], added 2025, ch. 84, sec. 13, p. 397.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 22 [24] DRINKING WATER LABORATORY CERTIFICATION PROGRAM 56-2201 [56-2401]. short title. This chapter shall be known and may be cited as the "Drinking Water Laboratory Certification Program." History: [56-2201 [56-2401], added 2025, ch. 84, sec. 13, p. 397.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 22 [24] DRINKING WATER LABORATORY CERTIFICATION PROGRAM 56-2201 [56-2401]. short title. This chapter shall be known and may be cited as the "Drinking Water Laboratory Certification Program." History: [56-2201 [56-2401], added 2025, ch. 84, sec. 13, p. 397.]
+56-2201 [56-2401]. short title. This chapter shall be known and may be cited as the "Drinking Water Laboratory Certification Program."</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_2402">
+          <akn:num>56-2402</akn:num>
+          <akn:heading>application for certification</akn:heading>
+          <akn:subsection eId="56_2402__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An application for drinking water certification, listing methods approved by the department of environmental quality, shall be submitted annually by laboratories seeking certification on a form approved by the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Applications for renewal and supporting documentation requested by the department of health and welfare must be received by the department at least thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days before the current certificate expires.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>A laboratory seeking to change methods or to add analytes prior to annual reapplication shall submit an amended application and provide supporting documentation requested by the department of health and welfare. Laboratories submitting an amended application shall be subject to an additional base fee charge.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>All certifications shall be valid for one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>year from the date of issuance. History: [56-2202 [56-2402], added 2025, ch. 84, sec. 13, p. 397.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 22 [24] DRINKING WATER LABORATORY CERTIFICATION PROGRAM 56-2202 [56-2402]. application for certification.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An application for drinking water certification, listing methods approved by the department of environmental quality, shall be submitted annually by laboratories seeking certification on a form approved by the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Applications for renewal and supporting documentation requested by the department of health and welfare must be received by the department at least thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days before the current certificate expires.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>A laboratory seeking to change methods or to add analytes prior to annual reapplication shall submit an amended application and provide supporting documentation requested by the department of health and welfare. Laboratories submitting an amended application shall be subject to an additional base fee charge.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>All certifications shall be valid for one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>year from the date of issuance. History: [56-2202 [56-2402], added 2025, ch. 84, sec. 13, p. 397.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 22 [24] DRINKING WATER LABORATORY CERTIFICATION PROGRAM 56-2202 [56-2402]. application for certification.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An application for drinking water certification, listing methods approved by the department of environmental quality, shall be submitted annually by laboratories seeking certification on a form approved by the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Applications for renewal and supporting documentation requested by the department of health and welfare must be received by the department at least thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days before the current certificate expires.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>A laboratory seeking to change methods or to add analytes prior to annual reapplication shall submit an amended application and provide supporting documentation requested by the department of health and welfare. Laboratories submitting an amended application shall be subject to an additional base fee charge.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>All certifications shall be valid for one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>year from the date of issuance. History: [56-2202 [56-2402], added 2025, ch. 84, sec. 13, p. 397.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 22 [24] DRINKING WATER LABORATORY CERTIFICATION PROGRAM 56-2202 [56-2402]. application for certification.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An application for drinking water certification, listing methods approved by the department of environmental quality, shall be submitted annually by laboratories seeking certification on a form approved by the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Applications for renewal and supporting documentation requested by the department of health and welfare must be received by the department at least thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days before the current certificate expires.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>A laboratory seeking to change methods or to add analytes prior to annual reapplication shall submit an amended application and provide supporting documentation requested by the department of health and welfare. Laboratories submitting an amended application shall be subject to an additional base fee charge.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>All certifications shall be valid for one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>year from the date of issuance. History: [56-2202 [56-2402], added 2025, ch. 84, sec. 13, p. 397.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 22 [24] DRINKING WATER LABORATORY CERTIFICATION PROGRAM 56-2202 [56-2402]. application for certification.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An application for drinking water certification, listing methods approved by the department of environmental quality, shall be submitted annually by laboratories seeking certification on a form approved by the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Applications for renewal and supporting documentation requested by the department of health and welfare must be received by the department at least thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days before the current certificate expires.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>A laboratory seeking to change methods or to add analytes prior to annual reapplication shall submit an amended application and provide supporting documentation requested by the department of health and welfare. Laboratories submitting an amended application shall be subject to an additional base fee charge.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>All certifications shall be valid for one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>year from the date of issuance. History: [56-2202 [56-2402], added 2025, ch. 84, sec. 13, p. 397.]
+56-2202 [56-2402]. application for certification.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An application for drinking water certification, listing methods approved by the department of environmental quality, shall be submitted annually by laboratories seeking certification on a form approved by the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Applications for renewal and supporting documentation requested by the department of health and welfare must be received by the department at least thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days before the current certificate expires.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>A laboratory seeking to change methods or to add analytes prior to annual reapplication shall submit an amended application and provide supporting documentation requested by the department of health and welfare. Laboratories submitting an amended application shall be subject to an additional base fee charge.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>All certifications shall be valid for one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2402__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>year from the date of issuance.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_2403">
+          <akn:num>56-2403</akn:num>
+          <akn:heading>certification fees</akn:heading>
+          <akn:subsection eId="56_2403__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Laboratories requesting chemistry certification shall be charged a base fee of one hundred dollars ($100) per discipline and twenty dollars ($20.00) per analyte per method.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Laboratories requesting microbiology certification shall be charged a fee of one hundred fifty dollars ($150).</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Out-of-state laboratories requesting chemistry certification shall be charged a base fee of two hundred dollars ($200) per discipline and twenty dollars ($20.00) per analyte per method.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Out-of-state laboratories requesting microbiology certification shall be charged a fee of three hundred dollars ($300).</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>New laboratories requesting certification will be charged a non-refundable application fee of two hundred fifty dollars ($250) per discipline listed on the completed application form. History: [56-2203 [56-2403], added 2025, ch. 84, sec. 13, p. 397.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 22 [24] DRINKING WATER LABORATORY CERTIFICATION PROGRAM 56-2203 [56-2403]. certification fees.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Laboratories requesting chemistry certification shall be charged a base fee of one hundred dollars ($100) per discipline and twenty dollars ($20.00) per analyte per method.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Laboratories requesting microbiology certification shall be charged a fee of one hundred fifty dollars ($150).</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Out-of-state laboratories requesting chemistry certification shall be charged a base fee of two hundred dollars ($200) per discipline and twenty dollars ($20.00) per analyte per method.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Out-of-state laboratories requesting microbiology certification shall be charged a fee of three hundred dollars ($300).</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>New laboratories requesting certification will be charged a non-refundable application fee of two hundred fifty dollars ($250) per discipline listed on the completed application form. History: [56-2203 [56-2403], added 2025, ch. 84, sec. 13, p. 397.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 22 [24] DRINKING WATER LABORATORY CERTIFICATION PROGRAM 56-2203 [56-2403]. certification fees.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Laboratories requesting chemistry certification shall be charged a base fee of one hundred dollars ($100) per discipline and twenty dollars ($20.00) per analyte per method.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Laboratories requesting microbiology certification shall be charged a fee of one hundred fifty dollars ($150).</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Out-of-state laboratories requesting chemistry certification shall be charged a base fee of two hundred dollars ($200) per discipline and twenty dollars ($20.00) per analyte per method.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Out-of-state laboratories requesting microbiology certification shall be charged a fee of three hundred dollars ($300).</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>New laboratories requesting certification will be charged a non-refundable application fee of two hundred fifty dollars ($250) per discipline listed on the completed application form. History: [56-2203 [56-2403], added 2025, ch. 84, sec. 13, p. 397.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 22 [24] DRINKING WATER LABORATORY CERTIFICATION PROGRAM 56-2203 [56-2403]. certification fees.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Laboratories requesting chemistry certification shall be charged a base fee of one hundred dollars ($100) per discipline and twenty dollars ($20.00) per analyte per method.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Laboratories requesting microbiology certification shall be charged a fee of one hundred fifty dollars ($150).</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Out-of-state laboratories requesting chemistry certification shall be charged a base fee of two hundred dollars ($200) per discipline and twenty dollars ($20.00) per analyte per method.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Out-of-state laboratories requesting microbiology certification shall be charged a fee of three hundred dollars ($300).</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>New laboratories requesting certification will be charged a non-refundable application fee of two hundred fifty dollars ($250) per discipline listed on the completed application form. History: [56-2203 [56-2403], added 2025, ch. 84, sec. 13, p. 397.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 22 [24] DRINKING WATER LABORATORY CERTIFICATION PROGRAM 56-2203 [56-2403]. certification fees.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Laboratories requesting chemistry certification shall be charged a base fee of one hundred dollars ($100) per discipline and twenty dollars ($20.00) per analyte per method.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Laboratories requesting microbiology certification shall be charged a fee of one hundred fifty dollars ($150).</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Out-of-state laboratories requesting chemistry certification shall be charged a base fee of two hundred dollars ($200) per discipline and twenty dollars ($20.00) per analyte per method.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Out-of-state laboratories requesting microbiology certification shall be charged a fee of three hundred dollars ($300).</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>New laboratories requesting certification will be charged a non-refundable application fee of two hundred fifty dollars ($250) per discipline listed on the completed application form. History: [56-2203 [56-2403], added 2025, ch. 84, sec. 13, p. 397.]
+56-2203 [56-2403]. certification fees.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Laboratories requesting chemistry certification shall be charged a base fee of one hundred dollars ($100) per discipline and twenty dollars ($20.00) per analyte per method.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Laboratories requesting microbiology certification shall be charged a fee of one hundred fifty dollars ($150).</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Out-of-state laboratories requesting chemistry certification shall be charged a base fee of two hundred dollars ($200) per discipline and twenty dollars ($20.00) per analyte per method.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Out-of-state laboratories requesting microbiology certification shall be charged a fee of three hundred dollars ($300).</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2403__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>New laboratories requesting certification will be charged a non-refundable application fee of two hundred fifty dollars ($250) per discipline listed on the completed application form.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_2404">
+          <akn:num>56-2404</akn:num>
+          <akn:heading>certification oversight and requirements</akn:heading>
+          <akn:subsection eId="56_2404__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Qualified representatives of the department of health and welfare are authorized to audit the premises and operations of all certified laboratories to determine the adequacy of the laboratory to perform drinking water compliance testing. On-site audits shall occur a minimum of every three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>years or more frequently at the discretion of the department. Departmental representatives shall issue a written report of audit findings, list items requiring a laboratory response, and specify the response time frame required to maintain certification.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Test results shall be submitted in a format approved by the department of environmental quality and shall be reported to the department of environmental quality, or the department’s designee, no later than ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>business days after the completion of testing or upon receipt of results from subcontracted laboratories.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>As soon as feasible, a laboratory shall notify the department of environmental quality, or the department’s designee, of any nitrate and nitrate level exceeding the current maximum contaminant level. Notification shall also be made for any other regulated chemical or radiological contaminant that exceeds four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>times the maximum contaminant level. Notification requirements apply to any samples subcontracted to another laboratory.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>A laboratory shall notify the department of environmental quality, or the department’s designee, of any total coliform positive result by the end of the day, unless the positive result is obtained after the department of environmental quality is closed and the department of environmental quality does not have either an after-hours phone line or an alternative notification procedure, in which case the laboratory shall notify the department of environmental quality before the end of the next business day. History: [56-2204 [56-2404], added 2025, ch. 84, sec. 13, p. 398.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 22 [24] DRINKING WATER LABORATORY CERTIFICATION PROGRAM 56-2204 [56-2404]. certification oversight and requirements.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Qualified representatives of the department of health and welfare are authorized to audit the premises and operations of all certified laboratories to determine the adequacy of the laboratory to perform drinking water compliance testing. On-site audits shall occur a minimum of every three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>years or more frequently at the discretion of the department. Departmental representatives shall issue a written report of audit findings, list items requiring a laboratory response, and specify the response time frame required to maintain certification.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Test results shall be submitted in a format approved by the department of environmental quality and shall be reported to the department of environmental quality, or the department’s designee, no later than ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>business days after the completion of testing or upon receipt of results from subcontracted laboratories.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>As soon as feasible, a laboratory shall notify the department of environmental quality, or the department’s designee, of any nitrate and nitrate level exceeding the current maximum contaminant level. Notification shall also be made for any other regulated chemical or radiological contaminant that exceeds four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>times the maximum contaminant level. Notification requirements apply to any samples subcontracted to another laboratory.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>A laboratory shall notify the department of environmental quality, or the department’s designee, of any total coliform positive result by the end of the day, unless the positive result is obtained after the department of environmental quality is closed and the department of environmental quality does not have either an after-hours phone line or an alternative notification procedure, in which case the laboratory shall notify the department of environmental quality before the end of the next business day. History: [56-2204 [56-2404], added 2025, ch. 84, sec. 13, p. 398.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 22 [24] DRINKING WATER LABORATORY CERTIFICATION PROGRAM 56-2204 [56-2404]. certification oversight and requirements.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Qualified representatives of the department of health and welfare are authorized to audit the premises and operations of all certified laboratories to determine the adequacy of the laboratory to perform drinking water compliance testing. On-site audits shall occur a minimum of every three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>years or more frequently at the discretion of the department. Departmental representatives shall issue a written report of audit findings, list items requiring a laboratory response, and specify the response time frame required to maintain certification.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Test results shall be submitted in a format approved by the department of environmental quality and shall be reported to the department of environmental quality, or the department’s designee, no later than ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>business days after the completion of testing or upon receipt of results from subcontracted laboratories.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>As soon as feasible, a laboratory shall notify the department of environmental quality, or the department’s designee, of any nitrate and nitrate level exceeding the current maximum contaminant level. Notification shall also be made for any other regulated chemical or radiological contaminant that exceeds four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>times the maximum contaminant level. Notification requirements apply to any samples subcontracted to another laboratory.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>A laboratory shall notify the department of environmental quality, or the department’s designee, of any total coliform positive result by the end of the day, unless the positive result is obtained after the department of environmental quality is closed and the department of environmental quality does not have either an after-hours phone line or an alternative notification procedure, in which case the laboratory shall notify the department of environmental quality before the end of the next business day. History: [56-2204 [56-2404], added 2025, ch. 84, sec. 13, p. 398.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 22 [24] DRINKING WATER LABORATORY CERTIFICATION PROGRAM 56-2204 [56-2404]. certification oversight and requirements.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Qualified representatives of the department of health and welfare are authorized to audit the premises and operations of all certified laboratories to determine the adequacy of the laboratory to perform drinking water compliance testing. On-site audits shall occur a minimum of every three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>years or more frequently at the discretion of the department. Departmental representatives shall issue a written report of audit findings, list items requiring a laboratory response, and specify the response time frame required to maintain certification.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Test results shall be submitted in a format approved by the department of environmental quality and shall be reported to the department of environmental quality, or the department’s designee, no later than ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>business days after the completion of testing or upon receipt of results from subcontracted laboratories.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>As soon as feasible, a laboratory shall notify the department of environmental quality, or the department’s designee, of any nitrate and nitrate level exceeding the current maximum contaminant level. Notification shall also be made for any other regulated chemical or radiological contaminant that exceeds four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>times the maximum contaminant level. Notification requirements apply to any samples subcontracted to another laboratory.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>A laboratory shall notify the department of environmental quality, or the department’s designee, of any total coliform positive result by the end of the day, unless the positive result is obtained after the department of environmental quality is closed and the department of environmental quality does not have either an after-hours phone line or an alternative notification procedure, in which case the laboratory shall notify the department of environmental quality before the end of the next business day. History: [56-2204 [56-2404], added 2025, ch. 84, sec. 13, p. 398.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 22 [24] DRINKING WATER LABORATORY CERTIFICATION PROGRAM 56-2204 [56-2404]. certification oversight and requirements.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Qualified representatives of the department of health and welfare are authorized to audit the premises and operations of all certified laboratories to determine the adequacy of the laboratory to perform drinking water compliance testing. On-site audits shall occur a minimum of every three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>years or more frequently at the discretion of the department. Departmental representatives shall issue a written report of audit findings, list items requiring a laboratory response, and specify the response time frame required to maintain certification.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Test results shall be submitted in a format approved by the department of environmental quality and shall be reported to the department of environmental quality, or the department’s designee, no later than ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>business days after the completion of testing or upon receipt of results from subcontracted laboratories.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>As soon as feasible, a laboratory shall notify the department of environmental quality, or the department’s designee, of any nitrate and nitrate level exceeding the current maximum contaminant level. Notification shall also be made for any other regulated chemical or radiological contaminant that exceeds four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>times the maximum contaminant level. Notification requirements apply to any samples subcontracted to another laboratory.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>A laboratory shall notify the department of environmental quality, or the department’s designee, of any total coliform positive result by the end of the day, unless the positive result is obtained after the department of environmental quality is closed and the department of environmental quality does not have either an after-hours phone line or an alternative notification procedure, in which case the laboratory shall notify the department of environmental quality before the end of the next business day. History: [56-2204 [56-2404], added 2025, ch. 84, sec. 13, p. 398.]
+56-2204 [56-2404]. certification oversight and requirements.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Qualified representatives of the department of health and welfare are authorized to audit the premises and operations of all certified laboratories to determine the adequacy of the laboratory to perform drinking water compliance testing. On-site audits shall occur a minimum of every three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>years or more frequently at the discretion of the department. Departmental representatives shall issue a written report of audit findings, list items requiring a laboratory response, and specify the response time frame required to maintain certification.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Test results shall be submitted in a format approved by the department of environmental quality and shall be reported to the department of environmental quality, or the department’s designee, no later than ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>business days after the completion of testing or upon receipt of results from subcontracted laboratories.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>As soon as feasible, a laboratory shall notify the department of environmental quality, or the department’s designee, of any nitrate and nitrate level exceeding the current maximum contaminant level. Notification shall also be made for any other regulated chemical or radiological contaminant that exceeds four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>times the maximum contaminant level. Notification requirements apply to any samples subcontracted to another laboratory.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_2404__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>A laboratory shall notify the department of environmental quality, or the department’s designee, of any total coliform positive result by the end of the day, unless the positive result is obtained after the department of environmental quality is closed and the department of environmental quality does not have either an after-hours phone line or an alternative notification procedure, in which case the laboratory shall notify the department of environmental quality before the end of the next business day.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

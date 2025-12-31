@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-15" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-15" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="56-15" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-15/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-15/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-15/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-15/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_56_15">
+        <akn:num>Chapter 15</akn:num>
+        <akn:heading>Chapter 15</akn:heading>
+        <akn:section eId="sec_56_1501">
+          <akn:num>56-1501</akn:num>
+          <akn:heading>short title</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1501. short title. This chapter shall be known and may be cited as the "Idaho Skilled Nursing Facility Assessment Act." History: [56-1501, added 2009, ch. 221, sec. 1, p. 687.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1501. short title. This chapter shall be known and may be cited as the "Idaho Skilled Nursing Facility Assessment Act." History: [56-1501, added 2009, ch. 221, sec. 1, p. 687.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1501. short title. This chapter shall be known and may be cited as the "Idaho Skilled Nursing Facility Assessment Act." History: [56-1501, added 2009, ch. 221, sec. 1, p. 687.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1501. short title. This chapter shall be known and may be cited as the "Idaho Skilled Nursing Facility Assessment Act." History: [56-1501, added 2009, ch. 221, sec. 1, p. 687.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1501. short title. This chapter shall be known and may be cited as the "Idaho Skilled Nursing Facility Assessment Act." History: [56-1501, added 2009, ch. 221, sec. 1, p. 687.]
+56-1501. short title. This chapter shall be known and may be cited as the "Idaho Skilled Nursing Facility Assessment Act."</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_1503">
+          <akn:num>56-1503</akn:num>
+          <akn:heading>Definitions</akn:heading>
+          <akn:subsection eId="56_1503__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"CMS" means the centers for medicare and medicaid.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Fiscal year" means the time period from July 1 to June 30.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Fund" means the nursing facility assessment fund established pursuant to section 56-1504 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Net patient service revenue" means gross revenue from services provided to nursing facility patients, less reductions from gross revenue resulting from an inability to collect payment of charges. Patient service revenue excludes nonpatient care revenue such as beauty and barber, vending income, interest and contributions, revenue from sale of meals and all outpatient revenue. Reductions from gross revenue includes: bad debts; contractual adjustments; uncompensated care; administrative, courtesy and policy discounts and adjustments; and other such revenue deductions.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Nursing facility" means a nursing facility as defined in section 39-1301 , Idaho Code, and licensed pursuant to chapter 13, title 39 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Resident day" means a calendar day of care provided to a nursing facility resident, including the day of admission and excluding the day of discharge, provided that one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>resident day shall be deemed to exist when admission and discharge occur on the same day.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Medicare part A resident days" means those resident days funded by the medicare program or by a medicare advantage or special needs plan.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_9">
+            <akn:num>(9)</akn:num>
+            <akn:content>
+              <akn:p>"Upper payment limit" means the limitation established by federal regulations, 42 CFR 447.272, that disallows federal matching funds when state medicaid agencies pay certain classes of nursing facilities an aggregate amount for services that exceed the amount that is paid for the same services furnished by that class of nursing facilities under medicare payment principles.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>"Value-based purchasing payments" means supplemental payments effective in state fiscal year 2021 made to providers for reaching department-selected quality indicators. History: [56-1503, added 2009, ch. 221, sec. 1, p. 687; am. 2018, ch. 49, sec. 1, p. 125.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1503. Definitions. As used in this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"CMS" means the centers for medicare and medicaid.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Fiscal year" means the time period from July 1 to June 30.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Fund" means the nursing facility assessment fund established pursuant to section 56-1504 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Net patient service revenue" means gross revenue from services provided to nursing facility patients, less reductions from gross revenue resulting from an inability to collect payment of charges. Patient service revenue excludes nonpatient care revenue such as beauty and barber, vending income, interest and contributions, revenue from sale of meals and all outpatient revenue. Reductions from gross revenue includes: bad debts; contractual adjustments; uncompensated care; administrative, courtesy and policy discounts and adjustments; and other such revenue deductions.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Nursing facility" means a nursing facility as defined in section 39-1301 , Idaho Code, and licensed pursuant to chapter 13, title 39 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Resident day" means a calendar day of care provided to a nursing facility resident, including the day of admission and excluding the day of discharge, provided that one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>resident day shall be deemed to exist when admission and discharge occur on the same day.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Medicare part A resident days" means those resident days funded by the medicare program or by a medicare advantage or special needs plan.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_9">
+            <akn:num>(9)</akn:num>
+            <akn:content>
+              <akn:p>"Upper payment limit" means the limitation established by federal regulations, 42 CFR 447.272, that disallows federal matching funds when state medicaid agencies pay certain classes of nursing facilities an aggregate amount for services that exceed the amount that is paid for the same services furnished by that class of nursing facilities under medicare payment principles.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>"Value-based purchasing payments" means supplemental payments effective in state fiscal year 2021 made to providers for reaching department-selected quality indicators. History: [56-1503, added 2009, ch. 221, sec. 1, p. 687; am. 2018, ch. 49, sec. 1, p. 125.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1503. Definitions. As used in this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"CMS" means the centers for medicare and medicaid.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Fiscal year" means the time period from July 1 to June 30.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Fund" means the nursing facility assessment fund established pursuant to section 56-1504 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Net patient service revenue" means gross revenue from services provided to nursing facility patients, less reductions from gross revenue resulting from an inability to collect payment of charges. Patient service revenue excludes nonpatient care revenue such as beauty and barber, vending income, interest and contributions, revenue from sale of meals and all outpatient revenue. Reductions from gross revenue includes: bad debts; contractual adjustments; uncompensated care; administrative, courtesy and policy discounts and adjustments; and other such revenue deductions.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Nursing facility" means a nursing facility as defined in section 39-1301 , Idaho Code, and licensed pursuant to chapter 13, title 39 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Resident day" means a calendar day of care provided to a nursing facility resident, including the day of admission and excluding the day of discharge, provided that one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>resident day shall be deemed to exist when admission and discharge occur on the same day.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Medicare part A resident days" means those resident days funded by the medicare program or by a medicare advantage or special needs plan.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_9">
+            <akn:num>(9)</akn:num>
+            <akn:content>
+              <akn:p>"Upper payment limit" means the limitation established by federal regulations, 42 CFR 447.272, that disallows federal matching funds when state medicaid agencies pay certain classes of nursing facilities an aggregate amount for services that exceed the amount that is paid for the same services furnished by that class of nursing facilities under medicare payment principles.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>"Value-based purchasing payments" means supplemental payments effective in state fiscal year 2021 made to providers for reaching department-selected quality indicators. History: [56-1503, added 2009, ch. 221, sec. 1, p. 687; am. 2018, ch. 49, sec. 1, p. 125.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1503. Definitions. As used in this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"CMS" means the centers for medicare and medicaid.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Fiscal year" means the time period from July 1 to June 30.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Fund" means the nursing facility assessment fund established pursuant to section 56-1504 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Net patient service revenue" means gross revenue from services provided to nursing facility patients, less reductions from gross revenue resulting from an inability to collect payment of charges. Patient service revenue excludes nonpatient care revenue such as beauty and barber, vending income, interest and contributions, revenue from sale of meals and all outpatient revenue. Reductions from gross revenue includes: bad debts; contractual adjustments; uncompensated care; administrative, courtesy and policy discounts and adjustments; and other such revenue deductions.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Nursing facility" means a nursing facility as defined in section 39-1301 , Idaho Code, and licensed pursuant to chapter 13, title 39 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Resident day" means a calendar day of care provided to a nursing facility resident, including the day of admission and excluding the day of discharge, provided that one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>resident day shall be deemed to exist when admission and discharge occur on the same day.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Medicare part A resident days" means those resident days funded by the medicare program or by a medicare advantage or special needs plan.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_9">
+            <akn:num>(9)</akn:num>
+            <akn:content>
+              <akn:p>"Upper payment limit" means the limitation established by federal regulations, 42 CFR 447.272, that disallows federal matching funds when state medicaid agencies pay certain classes of nursing facilities an aggregate amount for services that exceed the amount that is paid for the same services furnished by that class of nursing facilities under medicare payment principles.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>"Value-based purchasing payments" means supplemental payments effective in state fiscal year 2021 made to providers for reaching department-selected quality indicators. History: [56-1503, added 2009, ch. 221, sec. 1, p. 687; am. 2018, ch. 49, sec. 1, p. 125.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1503. Definitions. As used in this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"CMS" means the centers for medicare and medicaid.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Fiscal year" means the time period from July 1 to June 30.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Fund" means the nursing facility assessment fund established pursuant to section 56-1504 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Net patient service revenue" means gross revenue from services provided to nursing facility patients, less reductions from gross revenue resulting from an inability to collect payment of charges. Patient service revenue excludes nonpatient care revenue such as beauty and barber, vending income, interest and contributions, revenue from sale of meals and all outpatient revenue. Reductions from gross revenue includes: bad debts; contractual adjustments; uncompensated care; administrative, courtesy and policy discounts and adjustments; and other such revenue deductions.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Nursing facility" means a nursing facility as defined in section 39-1301 , Idaho Code, and licensed pursuant to chapter 13, title 39 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Resident day" means a calendar day of care provided to a nursing facility resident, including the day of admission and excluding the day of discharge, provided that one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>resident day shall be deemed to exist when admission and discharge occur on the same day.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Medicare part A resident days" means those resident days funded by the medicare program or by a medicare advantage or special needs plan.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_9">
+            <akn:num>(9)</akn:num>
+            <akn:content>
+              <akn:p>"Upper payment limit" means the limitation established by federal regulations, 42 CFR 447.272, that disallows federal matching funds when state medicaid agencies pay certain classes of nursing facilities an aggregate amount for services that exceed the amount that is paid for the same services furnished by that class of nursing facilities under medicare payment principles.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>"Value-based purchasing payments" means supplemental payments effective in state fiscal year 2021 made to providers for reaching department-selected quality indicators. History: [56-1503, added 2009, ch. 221, sec. 1, p. 687; am. 2018, ch. 49, sec. 1, p. 125.]
+56-1503. Definitions. As used in this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"CMS" means the centers for medicare and medicaid.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Fiscal year" means the time period from July 1 to June 30.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Fund" means the nursing facility assessment fund established pursuant to section 56-1504 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Net patient service revenue" means gross revenue from services provided to nursing facility patients, less reductions from gross revenue resulting from an inability to collect payment of charges. Patient service revenue excludes nonpatient care revenue such as beauty and barber, vending income, interest and contributions, revenue from sale of meals and all outpatient revenue. Reductions from gross revenue includes: bad debts; contractual adjustments; uncompensated care; administrative, courtesy and policy discounts and adjustments; and other such revenue deductions.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Nursing facility" means a nursing facility as defined in section 39-1301 , Idaho Code, and licensed pursuant to chapter 13, title 39 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Resident day" means a calendar day of care provided to a nursing facility resident, including the day of admission and excluding the day of discharge, provided that one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>resident day shall be deemed to exist when admission and discharge occur on the same day.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Medicare part A resident days" means those resident days funded by the medicare program or by a medicare advantage or special needs plan.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_9">
+            <akn:num>(9)</akn:num>
+            <akn:content>
+              <akn:p>"Upper payment limit" means the limitation established by federal regulations, 42 CFR 447.272, that disallows federal matching funds when state medicaid agencies pay certain classes of nursing facilities an aggregate amount for services that exceed the amount that is paid for the same services furnished by that class of nursing facilities under medicare payment principles.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1503__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>"Value-based purchasing payments" means supplemental payments effective in state fiscal year 2021 made to providers for reaching department-selected quality indicators.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1504">
+          <akn:num>56-1504</akn:num>
+          <akn:heading>nursing facility assessment fund</akn:heading>
+          <akn:subsection eId="56_1504__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>All moneys collected or received by the department from nursing facility assessments required pursuant to this chapter;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>All federal matching funds received by the department as a result of expenditures made by the department that are attributable to moneys deposited in the fund;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any interest or penalties levied in conjunction with the administration of this chapter; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Any appropriations, federal funds, donations, gifts or moneys from any other sources.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1504__subsec_d__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The fund is created for the purpose of receiving moneys in accordance with this section. Collected assessment funds shall be used to secure federal matching funds available through the state medicaid plan, which funds shall be used to make medicaid payments for nursing facility services that equal or exceed the amount of nursing facility medicaid rates, in the aggregate, as calculated in accordance with the approved state medicaid plan in effect on June 30, 2009. The fund shall be used exclusively for the following purposes:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>To pay administrative expenses incurred by the department or its agent in performing the activities authorized pursuant to this chapter, provided that such expenses shall not exceed a total of one percent (1%) of the aggregate assessment funds collected for the prior fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>To reimburse the medicaid share of the assessment in accordance with IDAPA 16.03.10.264.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>To provide financial incentives for nursing facilities to improve quality to be implemented as value-based purchasing payments in state fiscal year 2021 based on performance data from the prior state fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>To increase nursing facility payments to fund covered services to medicaid beneficiaries within medicare upper payment limits, as negotiated with the department.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>To repay the federal government any excess payments made to nursing facilities if the state plan, once approved by CMS, is subsequently disapproved for any reason, and after the state has appealed the findings. Nursing facilities shall refund the excess payments in question to the assessment fund. The state, in turn, shall return funds to both the federal government and nursing facility providers in the same proportion as the original financing. Individual nursing facilities shall be reimbursed based on the proportion of the individual nursing facility’s assessment to the total assessment paid by nursing facilities. If a nursing facility is unable to refund payments, the state shall develop a payment plan and deduct moneys from future medicaid payments. The state will refund the federal government for the federal share of these overpayments. History: [56-1504, added 2011, ch. 164, sec. 23, p. 477; am. 2018, ch. 49, sec. 2, p. 126; am. 2025, ch. 82, sec. 70, p. 373.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1504. nursing facility assessment fund.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1504__subsec_e__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>There is hereby created in the office of the state treasurer a dedicated fund to be known as the nursing facility assessment fund, hereinafter the "fund," to be administered by the department. The state treasurer shall invest idle moneys in the fund and any interest received on those investments shall be returned to the fund.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1504__subsec_e__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>Moneys in the fund shall consist of:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>All moneys collected or received by the department from nursing facility assessments required pursuant to this chapter;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>All federal matching funds received by the department as a result of expenditures made by the department that are attributable to moneys deposited in the fund;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any interest or penalties levied in conjunction with the administration of this chapter; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Any appropriations, federal funds, donations, gifts or moneys from any other sources.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1504__subsec_d__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The fund is created for the purpose of receiving moneys in accordance with this section. Collected assessment funds shall be used to secure federal matching funds available through the state medicaid plan, which funds shall be used to make medicaid payments for nursing facility services that equal or exceed the amount of nursing facility medicaid rates, in the aggregate, as calculated in accordance with the approved state medicaid plan in effect on June 30, 2009. The fund shall be used exclusively for the following purposes:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>To pay administrative expenses incurred by the department or its agent in performing the activities authorized pursuant to this chapter, provided that such expenses shall not exceed a total of one percent (1%) of the aggregate assessment funds collected for the prior fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>To reimburse the medicaid share of the assessment in accordance with IDAPA 16.03.10.264.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>To provide financial incentives for nursing facilities to improve quality to be implemented as value-based purchasing payments in state fiscal year 2021 based on performance data from the prior state fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>To increase nursing facility payments to fund covered services to medicaid beneficiaries within medicare upper payment limits, as negotiated with the department.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>To repay the federal government any excess payments made to nursing facilities if the state plan, once approved by CMS, is subsequently disapproved for any reason, and after the state has appealed the findings. Nursing facilities shall refund the excess payments in question to the assessment fund. The state, in turn, shall return funds to both the federal government and nursing facility providers in the same proportion as the original financing. Individual nursing facilities shall be reimbursed based on the proportion of the individual nursing facility’s assessment to the total assessment paid by nursing facilities. If a nursing facility is unable to refund payments, the state shall develop a payment plan and deduct moneys from future medicaid payments. The state will refund the federal government for the federal share of these overpayments. History: [56-1504, added 2011, ch. 164, sec. 23, p. 477; am. 2018, ch. 49, sec. 2, p. 126; am. 2025, ch. 82, sec. 70, p. 373.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1504. nursing facility assessment fund.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1504__subsec_e__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>There is hereby created in the office of the state treasurer a dedicated fund to be known as the nursing facility assessment fund, hereinafter the "fund," to be administered by the department. The state treasurer shall invest idle moneys in the fund and any interest received on those investments shall be returned to the fund.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1504__subsec_e__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>Moneys in the fund shall consist of:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>All moneys collected or received by the department from nursing facility assessments required pursuant to this chapter;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>All federal matching funds received by the department as a result of expenditures made by the department that are attributable to moneys deposited in the fund;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any interest or penalties levied in conjunction with the administration of this chapter; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Any appropriations, federal funds, donations, gifts or moneys from any other sources.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1504__subsec_d__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The fund is created for the purpose of receiving moneys in accordance with this section. Collected assessment funds shall be used to secure federal matching funds available through the state medicaid plan, which funds shall be used to make medicaid payments for nursing facility services that equal or exceed the amount of nursing facility medicaid rates, in the aggregate, as calculated in accordance with the approved state medicaid plan in effect on June 30, 2009. The fund shall be used exclusively for the following purposes:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>To pay administrative expenses incurred by the department or its agent in performing the activities authorized pursuant to this chapter, provided that such expenses shall not exceed a total of one percent (1%) of the aggregate assessment funds collected for the prior fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>To reimburse the medicaid share of the assessment in accordance with IDAPA 16.03.10.264.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>To provide financial incentives for nursing facilities to improve quality to be implemented as value-based purchasing payments in state fiscal year 2021 based on performance data from the prior state fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>To increase nursing facility payments to fund covered services to medicaid beneficiaries within medicare upper payment limits, as negotiated with the department.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>To repay the federal government any excess payments made to nursing facilities if the state plan, once approved by CMS, is subsequently disapproved for any reason, and after the state has appealed the findings. Nursing facilities shall refund the excess payments in question to the assessment fund. The state, in turn, shall return funds to both the federal government and nursing facility providers in the same proportion as the original financing. Individual nursing facilities shall be reimbursed based on the proportion of the individual nursing facility’s assessment to the total assessment paid by nursing facilities. If a nursing facility is unable to refund payments, the state shall develop a payment plan and deduct moneys from future medicaid payments. The state will refund the federal government for the federal share of these overpayments. History: [56-1504, added 2011, ch. 164, sec. 23, p. 477; am. 2018, ch. 49, sec. 2, p. 126; am. 2025, ch. 82, sec. 70, p. 373.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1504. nursing facility assessment fund.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1504__subsec_e__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>There is hereby created in the office of the state treasurer a dedicated fund to be known as the nursing facility assessment fund, hereinafter the "fund," to be administered by the department. The state treasurer shall invest idle moneys in the fund and any interest received on those investments shall be returned to the fund.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1504__subsec_e__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>Moneys in the fund shall consist of:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>All moneys collected or received by the department from nursing facility assessments required pursuant to this chapter;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>All federal matching funds received by the department as a result of expenditures made by the department that are attributable to moneys deposited in the fund;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any interest or penalties levied in conjunction with the administration of this chapter; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Any appropriations, federal funds, donations, gifts or moneys from any other sources.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1504__subsec_d__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The fund is created for the purpose of receiving moneys in accordance with this section. Collected assessment funds shall be used to secure federal matching funds available through the state medicaid plan, which funds shall be used to make medicaid payments for nursing facility services that equal or exceed the amount of nursing facility medicaid rates, in the aggregate, as calculated in accordance with the approved state medicaid plan in effect on June 30, 2009. The fund shall be used exclusively for the following purposes:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>To pay administrative expenses incurred by the department or its agent in performing the activities authorized pursuant to this chapter, provided that such expenses shall not exceed a total of one percent (1%) of the aggregate assessment funds collected for the prior fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>To reimburse the medicaid share of the assessment in accordance with IDAPA 16.03.10.264.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>To provide financial incentives for nursing facilities to improve quality to be implemented as value-based purchasing payments in state fiscal year 2021 based on performance data from the prior state fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>To increase nursing facility payments to fund covered services to medicaid beneficiaries within medicare upper payment limits, as negotiated with the department.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>To repay the federal government any excess payments made to nursing facilities if the state plan, once approved by CMS, is subsequently disapproved for any reason, and after the state has appealed the findings. Nursing facilities shall refund the excess payments in question to the assessment fund. The state, in turn, shall return funds to both the federal government and nursing facility providers in the same proportion as the original financing. Individual nursing facilities shall be reimbursed based on the proportion of the individual nursing facility’s assessment to the total assessment paid by nursing facilities. If a nursing facility is unable to refund payments, the state shall develop a payment plan and deduct moneys from future medicaid payments. The state will refund the federal government for the federal share of these overpayments. History: [56-1504, added 2011, ch. 164, sec. 23, p. 477; am. 2018, ch. 49, sec. 2, p. 126; am. 2025, ch. 82, sec. 70, p. 373.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1504. nursing facility assessment fund.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1504__subsec_e__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>There is hereby created in the office of the state treasurer a dedicated fund to be known as the nursing facility assessment fund, hereinafter the "fund," to be administered by the department. The state treasurer shall invest idle moneys in the fund and any interest received on those investments shall be returned to the fund.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1504__subsec_e__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>Moneys in the fund shall consist of:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>All moneys collected or received by the department from nursing facility assessments required pursuant to this chapter;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>All federal matching funds received by the department as a result of expenditures made by the department that are attributable to moneys deposited in the fund;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any interest or penalties levied in conjunction with the administration of this chapter; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Any appropriations, federal funds, donations, gifts or moneys from any other sources.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1504__subsec_d__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The fund is created for the purpose of receiving moneys in accordance with this section. Collected assessment funds shall be used to secure federal matching funds available through the state medicaid plan, which funds shall be used to make medicaid payments for nursing facility services that equal or exceed the amount of nursing facility medicaid rates, in the aggregate, as calculated in accordance with the approved state medicaid plan in effect on June 30, 2009. The fund shall be used exclusively for the following purposes:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>To pay administrative expenses incurred by the department or its agent in performing the activities authorized pursuant to this chapter, provided that such expenses shall not exceed a total of one percent (1%) of the aggregate assessment funds collected for the prior fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>To reimburse the medicaid share of the assessment in accordance with IDAPA 16.03.10.264.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>To provide financial incentives for nursing facilities to improve quality to be implemented as value-based purchasing payments in state fiscal year 2021 based on performance data from the prior state fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>To increase nursing facility payments to fund covered services to medicaid beneficiaries within medicare upper payment limits, as negotiated with the department.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>To repay the federal government any excess payments made to nursing facilities if the state plan, once approved by CMS, is subsequently disapproved for any reason, and after the state has appealed the findings. Nursing facilities shall refund the excess payments in question to the assessment fund. The state, in turn, shall return funds to both the federal government and nursing facility providers in the same proportion as the original financing. Individual nursing facilities shall be reimbursed based on the proportion of the individual nursing facility’s assessment to the total assessment paid by nursing facilities. If a nursing facility is unable to refund payments, the state shall develop a payment plan and deduct moneys from future medicaid payments. The state will refund the federal government for the federal share of these overpayments. History: [56-1504, added 2011, ch. 164, sec. 23, p. 477; am. 2018, ch. 49, sec. 2, p. 126; am. 2025, ch. 82, sec. 70, p. 373.]
+56-1504. nursing facility assessment fund.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1504__subsec_e__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>There is hereby created in the office of the state treasurer a dedicated fund to be known as the nursing facility assessment fund, hereinafter the "fund," to be administered by the department. The state treasurer shall invest idle moneys in the fund and any interest received on those investments shall be returned to the fund.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1504__subsec_e__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>Moneys in the fund shall consist of:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>All moneys collected or received by the department from nursing facility assessments required pursuant to this chapter;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>All federal matching funds received by the department as a result of expenditures made by the department that are attributable to moneys deposited in the fund;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any interest or penalties levied in conjunction with the administration of this chapter; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Any appropriations, federal funds, donations, gifts or moneys from any other sources.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1504__subsec_d__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The fund is created for the purpose of receiving moneys in accordance with this section. Collected assessment funds shall be used to secure federal matching funds available through the state medicaid plan, which funds shall be used to make medicaid payments for nursing facility services that equal or exceed the amount of nursing facility medicaid rates, in the aggregate, as calculated in accordance with the approved state medicaid plan in effect on June 30, 2009. The fund shall be used exclusively for the following purposes:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>To pay administrative expenses incurred by the department or its agent in performing the activities authorized pursuant to this chapter, provided that such expenses shall not exceed a total of one percent (1%) of the aggregate assessment funds collected for the prior fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>To reimburse the medicaid share of the assessment in accordance with IDAPA 16.03.10.264.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>To provide financial incentives for nursing facilities to improve quality to be implemented as value-based purchasing payments in state fiscal year 2021 based on performance data from the prior state fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>To increase nursing facility payments to fund covered services to medicaid beneficiaries within medicare upper payment limits, as negotiated with the department.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1504__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>To repay the federal government any excess payments made to nursing facilities if the state plan, once approved by CMS, is subsequently disapproved for any reason, and after the state has appealed the findings. Nursing facilities shall refund the excess payments in question to the assessment fund. The state, in turn, shall return funds to both the federal government and nursing facility providers in the same proportion as the original financing. Individual nursing facilities shall be reimbursed based on the proportion of the individual nursing facility’s assessment to the total assessment paid by nursing facilities. If a nursing facility is unable to refund payments, the state shall develop a payment plan and deduct moneys from future medicaid payments. The state will refund the federal government for the federal share of these overpayments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1505">
+          <akn:num>56-1505</akn:num>
+          <akn:heading>nursing facility assessments</akn:heading>
+          <akn:subsection eId="56_1505__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Nursing facilities shall pay the nursing facility assessment to the fund in accordance with the provisions of this chapter, with the exception of state and county-owned facilities, which are not required to contribute.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The aggregated amount of assessments for all nursing facilities, during a fiscal year, shall be an amount not exceeding the maximum percentage allowed under federal law of the total aggregate net patient service revenue of assessed facilities from each provider’s prior fiscal year. The department shall determine the assessment rate prospectively for the applicable fiscal year on a per-resident-day basis, exclusive of medicare part A resident days. The per-resident-day assessment rate shall be uniform. The department shall notify nursing facilities of the assessment rate applicable to the fiscal year by August 30 of that fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The department shall collect, and each nursing facility shall pay, the nursing facility assessment on an annual basis subject to the terms of this subsection. The nursing facility assessment shall be due annually, with the initial payment due within sixty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_60">
+            <akn:num>(60)</akn:num>
+            <akn:content>
+              <akn:p>days after the state plan has been approved by CMS. Subsequent annual payments are due no later than thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after receipt of the department invoice.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Nursing facilities may increase their charges to other payers to incorporate the assessment but shall not create a separate line-item charge on the bill reflecting the assessment. History: [56-1505, added 2011, ch. 164, sec. 23, p. 478; am. 2020, ch. 35, sec. 3, p. 71; am. 2025, ch. 82, sec. 71, p. 374.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1505. nursing facility assessments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Nursing facilities shall pay the nursing facility assessment to the fund in accordance with the provisions of this chapter, with the exception of state and county-owned facilities, which are not required to contribute.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The aggregated amount of assessments for all nursing facilities, during a fiscal year, shall be an amount not exceeding the maximum percentage allowed under federal law of the total aggregate net patient service revenue of assessed facilities from each provider’s prior fiscal year. The department shall determine the assessment rate prospectively for the applicable fiscal year on a per-resident-day basis, exclusive of medicare part A resident days. The per-resident-day assessment rate shall be uniform. The department shall notify nursing facilities of the assessment rate applicable to the fiscal year by August 30 of that fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The department shall collect, and each nursing facility shall pay, the nursing facility assessment on an annual basis subject to the terms of this subsection. The nursing facility assessment shall be due annually, with the initial payment due within sixty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_60">
+            <akn:num>(60)</akn:num>
+            <akn:content>
+              <akn:p>days after the state plan has been approved by CMS. Subsequent annual payments are due no later than thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after receipt of the department invoice.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Nursing facilities may increase their charges to other payers to incorporate the assessment but shall not create a separate line-item charge on the bill reflecting the assessment. History: [56-1505, added 2011, ch. 164, sec. 23, p. 478; am. 2020, ch. 35, sec. 3, p. 71; am. 2025, ch. 82, sec. 71, p. 374.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1505. nursing facility assessments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Nursing facilities shall pay the nursing facility assessment to the fund in accordance with the provisions of this chapter, with the exception of state and county-owned facilities, which are not required to contribute.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The aggregated amount of assessments for all nursing facilities, during a fiscal year, shall be an amount not exceeding the maximum percentage allowed under federal law of the total aggregate net patient service revenue of assessed facilities from each provider’s prior fiscal year. The department shall determine the assessment rate prospectively for the applicable fiscal year on a per-resident-day basis, exclusive of medicare part A resident days. The per-resident-day assessment rate shall be uniform. The department shall notify nursing facilities of the assessment rate applicable to the fiscal year by August 30 of that fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The department shall collect, and each nursing facility shall pay, the nursing facility assessment on an annual basis subject to the terms of this subsection. The nursing facility assessment shall be due annually, with the initial payment due within sixty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_60">
+            <akn:num>(60)</akn:num>
+            <akn:content>
+              <akn:p>days after the state plan has been approved by CMS. Subsequent annual payments are due no later than thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after receipt of the department invoice.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Nursing facilities may increase their charges to other payers to incorporate the assessment but shall not create a separate line-item charge on the bill reflecting the assessment. History: [56-1505, added 2011, ch. 164, sec. 23, p. 478; am. 2020, ch. 35, sec. 3, p. 71; am. 2025, ch. 82, sec. 71, p. 374.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1505. nursing facility assessments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Nursing facilities shall pay the nursing facility assessment to the fund in accordance with the provisions of this chapter, with the exception of state and county-owned facilities, which are not required to contribute.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The aggregated amount of assessments for all nursing facilities, during a fiscal year, shall be an amount not exceeding the maximum percentage allowed under federal law of the total aggregate net patient service revenue of assessed facilities from each provider’s prior fiscal year. The department shall determine the assessment rate prospectively for the applicable fiscal year on a per-resident-day basis, exclusive of medicare part A resident days. The per-resident-day assessment rate shall be uniform. The department shall notify nursing facilities of the assessment rate applicable to the fiscal year by August 30 of that fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The department shall collect, and each nursing facility shall pay, the nursing facility assessment on an annual basis subject to the terms of this subsection. The nursing facility assessment shall be due annually, with the initial payment due within sixty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_60">
+            <akn:num>(60)</akn:num>
+            <akn:content>
+              <akn:p>days after the state plan has been approved by CMS. Subsequent annual payments are due no later than thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after receipt of the department invoice.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Nursing facilities may increase their charges to other payers to incorporate the assessment but shall not create a separate line-item charge on the bill reflecting the assessment. History: [56-1505, added 2011, ch. 164, sec. 23, p. 478; am. 2020, ch. 35, sec. 3, p. 71; am. 2025, ch. 82, sec. 71, p. 374.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1505. nursing facility assessments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Nursing facilities shall pay the nursing facility assessment to the fund in accordance with the provisions of this chapter, with the exception of state and county-owned facilities, which are not required to contribute.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The aggregated amount of assessments for all nursing facilities, during a fiscal year, shall be an amount not exceeding the maximum percentage allowed under federal law of the total aggregate net patient service revenue of assessed facilities from each provider’s prior fiscal year. The department shall determine the assessment rate prospectively for the applicable fiscal year on a per-resident-day basis, exclusive of medicare part A resident days. The per-resident-day assessment rate shall be uniform. The department shall notify nursing facilities of the assessment rate applicable to the fiscal year by August 30 of that fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The department shall collect, and each nursing facility shall pay, the nursing facility assessment on an annual basis subject to the terms of this subsection. The nursing facility assessment shall be due annually, with the initial payment due within sixty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_60">
+            <akn:num>(60)</akn:num>
+            <akn:content>
+              <akn:p>days after the state plan has been approved by CMS. Subsequent annual payments are due no later than thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after receipt of the department invoice.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Nursing facilities may increase their charges to other payers to incorporate the assessment but shall not create a separate line-item charge on the bill reflecting the assessment. History: [56-1505, added 2011, ch. 164, sec. 23, p. 478; am. 2020, ch. 35, sec. 3, p. 71; am. 2025, ch. 82, sec. 71, p. 374.]
+56-1505. nursing facility assessments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Nursing facilities shall pay the nursing facility assessment to the fund in accordance with the provisions of this chapter, with the exception of state and county-owned facilities, which are not required to contribute.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The aggregated amount of assessments for all nursing facilities, during a fiscal year, shall be an amount not exceeding the maximum percentage allowed under federal law of the total aggregate net patient service revenue of assessed facilities from each provider’s prior fiscal year. The department shall determine the assessment rate prospectively for the applicable fiscal year on a per-resident-day basis, exclusive of medicare part A resident days. The per-resident-day assessment rate shall be uniform. The department shall notify nursing facilities of the assessment rate applicable to the fiscal year by August 30 of that fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The department shall collect, and each nursing facility shall pay, the nursing facility assessment on an annual basis subject to the terms of this subsection. The nursing facility assessment shall be due annually, with the initial payment due within sixty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_60">
+            <akn:num>(60)</akn:num>
+            <akn:content>
+              <akn:p>days after the state plan has been approved by CMS. Subsequent annual payments are due no later than thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after receipt of the department invoice.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1505__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Nursing facilities may increase their charges to other payers to incorporate the assessment but shall not create a separate line-item charge on the bill reflecting the assessment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1509">
+          <akn:num>56-1509</akn:num>
+          <akn:heading>Penalties for failure to pay assessment</akn:heading>
+          <akn:subsection eId="56_1509__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>If a nursing facility fails to pay the full amount of a nursing facility assessment when due, there shall be added to the assessment, unless waived by the department for reasonable cause, a penalty equal to five percent (5%) of the amount of the assessment that was not paid when due. Any subsequent payments shall be credited first to unpaid assessment amounts rather than to penalty or interest amounts, beginning with the most delinquent installment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1509__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>In addition to the penalty identified in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1509__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section, the department may seek any of the following remedies for failure of any nursing facility to pay its assessment when due: (a)  Withhold any medical assistance reimbursement payments until such time as the assessment amount is paid in full; (b)  Suspend or revoke the nursing facility license; or (c)  Develop a plan that requires the nursing facility to pay any delinquent assessment in installments. History: [56-1509, added 2009, ch. 221, sec. 1, p. 689.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1509. Penalties for failure to pay assessment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1509__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>If a nursing facility fails to pay the full amount of a nursing facility assessment when due, there shall be added to the assessment, unless waived by the department for reasonable cause, a penalty equal to five percent (5%) of the amount of the assessment that was not paid when due. Any subsequent payments shall be credited first to unpaid assessment amounts rather than to penalty or interest amounts, beginning with the most delinquent installment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1509__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>In addition to the penalty identified in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1509__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section, the department may seek any of the following remedies for failure of any nursing facility to pay its assessment when due: (a)  Withhold any medical assistance reimbursement payments until such time as the assessment amount is paid in full; (b)  Suspend or revoke the nursing facility license; or (c)  Develop a plan that requires the nursing facility to pay any delinquent assessment in installments. History: [56-1509, added 2009, ch. 221, sec. 1, p. 689.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1509. Penalties for failure to pay assessment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1509__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>If a nursing facility fails to pay the full amount of a nursing facility assessment when due, there shall be added to the assessment, unless waived by the department for reasonable cause, a penalty equal to five percent (5%) of the amount of the assessment that was not paid when due. Any subsequent payments shall be credited first to unpaid assessment amounts rather than to penalty or interest amounts, beginning with the most delinquent installment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1509__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>In addition to the penalty identified in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1509__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section, the department may seek any of the following remedies for failure of any nursing facility to pay its assessment when due: (a)  Withhold any medical assistance reimbursement payments until such time as the assessment amount is paid in full; (b)  Suspend or revoke the nursing facility license; or (c)  Develop a plan that requires the nursing facility to pay any delinquent assessment in installments. History: [56-1509, added 2009, ch. 221, sec. 1, p. 689.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1509. Penalties for failure to pay assessment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1509__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>If a nursing facility fails to pay the full amount of a nursing facility assessment when due, there shall be added to the assessment, unless waived by the department for reasonable cause, a penalty equal to five percent (5%) of the amount of the assessment that was not paid when due. Any subsequent payments shall be credited first to unpaid assessment amounts rather than to penalty or interest amounts, beginning with the most delinquent installment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1509__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>In addition to the penalty identified in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1509__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section, the department may seek any of the following remedies for failure of any nursing facility to pay its assessment when due: (a)  Withhold any medical assistance reimbursement payments until such time as the assessment amount is paid in full; (b)  Suspend or revoke the nursing facility license; or (c)  Develop a plan that requires the nursing facility to pay any delinquent assessment in installments. History: [56-1509, added 2009, ch. 221, sec. 1, p. 689.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 15 IDAHO SKILLED NURSING FACILITY ASSESSMENT ACT 56-1509. Penalties for failure to pay assessment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1509__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>If a nursing facility fails to pay the full amount of a nursing facility assessment when due, there shall be added to the assessment, unless waived by the department for reasonable cause, a penalty equal to five percent (5%) of the amount of the assessment that was not paid when due. Any subsequent payments shall be credited first to unpaid assessment amounts rather than to penalty or interest amounts, beginning with the most delinquent installment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1509__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>In addition to the penalty identified in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1509__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section, the department may seek any of the following remedies for failure of any nursing facility to pay its assessment when due: (a)  Withhold any medical assistance reimbursement payments until such time as the assessment amount is paid in full; (b)  Suspend or revoke the nursing facility license; or (c)  Develop a plan that requires the nursing facility to pay any delinquent assessment in installments. History: [56-1509, added 2009, ch. 221, sec. 1, p. 689.]
+56-1509. Penalties for failure to pay assessment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1509__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>If a nursing facility fails to pay the full amount of a nursing facility assessment when due, there shall be added to the assessment, unless waived by the department for reasonable cause, a penalty equal to five percent (5%) of the amount of the assessment that was not paid when due. Any subsequent payments shall be credited first to unpaid assessment amounts rather than to penalty or interest amounts, beginning with the most delinquent installment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1509__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>In addition to the penalty identified in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1509__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section, the department may seek any of the following remedies for failure of any nursing facility to pay its assessment when due:</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

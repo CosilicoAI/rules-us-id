@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-16" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-16" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="63-16" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-16/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-16/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-16/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-16/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_63_16">
+        <akn:num>Chapter 16</akn:num>
+        <akn:heading>Mines - Net Profits Tax</akn:heading>
+        <akn:section eId="sec_63_1601">
+          <akn:num>63-1601</akn:num>
+          <akn:heading>Declaration of intent</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1601. Declaration of intent. It is the intent of the legislature to make provisions available for the prepayment of a portion of certain taxpayers’ ad valorem taxes to minimize the impact on public facilities caused by new business operations within a county. History: [63-1601, added 1980, ch. 226, sec. 1, p. 505.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1601. Declaration of intent. It is the intent of the legislature to make provisions available for the prepayment of a portion of certain taxpayers’ ad valorem taxes to minimize the impact on public facilities caused by new business operations within a county. History: [63-1601, added 1980, ch. 226, sec. 1, p. 505.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1601. Declaration of intent. It is the intent of the legislature to make provisions available for the prepayment of a portion of certain taxpayers’ ad valorem taxes to minimize the impact on public facilities caused by new business operations within a county. History: [63-1601, added 1980, ch. 226, sec. 1, p. 505.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1601. Declaration of intent. It is the intent of the legislature to make provisions available for the prepayment of a portion of certain taxpayers’ ad valorem taxes to minimize the impact on public facilities caused by new business operations within a county. History: [63-1601, added 1980, ch. 226, sec. 1, p. 505.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1601. Declaration of intent. It is the intent of the legislature to make provisions available for the prepayment of a portion of certain taxpayers’ ad valorem taxes to minimize the impact on public facilities caused by new business operations within a county. History: [63-1601, added 1980, ch. 226, sec. 1, p. 505.]
+63-1601. Declaration of intent. It is the intent of the legislature to make provisions available for the prepayment of a portion of certain taxpayers’ ad valorem taxes to minimize the impact on public facilities caused by new business operations within a county.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_1602">
+          <akn:num>63-1602</akn:num>
+          <akn:heading>Petition for permission to prepay taxes</akn:heading>
+          <akn:subsection eId="63_1602__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>A statement that the taxpayer intends to engage or is engaged in new business operations and that such operations will have an impact on public facilities in the county;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>A declaration that the taxpayer has or will have taxable property in the county and taxing districts during the term of the impact period, which shall not exceed ten</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_1602__subsec_b__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>years;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>A request that the taxpayer be allowed to prepay a portion, but not to exceed fifty percent (50%) of the estimated ad valorem taxes that will be due during the first one-half of the term of the impact period, which shall not exceed ten</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_1602__subsec_c__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>years; and</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>A request that a local impact committee be organized. History: [63-1602, added 1980, ch. 226, sec. 1, p. 505.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1602. Petition for permission to prepay taxes. In order to minimize the impact on public facilities as a result of new business operations and to permit affected taxing districts to use prepaid ad valorem taxes for planning, construction, expansion, or operation of public facilities, any taxpayer seeking to prepay ad valorem taxes shall petition the board of county commissioners in the applicable county. The petition, in addition to such information as the taxpayer may choose to present, shall contain the following:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>A statement that the taxpayer intends to engage or is engaged in new business operations and that such operations will have an impact on public facilities in the county;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>A declaration that the taxpayer has or will have taxable property in the county and taxing districts during the term of the impact period, which shall not exceed ten</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_1602__subsec_b__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>years;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>A request that the taxpayer be allowed to prepay a portion, but not to exceed fifty percent (50%) of the estimated ad valorem taxes that will be due during the first one-half of the term of the impact period, which shall not exceed ten</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_1602__subsec_c__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>years; and</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>A request that a local impact committee be organized. History: [63-1602, added 1980, ch. 226, sec. 1, p. 505.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1602. Petition for permission to prepay taxes. In order to minimize the impact on public facilities as a result of new business operations and to permit affected taxing districts to use prepaid ad valorem taxes for planning, construction, expansion, or operation of public facilities, any taxpayer seeking to prepay ad valorem taxes shall petition the board of county commissioners in the applicable county. The petition, in addition to such information as the taxpayer may choose to present, shall contain the following:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>A statement that the taxpayer intends to engage or is engaged in new business operations and that such operations will have an impact on public facilities in the county;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>A declaration that the taxpayer has or will have taxable property in the county and taxing districts during the term of the impact period, which shall not exceed ten</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_1602__subsec_b__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>years;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>A request that the taxpayer be allowed to prepay a portion, but not to exceed fifty percent (50%) of the estimated ad valorem taxes that will be due during the first one-half of the term of the impact period, which shall not exceed ten</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_1602__subsec_c__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>years; and</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>A request that a local impact committee be organized. History: [63-1602, added 1980, ch. 226, sec. 1, p. 505.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1602. Petition for permission to prepay taxes. In order to minimize the impact on public facilities as a result of new business operations and to permit affected taxing districts to use prepaid ad valorem taxes for planning, construction, expansion, or operation of public facilities, any taxpayer seeking to prepay ad valorem taxes shall petition the board of county commissioners in the applicable county. The petition, in addition to such information as the taxpayer may choose to present, shall contain the following:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>A statement that the taxpayer intends to engage or is engaged in new business operations and that such operations will have an impact on public facilities in the county;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>A declaration that the taxpayer has or will have taxable property in the county and taxing districts during the term of the impact period, which shall not exceed ten</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_1602__subsec_b__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>years;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>A request that the taxpayer be allowed to prepay a portion, but not to exceed fifty percent (50%) of the estimated ad valorem taxes that will be due during the first one-half of the term of the impact period, which shall not exceed ten</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_1602__subsec_c__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>years; and</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>A request that a local impact committee be organized. History: [63-1602, added 1980, ch. 226, sec. 1, p. 505.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1602. Petition for permission to prepay taxes. In order to minimize the impact on public facilities as a result of new business operations and to permit affected taxing districts to use prepaid ad valorem taxes for planning, construction, expansion, or operation of public facilities, any taxpayer seeking to prepay ad valorem taxes shall petition the board of county commissioners in the applicable county. The petition, in addition to such information as the taxpayer may choose to present, shall contain the following:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>A statement that the taxpayer intends to engage or is engaged in new business operations and that such operations will have an impact on public facilities in the county;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>A declaration that the taxpayer has or will have taxable property in the county and taxing districts during the term of the impact period, which shall not exceed ten</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_1602__subsec_b__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>years;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>A request that the taxpayer be allowed to prepay a portion, but not to exceed fifty percent (50%) of the estimated ad valorem taxes that will be due during the first one-half of the term of the impact period, which shall not exceed ten</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_1602__subsec_c__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>years; and</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>A request that a local impact committee be organized. History: [63-1602, added 1980, ch. 226, sec. 1, p. 505.]
+63-1602. Petition for permission to prepay taxes. In order to minimize the impact on public facilities as a result of new business operations and to permit affected taxing districts to use prepaid ad valorem taxes for planning, construction, expansion, or operation of public facilities, any taxpayer seeking to prepay ad valorem taxes shall petition the board of county commissioners in the applicable county. The petition, in addition to such information as the taxpayer may choose to present, shall contain the following:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>A statement that the taxpayer intends to engage or is engaged in new business operations and that such operations will have an impact on public facilities in the county;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>A declaration that the taxpayer has or will have taxable property in the county and taxing districts during the term of the impact period, which shall not exceed ten</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_1602__subsec_b__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>years;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>A request that the taxpayer be allowed to prepay a portion, but not to exceed fifty percent (50%) of the estimated ad valorem taxes that will be due during the first one-half of the term of the impact period, which shall not exceed ten</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_1602__subsec_c__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>years; and</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_1602__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>A request that a local impact committee be organized.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_1603">
+          <akn:num>63-1603</akn:num>
+          <akn:heading>Hearing and order</akn:heading>
+          <akn:subsection eId="63_1603__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>On receipt of a petition from a taxpayer pursuant to section 63-1602 , Idaho Code, the board of county commissioners shall: (a)  Within five</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>days of receipt of such petition, forward a copy of the petition to the chairman of the governing board of each taxing district in which any part of the property of the taxpayer is or will be situated during the term of the impact period; and (b)  Within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days of receipt of such petition hold one or more public hearings at which the taxpayer, all taxing districts to which the petition was forwarded, and interested persons may appear and be heard relative to the impact on public facilities in such county and the matters contained in the taxpayer’s petition.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Within fifteen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_15">
+            <akn:num>(15)</akn:num>
+            <akn:content>
+              <akn:p>days after the close of the hearings, the board shall enter an order either granting or denying the petition. (a)  If the petition is denied, the taxpayer may not reapply or file a new petition until the start of the next tax year. (b)  If the petition is granted, the board shall enter an order declaring: (i)  That the taxpayer intends to engage in or is engaged in new business operations in the county and that such operations will have an impact on public facilities in the county; (ii)  That the taxpayer has or will have taxable property in the county and taxing districts during the term of the impact period; (iii)  That the taxpayer be allowed to prepay a portion, but not to exceed fifty percent (50%) of the estimated ad valorem taxes that will accrue during the term of the impact period, and receive ad valorem tax credits for such prepaid taxes, in accordance with the provisions of this chapter; and (iv)  That a local impact committee be created. History: [63-1603, added 1980, ch. 226, sec. 1, p. 506.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1603. Hearing and order.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>On receipt of a petition from a taxpayer pursuant to section 63-1602 , Idaho Code, the board of county commissioners shall: (a)  Within five</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>days of receipt of such petition, forward a copy of the petition to the chairman of the governing board of each taxing district in which any part of the property of the taxpayer is or will be situated during the term of the impact period; and (b)  Within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days of receipt of such petition hold one or more public hearings at which the taxpayer, all taxing districts to which the petition was forwarded, and interested persons may appear and be heard relative to the impact on public facilities in such county and the matters contained in the taxpayer’s petition.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Within fifteen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_15">
+            <akn:num>(15)</akn:num>
+            <akn:content>
+              <akn:p>days after the close of the hearings, the board shall enter an order either granting or denying the petition. (a)  If the petition is denied, the taxpayer may not reapply or file a new petition until the start of the next tax year. (b)  If the petition is granted, the board shall enter an order declaring: (i)  That the taxpayer intends to engage in or is engaged in new business operations in the county and that such operations will have an impact on public facilities in the county; (ii)  That the taxpayer has or will have taxable property in the county and taxing districts during the term of the impact period; (iii)  That the taxpayer be allowed to prepay a portion, but not to exceed fifty percent (50%) of the estimated ad valorem taxes that will accrue during the term of the impact period, and receive ad valorem tax credits for such prepaid taxes, in accordance with the provisions of this chapter; and (iv)  That a local impact committee be created. History: [63-1603, added 1980, ch. 226, sec. 1, p. 506.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1603. Hearing and order.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>On receipt of a petition from a taxpayer pursuant to section 63-1602 , Idaho Code, the board of county commissioners shall: (a)  Within five</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>days of receipt of such petition, forward a copy of the petition to the chairman of the governing board of each taxing district in which any part of the property of the taxpayer is or will be situated during the term of the impact period; and (b)  Within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days of receipt of such petition hold one or more public hearings at which the taxpayer, all taxing districts to which the petition was forwarded, and interested persons may appear and be heard relative to the impact on public facilities in such county and the matters contained in the taxpayer’s petition.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Within fifteen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_15">
+            <akn:num>(15)</akn:num>
+            <akn:content>
+              <akn:p>days after the close of the hearings, the board shall enter an order either granting or denying the petition. (a)  If the petition is denied, the taxpayer may not reapply or file a new petition until the start of the next tax year. (b)  If the petition is granted, the board shall enter an order declaring: (i)  That the taxpayer intends to engage in or is engaged in new business operations in the county and that such operations will have an impact on public facilities in the county; (ii)  That the taxpayer has or will have taxable property in the county and taxing districts during the term of the impact period; (iii)  That the taxpayer be allowed to prepay a portion, but not to exceed fifty percent (50%) of the estimated ad valorem taxes that will accrue during the term of the impact period, and receive ad valorem tax credits for such prepaid taxes, in accordance with the provisions of this chapter; and (iv)  That a local impact committee be created. History: [63-1603, added 1980, ch. 226, sec. 1, p. 506.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1603. Hearing and order.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>On receipt of a petition from a taxpayer pursuant to section 63-1602 , Idaho Code, the board of county commissioners shall: (a)  Within five</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>days of receipt of such petition, forward a copy of the petition to the chairman of the governing board of each taxing district in which any part of the property of the taxpayer is or will be situated during the term of the impact period; and (b)  Within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days of receipt of such petition hold one or more public hearings at which the taxpayer, all taxing districts to which the petition was forwarded, and interested persons may appear and be heard relative to the impact on public facilities in such county and the matters contained in the taxpayer’s petition.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Within fifteen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_15">
+            <akn:num>(15)</akn:num>
+            <akn:content>
+              <akn:p>days after the close of the hearings, the board shall enter an order either granting or denying the petition. (a)  If the petition is denied, the taxpayer may not reapply or file a new petition until the start of the next tax year. (b)  If the petition is granted, the board shall enter an order declaring: (i)  That the taxpayer intends to engage in or is engaged in new business operations in the county and that such operations will have an impact on public facilities in the county; (ii)  That the taxpayer has or will have taxable property in the county and taxing districts during the term of the impact period; (iii)  That the taxpayer be allowed to prepay a portion, but not to exceed fifty percent (50%) of the estimated ad valorem taxes that will accrue during the term of the impact period, and receive ad valorem tax credits for such prepaid taxes, in accordance with the provisions of this chapter; and (iv)  That a local impact committee be created. History: [63-1603, added 1980, ch. 226, sec. 1, p. 506.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1603. Hearing and order.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>On receipt of a petition from a taxpayer pursuant to section 63-1602 , Idaho Code, the board of county commissioners shall: (a)  Within five</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>days of receipt of such petition, forward a copy of the petition to the chairman of the governing board of each taxing district in which any part of the property of the taxpayer is or will be situated during the term of the impact period; and (b)  Within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days of receipt of such petition hold one or more public hearings at which the taxpayer, all taxing districts to which the petition was forwarded, and interested persons may appear and be heard relative to the impact on public facilities in such county and the matters contained in the taxpayer’s petition.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Within fifteen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_15">
+            <akn:num>(15)</akn:num>
+            <akn:content>
+              <akn:p>days after the close of the hearings, the board shall enter an order either granting or denying the petition. (a)  If the petition is denied, the taxpayer may not reapply or file a new petition until the start of the next tax year. (b)  If the petition is granted, the board shall enter an order declaring: (i)  That the taxpayer intends to engage in or is engaged in new business operations in the county and that such operations will have an impact on public facilities in the county; (ii)  That the taxpayer has or will have taxable property in the county and taxing districts during the term of the impact period; (iii)  That the taxpayer be allowed to prepay a portion, but not to exceed fifty percent (50%) of the estimated ad valorem taxes that will accrue during the term of the impact period, and receive ad valorem tax credits for such prepaid taxes, in accordance with the provisions of this chapter; and (iv)  That a local impact committee be created. History: [63-1603, added 1980, ch. 226, sec. 1, p. 506.]
+63-1603. Hearing and order.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>On receipt of a petition from a taxpayer pursuant to section 63-1602 , Idaho Code, the board of county commissioners shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>days of receipt of such petition, forward a copy of the petition to the chairman of the governing board of each taxing district in which any part of the property of the taxpayer is or will be situated during the term of the impact period; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days of receipt of such petition hold one or more public hearings at which the taxpayer, all taxing districts to which the petition was forwarded, and interested persons may appear and be heard relative to the impact on public facilities in such county and the matters contained in the taxpayer’s petition.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Within fifteen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1603__subsec_15">
+            <akn:num>(15)</akn:num>
+            <akn:content>
+              <akn:p>days after the close of the hearings, the board shall enter an order either granting or denying the petition.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_1604">
+          <akn:num>63-1604</akn:num>
+          <akn:heading>Local impact committee</akn:heading>
+          <akn:subsection eId="63_1604__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Work with the taxpayer to determine the impact on public facilities for a period of not to exceed ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>years;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Develop a plan for construction, expansion, or operation of public facilities for a period of not to exceed ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>years;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Estimate the total amount of ad valorem taxes that the taxpayer will become obligated to pay for a period of not to exceed ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>years, and the estimated amount of taxes that may be prepaid during the first one-half of the impact period;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Determine the priority of public facilities that are to be funded from prepaid ad valorem taxes, the taxing districts which will receive such prepaid ad valorem taxes, the dollar amount of such taxes, and the taxing districts which need to provide a credit during the term of the impact period to the taxpayer for prepaid ad valorem taxes. History: [63-1604, added 1980, ch. 226, sec. 1, p. 506.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1604. Local impact committee. If a local impact committee is ordered pursuant to section 63-1603 , Idaho Code, the board of county commissioners shall appoint the members of the committee. The committee shall consist of a member of the governing board of each taxing district in which any part of the property of the taxpayer is or will be situated during the term of the impact period, the county assessor, and the chairman of the board of county commissioners, who shall be the permanent chairman of the local impact committee. The board of county commissioners, with the advice of the committee, shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Work with the taxpayer to determine the impact on public facilities for a period of not to exceed ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>years;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Develop a plan for construction, expansion, or operation of public facilities for a period of not to exceed ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>years;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Estimate the total amount of ad valorem taxes that the taxpayer will become obligated to pay for a period of not to exceed ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>years, and the estimated amount of taxes that may be prepaid during the first one-half of the impact period;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Determine the priority of public facilities that are to be funded from prepaid ad valorem taxes, the taxing districts which will receive such prepaid ad valorem taxes, the dollar amount of such taxes, and the taxing districts which need to provide a credit during the term of the impact period to the taxpayer for prepaid ad valorem taxes. History: [63-1604, added 1980, ch. 226, sec. 1, p. 506.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1604. Local impact committee. If a local impact committee is ordered pursuant to section 63-1603 , Idaho Code, the board of county commissioners shall appoint the members of the committee. The committee shall consist of a member of the governing board of each taxing district in which any part of the property of the taxpayer is or will be situated during the term of the impact period, the county assessor, and the chairman of the board of county commissioners, who shall be the permanent chairman of the local impact committee. The board of county commissioners, with the advice of the committee, shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Work with the taxpayer to determine the impact on public facilities for a period of not to exceed ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>years;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Develop a plan for construction, expansion, or operation of public facilities for a period of not to exceed ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>years;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Estimate the total amount of ad valorem taxes that the taxpayer will become obligated to pay for a period of not to exceed ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>years, and the estimated amount of taxes that may be prepaid during the first one-half of the impact period;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Determine the priority of public facilities that are to be funded from prepaid ad valorem taxes, the taxing districts which will receive such prepaid ad valorem taxes, the dollar amount of such taxes, and the taxing districts which need to provide a credit during the term of the impact period to the taxpayer for prepaid ad valorem taxes. History: [63-1604, added 1980, ch. 226, sec. 1, p. 506.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1604. Local impact committee. If a local impact committee is ordered pursuant to section 63-1603 , Idaho Code, the board of county commissioners shall appoint the members of the committee. The committee shall consist of a member of the governing board of each taxing district in which any part of the property of the taxpayer is or will be situated during the term of the impact period, the county assessor, and the chairman of the board of county commissioners, who shall be the permanent chairman of the local impact committee. The board of county commissioners, with the advice of the committee, shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Work with the taxpayer to determine the impact on public facilities for a period of not to exceed ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>years;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Develop a plan for construction, expansion, or operation of public facilities for a period of not to exceed ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>years;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Estimate the total amount of ad valorem taxes that the taxpayer will become obligated to pay for a period of not to exceed ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>years, and the estimated amount of taxes that may be prepaid during the first one-half of the impact period;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Determine the priority of public facilities that are to be funded from prepaid ad valorem taxes, the taxing districts which will receive such prepaid ad valorem taxes, the dollar amount of such taxes, and the taxing districts which need to provide a credit during the term of the impact period to the taxpayer for prepaid ad valorem taxes. History: [63-1604, added 1980, ch. 226, sec. 1, p. 506.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1604. Local impact committee. If a local impact committee is ordered pursuant to section 63-1603 , Idaho Code, the board of county commissioners shall appoint the members of the committee. The committee shall consist of a member of the governing board of each taxing district in which any part of the property of the taxpayer is or will be situated during the term of the impact period, the county assessor, and the chairman of the board of county commissioners, who shall be the permanent chairman of the local impact committee. The board of county commissioners, with the advice of the committee, shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Work with the taxpayer to determine the impact on public facilities for a period of not to exceed ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>years;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Develop a plan for construction, expansion, or operation of public facilities for a period of not to exceed ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>years;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Estimate the total amount of ad valorem taxes that the taxpayer will become obligated to pay for a period of not to exceed ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>years, and the estimated amount of taxes that may be prepaid during the first one-half of the impact period;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Determine the priority of public facilities that are to be funded from prepaid ad valorem taxes, the taxing districts which will receive such prepaid ad valorem taxes, the dollar amount of such taxes, and the taxing districts which need to provide a credit during the term of the impact period to the taxpayer for prepaid ad valorem taxes. History: [63-1604, added 1980, ch. 226, sec. 1, p. 506.]
+63-1604. Local impact committee. If a local impact committee is ordered pursuant to section 63-1603 , Idaho Code, the board of county commissioners shall appoint the members of the committee. The committee shall consist of a member of the governing board of each taxing district in which any part of the property of the taxpayer is or will be situated during the term of the impact period, the county assessor, and the chairman of the board of county commissioners, who shall be the permanent chairman of the local impact committee. The board of county commissioners, with the advice of the committee, shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Work with the taxpayer to determine the impact on public facilities for a period of not to exceed ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>years;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Develop a plan for construction, expansion, or operation of public facilities for a period of not to exceed ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>years;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Estimate the total amount of ad valorem taxes that the taxpayer will become obligated to pay for a period of not to exceed ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>years, and the estimated amount of taxes that may be prepaid during the first one-half of the impact period;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1604__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Determine the priority of public facilities that are to be funded from prepaid ad valorem taxes, the taxing districts which will receive such prepaid ad valorem taxes, the dollar amount of such taxes, and the taxing districts which need to provide a credit during the term of the impact period to the taxpayer for prepaid ad valorem taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_1605">
+          <akn:num>63-1605</akn:num>
+          <akn:heading>Local impact fund</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1605. Local impact fund. In each county in which a local impact committee is formed, under the provisions of this chapter, there is hereby created and established in the county treasury a local impact fund to which all prepaid ad valorem taxes shall be credited as received. Moneys in the local impact fund may be expended or transferred to a taxing district only upon the approval of the board of county commissioners with the advice of the local impact committee, any other provisions of law notwithstanding. The preparation of a budget for the moneys in the fund shall be controlled by the provisions of this chapter, any other provision of law notwithstanding. The expenditure of moneys from the fund, or the transfer of moneys in the fund to a taxing district, shall be exempt from the provisions of chapter 16, title 31 , Idaho Code. History: [63-1605, added 1980, ch. 226, sec. 1, p. 507; am. 1996, ch. 208, sec. 15, p. 673; am. 1996, ch. 322, sec. 58, p. 1087.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1605. Local impact fund. In each county in which a local impact committee is formed, under the provisions of this chapter, there is hereby created and established in the county treasury a local impact fund to which all prepaid ad valorem taxes shall be credited as received. Moneys in the local impact fund may be expended or transferred to a taxing district only upon the approval of the board of county commissioners with the advice of the local impact committee, any other provisions of law notwithstanding. The preparation of a budget for the moneys in the fund shall be controlled by the provisions of this chapter, any other provision of law notwithstanding. The expenditure of moneys from the fund, or the transfer of moneys in the fund to a taxing district, shall be exempt from the provisions of chapter 16, title 31 , Idaho Code. History: [63-1605, added 1980, ch. 226, sec. 1, p. 507; am. 1996, ch. 208, sec. 15, p. 673; am. 1996, ch. 322, sec. 58, p. 1087.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1605. Local impact fund. In each county in which a local impact committee is formed, under the provisions of this chapter, there is hereby created and established in the county treasury a local impact fund to which all prepaid ad valorem taxes shall be credited as received. Moneys in the local impact fund may be expended or transferred to a taxing district only upon the approval of the board of county commissioners with the advice of the local impact committee, any other provisions of law notwithstanding. The preparation of a budget for the moneys in the fund shall be controlled by the provisions of this chapter, any other provision of law notwithstanding. The expenditure of moneys from the fund, or the transfer of moneys in the fund to a taxing district, shall be exempt from the provisions of chapter 16, title 31 , Idaho Code. History: [63-1605, added 1980, ch. 226, sec. 1, p. 507; am. 1996, ch. 208, sec. 15, p. 673; am. 1996, ch. 322, sec. 58, p. 1087.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1605. Local impact fund. In each county in which a local impact committee is formed, under the provisions of this chapter, there is hereby created and established in the county treasury a local impact fund to which all prepaid ad valorem taxes shall be credited as received. Moneys in the local impact fund may be expended or transferred to a taxing district only upon the approval of the board of county commissioners with the advice of the local impact committee, any other provisions of law notwithstanding. The preparation of a budget for the moneys in the fund shall be controlled by the provisions of this chapter, any other provision of law notwithstanding. The expenditure of moneys from the fund, or the transfer of moneys in the fund to a taxing district, shall be exempt from the provisions of chapter 16, title 31 , Idaho Code. History: [63-1605, added 1980, ch. 226, sec. 1, p. 507; am. 1996, ch. 208, sec. 15, p. 673; am. 1996, ch. 322, sec. 58, p. 1087.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1605. Local impact fund. In each county in which a local impact committee is formed, under the provisions of this chapter, there is hereby created and established in the county treasury a local impact fund to which all prepaid ad valorem taxes shall be credited as received. Moneys in the local impact fund may be expended or transferred to a taxing district only upon the approval of the board of county commissioners with the advice of the local impact committee, any other provisions of law notwithstanding. The preparation of a budget for the moneys in the fund shall be controlled by the provisions of this chapter, any other provision of law notwithstanding. The expenditure of moneys from the fund, or the transfer of moneys in the fund to a taxing district, shall be exempt from the provisions of chapter 16, title 31 , Idaho Code. History: [63-1605, added 1980, ch. 226, sec. 1, p. 507; am. 1996, ch. 208, sec. 15, p. 673; am. 1996, ch. 322, sec. 58, p. 1087.]
+63-1605. Local impact fund. In each county in which a local impact committee is formed, under the provisions of this chapter, there is hereby created and established in the county treasury a local impact fund to which all prepaid ad valorem taxes shall be credited as received.
+Moneys in the local impact fund may be expended or transferred to a taxing district only upon the approval of the board of county commissioners with the advice of the local impact committee, any other provisions of law notwithstanding.
+The preparation of a budget for the moneys in the fund shall be controlled by the provisions of this chapter, any other provision of law notwithstanding.
+The expenditure of moneys from the fund, or the transfer of moneys in the fund to a taxing district, shall be exempt from the provisions of chapter 16, title 31 , Idaho Code.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_1606">
+          <akn:num>63-1606</akn:num>
+          <akn:heading>Prepayment optional</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1606. Prepayment optional. Prepayment of ad valorem taxes under the provisions of this chapter shall be optional and voluntary on the part of the taxpayer, unless an agreement has been entered into with a local impact committee, in which case the terms of the agreement shall be binding. History: [63-1606, added 1980, ch. 226, sec. 1, p. 507.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1606. Prepayment optional. Prepayment of ad valorem taxes under the provisions of this chapter shall be optional and voluntary on the part of the taxpayer, unless an agreement has been entered into with a local impact committee, in which case the terms of the agreement shall be binding. History: [63-1606, added 1980, ch. 226, sec. 1, p. 507.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1606. Prepayment optional. Prepayment of ad valorem taxes under the provisions of this chapter shall be optional and voluntary on the part of the taxpayer, unless an agreement has been entered into with a local impact committee, in which case the terms of the agreement shall be binding. History: [63-1606, added 1980, ch. 226, sec. 1, p. 507.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1606. Prepayment optional. Prepayment of ad valorem taxes under the provisions of this chapter shall be optional and voluntary on the part of the taxpayer, unless an agreement has been entered into with a local impact committee, in which case the terms of the agreement shall be binding. History: [63-1606, added 1980, ch. 226, sec. 1, p. 507.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1606. Prepayment optional. Prepayment of ad valorem taxes under the provisions of this chapter shall be optional and voluntary on the part of the taxpayer, unless an agreement has been entered into with a local impact committee, in which case the terms of the agreement shall be binding. History: [63-1606, added 1980, ch. 226, sec. 1, p. 507.]
+63-1606. Prepayment optional. Prepayment of ad valorem taxes under the provisions of this chapter shall be optional and voluntary on the part of the taxpayer, unless an agreement has been entered into with a local impact committee, in which case the terms of the agreement shall be binding.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_1607">
+          <akn:num>63-1607</akn:num>
+          <akn:heading>Credit for prepaid taxes</akn:heading>
+          <akn:subsection eId="63_1607__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>years thereafter, each taxpayer who has prepaid taxes shall be allowed a credit for such taxes paid during the first one-half (1/2) of the impact period. The credit shall be allowed against the actual taxes assessed to the taxpayer by the taxing district which received prepaid taxes from the local impact fund, and shall be calculated to provide an approximately equal credit during each year that the credit is allowed. Any extension of time during which the credit may be allowed shall require the approval of the local impact committee. History: [63-1607, added 1980, ch. 226, sec. 1, p. 507; am. 1981, ch. 224, sec. 6, p. 442; am. 1988, ch. 355, sec. 1, p. 1058; am. 1996, ch. 208, sec. 16, p. 674; am. 1996, ch. 322, sec. 59, p. 1087; am. 1997, ch. 117, sec. 37, p. 334.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1607. Credit for prepaid taxes. During the last one-half (1/2) of the impact period and for not to exceed three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1607__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>years thereafter, each taxpayer who has prepaid taxes shall be allowed a credit for such taxes paid during the first one-half (1/2) of the impact period. The credit shall be allowed against the actual taxes assessed to the taxpayer by the taxing district which received prepaid taxes from the local impact fund, and shall be calculated to provide an approximately equal credit during each year that the credit is allowed. Any extension of time during which the credit may be allowed shall require the approval of the local impact committee. History: [63-1607, added 1980, ch. 226, sec. 1, p. 507; am. 1981, ch. 224, sec. 6, p. 442; am. 1988, ch. 355, sec. 1, p. 1058; am. 1996, ch. 208, sec. 16, p. 674; am. 1996, ch. 322, sec. 59, p. 1087; am. 1997, ch. 117, sec. 37, p. 334.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1607. Credit for prepaid taxes. During the last one-half (1/2) of the impact period and for not to exceed three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1607__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>years thereafter, each taxpayer who has prepaid taxes shall be allowed a credit for such taxes paid during the first one-half (1/2) of the impact period. The credit shall be allowed against the actual taxes assessed to the taxpayer by the taxing district which received prepaid taxes from the local impact fund, and shall be calculated to provide an approximately equal credit during each year that the credit is allowed. Any extension of time during which the credit may be allowed shall require the approval of the local impact committee. History: [63-1607, added 1980, ch. 226, sec. 1, p. 507; am. 1981, ch. 224, sec. 6, p. 442; am. 1988, ch. 355, sec. 1, p. 1058; am. 1996, ch. 208, sec. 16, p. 674; am. 1996, ch. 322, sec. 59, p. 1087; am. 1997, ch. 117, sec. 37, p. 334.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1607. Credit for prepaid taxes. During the last one-half (1/2) of the impact period and for not to exceed three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1607__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>years thereafter, each taxpayer who has prepaid taxes shall be allowed a credit for such taxes paid during the first one-half (1/2) of the impact period. The credit shall be allowed against the actual taxes assessed to the taxpayer by the taxing district which received prepaid taxes from the local impact fund, and shall be calculated to provide an approximately equal credit during each year that the credit is allowed. Any extension of time during which the credit may be allowed shall require the approval of the local impact committee. History: [63-1607, added 1980, ch. 226, sec. 1, p. 507; am. 1981, ch. 224, sec. 6, p. 442; am. 1988, ch. 355, sec. 1, p. 1058; am. 1996, ch. 208, sec. 16, p. 674; am. 1996, ch. 322, sec. 59, p. 1087; am. 1997, ch. 117, sec. 37, p. 334.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1607. Credit for prepaid taxes. During the last one-half (1/2) of the impact period and for not to exceed three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1607__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>years thereafter, each taxpayer who has prepaid taxes shall be allowed a credit for such taxes paid during the first one-half (1/2) of the impact period. The credit shall be allowed against the actual taxes assessed to the taxpayer by the taxing district which received prepaid taxes from the local impact fund, and shall be calculated to provide an approximately equal credit during each year that the credit is allowed. Any extension of time during which the credit may be allowed shall require the approval of the local impact committee. History: [63-1607, added 1980, ch. 226, sec. 1, p. 507; am. 1981, ch. 224, sec. 6, p. 442; am. 1988, ch. 355, sec. 1, p. 1058; am. 1996, ch. 208, sec. 16, p. 674; am. 1996, ch. 322, sec. 59, p. 1087; am. 1997, ch. 117, sec. 37, p. 334.]
+63-1607. Credit for prepaid taxes. During the last one-half (1/2) of the impact period and for not to exceed three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1607__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>years thereafter, each taxpayer who has prepaid taxes shall be allowed a credit for such taxes paid during the first one-half (1/2) of the impact period. The credit shall be allowed against the actual taxes assessed to the taxpayer by the taxing district which received prepaid taxes from the local impact fund, and shall be calculated to provide an approximately equal credit during each year that the credit is allowed. Any extension of time during which the credit may be allowed shall require the approval of the local impact committee.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_1608">
+          <akn:num>63-1608</akn:num>
+          <akn:heading>Lapse of unused credit</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1608. Lapse of unused credit. If for any reason during the impact period the taxpayer should cease business operations and the credits accumulated for prepaid ad valorem taxes have not been completely set off against taxes due, the balance of the unused credit shall be forfeited, and the county and taxing districts shall be under no obligation to pay off the unused credits. History: [63-1608, added 1980, ch. 226, sec. 1, p. 507.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1608. Lapse of unused credit. If for any reason during the impact period the taxpayer should cease business operations and the credits accumulated for prepaid ad valorem taxes have not been completely set off against taxes due, the balance of the unused credit shall be forfeited, and the county and taxing districts shall be under no obligation to pay off the unused credits. History: [63-1608, added 1980, ch. 226, sec. 1, p. 507.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1608. Lapse of unused credit. If for any reason during the impact period the taxpayer should cease business operations and the credits accumulated for prepaid ad valorem taxes have not been completely set off against taxes due, the balance of the unused credit shall be forfeited, and the county and taxing districts shall be under no obligation to pay off the unused credits. History: [63-1608, added 1980, ch. 226, sec. 1, p. 507.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1608. Lapse of unused credit. If for any reason during the impact period the taxpayer should cease business operations and the credits accumulated for prepaid ad valorem taxes have not been completely set off against taxes due, the balance of the unused credit shall be forfeited, and the county and taxing districts shall be under no obligation to pay off the unused credits. History: [63-1608, added 1980, ch. 226, sec. 1, p. 507.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 16 PREPAYMENT OF TAXES 63-1608. Lapse of unused credit. If for any reason during the impact period the taxpayer should cease business operations and the credits accumulated for prepaid ad valorem taxes have not been completely set off against taxes due, the balance of the unused credit shall be forfeited, and the county and taxing districts shall be under no obligation to pay off the unused credits. History: [63-1608, added 1980, ch. 226, sec. 1, p. 507.]
+63-1608. Lapse of unused credit. If for any reason during the impact period the taxpayer should cease business operations and the credits accumulated for prepaid ad valorem taxes have not been completely set off against taxes due, the balance of the unused credit shall be forfeited, and the county and taxing districts shall be under no obligation to pay off the unused credits.</akn:p>
+          </akn:content>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

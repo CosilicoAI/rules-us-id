@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-11" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-11" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="63-11" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-11/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-11/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-11/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-11/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_63_11">
+        <akn:num>Chapter 11</akn:num>
+        <akn:heading>Chapter 11</akn:heading>
+        <akn:section eId="sec_63_1101">
+          <akn:num>63-1101</akn:num>
+          <akn:heading>Seizure of property for refusal to pay property tax — Duty of tax collector</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1101. Seizure of property for refusal to pay property tax — Duty of tax collector. In case any person refuses to pay the property tax levied on any personal property belonging to him when demanded by the tax collector, the tax collector shall direct the sheriff to seize and sell as much of the personal property or any other property of the person as will be sufficient to pay the property taxes, late charges, interest, costs and expenses accruing thereon, as estimated by the tax collector. History: [63-1101 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1101. Seizure of property for refusal to pay property tax — Duty of tax collector. In case any person refuses to pay the property tax levied on any personal property belonging to him when demanded by the tax collector, the tax collector shall direct the sheriff to seize and sell as much of the personal property or any other property of the person as will be sufficient to pay the property taxes, late charges, interest, costs and expenses accruing thereon, as estimated by the tax collector. History: [63-1101 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1101. Seizure of property for refusal to pay property tax — Duty of tax collector. In case any person refuses to pay the property tax levied on any personal property belonging to him when demanded by the tax collector, the tax collector shall direct the sheriff to seize and sell as much of the personal property or any other property of the person as will be sufficient to pay the property taxes, late charges, interest, costs and expenses accruing thereon, as estimated by the tax collector. History: [63-1101 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1101. Seizure of property for refusal to pay property tax — Duty of tax collector. In case any person refuses to pay the property tax levied on any personal property belonging to him when demanded by the tax collector, the tax collector shall direct the sheriff to seize and sell as much of the personal property or any other property of the person as will be sufficient to pay the property taxes, late charges, interest, costs and expenses accruing thereon, as estimated by the tax collector. History: [63-1101 added 1996, ch. 98, sec. 12, p. 389.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1101. Seizure of property for refusal to pay property tax — Duty of tax collector. In case any person refuses to pay the property tax levied on any personal property belonging to him when demanded by the tax collector, the tax collector shall direct the sheriff to seize and sell as much of the personal property or any other property of the person as will be sufficient to pay the property taxes, late charges, interest, costs and expenses accruing thereon, as estimated by the tax collector. History: [63-1101 added 1996, ch. 98, sec. 12, p. 389.]
+63-1101. Seizure of property for refusal to pay property tax — Duty of tax collector. In case any person refuses to pay the property tax levied on any personal property belonging to him when demanded by the tax collector, the tax collector shall direct the sheriff to seize and sell as much of the personal property or any other property of the person as will be sufficient to pay the property taxes, late charges, interest, costs and expenses accruing thereon, as estimated by the tax collector.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_1102">
+          <akn:num>63-1102</akn:num>
+          <akn:heading>Sale</akn:heading>
+          <akn:subsection eId="63_1102__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>week’s notice of the time and place thereof, given by publication in a newspaper of general circulation in the county or posting in three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1102__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>public places within the county, and must be at public auction for cash, and each article seized must be sold separately to the highest bidder. History: [63-1102 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1102. Sale. The sale must be made after one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1102__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>week’s notice of the time and place thereof, given by publication in a newspaper of general circulation in the county or posting in three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1102__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>public places within the county, and must be at public auction for cash, and each article seized must be sold separately to the highest bidder. History: [63-1102 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1102. Sale. The sale must be made after one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1102__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>week’s notice of the time and place thereof, given by publication in a newspaper of general circulation in the county or posting in three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1102__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>public places within the county, and must be at public auction for cash, and each article seized must be sold separately to the highest bidder. History: [63-1102 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1102. Sale. The sale must be made after one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1102__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>week’s notice of the time and place thereof, given by publication in a newspaper of general circulation in the county or posting in three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1102__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>public places within the county, and must be at public auction for cash, and each article seized must be sold separately to the highest bidder. History: [63-1102 added 1996, ch. 98, sec. 12, p. 389.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1102. Sale. The sale must be made after one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1102__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>week’s notice of the time and place thereof, given by publication in a newspaper of general circulation in the county or posting in three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1102__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>public places within the county, and must be at public auction for cash, and each article seized must be sold separately to the highest bidder. History: [63-1102 added 1996, ch. 98, sec. 12, p. 389.]
+63-1102. Sale. The sale must be made after one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1102__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>week’s notice of the time and place thereof, given by publication in a newspaper of general circulation in the county or posting in three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1102__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>public places within the county, and must be at public auction for cash, and each article seized must be sold separately to the highest bidder.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_1103">
+          <akn:num>63-1103</akn:num>
+          <akn:heading>Disposition of proceeds</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1103. Disposition of proceeds. The sheriff shall collect from the proceeds of the sale, in addition to the estimated amount of property taxes, all costs and expenses incurred in publishing or posting the notices of the sale, in making the sale and in keeping and caring for the property. After collecting the proceeds and noting the costs of the sale, the sheriff shall have an immediate settlement with the tax collector. History: [63-1103 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1103. Disposition of proceeds. The sheriff shall collect from the proceeds of the sale, in addition to the estimated amount of property taxes, all costs and expenses incurred in publishing or posting the notices of the sale, in making the sale and in keeping and caring for the property. After collecting the proceeds and noting the costs of the sale, the sheriff shall have an immediate settlement with the tax collector. History: [63-1103 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1103. Disposition of proceeds. The sheriff shall collect from the proceeds of the sale, in addition to the estimated amount of property taxes, all costs and expenses incurred in publishing or posting the notices of the sale, in making the sale and in keeping and caring for the property. After collecting the proceeds and noting the costs of the sale, the sheriff shall have an immediate settlement with the tax collector. History: [63-1103 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1103. Disposition of proceeds. The sheriff shall collect from the proceeds of the sale, in addition to the estimated amount of property taxes, all costs and expenses incurred in publishing or posting the notices of the sale, in making the sale and in keeping and caring for the property. After collecting the proceeds and noting the costs of the sale, the sheriff shall have an immediate settlement with the tax collector. History: [63-1103 added 1996, ch. 98, sec. 12, p. 389.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1103. Disposition of proceeds. The sheriff shall collect from the proceeds of the sale, in addition to the estimated amount of property taxes, all costs and expenses incurred in publishing or posting the notices of the sale, in making the sale and in keeping and caring for the property. After collecting the proceeds and noting the costs of the sale, the sheriff shall have an immediate settlement with the tax collector. History: [63-1103 added 1996, ch. 98, sec. 12, p. 389.]
+63-1103. Disposition of proceeds. The sheriff shall collect from the proceeds of the sale, in addition to the estimated amount of property taxes, all costs and expenses incurred in publishing or posting the notices of the sale, in making the sale and in keeping and caring for the property. After collecting the proceeds and noting the costs of the sale, the sheriff shall have an immediate settlement with the tax collector.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_1104">
+          <akn:num>63-1104</akn:num>
+          <akn:heading>Bill of sale</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1104. Bill of sale. On payment of the amount bid for the property sold the sheriff shall make out and deliver a bill of sale thereof which, with the delivery of the property sold, vests title thereto, in the purchaser. History: [63-1104 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1104. Bill of sale. On payment of the amount bid for the property sold the sheriff shall make out and deliver a bill of sale thereof which, with the delivery of the property sold, vests title thereto, in the purchaser. History: [63-1104 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1104. Bill of sale. On payment of the amount bid for the property sold the sheriff shall make out and deliver a bill of sale thereof which, with the delivery of the property sold, vests title thereto, in the purchaser. History: [63-1104 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1104. Bill of sale. On payment of the amount bid for the property sold the sheriff shall make out and deliver a bill of sale thereof which, with the delivery of the property sold, vests title thereto, in the purchaser. History: [63-1104 added 1996, ch. 98, sec. 12, p. 389.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1104. Bill of sale. On payment of the amount bid for the property sold the sheriff shall make out and deliver a bill of sale thereof which, with the delivery of the property sold, vests title thereto, in the purchaser. History: [63-1104 added 1996, ch. 98, sec. 12, p. 389.]
+63-1104. Bill of sale. On payment of the amount bid for the property sold the sheriff shall make out and deliver a bill of sale thereof which, with the delivery of the property sold, vests title thereto, in the purchaser.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_1105">
+          <akn:num>63-1105</akn:num>
+          <akn:heading>Resale</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1105. Resale. In the event of the refusal of any bidder to pay the amount bid and complete his purchase, the sheriff may either sue the purchaser upon his bid or offer the property for resale. History: [63-1105 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1105. Resale. In the event of the refusal of any bidder to pay the amount bid and complete his purchase, the sheriff may either sue the purchaser upon his bid or offer the property for resale. History: [63-1105 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1105. Resale. In the event of the refusal of any bidder to pay the amount bid and complete his purchase, the sheriff may either sue the purchaser upon his bid or offer the property for resale. History: [63-1105 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1105. Resale. In the event of the refusal of any bidder to pay the amount bid and complete his purchase, the sheriff may either sue the purchaser upon his bid or offer the property for resale. History: [63-1105 added 1996, ch. 98, sec. 12, p. 389.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1105. Resale. In the event of the refusal of any bidder to pay the amount bid and complete his purchase, the sheriff may either sue the purchaser upon his bid or offer the property for resale. History: [63-1105 added 1996, ch. 98, sec. 12, p. 389.]
+63-1105. Resale. In the event of the refusal of any bidder to pay the amount bid and complete his purchase, the sheriff may either sue the purchaser upon his bid or offer the property for resale.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_1106">
+          <akn:num>63-1106</akn:num>
+          <akn:heading>Sale of additional property</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1106. Sale of additional property. In the event that the property seized does not bring sufficient money to pay the property taxes and costs, the tax collector shall direct the sheriff to seize and sell additional property liable for the property tax, pursuant to section 63-1012 (1), Idaho Code. History: [63-1106 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1106. Sale of additional property. In the event that the property seized does not bring sufficient money to pay the property taxes and costs, the tax collector shall direct the sheriff to seize and sell additional property liable for the property tax, pursuant to section 63-1012 (1), Idaho Code. History: [63-1106 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1106. Sale of additional property. In the event that the property seized does not bring sufficient money to pay the property taxes and costs, the tax collector shall direct the sheriff to seize and sell additional property liable for the property tax, pursuant to section 63-1012 (1), Idaho Code. History: [63-1106 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1106. Sale of additional property. In the event that the property seized does not bring sufficient money to pay the property taxes and costs, the tax collector shall direct the sheriff to seize and sell additional property liable for the property tax, pursuant to section 63-1012 (1), Idaho Code. History: [63-1106 added 1996, ch. 98, sec. 12, p. 389.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1106. Sale of additional property. In the event that the property seized does not bring sufficient money to pay the property taxes and costs, the tax collector shall direct the sheriff to seize and sell additional property liable for the property tax, pursuant to section 63-1012 (1), Idaho Code. History: [63-1106 added 1996, ch. 98, sec. 12, p. 389.]
+63-1106. Sale of additional property. In the event that the property seized does not bring sufficient money to pay the property taxes and costs, the tax collector shall direct the sheriff to seize and sell additional property liable for the property tax, pursuant to section 63-1012 (1), Idaho Code.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_1107">
+          <akn:num>63-1107</akn:num>
+          <akn:heading>Disposition of excess</akn:heading>
+          <akn:subsection eId="63_1107__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days, whichever is less. The owner shall pay storage and transportation costs when reclaiming any unsold property. History: [63-1107 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1107. Disposition of excess. All excess over the property taxes and costs of the proceedings of any sale must be returned to the owner of the property or deposited in the county treasury to be refunded by order of the county commissioners. Any unsold portion of any such property shall be stored until claimed by the owner or for thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1107__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days, whichever is less. The owner shall pay storage and transportation costs when reclaiming any unsold property. History: [63-1107 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1107. Disposition of excess. All excess over the property taxes and costs of the proceedings of any sale must be returned to the owner of the property or deposited in the county treasury to be refunded by order of the county commissioners. Any unsold portion of any such property shall be stored until claimed by the owner or for thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1107__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days, whichever is less. The owner shall pay storage and transportation costs when reclaiming any unsold property. History: [63-1107 added 1996, ch. 98, sec. 12, p. 389.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1107. Disposition of excess. All excess over the property taxes and costs of the proceedings of any sale must be returned to the owner of the property or deposited in the county treasury to be refunded by order of the county commissioners. Any unsold portion of any such property shall be stored until claimed by the owner or for thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1107__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days, whichever is less. The owner shall pay storage and transportation costs when reclaiming any unsold property. History: [63-1107 added 1996, ch. 98, sec. 12, p. 389.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1107. Disposition of excess. All excess over the property taxes and costs of the proceedings of any sale must be returned to the owner of the property or deposited in the county treasury to be refunded by order of the county commissioners. Any unsold portion of any such property shall be stored until claimed by the owner or for thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1107__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days, whichever is less. The owner shall pay storage and transportation costs when reclaiming any unsold property. History: [63-1107 added 1996, ch. 98, sec. 12, p. 389.]
+63-1107. Disposition of excess. All excess over the property taxes and costs of the proceedings of any sale must be returned to the owner of the property or deposited in the county treasury to be refunded by order of the county commissioners. Any unsold portion of any such property shall be stored until claimed by the owner or for thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1107__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days, whichever is less. The owner shall pay storage and transportation costs when reclaiming any unsold property.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_1108">
+          <akn:num>63-1108</akn:num>
+          <akn:heading>Purchase by county</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1108. Purchase by county. In the event that no person bids on any property offered for sale, or if such property in the judgment of the tax collector exceeds in value the amount of the highest bid made, the tax collector may bid on the property if it is deemed in the best interest of the county. He shall dispose of the purchased property by sale in the same manner as other personal property belonging to the county. However, the tax collector shall not buy any property for the county when a sufficient sum to defray the property taxes and costs of sale is bid therefor. History: [63-1108, added 1996, ch. 98, sec. 12, p. 390; am. 2015, ch. 199, sec. 1, p. 609.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1108. Purchase by county. In the event that no person bids on any property offered for sale, or if such property in the judgment of the tax collector exceeds in value the amount of the highest bid made, the tax collector may bid on the property if it is deemed in the best interest of the county. He shall dispose of the purchased property by sale in the same manner as other personal property belonging to the county. However, the tax collector shall not buy any property for the county when a sufficient sum to defray the property taxes and costs of sale is bid therefor. History: [63-1108, added 1996, ch. 98, sec. 12, p. 390; am. 2015, ch. 199, sec. 1, p. 609.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1108. Purchase by county. In the event that no person bids on any property offered for sale, or if such property in the judgment of the tax collector exceeds in value the amount of the highest bid made, the tax collector may bid on the property if it is deemed in the best interest of the county. He shall dispose of the purchased property by sale in the same manner as other personal property belonging to the county. However, the tax collector shall not buy any property for the county when a sufficient sum to defray the property taxes and costs of sale is bid therefor. History: [63-1108, added 1996, ch. 98, sec. 12, p. 390; am. 2015, ch. 199, sec. 1, p. 609.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1108. Purchase by county. In the event that no person bids on any property offered for sale, or if such property in the judgment of the tax collector exceeds in value the amount of the highest bid made, the tax collector may bid on the property if it is deemed in the best interest of the county. He shall dispose of the purchased property by sale in the same manner as other personal property belonging to the county. However, the tax collector shall not buy any property for the county when a sufficient sum to defray the property taxes and costs of sale is bid therefor. History: [63-1108, added 1996, ch. 98, sec. 12, p. 390; am. 2015, ch. 199, sec. 1, p. 609.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 11 SEIZURE AND SALE OF PERSONAL PROPERTY FOR TAXES 63-1108. Purchase by county. In the event that no person bids on any property offered for sale, or if such property in the judgment of the tax collector exceeds in value the amount of the highest bid made, the tax collector may bid on the property if it is deemed in the best interest of the county. He shall dispose of the purchased property by sale in the same manner as other personal property belonging to the county. However, the tax collector shall not buy any property for the county when a sufficient sum to defray the property taxes and costs of sale is bid therefor. History: [63-1108, added 1996, ch. 98, sec. 12, p. 390; am. 2015, ch. 199, sec. 1, p. 609.]
+63-1108. Purchase by county. In the event that no person bids on any property offered for sale, or if such property in the judgment of the tax collector exceeds in value the amount of the highest bid made, the tax collector may bid on the property if it is deemed in the best interest of the county. He shall dispose of the purchased property by sale in the same manner as other personal property belonging to the county. However, the tax collector shall not buy any property for the county when a sufficient sum to defray the property taxes and costs of sale is bid therefor.</akn:p>
+          </akn:content>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

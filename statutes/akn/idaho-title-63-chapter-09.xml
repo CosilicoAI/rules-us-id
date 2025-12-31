@@ -1,0 +1,2582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-9" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-9" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="63-9" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-9/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-9/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-9/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-9/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_63_9">
+        <akn:num>Chapter 9</akn:num>
+        <akn:heading>Property Taxes - Irrigation Districts</akn:heading>
+        <akn:section eId="sec_63_901">
+          <akn:num>63-901</akn:num>
+          <akn:heading>Property taxes payable only in legal tender</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-901. Property taxes payable only in legal tender. All property taxes must be paid in lawful money of the United States. Notwithstanding the provisions of this section, a county may allow for payment of taxes by use of a debit card, credit card or electronic funds transfer. History: [63-901 added 1996, ch. 98, sec. 10, p. 377; am. 2008, ch. 53, sec. 2, p. 134.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-901. Property taxes payable only in legal tender. All property taxes must be paid in lawful money of the United States. Notwithstanding the provisions of this section, a county may allow for payment of taxes by use of a debit card, credit card or electronic funds transfer. History: [63-901 added 1996, ch. 98, sec. 10, p. 377; am. 2008, ch. 53, sec. 2, p. 134.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-901. Property taxes payable only in legal tender. All property taxes must be paid in lawful money of the United States. Notwithstanding the provisions of this section, a county may allow for payment of taxes by use of a debit card, credit card or electronic funds transfer. History: [63-901 added 1996, ch. 98, sec. 10, p. 377; am. 2008, ch. 53, sec. 2, p. 134.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-901. Property taxes payable only in legal tender. All property taxes must be paid in lawful money of the United States. Notwithstanding the provisions of this section, a county may allow for payment of taxes by use of a debit card, credit card or electronic funds transfer. History: [63-901 added 1996, ch. 98, sec. 10, p. 377; am. 2008, ch. 53, sec. 2, p. 134.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-901. Property taxes payable only in legal tender. All property taxes must be paid in lawful money of the United States. Notwithstanding the provisions of this section, a county may allow for payment of taxes by use of a debit card, credit card or electronic funds transfer. History: [63-901 added 1996, ch. 98, sec. 10, p. 377; am. 2008, ch. 53, sec. 2, p. 134.]
+63-901. Property taxes payable only in legal tender. All property taxes must be paid in lawful money of the United States. Notwithstanding the provisions of this section, a county may allow for payment of taxes by use of a debit card, credit card or electronic funds transfer.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_902">
+          <akn:num>63-902</akn:num>
+          <akn:heading>Property tax notice and receipts — Duty of tax collector</akn:heading>
+          <akn:subsection eId="63_902__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The year in which the property tax was levied;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>The name and address of the property owner;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>An accurate description of the property or, in lieu thereof, the tax number of record;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>The parcel number;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Full market value for assessment purposes;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>The total amount of property taxes due:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>State; (ii)  County; (iii) City; (iv)  School district separately shown as: (A)  Maintenance and operation; (B)  Bond; (C)  Supplemental; (D)  Other;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_v">
+            <akn:num>(v)</akn:num>
+            <akn:content>
+              <akn:p>And every other tax being separately shown.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_g">
+            <akn:num>(g)</akn:num>
+            <akn:content>
+              <akn:p>All property tax levies in the tax code area;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>The expiration dates of all bonds and levies approved by voters at an election for each taxing district as defined in section 63-3101 , Idaho Code, submitted to the tax collector pursuant to section 63-803</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_5">
+              <akn:num>(5)</akn:num>
+              <akn:content>
+                <akn:p>, Idaho Code;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>The date when such property taxes become delinquent;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_j">
+            <akn:num>(j)</akn:num>
+            <akn:content>
+              <akn:p>Notation of delinquencies against said property;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_k">
+            <akn:num>(k)</akn:num>
+            <akn:content>
+              <akn:p>Whether an interim payment account exists;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_l">
+            <akn:num>(l)</akn:num>
+            <akn:content>
+              <akn:p>The combined amount of property tax savings, which shall be labeled on the notice as "tax relief appropriated by the Legislature", for each taxpayer as a result of moneys received by a school district from the school district facilities fund established pursuant to section 33-911 , Idaho Code, and the homeowner property tax relief granted pursuant to section 63-724 , Idaho Code, if any;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_m">
+            <akn:num>(m)</akn:num>
+            <akn:content>
+              <akn:p>The different payment options available to the taxpayer, his agent, or representative, which shall be printed in boldface type in a contrasting color or highlighted on the face of the tax notice; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_n">
+            <akn:num>(n)</akn:num>
+            <akn:content>
+              <akn:p>The total amount of property taxes for the previous tax year.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_n__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>The information required by subsection</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_n__subsec_1">
+              <akn:num>(1)</akn:num>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>of this section may be satisfied if the county treasurer provides an annual insert with the tax notice or a link on the tax notice to the county website where the information required by subsection</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_1">
+              <akn:num>(1)</akn:num>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>of this section can be accessed. Such information must be archived on the county website. In addition to including the link to the county website, the county treasurer may also include on the tax notice a quick response code to access the information required by subsection</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_1">
+              <akn:num>(1)</akn:num>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>of this section.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The tax notices shall be numbered consecutively and the numbers must be entered upon all property rolls.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_4">
+              <akn:num>(4)</akn:num>
+              <akn:content>
+                <akn:p>Tax notices prepared in tax code area format shall state that levy sheets are available to the public.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_5">
+              <akn:num>(5)</akn:num>
+              <akn:content>
+                <akn:p>Levy sheets shall list the total property tax levy for each taxing district or taxing jurisdiction and the total in each tax code area.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_6">
+              <akn:num>(6)</akn:num>
+              <akn:content>
+                <akn:p>If the taxpayer is one other than the equitable titleholder, such as an escrowee, trustee of trust deed or other third party, the taxpayer shall deliver to the equitable titleholder a statement of the total amount of property taxes billed, on or before the second Monday of December.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_7">
+              <akn:num>(7)</akn:num>
+              <akn:content>
+                <akn:p>The tax collector in each county of the state is authorized to destroy all duplicate property tax receipts and microfilm of tax receipts on file in his office as they reach ten</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>years old. Property tax receipts may be destroyed if information has been replicated in other storage media.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_8">
+              <akn:num>(8)</akn:num>
+              <akn:content>
+                <akn:p>Computer and data processing routines for completion of all phases of the property tax roll procedures may be utilized with the responsibility for completion of each office’s statutory duties to remain under the supervision of that office. Wherever the designation "property roll" appears within title 63 , Idaho Code, data processing or computer procedures and forms may be substituted as permanent records.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_9">
+              <akn:num>(9)</akn:num>
+              <akn:content>
+                <akn:p>The county tax collector must, as soon as possible after the subsequent or missed property roll is delivered to him from the county auditor, mail or transmit electronically, if electronic transmission is requested by the taxpayer, a notice to every taxpayer listed on the subsequent or missed property roll, or to his agent or representative. The notice shall conform as nearly as possible to the notice required for property listed on the property roll.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>Failure to mail or transmit electronically, if electronic transmission is requested by the taxpayer, such property tax notice, or receipt of said notice by the taxpayer, shall not invalidate the property taxes, or any proceedings in the collection of property taxes, or any proceedings in the foreclosure of property tax liens.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_11">
+              <akn:num>(11)</akn:num>
+              <akn:content>
+                <akn:p>No charge, other than property taxes, shall be included on a tax notice unless the entity placing such charge has received approval from the board of county commissioners to place such charge on the tax notice and such entity:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Has the authority by law to place a lien on property; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Has the authority to certify such charge to the auditor; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Is required to collect such charge in the same manner provided by law for the collection of real and personal property taxes.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_c__subsec_12">
+              <akn:num>(12)</akn:num>
+              <akn:content>
+                <akn:p>If a taxpayer requests to receive a tax notice electronically, the request must be made on a form provided by the county tax collector. History: [63-902, added 1996, ch. 98, sec. 10, p. 377; am. 1997, ch. 117, sec. 33, p. 331; am. 1997, ch. 241, sec. 1, p. 701; am. 2006, ch. 322, sec. 1, p. 1021; am. 2014, ch. 14, sec. 1, p. 21; am. 2020, ch. 215, sec. 1, p. 637; am. 2021, ch. 327, sec. 2, p. 1002; am. 2023, ch. 200, sec. 12, p. 549.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-902. Property tax notice and receipts — Duty of tax collector.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_c__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>For property on the property roll or operating property roll, the county tax collector must, prior to the fourth Monday of November in each year, mail or transmit electronically, as that term is defined in section 63-115 , Idaho Code, if electronic transmission is requested by the taxpayer, to every taxpayer, or to his agent or representative, at his last known post office address, a tax notice prepared upon forms prescribed in section 63-219 , Idaho Code, which shall contain at least the following:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The year in which the property tax was levied;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>The name and address of the property owner;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>An accurate description of the property or, in lieu thereof, the tax number of record;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>The parcel number;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Full market value for assessment purposes;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>The total amount of property taxes due:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>State; (ii)  County; (iii) City; (iv)  School district separately shown as: (A)  Maintenance and operation; (B)  Bond; (C)  Supplemental; (D)  Other;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_v">
+            <akn:num>(v)</akn:num>
+            <akn:content>
+              <akn:p>And every other tax being separately shown.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_g">
+            <akn:num>(g)</akn:num>
+            <akn:content>
+              <akn:p>All property tax levies in the tax code area;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>The expiration dates of all bonds and levies approved by voters at an election for each taxing district as defined in section 63-3101 , Idaho Code, submitted to the tax collector pursuant to section 63-803</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_5">
+              <akn:num>(5)</akn:num>
+              <akn:content>
+                <akn:p>, Idaho Code;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>The date when such property taxes become delinquent;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_j">
+            <akn:num>(j)</akn:num>
+            <akn:content>
+              <akn:p>Notation of delinquencies against said property;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_k">
+            <akn:num>(k)</akn:num>
+            <akn:content>
+              <akn:p>Whether an interim payment account exists;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_l">
+            <akn:num>(l)</akn:num>
+            <akn:content>
+              <akn:p>The combined amount of property tax savings, which shall be labeled on the notice as "tax relief appropriated by the Legislature", for each taxpayer as a result of moneys received by a school district from the school district facilities fund established pursuant to section 33-911 , Idaho Code, and the homeowner property tax relief granted pursuant to section 63-724 , Idaho Code, if any;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_m">
+            <akn:num>(m)</akn:num>
+            <akn:content>
+              <akn:p>The different payment options available to the taxpayer, his agent, or representative, which shall be printed in boldface type in a contrasting color or highlighted on the face of the tax notice; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_n">
+            <akn:num>(n)</akn:num>
+            <akn:content>
+              <akn:p>The total amount of property taxes for the previous tax year.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_n__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>The information required by subsection</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_n__subsec_1">
+              <akn:num>(1)</akn:num>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>of this section may be satisfied if the county treasurer provides an annual insert with the tax notice or a link on the tax notice to the county website where the information required by subsection</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_1">
+              <akn:num>(1)</akn:num>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>of this section can be accessed. Such information must be archived on the county website. In addition to including the link to the county website, the county treasurer may also include on the tax notice a quick response code to access the information required by subsection</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_1">
+              <akn:num>(1)</akn:num>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>of this section.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The tax notices shall be numbered consecutively and the numbers must be entered upon all property rolls.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_4">
+              <akn:num>(4)</akn:num>
+              <akn:content>
+                <akn:p>Tax notices prepared in tax code area format shall state that levy sheets are available to the public.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_5">
+              <akn:num>(5)</akn:num>
+              <akn:content>
+                <akn:p>Levy sheets shall list the total property tax levy for each taxing district or taxing jurisdiction and the total in each tax code area.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_6">
+              <akn:num>(6)</akn:num>
+              <akn:content>
+                <akn:p>If the taxpayer is one other than the equitable titleholder, such as an escrowee, trustee of trust deed or other third party, the taxpayer shall deliver to the equitable titleholder a statement of the total amount of property taxes billed, on or before the second Monday of December.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_7">
+              <akn:num>(7)</akn:num>
+              <akn:content>
+                <akn:p>The tax collector in each county of the state is authorized to destroy all duplicate property tax receipts and microfilm of tax receipts on file in his office as they reach ten</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>years old. Property tax receipts may be destroyed if information has been replicated in other storage media.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_8">
+              <akn:num>(8)</akn:num>
+              <akn:content>
+                <akn:p>Computer and data processing routines for completion of all phases of the property tax roll procedures may be utilized with the responsibility for completion of each office’s statutory duties to remain under the supervision of that office. Wherever the designation "property roll" appears within title 63 , Idaho Code, data processing or computer procedures and forms may be substituted as permanent records.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_9">
+              <akn:num>(9)</akn:num>
+              <akn:content>
+                <akn:p>The county tax collector must, as soon as possible after the subsequent or missed property roll is delivered to him from the county auditor, mail or transmit electronically, if electronic transmission is requested by the taxpayer, a notice to every taxpayer listed on the subsequent or missed property roll, or to his agent or representative. The notice shall conform as nearly as possible to the notice required for property listed on the property roll.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>Failure to mail or transmit electronically, if electronic transmission is requested by the taxpayer, such property tax notice, or receipt of said notice by the taxpayer, shall not invalidate the property taxes, or any proceedings in the collection of property taxes, or any proceedings in the foreclosure of property tax liens.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_11">
+              <akn:num>(11)</akn:num>
+              <akn:content>
+                <akn:p>No charge, other than property taxes, shall be included on a tax notice unless the entity placing such charge has received approval from the board of county commissioners to place such charge on the tax notice and such entity:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Has the authority by law to place a lien on property; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Has the authority to certify such charge to the auditor; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Is required to collect such charge in the same manner provided by law for the collection of real and personal property taxes.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_c__subsec_12">
+              <akn:num>(12)</akn:num>
+              <akn:content>
+                <akn:p>If a taxpayer requests to receive a tax notice electronically, the request must be made on a form provided by the county tax collector. History: [63-902, added 1996, ch. 98, sec. 10, p. 377; am. 1997, ch. 117, sec. 33, p. 331; am. 1997, ch. 241, sec. 1, p. 701; am. 2006, ch. 322, sec. 1, p. 1021; am. 2014, ch. 14, sec. 1, p. 21; am. 2020, ch. 215, sec. 1, p. 637; am. 2021, ch. 327, sec. 2, p. 1002; am. 2023, ch. 200, sec. 12, p. 549.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-902. Property tax notice and receipts — Duty of tax collector.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_c__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>For property on the property roll or operating property roll, the county tax collector must, prior to the fourth Monday of November in each year, mail or transmit electronically, as that term is defined in section 63-115 , Idaho Code, if electronic transmission is requested by the taxpayer, to every taxpayer, or to his agent or representative, at his last known post office address, a tax notice prepared upon forms prescribed in section 63-219 , Idaho Code, which shall contain at least the following:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The year in which the property tax was levied;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>The name and address of the property owner;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>An accurate description of the property or, in lieu thereof, the tax number of record;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>The parcel number;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Full market value for assessment purposes;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>The total amount of property taxes due:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>State; (ii)  County; (iii) City; (iv)  School district separately shown as: (A)  Maintenance and operation; (B)  Bond; (C)  Supplemental; (D)  Other;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_v">
+            <akn:num>(v)</akn:num>
+            <akn:content>
+              <akn:p>And every other tax being separately shown.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_g">
+            <akn:num>(g)</akn:num>
+            <akn:content>
+              <akn:p>All property tax levies in the tax code area;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>The expiration dates of all bonds and levies approved by voters at an election for each taxing district as defined in section 63-3101 , Idaho Code, submitted to the tax collector pursuant to section 63-803</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_5">
+              <akn:num>(5)</akn:num>
+              <akn:content>
+                <akn:p>, Idaho Code;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>The date when such property taxes become delinquent;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_j">
+            <akn:num>(j)</akn:num>
+            <akn:content>
+              <akn:p>Notation of delinquencies against said property;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_k">
+            <akn:num>(k)</akn:num>
+            <akn:content>
+              <akn:p>Whether an interim payment account exists;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_l">
+            <akn:num>(l)</akn:num>
+            <akn:content>
+              <akn:p>The combined amount of property tax savings, which shall be labeled on the notice as "tax relief appropriated by the Legislature", for each taxpayer as a result of moneys received by a school district from the school district facilities fund established pursuant to section 33-911 , Idaho Code, and the homeowner property tax relief granted pursuant to section 63-724 , Idaho Code, if any;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_m">
+            <akn:num>(m)</akn:num>
+            <akn:content>
+              <akn:p>The different payment options available to the taxpayer, his agent, or representative, which shall be printed in boldface type in a contrasting color or highlighted on the face of the tax notice; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_n">
+            <akn:num>(n)</akn:num>
+            <akn:content>
+              <akn:p>The total amount of property taxes for the previous tax year.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_n__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>The information required by subsection</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_n__subsec_1">
+              <akn:num>(1)</akn:num>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>of this section may be satisfied if the county treasurer provides an annual insert with the tax notice or a link on the tax notice to the county website where the information required by subsection</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_1">
+              <akn:num>(1)</akn:num>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>of this section can be accessed. Such information must be archived on the county website. In addition to including the link to the county website, the county treasurer may also include on the tax notice a quick response code to access the information required by subsection</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_1">
+              <akn:num>(1)</akn:num>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>of this section.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The tax notices shall be numbered consecutively and the numbers must be entered upon all property rolls.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_4">
+              <akn:num>(4)</akn:num>
+              <akn:content>
+                <akn:p>Tax notices prepared in tax code area format shall state that levy sheets are available to the public.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_5">
+              <akn:num>(5)</akn:num>
+              <akn:content>
+                <akn:p>Levy sheets shall list the total property tax levy for each taxing district or taxing jurisdiction and the total in each tax code area.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_6">
+              <akn:num>(6)</akn:num>
+              <akn:content>
+                <akn:p>If the taxpayer is one other than the equitable titleholder, such as an escrowee, trustee of trust deed or other third party, the taxpayer shall deliver to the equitable titleholder a statement of the total amount of property taxes billed, on or before the second Monday of December.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_7">
+              <akn:num>(7)</akn:num>
+              <akn:content>
+                <akn:p>The tax collector in each county of the state is authorized to destroy all duplicate property tax receipts and microfilm of tax receipts on file in his office as they reach ten</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>years old. Property tax receipts may be destroyed if information has been replicated in other storage media.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_8">
+              <akn:num>(8)</akn:num>
+              <akn:content>
+                <akn:p>Computer and data processing routines for completion of all phases of the property tax roll procedures may be utilized with the responsibility for completion of each office’s statutory duties to remain under the supervision of that office. Wherever the designation "property roll" appears within title 63 , Idaho Code, data processing or computer procedures and forms may be substituted as permanent records.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_9">
+              <akn:num>(9)</akn:num>
+              <akn:content>
+                <akn:p>The county tax collector must, as soon as possible after the subsequent or missed property roll is delivered to him from the county auditor, mail or transmit electronically, if electronic transmission is requested by the taxpayer, a notice to every taxpayer listed on the subsequent or missed property roll, or to his agent or representative. The notice shall conform as nearly as possible to the notice required for property listed on the property roll.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>Failure to mail or transmit electronically, if electronic transmission is requested by the taxpayer, such property tax notice, or receipt of said notice by the taxpayer, shall not invalidate the property taxes, or any proceedings in the collection of property taxes, or any proceedings in the foreclosure of property tax liens.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_11">
+              <akn:num>(11)</akn:num>
+              <akn:content>
+                <akn:p>No charge, other than property taxes, shall be included on a tax notice unless the entity placing such charge has received approval from the board of county commissioners to place such charge on the tax notice and such entity:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Has the authority by law to place a lien on property; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Has the authority to certify such charge to the auditor; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Is required to collect such charge in the same manner provided by law for the collection of real and personal property taxes.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_c__subsec_12">
+              <akn:num>(12)</akn:num>
+              <akn:content>
+                <akn:p>If a taxpayer requests to receive a tax notice electronically, the request must be made on a form provided by the county tax collector. History: [63-902, added 1996, ch. 98, sec. 10, p. 377; am. 1997, ch. 117, sec. 33, p. 331; am. 1997, ch. 241, sec. 1, p. 701; am. 2006, ch. 322, sec. 1, p. 1021; am. 2014, ch. 14, sec. 1, p. 21; am. 2020, ch. 215, sec. 1, p. 637; am. 2021, ch. 327, sec. 2, p. 1002; am. 2023, ch. 200, sec. 12, p. 549.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-902. Property tax notice and receipts — Duty of tax collector.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_c__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>For property on the property roll or operating property roll, the county tax collector must, prior to the fourth Monday of November in each year, mail or transmit electronically, as that term is defined in section 63-115 , Idaho Code, if electronic transmission is requested by the taxpayer, to every taxpayer, or to his agent or representative, at his last known post office address, a tax notice prepared upon forms prescribed in section 63-219 , Idaho Code, which shall contain at least the following:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The year in which the property tax was levied;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>The name and address of the property owner;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>An accurate description of the property or, in lieu thereof, the tax number of record;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>The parcel number;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Full market value for assessment purposes;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>The total amount of property taxes due:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>State; (ii)  County; (iii) City; (iv)  School district separately shown as: (A)  Maintenance and operation; (B)  Bond; (C)  Supplemental; (D)  Other;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_v">
+            <akn:num>(v)</akn:num>
+            <akn:content>
+              <akn:p>And every other tax being separately shown.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_g">
+            <akn:num>(g)</akn:num>
+            <akn:content>
+              <akn:p>All property tax levies in the tax code area;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>The expiration dates of all bonds and levies approved by voters at an election for each taxing district as defined in section 63-3101 , Idaho Code, submitted to the tax collector pursuant to section 63-803</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_5">
+              <akn:num>(5)</akn:num>
+              <akn:content>
+                <akn:p>, Idaho Code;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>The date when such property taxes become delinquent;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_j">
+            <akn:num>(j)</akn:num>
+            <akn:content>
+              <akn:p>Notation of delinquencies against said property;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_k">
+            <akn:num>(k)</akn:num>
+            <akn:content>
+              <akn:p>Whether an interim payment account exists;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_l">
+            <akn:num>(l)</akn:num>
+            <akn:content>
+              <akn:p>The combined amount of property tax savings, which shall be labeled on the notice as "tax relief appropriated by the Legislature", for each taxpayer as a result of moneys received by a school district from the school district facilities fund established pursuant to section 33-911 , Idaho Code, and the homeowner property tax relief granted pursuant to section 63-724 , Idaho Code, if any;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_m">
+            <akn:num>(m)</akn:num>
+            <akn:content>
+              <akn:p>The different payment options available to the taxpayer, his agent, or representative, which shall be printed in boldface type in a contrasting color or highlighted on the face of the tax notice; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_n">
+            <akn:num>(n)</akn:num>
+            <akn:content>
+              <akn:p>The total amount of property taxes for the previous tax year.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_n__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>The information required by subsection</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_n__subsec_1">
+              <akn:num>(1)</akn:num>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>of this section may be satisfied if the county treasurer provides an annual insert with the tax notice or a link on the tax notice to the county website where the information required by subsection</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_1">
+              <akn:num>(1)</akn:num>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>of this section can be accessed. Such information must be archived on the county website. In addition to including the link to the county website, the county treasurer may also include on the tax notice a quick response code to access the information required by subsection</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_1">
+              <akn:num>(1)</akn:num>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>of this section.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The tax notices shall be numbered consecutively and the numbers must be entered upon all property rolls.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_4">
+              <akn:num>(4)</akn:num>
+              <akn:content>
+                <akn:p>Tax notices prepared in tax code area format shall state that levy sheets are available to the public.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_5">
+              <akn:num>(5)</akn:num>
+              <akn:content>
+                <akn:p>Levy sheets shall list the total property tax levy for each taxing district or taxing jurisdiction and the total in each tax code area.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_6">
+              <akn:num>(6)</akn:num>
+              <akn:content>
+                <akn:p>If the taxpayer is one other than the equitable titleholder, such as an escrowee, trustee of trust deed or other third party, the taxpayer shall deliver to the equitable titleholder a statement of the total amount of property taxes billed, on or before the second Monday of December.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_7">
+              <akn:num>(7)</akn:num>
+              <akn:content>
+                <akn:p>The tax collector in each county of the state is authorized to destroy all duplicate property tax receipts and microfilm of tax receipts on file in his office as they reach ten</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>years old. Property tax receipts may be destroyed if information has been replicated in other storage media.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_8">
+              <akn:num>(8)</akn:num>
+              <akn:content>
+                <akn:p>Computer and data processing routines for completion of all phases of the property tax roll procedures may be utilized with the responsibility for completion of each office’s statutory duties to remain under the supervision of that office. Wherever the designation "property roll" appears within title 63 , Idaho Code, data processing or computer procedures and forms may be substituted as permanent records.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_9">
+              <akn:num>(9)</akn:num>
+              <akn:content>
+                <akn:p>The county tax collector must, as soon as possible after the subsequent or missed property roll is delivered to him from the county auditor, mail or transmit electronically, if electronic transmission is requested by the taxpayer, a notice to every taxpayer listed on the subsequent or missed property roll, or to his agent or representative. The notice shall conform as nearly as possible to the notice required for property listed on the property roll.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>Failure to mail or transmit electronically, if electronic transmission is requested by the taxpayer, such property tax notice, or receipt of said notice by the taxpayer, shall not invalidate the property taxes, or any proceedings in the collection of property taxes, or any proceedings in the foreclosure of property tax liens.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_11">
+              <akn:num>(11)</akn:num>
+              <akn:content>
+                <akn:p>No charge, other than property taxes, shall be included on a tax notice unless the entity placing such charge has received approval from the board of county commissioners to place such charge on the tax notice and such entity:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Has the authority by law to place a lien on property; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Has the authority to certify such charge to the auditor; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Is required to collect such charge in the same manner provided by law for the collection of real and personal property taxes.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_c__subsec_12">
+              <akn:num>(12)</akn:num>
+              <akn:content>
+                <akn:p>If a taxpayer requests to receive a tax notice electronically, the request must be made on a form provided by the county tax collector. History: [63-902, added 1996, ch. 98, sec. 10, p. 377; am. 1997, ch. 117, sec. 33, p. 331; am. 1997, ch. 241, sec. 1, p. 701; am. 2006, ch. 322, sec. 1, p. 1021; am. 2014, ch. 14, sec. 1, p. 21; am. 2020, ch. 215, sec. 1, p. 637; am. 2021, ch. 327, sec. 2, p. 1002; am. 2023, ch. 200, sec. 12, p. 549.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-902. Property tax notice and receipts — Duty of tax collector.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_c__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>For property on the property roll or operating property roll, the county tax collector must, prior to the fourth Monday of November in each year, mail or transmit electronically, as that term is defined in section 63-115 , Idaho Code, if electronic transmission is requested by the taxpayer, to every taxpayer, or to his agent or representative, at his last known post office address, a tax notice prepared upon forms prescribed in section 63-219 , Idaho Code, which shall contain at least the following:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The year in which the property tax was levied;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>The name and address of the property owner;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>An accurate description of the property or, in lieu thereof, the tax number of record;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>The parcel number;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Full market value for assessment purposes;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>The total amount of property taxes due:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>State; (ii)  County; (iii) City; (iv)  School district separately shown as: (A)  Maintenance and operation; (B)  Bond; (C)  Supplemental; (D)  Other;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_v">
+            <akn:num>(v)</akn:num>
+            <akn:content>
+              <akn:p>And every other tax being separately shown.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_g">
+            <akn:num>(g)</akn:num>
+            <akn:content>
+              <akn:p>All property tax levies in the tax code area;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>The expiration dates of all bonds and levies approved by voters at an election for each taxing district as defined in section 63-3101 , Idaho Code, submitted to the tax collector pursuant to section 63-803</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_5">
+              <akn:num>(5)</akn:num>
+              <akn:content>
+                <akn:p>, Idaho Code;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>The date when such property taxes become delinquent;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_j">
+            <akn:num>(j)</akn:num>
+            <akn:content>
+              <akn:p>Notation of delinquencies against said property;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_k">
+            <akn:num>(k)</akn:num>
+            <akn:content>
+              <akn:p>Whether an interim payment account exists;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_l">
+            <akn:num>(l)</akn:num>
+            <akn:content>
+              <akn:p>The combined amount of property tax savings, which shall be labeled on the notice as "tax relief appropriated by the Legislature", for each taxpayer as a result of moneys received by a school district from the school district facilities fund established pursuant to section 33-911 , Idaho Code, and the homeowner property tax relief granted pursuant to section 63-724 , Idaho Code, if any;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_m">
+            <akn:num>(m)</akn:num>
+            <akn:content>
+              <akn:p>The different payment options available to the taxpayer, his agent, or representative, which shall be printed in boldface type in a contrasting color or highlighted on the face of the tax notice; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_n">
+            <akn:num>(n)</akn:num>
+            <akn:content>
+              <akn:p>The total amount of property taxes for the previous tax year.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_n__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>The information required by subsection</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_n__subsec_1">
+              <akn:num>(1)</akn:num>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>of this section may be satisfied if the county treasurer provides an annual insert with the tax notice or a link on the tax notice to the county website where the information required by subsection</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_1">
+              <akn:num>(1)</akn:num>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>of this section can be accessed. Such information must be archived on the county website. In addition to including the link to the county website, the county treasurer may also include on the tax notice a quick response code to access the information required by subsection</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_1">
+              <akn:num>(1)</akn:num>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>of this section.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The tax notices shall be numbered consecutively and the numbers must be entered upon all property rolls.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_4">
+              <akn:num>(4)</akn:num>
+              <akn:content>
+                <akn:p>Tax notices prepared in tax code area format shall state that levy sheets are available to the public.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_5">
+              <akn:num>(5)</akn:num>
+              <akn:content>
+                <akn:p>Levy sheets shall list the total property tax levy for each taxing district or taxing jurisdiction and the total in each tax code area.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_6">
+              <akn:num>(6)</akn:num>
+              <akn:content>
+                <akn:p>If the taxpayer is one other than the equitable titleholder, such as an escrowee, trustee of trust deed or other third party, the taxpayer shall deliver to the equitable titleholder a statement of the total amount of property taxes billed, on or before the second Monday of December.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_7">
+              <akn:num>(7)</akn:num>
+              <akn:content>
+                <akn:p>The tax collector in each county of the state is authorized to destroy all duplicate property tax receipts and microfilm of tax receipts on file in his office as they reach ten</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>years old. Property tax receipts may be destroyed if information has been replicated in other storage media.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_8">
+              <akn:num>(8)</akn:num>
+              <akn:content>
+                <akn:p>Computer and data processing routines for completion of all phases of the property tax roll procedures may be utilized with the responsibility for completion of each office’s statutory duties to remain under the supervision of that office. Wherever the designation "property roll" appears within title 63 , Idaho Code, data processing or computer procedures and forms may be substituted as permanent records.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_9">
+              <akn:num>(9)</akn:num>
+              <akn:content>
+                <akn:p>The county tax collector must, as soon as possible after the subsequent or missed property roll is delivered to him from the county auditor, mail or transmit electronically, if electronic transmission is requested by the taxpayer, a notice to every taxpayer listed on the subsequent or missed property roll, or to his agent or representative. The notice shall conform as nearly as possible to the notice required for property listed on the property roll.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>Failure to mail or transmit electronically, if electronic transmission is requested by the taxpayer, such property tax notice, or receipt of said notice by the taxpayer, shall not invalidate the property taxes, or any proceedings in the collection of property taxes, or any proceedings in the foreclosure of property tax liens.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_11">
+              <akn:num>(11)</akn:num>
+              <akn:content>
+                <akn:p>No charge, other than property taxes, shall be included on a tax notice unless the entity placing such charge has received approval from the board of county commissioners to place such charge on the tax notice and such entity:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Has the authority by law to place a lien on property; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Has the authority to certify such charge to the auditor; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Is required to collect such charge in the same manner provided by law for the collection of real and personal property taxes.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_c__subsec_12">
+              <akn:num>(12)</akn:num>
+              <akn:content>
+                <akn:p>If a taxpayer requests to receive a tax notice electronically, the request must be made on a form provided by the county tax collector. History: [63-902, added 1996, ch. 98, sec. 10, p. 377; am. 1997, ch. 117, sec. 33, p. 331; am. 1997, ch. 241, sec. 1, p. 701; am. 2006, ch. 322, sec. 1, p. 1021; am. 2014, ch. 14, sec. 1, p. 21; am. 2020, ch. 215, sec. 1, p. 637; am. 2021, ch. 327, sec. 2, p. 1002; am. 2023, ch. 200, sec. 12, p. 549.]
+63-902. Property tax notice and receipts — Duty of tax collector.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_c__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>For property on the property roll or operating property roll, the county tax collector must, prior to the fourth Monday of November in each year, mail or transmit electronically, as that term is defined in section 63-115 , Idaho Code, if electronic transmission is requested by the taxpayer, to every taxpayer, or to his agent or representative, at his last known post office address, a tax notice prepared upon forms prescribed in section 63-219 , Idaho Code, which shall contain at least the following:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The year in which the property tax was levied;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>The name and address of the property owner;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>An accurate description of the property or, in lieu thereof, the tax number of record;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>The parcel number;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Full market value for assessment purposes;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>The total amount of property taxes due:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>State;
+(ii)  County;
+(iii) City;
+(iv)  School district separately shown as:
+(A)  Maintenance and operation;
+(B)  Bond;
+(C)  Supplemental;
+(D)  Other;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_v">
+            <akn:num>(v)</akn:num>
+            <akn:content>
+              <akn:p>And every other tax being separately shown.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_g">
+            <akn:num>(g)</akn:num>
+            <akn:content>
+              <akn:p>All property tax levies in the tax code area;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>The expiration dates of all bonds and levies approved by voters at an election for each taxing district as defined in section 63-3101 , Idaho Code, submitted to the tax collector pursuant to section 63-803</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_5">
+              <akn:num>(5)</akn:num>
+              <akn:content>
+                <akn:p>, Idaho Code;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>The date when such property taxes become delinquent;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_j">
+            <akn:num>(j)</akn:num>
+            <akn:content>
+              <akn:p>Notation of delinquencies against said property;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_k">
+            <akn:num>(k)</akn:num>
+            <akn:content>
+              <akn:p>Whether an interim payment account exists;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_l">
+            <akn:num>(l)</akn:num>
+            <akn:content>
+              <akn:p>The combined amount of property tax savings, which shall be labeled on the notice as "tax relief appropriated by the Legislature", for each taxpayer as a result of moneys received by a school district from the school district facilities fund established pursuant to section 33-911 , Idaho Code, and the homeowner property tax relief granted pursuant to section 63-724 , Idaho Code, if any;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_m">
+            <akn:num>(m)</akn:num>
+            <akn:content>
+              <akn:p>The different payment options available to the taxpayer, his agent, or representative, which shall be printed in boldface type in a contrasting color or highlighted on the face of the tax notice; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_n">
+            <akn:num>(n)</akn:num>
+            <akn:content>
+              <akn:p>The total amount of property taxes for the previous tax year.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_n__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>The information required by subsection</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_n__subsec_1">
+              <akn:num>(1)</akn:num>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>of this section may be satisfied if the county treasurer provides an annual insert with the tax notice or a link on the tax notice to the county website where the information required by subsection</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_1">
+              <akn:num>(1)</akn:num>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>of this section can be accessed. Such information must be archived on the county website. In addition to including the link to the county website, the county treasurer may also include on the tax notice a quick response code to access the information required by subsection</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_1">
+              <akn:num>(1)</akn:num>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>of this section.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_h__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>The tax notices shall be numbered consecutively and the numbers must be entered upon all property rolls.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_4">
+              <akn:num>(4)</akn:num>
+              <akn:content>
+                <akn:p>Tax notices prepared in tax code area format shall state that levy sheets are available to the public.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_5">
+              <akn:num>(5)</akn:num>
+              <akn:content>
+                <akn:p>Levy sheets shall list the total property tax levy for each taxing district or taxing jurisdiction and the total in each tax code area.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_6">
+              <akn:num>(6)</akn:num>
+              <akn:content>
+                <akn:p>If the taxpayer is one other than the equitable titleholder, such as an escrowee, trustee of trust deed or other third party, the taxpayer shall deliver to the equitable titleholder a statement of the total amount of property taxes billed, on or before the second Monday of December.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_7">
+              <akn:num>(7)</akn:num>
+              <akn:content>
+                <akn:p>The tax collector in each county of the state is authorized to destroy all duplicate property tax receipts and microfilm of tax receipts on file in his office as they reach ten</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>years old. Property tax receipts may be destroyed if information has been replicated in other storage media.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_8">
+              <akn:num>(8)</akn:num>
+              <akn:content>
+                <akn:p>Computer and data processing routines for completion of all phases of the property tax roll procedures may be utilized with the responsibility for completion of each office’s statutory duties to remain under the supervision of that office. Wherever the designation "property roll" appears within title 63 , Idaho Code, data processing or computer procedures and forms may be substituted as permanent records.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_9">
+              <akn:num>(9)</akn:num>
+              <akn:content>
+                <akn:p>The county tax collector must, as soon as possible after the subsequent or missed property roll is delivered to him from the county auditor, mail or transmit electronically, if electronic transmission is requested by the taxpayer, a notice to every taxpayer listed on the subsequent or missed property roll, or to his agent or representative. The notice shall conform as nearly as possible to the notice required for property listed on the property roll.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>Failure to mail or transmit electronically, if electronic transmission is requested by the taxpayer, such property tax notice, or receipt of said notice by the taxpayer, shall not invalidate the property taxes, or any proceedings in the collection of property taxes, or any proceedings in the foreclosure of property tax liens.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_902__subsec_h__subsec_11">
+              <akn:num>(11)</akn:num>
+              <akn:content>
+                <akn:p>No charge, other than property taxes, shall be included on a tax notice unless the entity placing such charge has received approval from the board of county commissioners to place such charge on the tax notice and such entity:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Has the authority by law to place a lien on property; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Has the authority to certify such charge to the auditor; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_902__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Is required to collect such charge in the same manner provided by law for the collection of real and personal property taxes.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_902__subsec_c__subsec_12">
+              <akn:num>(12)</akn:num>
+              <akn:content>
+                <akn:p>If a taxpayer requests to receive a tax notice electronically, the request must be made on a form provided by the county tax collector.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_903">
+          <akn:num>63-903</akn:num>
+          <akn:heading>When payable. [effective until january 1, 2026]</akn:heading>
+          <akn:subsection eId="63_903__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes extended on the property and operating property rolls shall be due and payable in full to the tax collector without late charges and interest on or before December 20 of the year in which the property taxes are levied. The property taxes may be paid in full or paid in two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>halves, the first half on or before December 20 with a grace period extending to June 20 for the second half if the first half is totally paid.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Any portion of a property tax may be paid at any time, but nothing in this section shall excuse costs, interest or late charges pursuant to section 63-1002 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>If the first one-half (1/2) is not totally paid on or before December 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the first one-half (1/2) of the property tax has been paid in part, late charges and interest shall be calculated on the remaining first half tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>If the second one-half (1/2) is not totally paid on or before June 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the second one-half (1/2) has been paid in part, late charges and interest shall be calculated on the remaining property tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Property taxes on the subsequent or missed property roll shall be billed within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after delivery of the property roll to the county tax collector or as otherwise provided. The tax collector shall notify the property owner of the property taxes due without delay after delivery of the property roll. Delinquency occurs if the tax remains unpaid thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after the bills are mailed. Late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed in the same manner as all other property taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes and fees, together with any costs, late charges and interest collected by the county tax collector shall be remitted to the county auditor as provided in section 63-1201 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Payment of any current property taxes shall not invalidate any proceeding in the collection of a delinquency. 63-903. When payable. [effective january 1, 2026]</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes extended on the property and operating property rolls shall be due and payable in full to the tax collector without late charges and interest on or before December 20 of the year in which the property taxes are levied. The property taxes may be paid in full or paid in two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>halves, the first half on or before December 20 with a grace period extending to June 20 for the second half if the first half is totally paid.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Any portion of a property tax may be paid at any time, but nothing in this section shall excuse costs, interest or late charges pursuant to section 63-1002 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>If the first one-half (1/2) is not totally paid on or before December 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the first one-half (1/2) of the property tax has been paid in part, late charges and interest shall be calculated on the remaining first half tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>If the second one-half (1/2) is not totally paid on or before June 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the second one-half (1/2) has been paid in part, late charges and interest shall be calculated on the remaining property tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Property taxes on the subsequent or missed property roll shall be billed within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after delivery of the property roll to the county tax collector or as otherwise provided. The tax collector shall notify the property owner of the property taxes due. The deadline for paying such property tax shall be the same as provided in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>of this section. Delinquency occurs if the tax remains unpaid after June 20. Late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed in the same manner as all other property taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes and fees, together with any costs, late charges and interest collected by the county tax collector shall be remitted to the county auditor as provided in section 63-1201 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Payment of any current property taxes shall not invalidate any proceeding in the collection of a delinquency. History: [63-903 added 1996, ch. 98, sec. 10, p. 378; am. 2018, ch. 69, sec. 1, p. 164; am. 2025, ch. 202, sec. 4, p. 922.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-903. When payable. [effective until january 1, 2026]</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes extended on the property and operating property rolls shall be due and payable in full to the tax collector without late charges and interest on or before December 20 of the year in which the property taxes are levied. The property taxes may be paid in full or paid in two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>halves, the first half on or before December 20 with a grace period extending to June 20 for the second half if the first half is totally paid.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Any portion of a property tax may be paid at any time, but nothing in this section shall excuse costs, interest or late charges pursuant to section 63-1002 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>If the first one-half (1/2) is not totally paid on or before December 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the first one-half (1/2) of the property tax has been paid in part, late charges and interest shall be calculated on the remaining first half tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>If the second one-half (1/2) is not totally paid on or before June 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the second one-half (1/2) has been paid in part, late charges and interest shall be calculated on the remaining property tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Property taxes on the subsequent or missed property roll shall be billed within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after delivery of the property roll to the county tax collector or as otherwise provided. The tax collector shall notify the property owner of the property taxes due without delay after delivery of the property roll. Delinquency occurs if the tax remains unpaid thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after the bills are mailed. Late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed in the same manner as all other property taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes and fees, together with any costs, late charges and interest collected by the county tax collector shall be remitted to the county auditor as provided in section 63-1201 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Payment of any current property taxes shall not invalidate any proceeding in the collection of a delinquency. 63-903. When payable. [effective january 1, 2026]</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes extended on the property and operating property rolls shall be due and payable in full to the tax collector without late charges and interest on or before December 20 of the year in which the property taxes are levied. The property taxes may be paid in full or paid in two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>halves, the first half on or before December 20 with a grace period extending to June 20 for the second half if the first half is totally paid.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Any portion of a property tax may be paid at any time, but nothing in this section shall excuse costs, interest or late charges pursuant to section 63-1002 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>If the first one-half (1/2) is not totally paid on or before December 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the first one-half (1/2) of the property tax has been paid in part, late charges and interest shall be calculated on the remaining first half tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>If the second one-half (1/2) is not totally paid on or before June 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the second one-half (1/2) has been paid in part, late charges and interest shall be calculated on the remaining property tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Property taxes on the subsequent or missed property roll shall be billed within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after delivery of the property roll to the county tax collector or as otherwise provided. The tax collector shall notify the property owner of the property taxes due. The deadline for paying such property tax shall be the same as provided in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>of this section. Delinquency occurs if the tax remains unpaid after June 20. Late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed in the same manner as all other property taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes and fees, together with any costs, late charges and interest collected by the county tax collector shall be remitted to the county auditor as provided in section 63-1201 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Payment of any current property taxes shall not invalidate any proceeding in the collection of a delinquency. History: [63-903 added 1996, ch. 98, sec. 10, p. 378; am. 2018, ch. 69, sec. 1, p. 164; am. 2025, ch. 202, sec. 4, p. 922.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-903. When payable. [effective until january 1, 2026]</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes extended on the property and operating property rolls shall be due and payable in full to the tax collector without late charges and interest on or before December 20 of the year in which the property taxes are levied. The property taxes may be paid in full or paid in two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>halves, the first half on or before December 20 with a grace period extending to June 20 for the second half if the first half is totally paid.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Any portion of a property tax may be paid at any time, but nothing in this section shall excuse costs, interest or late charges pursuant to section 63-1002 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>If the first one-half (1/2) is not totally paid on or before December 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the first one-half (1/2) of the property tax has been paid in part, late charges and interest shall be calculated on the remaining first half tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>If the second one-half (1/2) is not totally paid on or before June 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the second one-half (1/2) has been paid in part, late charges and interest shall be calculated on the remaining property tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Property taxes on the subsequent or missed property roll shall be billed within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after delivery of the property roll to the county tax collector or as otherwise provided. The tax collector shall notify the property owner of the property taxes due without delay after delivery of the property roll. Delinquency occurs if the tax remains unpaid thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after the bills are mailed. Late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed in the same manner as all other property taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes and fees, together with any costs, late charges and interest collected by the county tax collector shall be remitted to the county auditor as provided in section 63-1201 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Payment of any current property taxes shall not invalidate any proceeding in the collection of a delinquency. 63-903. When payable. [effective january 1, 2026]</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes extended on the property and operating property rolls shall be due and payable in full to the tax collector without late charges and interest on or before December 20 of the year in which the property taxes are levied. The property taxes may be paid in full or paid in two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>halves, the first half on or before December 20 with a grace period extending to June 20 for the second half if the first half is totally paid.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Any portion of a property tax may be paid at any time, but nothing in this section shall excuse costs, interest or late charges pursuant to section 63-1002 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>If the first one-half (1/2) is not totally paid on or before December 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the first one-half (1/2) of the property tax has been paid in part, late charges and interest shall be calculated on the remaining first half tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>If the second one-half (1/2) is not totally paid on or before June 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the second one-half (1/2) has been paid in part, late charges and interest shall be calculated on the remaining property tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Property taxes on the subsequent or missed property roll shall be billed within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after delivery of the property roll to the county tax collector or as otherwise provided. The tax collector shall notify the property owner of the property taxes due. The deadline for paying such property tax shall be the same as provided in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>of this section. Delinquency occurs if the tax remains unpaid after June 20. Late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed in the same manner as all other property taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes and fees, together with any costs, late charges and interest collected by the county tax collector shall be remitted to the county auditor as provided in section 63-1201 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Payment of any current property taxes shall not invalidate any proceeding in the collection of a delinquency. History: [63-903 added 1996, ch. 98, sec. 10, p. 378; am. 2018, ch. 69, sec. 1, p. 164; am. 2025, ch. 202, sec. 4, p. 922.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-903. When payable. [effective until january 1, 2026]</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes extended on the property and operating property rolls shall be due and payable in full to the tax collector without late charges and interest on or before December 20 of the year in which the property taxes are levied. The property taxes may be paid in full or paid in two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>halves, the first half on or before December 20 with a grace period extending to June 20 for the second half if the first half is totally paid.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Any portion of a property tax may be paid at any time, but nothing in this section shall excuse costs, interest or late charges pursuant to section 63-1002 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>If the first one-half (1/2) is not totally paid on or before December 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the first one-half (1/2) of the property tax has been paid in part, late charges and interest shall be calculated on the remaining first half tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>If the second one-half (1/2) is not totally paid on or before June 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the second one-half (1/2) has been paid in part, late charges and interest shall be calculated on the remaining property tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Property taxes on the subsequent or missed property roll shall be billed within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after delivery of the property roll to the county tax collector or as otherwise provided. The tax collector shall notify the property owner of the property taxes due without delay after delivery of the property roll. Delinquency occurs if the tax remains unpaid thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after the bills are mailed. Late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed in the same manner as all other property taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes and fees, together with any costs, late charges and interest collected by the county tax collector shall be remitted to the county auditor as provided in section 63-1201 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Payment of any current property taxes shall not invalidate any proceeding in the collection of a delinquency. 63-903. When payable. [effective january 1, 2026]</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes extended on the property and operating property rolls shall be due and payable in full to the tax collector without late charges and interest on or before December 20 of the year in which the property taxes are levied. The property taxes may be paid in full or paid in two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>halves, the first half on or before December 20 with a grace period extending to June 20 for the second half if the first half is totally paid.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Any portion of a property tax may be paid at any time, but nothing in this section shall excuse costs, interest or late charges pursuant to section 63-1002 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>If the first one-half (1/2) is not totally paid on or before December 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the first one-half (1/2) of the property tax has been paid in part, late charges and interest shall be calculated on the remaining first half tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>If the second one-half (1/2) is not totally paid on or before June 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the second one-half (1/2) has been paid in part, late charges and interest shall be calculated on the remaining property tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Property taxes on the subsequent or missed property roll shall be billed within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after delivery of the property roll to the county tax collector or as otherwise provided. The tax collector shall notify the property owner of the property taxes due. The deadline for paying such property tax shall be the same as provided in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>of this section. Delinquency occurs if the tax remains unpaid after June 20. Late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed in the same manner as all other property taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes and fees, together with any costs, late charges and interest collected by the county tax collector shall be remitted to the county auditor as provided in section 63-1201 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Payment of any current property taxes shall not invalidate any proceeding in the collection of a delinquency. History: [63-903 added 1996, ch. 98, sec. 10, p. 378; am. 2018, ch. 69, sec. 1, p. 164; am. 2025, ch. 202, sec. 4, p. 922.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-903. When payable. [effective until january 1, 2026]</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes extended on the property and operating property rolls shall be due and payable in full to the tax collector without late charges and interest on or before December 20 of the year in which the property taxes are levied. The property taxes may be paid in full or paid in two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>halves, the first half on or before December 20 with a grace period extending to June 20 for the second half if the first half is totally paid.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Any portion of a property tax may be paid at any time, but nothing in this section shall excuse costs, interest or late charges pursuant to section 63-1002 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>If the first one-half (1/2) is not totally paid on or before December 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the first one-half (1/2) of the property tax has been paid in part, late charges and interest shall be calculated on the remaining first half tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>If the second one-half (1/2) is not totally paid on or before June 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the second one-half (1/2) has been paid in part, late charges and interest shall be calculated on the remaining property tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Property taxes on the subsequent or missed property roll shall be billed within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after delivery of the property roll to the county tax collector or as otherwise provided. The tax collector shall notify the property owner of the property taxes due without delay after delivery of the property roll. Delinquency occurs if the tax remains unpaid thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after the bills are mailed. Late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed in the same manner as all other property taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes and fees, together with any costs, late charges and interest collected by the county tax collector shall be remitted to the county auditor as provided in section 63-1201 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Payment of any current property taxes shall not invalidate any proceeding in the collection of a delinquency. 63-903. When payable. [effective january 1, 2026]</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes extended on the property and operating property rolls shall be due and payable in full to the tax collector without late charges and interest on or before December 20 of the year in which the property taxes are levied. The property taxes may be paid in full or paid in two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>halves, the first half on or before December 20 with a grace period extending to June 20 for the second half if the first half is totally paid.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Any portion of a property tax may be paid at any time, but nothing in this section shall excuse costs, interest or late charges pursuant to section 63-1002 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>If the first one-half (1/2) is not totally paid on or before December 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the first one-half (1/2) of the property tax has been paid in part, late charges and interest shall be calculated on the remaining first half tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>If the second one-half (1/2) is not totally paid on or before June 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the second one-half (1/2) has been paid in part, late charges and interest shall be calculated on the remaining property tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Property taxes on the subsequent or missed property roll shall be billed within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after delivery of the property roll to the county tax collector or as otherwise provided. The tax collector shall notify the property owner of the property taxes due. The deadline for paying such property tax shall be the same as provided in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>of this section. Delinquency occurs if the tax remains unpaid after June 20. Late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed in the same manner as all other property taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes and fees, together with any costs, late charges and interest collected by the county tax collector shall be remitted to the county auditor as provided in section 63-1201 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Payment of any current property taxes shall not invalidate any proceeding in the collection of a delinquency. History: [63-903 added 1996, ch. 98, sec. 10, p. 378; am. 2018, ch. 69, sec. 1, p. 164; am. 2025, ch. 202, sec. 4, p. 922.]
+63-903. When payable. [effective until january 1, 2026]</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes extended on the property and operating property rolls shall be due and payable in full to the tax collector without late charges and interest on or before December 20 of the year in which the property taxes are levied. The property taxes may be paid in full or paid in two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>halves, the first half on or before December 20 with a grace period extending to June 20 for the second half if the first half is totally paid.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Any portion of a property tax may be paid at any time, but nothing in this section shall excuse costs, interest or late charges pursuant to section 63-1002 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>If the first one-half (1/2) is not totally paid on or before December 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the first one-half (1/2) of the property tax has been paid in part, late charges and interest shall be calculated on the remaining first half tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>If the second one-half (1/2) is not totally paid on or before June 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the second one-half (1/2) has been paid in part, late charges and interest shall be calculated on the remaining property tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Property taxes on the subsequent or missed property roll shall be billed within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after delivery of the property roll to the county tax collector or as otherwise provided. The tax collector shall notify the property owner of the property taxes due without delay after delivery of the property roll. Delinquency occurs if the tax remains unpaid thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after the bills are mailed. Late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed in the same manner as all other property taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes and fees, together with any costs, late charges and interest collected by the county tax collector shall be remitted to the county auditor as provided in section 63-1201 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Payment of any current property taxes shall not invalidate any proceeding in the collection of a delinquency.
+63-903. When payable. [effective january 1, 2026]</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes extended on the property and operating property rolls shall be due and payable in full to the tax collector without late charges and interest on or before December 20 of the year in which the property taxes are levied. The property taxes may be paid in full or paid in two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>halves, the first half on or before December 20 with a grace period extending to June 20 for the second half if the first half is totally paid.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Any portion of a property tax may be paid at any time, but nothing in this section shall excuse costs, interest or late charges pursuant to section 63-1002 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>If the first one-half (1/2) is not totally paid on or before December 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the first one-half (1/2) of the property tax has been paid in part, late charges and interest shall be calculated on the remaining first half tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>If the second one-half (1/2) is not totally paid on or before June 20, late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed. If the second one-half (1/2) has been paid in part, late charges and interest shall be calculated on the remaining property tax due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Property taxes on the subsequent or missed property roll shall be billed within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after delivery of the property roll to the county tax collector or as otherwise provided. The tax collector shall notify the property owner of the property taxes due. The deadline for paying such property tax shall be the same as provided in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>of this section. Delinquency occurs if the tax remains unpaid after June 20. Late charges as defined in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, shall be assessed in the same manner as all other property taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>All property taxes and fees, together with any costs, late charges and interest collected by the county tax collector shall be remitted to the county auditor as provided in section 63-1201 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_903__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Payment of any current property taxes shall not invalidate any proceeding in the collection of a delinquency.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_904">
+          <akn:num>63-904</akn:num>
+          <akn:heading>Special provisions for collection of property taxes on personal property</akn:heading>
+          <akn:subsection eId="63_904__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>If a personal property owner fails to make timely payment on the first one-half (1/2) provided for, the unpaid portion of the entire tax shall immediately become due and payable and a late charge as provided in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, on the unpaid portion of the first half shall be added. Interest shall be calculated from January 1 of the year following the year for which the taxes were assessed.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>All personal property taxes are due and payable upon demand. If no demand is made, taxes may be paid in part or in full until the tax collector issues a warrant of distraint for collection of said taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Whenever the county assessor notifies the tax collector of personal property that has been listed on a property roll, the tax collector may demand immediate payment of any property taxes due from the owner. Property taxes due shall be calculated using the previous year’s levies, unless current year’s levies are known.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>In lieu of demanding immediate payment of property taxes due, the county tax collector may require a surety bond adequate to secure the payment and collection of property taxes that may be due to that county.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>In the event a taxpayer is unable to pay his personal property tax due on or before December 20, he may appeal to the county commissioners prior to the property tax becoming delinquent. If sufficient information is given to satisfy the county commissioners that the property taxes will be paid, the county commissioners may grant an extension of time for the payment of the property taxes, late charges and interest, not to exceed four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>months. A warrant of distraint shall not be issued until the expiration of the extended time. No extensions shall be granted on the second one-half (1/2) of the property tax. History: [63-904 added 1996, ch. 98, sec. 10, p. 379; am. 2022, ch. 225, sec. 3, p. 744.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-904. Special provisions for collection of property taxes on personal property.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>If a personal property owner fails to make timely payment on the first one-half (1/2) provided for, the unpaid portion of the entire tax shall immediately become due and payable and a late charge as provided in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, on the unpaid portion of the first half shall be added. Interest shall be calculated from January 1 of the year following the year for which the taxes were assessed.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>All personal property taxes are due and payable upon demand. If no demand is made, taxes may be paid in part or in full until the tax collector issues a warrant of distraint for collection of said taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Whenever the county assessor notifies the tax collector of personal property that has been listed on a property roll, the tax collector may demand immediate payment of any property taxes due from the owner. Property taxes due shall be calculated using the previous year’s levies, unless current year’s levies are known.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>In lieu of demanding immediate payment of property taxes due, the county tax collector may require a surety bond adequate to secure the payment and collection of property taxes that may be due to that county.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>In the event a taxpayer is unable to pay his personal property tax due on or before December 20, he may appeal to the county commissioners prior to the property tax becoming delinquent. If sufficient information is given to satisfy the county commissioners that the property taxes will be paid, the county commissioners may grant an extension of time for the payment of the property taxes, late charges and interest, not to exceed four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>months. A warrant of distraint shall not be issued until the expiration of the extended time. No extensions shall be granted on the second one-half (1/2) of the property tax. History: [63-904 added 1996, ch. 98, sec. 10, p. 379; am. 2022, ch. 225, sec. 3, p. 744.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-904. Special provisions for collection of property taxes on personal property.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>If a personal property owner fails to make timely payment on the first one-half (1/2) provided for, the unpaid portion of the entire tax shall immediately become due and payable and a late charge as provided in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, on the unpaid portion of the first half shall be added. Interest shall be calculated from January 1 of the year following the year for which the taxes were assessed.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>All personal property taxes are due and payable upon demand. If no demand is made, taxes may be paid in part or in full until the tax collector issues a warrant of distraint for collection of said taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Whenever the county assessor notifies the tax collector of personal property that has been listed on a property roll, the tax collector may demand immediate payment of any property taxes due from the owner. Property taxes due shall be calculated using the previous year’s levies, unless current year’s levies are known.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>In lieu of demanding immediate payment of property taxes due, the county tax collector may require a surety bond adequate to secure the payment and collection of property taxes that may be due to that county.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>In the event a taxpayer is unable to pay his personal property tax due on or before December 20, he may appeal to the county commissioners prior to the property tax becoming delinquent. If sufficient information is given to satisfy the county commissioners that the property taxes will be paid, the county commissioners may grant an extension of time for the payment of the property taxes, late charges and interest, not to exceed four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>months. A warrant of distraint shall not be issued until the expiration of the extended time. No extensions shall be granted on the second one-half (1/2) of the property tax. History: [63-904 added 1996, ch. 98, sec. 10, p. 379; am. 2022, ch. 225, sec. 3, p. 744.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-904. Special provisions for collection of property taxes on personal property.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>If a personal property owner fails to make timely payment on the first one-half (1/2) provided for, the unpaid portion of the entire tax shall immediately become due and payable and a late charge as provided in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, on the unpaid portion of the first half shall be added. Interest shall be calculated from January 1 of the year following the year for which the taxes were assessed.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>All personal property taxes are due and payable upon demand. If no demand is made, taxes may be paid in part or in full until the tax collector issues a warrant of distraint for collection of said taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Whenever the county assessor notifies the tax collector of personal property that has been listed on a property roll, the tax collector may demand immediate payment of any property taxes due from the owner. Property taxes due shall be calculated using the previous year’s levies, unless current year’s levies are known.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>In lieu of demanding immediate payment of property taxes due, the county tax collector may require a surety bond adequate to secure the payment and collection of property taxes that may be due to that county.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>In the event a taxpayer is unable to pay his personal property tax due on or before December 20, he may appeal to the county commissioners prior to the property tax becoming delinquent. If sufficient information is given to satisfy the county commissioners that the property taxes will be paid, the county commissioners may grant an extension of time for the payment of the property taxes, late charges and interest, not to exceed four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>months. A warrant of distraint shall not be issued until the expiration of the extended time. No extensions shall be granted on the second one-half (1/2) of the property tax. History: [63-904 added 1996, ch. 98, sec. 10, p. 379; am. 2022, ch. 225, sec. 3, p. 744.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-904. Special provisions for collection of property taxes on personal property.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>If a personal property owner fails to make timely payment on the first one-half (1/2) provided for, the unpaid portion of the entire tax shall immediately become due and payable and a late charge as provided in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, on the unpaid portion of the first half shall be added. Interest shall be calculated from January 1 of the year following the year for which the taxes were assessed.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>All personal property taxes are due and payable upon demand. If no demand is made, taxes may be paid in part or in full until the tax collector issues a warrant of distraint for collection of said taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Whenever the county assessor notifies the tax collector of personal property that has been listed on a property roll, the tax collector may demand immediate payment of any property taxes due from the owner. Property taxes due shall be calculated using the previous year’s levies, unless current year’s levies are known.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>In lieu of demanding immediate payment of property taxes due, the county tax collector may require a surety bond adequate to secure the payment and collection of property taxes that may be due to that county.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>In the event a taxpayer is unable to pay his personal property tax due on or before December 20, he may appeal to the county commissioners prior to the property tax becoming delinquent. If sufficient information is given to satisfy the county commissioners that the property taxes will be paid, the county commissioners may grant an extension of time for the payment of the property taxes, late charges and interest, not to exceed four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>months. A warrant of distraint shall not be issued until the expiration of the extended time. No extensions shall be granted on the second one-half (1/2) of the property tax. History: [63-904 added 1996, ch. 98, sec. 10, p. 379; am. 2022, ch. 225, sec. 3, p. 744.]
+63-904. Special provisions for collection of property taxes on personal property.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>If a personal property owner fails to make timely payment on the first one-half (1/2) provided for, the unpaid portion of the entire tax shall immediately become due and payable and a late charge as provided in section 63-201 , Idaho Code, and interest as provided in section 63-1001 , Idaho Code, on the unpaid portion of the first half shall be added. Interest shall be calculated from January 1 of the year following the year for which the taxes were assessed.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>All personal property taxes are due and payable upon demand. If no demand is made, taxes may be paid in part or in full until the tax collector issues a warrant of distraint for collection of said taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Whenever the county assessor notifies the tax collector of personal property that has been listed on a property roll, the tax collector may demand immediate payment of any property taxes due from the owner. Property taxes due shall be calculated using the previous year’s levies, unless current year’s levies are known.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>In lieu of demanding immediate payment of property taxes due, the county tax collector may require a surety bond adequate to secure the payment and collection of property taxes that may be due to that county.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>In the event a taxpayer is unable to pay his personal property tax due on or before December 20, he may appeal to the county commissioners prior to the property tax becoming delinquent. If sufficient information is given to satisfy the county commissioners that the property taxes will be paid, the county commissioners may grant an extension of time for the payment of the property taxes, late charges and interest, not to exceed four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_904__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>months. A warrant of distraint shall not be issued until the expiration of the extended time. No extensions shall be granted on the second one-half (1/2) of the property tax.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_905">
+          <akn:num>63-905</akn:num>
+          <akn:heading>Receipt for property taxes paid</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-905. Receipt for property taxes paid. Upon payment of property taxes, the tax collector shall issue a receipt if requested by the taxpayer. The record of payment must show the date paid and the amount of payment. If the taxpayer is other than the equitable titleholder, such as an escrowee, trustee of trust deed or other third party, the taxpayer shall, upon request of the equitable titleholder, deliver to the equitable titleholder a receipt of property taxes paid. In the event payment is mailed to the tax collector, the cancelled check may serve as a receipt. History: [63-905 added 1996, ch. 98, sec. 10, p. 379.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-905. Receipt for property taxes paid. Upon payment of property taxes, the tax collector shall issue a receipt if requested by the taxpayer. The record of payment must show the date paid and the amount of payment. If the taxpayer is other than the equitable titleholder, such as an escrowee, trustee of trust deed or other third party, the taxpayer shall, upon request of the equitable titleholder, deliver to the equitable titleholder a receipt of property taxes paid. In the event payment is mailed to the tax collector, the cancelled check may serve as a receipt. History: [63-905 added 1996, ch. 98, sec. 10, p. 379.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-905. Receipt for property taxes paid. Upon payment of property taxes, the tax collector shall issue a receipt if requested by the taxpayer. The record of payment must show the date paid and the amount of payment. If the taxpayer is other than the equitable titleholder, such as an escrowee, trustee of trust deed or other third party, the taxpayer shall, upon request of the equitable titleholder, deliver to the equitable titleholder a receipt of property taxes paid. In the event payment is mailed to the tax collector, the cancelled check may serve as a receipt. History: [63-905 added 1996, ch. 98, sec. 10, p. 379.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-905. Receipt for property taxes paid. Upon payment of property taxes, the tax collector shall issue a receipt if requested by the taxpayer. The record of payment must show the date paid and the amount of payment. If the taxpayer is other than the equitable titleholder, such as an escrowee, trustee of trust deed or other third party, the taxpayer shall, upon request of the equitable titleholder, deliver to the equitable titleholder a receipt of property taxes paid. In the event payment is mailed to the tax collector, the cancelled check may serve as a receipt. History: [63-905 added 1996, ch. 98, sec. 10, p. 379.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-905. Receipt for property taxes paid. Upon payment of property taxes, the tax collector shall issue a receipt if requested by the taxpayer. The record of payment must show the date paid and the amount of payment. If the taxpayer is other than the equitable titleholder, such as an escrowee, trustee of trust deed or other third party, the taxpayer shall, upon request of the equitable titleholder, deliver to the equitable titleholder a receipt of property taxes paid. In the event payment is mailed to the tax collector, the cancelled check may serve as a receipt. History: [63-905 added 1996, ch. 98, sec. 10, p. 379.]
+63-905. Receipt for property taxes paid. Upon payment of property taxes, the tax collector shall issue a receipt if requested by the taxpayer. The record of payment must show the date paid and the amount of payment. If the taxpayer is other than the equitable titleholder, such as an escrowee, trustee of trust deed or other third party, the taxpayer shall, upon request of the equitable titleholder, deliver to the equitable titleholder a receipt of property taxes paid. In the event payment is mailed to the tax collector, the cancelled check may serve as a receipt.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_906">
+          <akn:num>63-906</akn:num>
+          <akn:heading>Interim payment account — Receipt for deposits</akn:heading>
+          <akn:subsection eId="63_906__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The tax collector shall issue a numbered receipt consisting of: (a)  Date deposited; (b)  Name and address of person making deposit; (c)  The amount of payment; and (d)  Account identification number or parcel number or legal description.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The county shall pay no interest on any interim payment receipts, and the amount so deposited cannot be withdrawn by the depositor. Such receipts shall not invalidate any proceedings in the collection of property taxes, or in the issuance of any delinquency or any proceedings in the foreclosure of tax liens.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The payment shall be posted to the roll when the current property tax becomes due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The tax collector may return to the depositor any moneys deposited in excess of the amount necessary to satisfy the tax lien if the payment schedule is not maintained.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>The tax collector shall be held accountable for all moneys received under this subsection and shall be liable on his official bond for the custody and safekeeping of such moneys, except as to what may be on deposit in designated depositories under the provisions of the public depository law, which is hereby made applicable to such deposits. History: [63-906 added 1996, ch. 98, sec. 10, p. 380; am. 2006, ch. 322, sec. 2, p. 1022.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-906. Interim payment account — Receipt for deposits. Any person, upon application to the tax collector, may establish a payment schedule to allow payments including, but not limited to, monthly or quarterly, in amounts of at least twenty-five dollars ($25.00) or the balance owing, to be accumulated toward the payment of current or future real or personal property taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The tax collector shall issue a numbered receipt consisting of: (a)  Date deposited; (b)  Name and address of person making deposit; (c)  The amount of payment; and (d)  Account identification number or parcel number or legal description.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The county shall pay no interest on any interim payment receipts, and the amount so deposited cannot be withdrawn by the depositor. Such receipts shall not invalidate any proceedings in the collection of property taxes, or in the issuance of any delinquency or any proceedings in the foreclosure of tax liens.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The payment shall be posted to the roll when the current property tax becomes due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The tax collector may return to the depositor any moneys deposited in excess of the amount necessary to satisfy the tax lien if the payment schedule is not maintained.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>The tax collector shall be held accountable for all moneys received under this subsection and shall be liable on his official bond for the custody and safekeeping of such moneys, except as to what may be on deposit in designated depositories under the provisions of the public depository law, which is hereby made applicable to such deposits. History: [63-906 added 1996, ch. 98, sec. 10, p. 380; am. 2006, ch. 322, sec. 2, p. 1022.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-906. Interim payment account — Receipt for deposits. Any person, upon application to the tax collector, may establish a payment schedule to allow payments including, but not limited to, monthly or quarterly, in amounts of at least twenty-five dollars ($25.00) or the balance owing, to be accumulated toward the payment of current or future real or personal property taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The tax collector shall issue a numbered receipt consisting of: (a)  Date deposited; (b)  Name and address of person making deposit; (c)  The amount of payment; and (d)  Account identification number or parcel number or legal description.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The county shall pay no interest on any interim payment receipts, and the amount so deposited cannot be withdrawn by the depositor. Such receipts shall not invalidate any proceedings in the collection of property taxes, or in the issuance of any delinquency or any proceedings in the foreclosure of tax liens.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The payment shall be posted to the roll when the current property tax becomes due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The tax collector may return to the depositor any moneys deposited in excess of the amount necessary to satisfy the tax lien if the payment schedule is not maintained.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>The tax collector shall be held accountable for all moneys received under this subsection and shall be liable on his official bond for the custody and safekeeping of such moneys, except as to what may be on deposit in designated depositories under the provisions of the public depository law, which is hereby made applicable to such deposits. History: [63-906 added 1996, ch. 98, sec. 10, p. 380; am. 2006, ch. 322, sec. 2, p. 1022.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-906. Interim payment account — Receipt for deposits. Any person, upon application to the tax collector, may establish a payment schedule to allow payments including, but not limited to, monthly or quarterly, in amounts of at least twenty-five dollars ($25.00) or the balance owing, to be accumulated toward the payment of current or future real or personal property taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The tax collector shall issue a numbered receipt consisting of: (a)  Date deposited; (b)  Name and address of person making deposit; (c)  The amount of payment; and (d)  Account identification number or parcel number or legal description.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The county shall pay no interest on any interim payment receipts, and the amount so deposited cannot be withdrawn by the depositor. Such receipts shall not invalidate any proceedings in the collection of property taxes, or in the issuance of any delinquency or any proceedings in the foreclosure of tax liens.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The payment shall be posted to the roll when the current property tax becomes due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The tax collector may return to the depositor any moneys deposited in excess of the amount necessary to satisfy the tax lien if the payment schedule is not maintained.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>The tax collector shall be held accountable for all moneys received under this subsection and shall be liable on his official bond for the custody and safekeeping of such moneys, except as to what may be on deposit in designated depositories under the provisions of the public depository law, which is hereby made applicable to such deposits. History: [63-906 added 1996, ch. 98, sec. 10, p. 380; am. 2006, ch. 322, sec. 2, p. 1022.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-906. Interim payment account — Receipt for deposits. Any person, upon application to the tax collector, may establish a payment schedule to allow payments including, but not limited to, monthly or quarterly, in amounts of at least twenty-five dollars ($25.00) or the balance owing, to be accumulated toward the payment of current or future real or personal property taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The tax collector shall issue a numbered receipt consisting of: (a)  Date deposited; (b)  Name and address of person making deposit; (c)  The amount of payment; and (d)  Account identification number or parcel number or legal description.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The county shall pay no interest on any interim payment receipts, and the amount so deposited cannot be withdrawn by the depositor. Such receipts shall not invalidate any proceedings in the collection of property taxes, or in the issuance of any delinquency or any proceedings in the foreclosure of tax liens.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The payment shall be posted to the roll when the current property tax becomes due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The tax collector may return to the depositor any moneys deposited in excess of the amount necessary to satisfy the tax lien if the payment schedule is not maintained.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>The tax collector shall be held accountable for all moneys received under this subsection and shall be liable on his official bond for the custody and safekeeping of such moneys, except as to what may be on deposit in designated depositories under the provisions of the public depository law, which is hereby made applicable to such deposits. History: [63-906 added 1996, ch. 98, sec. 10, p. 380; am. 2006, ch. 322, sec. 2, p. 1022.]
+63-906. Interim payment account — Receipt for deposits. Any person, upon application to the tax collector, may establish a payment schedule to allow payments including, but not limited to, monthly or quarterly, in amounts of at least twenty-five dollars ($25.00) or the balance owing, to be accumulated toward the payment of current or future real or personal property taxes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The tax collector shall issue a numbered receipt consisting of:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The county shall pay no interest on any interim payment receipts, and the amount so deposited cannot be withdrawn by the depositor. Such receipts shall not invalidate any proceedings in the collection of property taxes, or in the issuance of any delinquency or any proceedings in the foreclosure of tax liens.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The payment shall be posted to the roll when the current property tax becomes due.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The tax collector may return to the depositor any moneys deposited in excess of the amount necessary to satisfy the tax lien if the payment schedule is not maintained.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_906__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>The tax collector shall be held accountable for all moneys received under this subsection and shall be liable on his official bond for the custody and safekeeping of such moneys, except as to what may be on deposit in designated depositories under the provisions of the public depository law, which is hereby made applicable to such deposits.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_907">
+          <akn:num>63-907</akn:num>
+          <akn:heading>Entry of delinquent tax — Duty of county treasurer</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-907. Entry of delinquent tax — Duty of county treasurer. The county treasurer shall, on or before the first day of January in the succeeding year, enter all delinquent taxes on the property rolls. Such entries shall be dated as of the first day of January and shall have the force and effect of a sale to the treasurer as grantee in trust for the county, for all property entered upon the property roll on which first installment of the taxes has not been paid. The settlement date shall be as of the close of business on the December due date of the preceding year. The county treasurer shall, on or before the first day of July in the succeeding year, make delinquency entries to be dated as of the first day of January in the year the taxes fall delinquent for all property entered upon the property roll on which the second installment of the taxes have not been paid. The settlement date shall be as of the close of business on the June due date of the current year. History: [63-907 added 1996, ch. 98, sec. 10, p. 380.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-907. Entry of delinquent tax — Duty of county treasurer. The county treasurer shall, on or before the first day of January in the succeeding year, enter all delinquent taxes on the property rolls. Such entries shall be dated as of the first day of January and shall have the force and effect of a sale to the treasurer as grantee in trust for the county, for all property entered upon the property roll on which first installment of the taxes has not been paid. The settlement date shall be as of the close of business on the December due date of the preceding year. The county treasurer shall, on or before the first day of July in the succeeding year, make delinquency entries to be dated as of the first day of January in the year the taxes fall delinquent for all property entered upon the property roll on which the second installment of the taxes have not been paid. The settlement date shall be as of the close of business on the June due date of the current year. History: [63-907 added 1996, ch. 98, sec. 10, p. 380.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-907. Entry of delinquent tax — Duty of county treasurer. The county treasurer shall, on or before the first day of January in the succeeding year, enter all delinquent taxes on the property rolls. Such entries shall be dated as of the first day of January and shall have the force and effect of a sale to the treasurer as grantee in trust for the county, for all property entered upon the property roll on which first installment of the taxes has not been paid. The settlement date shall be as of the close of business on the December due date of the preceding year. The county treasurer shall, on or before the first day of July in the succeeding year, make delinquency entries to be dated as of the first day of January in the year the taxes fall delinquent for all property entered upon the property roll on which the second installment of the taxes have not been paid. The settlement date shall be as of the close of business on the June due date of the current year. History: [63-907 added 1996, ch. 98, sec. 10, p. 380.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-907. Entry of delinquent tax — Duty of county treasurer. The county treasurer shall, on or before the first day of January in the succeeding year, enter all delinquent taxes on the property rolls. Such entries shall be dated as of the first day of January and shall have the force and effect of a sale to the treasurer as grantee in trust for the county, for all property entered upon the property roll on which first installment of the taxes has not been paid. The settlement date shall be as of the close of business on the December due date of the preceding year. The county treasurer shall, on or before the first day of July in the succeeding year, make delinquency entries to be dated as of the first day of January in the year the taxes fall delinquent for all property entered upon the property roll on which the second installment of the taxes have not been paid. The settlement date shall be as of the close of business on the June due date of the current year. History: [63-907 added 1996, ch. 98, sec. 10, p. 380.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 9 PAYMENT AND COLLECTION OF PROPERTY TAXES 63-907. Entry of delinquent tax — Duty of county treasurer. The county treasurer shall, on or before the first day of January in the succeeding year, enter all delinquent taxes on the property rolls. Such entries shall be dated as of the first day of January and shall have the force and effect of a sale to the treasurer as grantee in trust for the county, for all property entered upon the property roll on which first installment of the taxes has not been paid. The settlement date shall be as of the close of business on the December due date of the preceding year. The county treasurer shall, on or before the first day of July in the succeeding year, make delinquency entries to be dated as of the first day of January in the year the taxes fall delinquent for all property entered upon the property roll on which the second installment of the taxes have not been paid. The settlement date shall be as of the close of business on the June due date of the current year. History: [63-907 added 1996, ch. 98, sec. 10, p. 380.]
+63-907. Entry of delinquent tax — Duty of county treasurer. The county treasurer shall, on or before the first day of January in the succeeding year, enter all delinquent taxes on the property rolls. Such entries shall be dated as of the first day of January and shall have the force and effect of a sale to the treasurer as grantee in trust for the county, for all property entered upon the property roll on which first installment of the taxes has not been paid. The settlement date shall be as of the close of business on the December due date of the preceding year.
+The county treasurer shall, on or before the first day of July in the succeeding year, make delinquency entries to be dated as of the first day of January in the year the taxes fall delinquent for all property entered upon the property roll on which the second installment of the taxes have not been paid. The settlement date shall be as of the close of business on the June due date of the current year.</akn:p>
+          </akn:content>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>
