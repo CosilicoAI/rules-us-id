@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-12" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-12" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="63-12" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-12/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-12/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-12/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-12/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_63_12">
+        <akn:num>Chapter 12</akn:num>
+        <akn:heading>Chapter 12</akn:heading>
+        <akn:section eId="sec_63_1201">
+          <akn:num>63-1201</akn:num>
+          <akn:heading>Monthly and final settlement of tax collector</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 12 SETTLEMENT OF REVENUE OFFICERS 63-1201. Monthly and final settlement of tax collector. On the first Monday of each month, except the second Monday of January and July, the county tax collector shall settle with the county auditor for all moneys collected, including property taxes levied on property, and make a detailed statement under oath, showing the amount of money collected for state and county purposes and for every city, school district, road district or other taxing district or authority, since his last settlement, and shall pay all the moneys into the county treasury upon the certificate of the county auditor, to be apportioned as provided by law. History: [63-1201 added 1996, ch. 98, sec. 13, p. 390.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 12 SETTLEMENT OF REVENUE OFFICERS 63-1201. Monthly and final settlement of tax collector. On the first Monday of each month, except the second Monday of January and July, the county tax collector shall settle with the county auditor for all moneys collected, including property taxes levied on property, and make a detailed statement under oath, showing the amount of money collected for state and county purposes and for every city, school district, road district or other taxing district or authority, since his last settlement, and shall pay all the moneys into the county treasury upon the certificate of the county auditor, to be apportioned as provided by law. History: [63-1201 added 1996, ch. 98, sec. 13, p. 390.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 12 SETTLEMENT OF REVENUE OFFICERS 63-1201. Monthly and final settlement of tax collector. On the first Monday of each month, except the second Monday of January and July, the county tax collector shall settle with the county auditor for all moneys collected, including property taxes levied on property, and make a detailed statement under oath, showing the amount of money collected for state and county purposes and for every city, school district, road district or other taxing district or authority, since his last settlement, and shall pay all the moneys into the county treasury upon the certificate of the county auditor, to be apportioned as provided by law. History: [63-1201 added 1996, ch. 98, sec. 13, p. 390.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 12 SETTLEMENT OF REVENUE OFFICERS 63-1201. Monthly and final settlement of tax collector. On the first Monday of each month, except the second Monday of January and July, the county tax collector shall settle with the county auditor for all moneys collected, including property taxes levied on property, and make a detailed statement under oath, showing the amount of money collected for state and county purposes and for every city, school district, road district or other taxing district or authority, since his last settlement, and shall pay all the moneys into the county treasury upon the certificate of the county auditor, to be apportioned as provided by law. History: [63-1201 added 1996, ch. 98, sec. 13, p. 390.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 12 SETTLEMENT OF REVENUE OFFICERS 63-1201. Monthly and final settlement of tax collector. On the first Monday of each month, except the second Monday of January and July, the county tax collector shall settle with the county auditor for all moneys collected, including property taxes levied on property, and make a detailed statement under oath, showing the amount of money collected for state and county purposes and for every city, school district, road district or other taxing district or authority, since his last settlement, and shall pay all the moneys into the county treasury upon the certificate of the county auditor, to be apportioned as provided by law. History: [63-1201 added 1996, ch. 98, sec. 13, p. 390.]
+63-1201. Monthly and final settlement of tax collector. On the first Monday of each month, except the second Monday of January and July, the county tax collector shall settle with the county auditor for all moneys collected, including property taxes levied on property, and make a detailed statement under oath, showing the amount of money collected for state and county purposes and for every city, school district, road district or other taxing district or authority, since his last settlement, and shall pay all the moneys into the county treasury upon the certificate of the county auditor, to be apportioned as provided by law.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_1202">
+          <akn:num>63-1202</akn:num>
+          <akn:heading>Settlement by county auditor</akn:heading>
+          <akn:subsection eId="63_1202__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The county auditor must, on the second Monday of each month, transmit to the clerk of every taxing district having a treasurer whose duty it is to receive, keep and disburse all moneys belonging to it, a settlement of all moneys belonging to each district, paid into the county treasury since the last transmittal; provided however, that in the months of July and January the money may be transmitted no later than the twenty-fifth day of the month.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1202__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>On the second Monday of each month the county auditor shall transmit to the appropriate agency all moneys belonging to the state paid into the county treasury on and after the second Monday of the preceding month, showing from what sources the money was received and the amount received from each source, with a statement duly sworn to before an officer authorized to administer oaths. History: [63-1202 added 1996, ch. 98, sec. 13, p. 390.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 12 SETTLEMENT OF REVENUE OFFICERS 63-1202. Settlement by county auditor.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1202__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The county auditor must, on the second Monday of each month, transmit to the clerk of every taxing district having a treasurer whose duty it is to receive, keep and disburse all moneys belonging to it, a settlement of all moneys belonging to each district, paid into the county treasury since the last transmittal; provided however, that in the months of July and January the money may be transmitted no later than the twenty-fifth day of the month.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1202__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>On the second Monday of each month the county auditor shall transmit to the appropriate agency all moneys belonging to the state paid into the county treasury on and after the second Monday of the preceding month, showing from what sources the money was received and the amount received from each source, with a statement duly sworn to before an officer authorized to administer oaths. History: [63-1202 added 1996, ch. 98, sec. 13, p. 390.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 12 SETTLEMENT OF REVENUE OFFICERS 63-1202. Settlement by county auditor.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1202__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The county auditor must, on the second Monday of each month, transmit to the clerk of every taxing district having a treasurer whose duty it is to receive, keep and disburse all moneys belonging to it, a settlement of all moneys belonging to each district, paid into the county treasury since the last transmittal; provided however, that in the months of July and January the money may be transmitted no later than the twenty-fifth day of the month.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1202__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>On the second Monday of each month the county auditor shall transmit to the appropriate agency all moneys belonging to the state paid into the county treasury on and after the second Monday of the preceding month, showing from what sources the money was received and the amount received from each source, with a statement duly sworn to before an officer authorized to administer oaths. History: [63-1202 added 1996, ch. 98, sec. 13, p. 390.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 12 SETTLEMENT OF REVENUE OFFICERS 63-1202. Settlement by county auditor.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1202__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The county auditor must, on the second Monday of each month, transmit to the clerk of every taxing district having a treasurer whose duty it is to receive, keep and disburse all moneys belonging to it, a settlement of all moneys belonging to each district, paid into the county treasury since the last transmittal; provided however, that in the months of July and January the money may be transmitted no later than the twenty-fifth day of the month.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1202__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>On the second Monday of each month the county auditor shall transmit to the appropriate agency all moneys belonging to the state paid into the county treasury on and after the second Monday of the preceding month, showing from what sources the money was received and the amount received from each source, with a statement duly sworn to before an officer authorized to administer oaths. History: [63-1202 added 1996, ch. 98, sec. 13, p. 390.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 12 SETTLEMENT OF REVENUE OFFICERS 63-1202. Settlement by county auditor.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1202__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The county auditor must, on the second Monday of each month, transmit to the clerk of every taxing district having a treasurer whose duty it is to receive, keep and disburse all moneys belonging to it, a settlement of all moneys belonging to each district, paid into the county treasury since the last transmittal; provided however, that in the months of July and January the money may be transmitted no later than the twenty-fifth day of the month.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1202__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>On the second Monday of each month the county auditor shall transmit to the appropriate agency all moneys belonging to the state paid into the county treasury on and after the second Monday of the preceding month, showing from what sources the money was received and the amount received from each source, with a statement duly sworn to before an officer authorized to administer oaths. History: [63-1202 added 1996, ch. 98, sec. 13, p. 390.]
+63-1202. Settlement by county auditor.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1202__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The county auditor must, on the second Monday of each month, transmit to the clerk of every taxing district having a treasurer whose duty it is to receive, keep and disburse all moneys belonging to it, a settlement of all moneys belonging to each district, paid into the county treasury since the last transmittal; provided however, that in the months of July and January the money may be transmitted no later than the twenty-fifth day of the month.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1202__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>On the second Monday of each month the county auditor shall transmit to the appropriate agency all moneys belonging to the state paid into the county treasury on and after the second Monday of the preceding month, showing from what sources the money was received and the amount received from each source, with a statement duly sworn to before an officer authorized to administer oaths.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

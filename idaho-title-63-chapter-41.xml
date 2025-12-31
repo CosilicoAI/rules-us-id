@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-41" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-41" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="63-41" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-41/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-41/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-41/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-41/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_63_41">
+        <akn:num>Chapter 41</akn:num>
+        <akn:heading>Chapter 41</akn:heading>
+        <akn:section eId="sec_63_4101">
+          <akn:num>63-4101</akn:num>
+          <akn:heading>Short title</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4101. Short title. This chapter may be known and cited as the "Special District Dissolution Act." History: [63-4101, added 1987, ch. 87, sec. 1, p. 165.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4101. Short title. This chapter may be known and cited as the "Special District Dissolution Act." History: [63-4101, added 1987, ch. 87, sec. 1, p. 165.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4101. Short title. This chapter may be known and cited as the "Special District Dissolution Act." History: [63-4101, added 1987, ch. 87, sec. 1, p. 165.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4101. Short title. This chapter may be known and cited as the "Special District Dissolution Act." History: [63-4101, added 1987, ch. 87, sec. 1, p. 165.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4101. Short title. This chapter may be known and cited as the "Special District Dissolution Act." History: [63-4101, added 1987, ch. 87, sec. 1, p. 165.]
+63-4101. Short title. This chapter may be known and cited as the "Special District Dissolution Act."</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_4102">
+          <akn:num>63-4102</akn:num>
+          <akn:heading>Definition</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4102. Definition. As used in this chapter, "special district" means any single purpose district organized or that may be organized as a local public body in accordance with the laws of the state of Idaho for the purpose of constructing or furnishing any municipal service where the district’s enabling law does not provide for dissolution of any district formed under it. History: [63-4102, added 1987, ch. 87, sec. 1, p. 165.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4102. Definition. As used in this chapter, "special district" means any single purpose district organized or that may be organized as a local public body in accordance with the laws of the state of Idaho for the purpose of constructing or furnishing any municipal service where the district’s enabling law does not provide for dissolution of any district formed under it. History: [63-4102, added 1987, ch. 87, sec. 1, p. 165.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4102. Definition. As used in this chapter, "special district" means any single purpose district organized or that may be organized as a local public body in accordance with the laws of the state of Idaho for the purpose of constructing or furnishing any municipal service where the district’s enabling law does not provide for dissolution of any district formed under it. History: [63-4102, added 1987, ch. 87, sec. 1, p. 165.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4102. Definition. As used in this chapter, "special district" means any single purpose district organized or that may be organized as a local public body in accordance with the laws of the state of Idaho for the purpose of constructing or furnishing any municipal service where the district’s enabling law does not provide for dissolution of any district formed under it. History: [63-4102, added 1987, ch. 87, sec. 1, p. 165.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4102. Definition. As used in this chapter, "special district" means any single purpose district organized or that may be organized as a local public body in accordance with the laws of the state of Idaho for the purpose of constructing or furnishing any municipal service where the district’s enabling law does not provide for dissolution of any district formed under it. History: [63-4102, added 1987, ch. 87, sec. 1, p. 165.]
+63-4102. Definition. As used in this chapter, "special district" means any single purpose district organized or that may be organized as a local public body in accordance with the laws of the state of Idaho for the purpose of constructing or furnishing any municipal service where the district’s enabling law does not provide for dissolution of any district formed under it.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_4103">
+          <akn:num>63-4103</akn:num>
+          <akn:heading>Petitions for dissolution of special districts</akn:heading>
+          <akn:subsection eId="63_4103__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>years then a petition may be initiated by twenty-five</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4103__subsec_25">
+            <akn:num>(25)</akn:num>
+            <akn:content>
+              <akn:p>or more qualified electors or property owners of the district. The petition, when completed and verified, shall be filed with the clerk of the county or counties if more than one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4103__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>county is involved. The county clerk shall publish notice and the county commissioners shall hold a hearing on the matter. If necessary, they shall hold an election, subject to the provisions of section 34-106 , Idaho Code, on the matter. The hearing and election shall be held in accordance with the terms and provisions of chapter 14, title 34 , Idaho Code. History: [63-4103, added 1987, ch. 87, sec. 1, p. 165; am. 1995, ch. 118, sec. 89, p. 501; am. 2009, ch. 341, sec. 147, p. 1070.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4103. Petitions for dissolution of special districts. Proceedings for the dissolution of a special district may be initiated by a petition containing the signatures of qualified electors of the district or owners of property within the district equal in number to twenty-five percent (25%) of the largest number of persons who voted for any director in the last election of directors or if no election has been held within two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4103__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>years then a petition may be initiated by twenty-five</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4103__subsec_25">
+            <akn:num>(25)</akn:num>
+            <akn:content>
+              <akn:p>or more qualified electors or property owners of the district. The petition, when completed and verified, shall be filed with the clerk of the county or counties if more than one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4103__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>county is involved. The county clerk shall publish notice and the county commissioners shall hold a hearing on the matter. If necessary, they shall hold an election, subject to the provisions of section 34-106 , Idaho Code, on the matter. The hearing and election shall be held in accordance with the terms and provisions of chapter 14, title 34 , Idaho Code. History: [63-4103, added 1987, ch. 87, sec. 1, p. 165; am. 1995, ch. 118, sec. 89, p. 501; am. 2009, ch. 341, sec. 147, p. 1070.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4103. Petitions for dissolution of special districts. Proceedings for the dissolution of a special district may be initiated by a petition containing the signatures of qualified electors of the district or owners of property within the district equal in number to twenty-five percent (25%) of the largest number of persons who voted for any director in the last election of directors or if no election has been held within two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4103__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>years then a petition may be initiated by twenty-five</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4103__subsec_25">
+            <akn:num>(25)</akn:num>
+            <akn:content>
+              <akn:p>or more qualified electors or property owners of the district. The petition, when completed and verified, shall be filed with the clerk of the county or counties if more than one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4103__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>county is involved. The county clerk shall publish notice and the county commissioners shall hold a hearing on the matter. If necessary, they shall hold an election, subject to the provisions of section 34-106 , Idaho Code, on the matter. The hearing and election shall be held in accordance with the terms and provisions of chapter 14, title 34 , Idaho Code. History: [63-4103, added 1987, ch. 87, sec. 1, p. 165; am. 1995, ch. 118, sec. 89, p. 501; am. 2009, ch. 341, sec. 147, p. 1070.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4103. Petitions for dissolution of special districts. Proceedings for the dissolution of a special district may be initiated by a petition containing the signatures of qualified electors of the district or owners of property within the district equal in number to twenty-five percent (25%) of the largest number of persons who voted for any director in the last election of directors or if no election has been held within two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4103__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>years then a petition may be initiated by twenty-five</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4103__subsec_25">
+            <akn:num>(25)</akn:num>
+            <akn:content>
+              <akn:p>or more qualified electors or property owners of the district. The petition, when completed and verified, shall be filed with the clerk of the county or counties if more than one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4103__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>county is involved. The county clerk shall publish notice and the county commissioners shall hold a hearing on the matter. If necessary, they shall hold an election, subject to the provisions of section 34-106 , Idaho Code, on the matter. The hearing and election shall be held in accordance with the terms and provisions of chapter 14, title 34 , Idaho Code. History: [63-4103, added 1987, ch. 87, sec. 1, p. 165; am. 1995, ch. 118, sec. 89, p. 501; am. 2009, ch. 341, sec. 147, p. 1070.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4103. Petitions for dissolution of special districts. Proceedings for the dissolution of a special district may be initiated by a petition containing the signatures of qualified electors of the district or owners of property within the district equal in number to twenty-five percent (25%) of the largest number of persons who voted for any director in the last election of directors or if no election has been held within two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4103__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>years then a petition may be initiated by twenty-five</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4103__subsec_25">
+            <akn:num>(25)</akn:num>
+            <akn:content>
+              <akn:p>or more qualified electors or property owners of the district. The petition, when completed and verified, shall be filed with the clerk of the county or counties if more than one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4103__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>county is involved. The county clerk shall publish notice and the county commissioners shall hold a hearing on the matter. If necessary, they shall hold an election, subject to the provisions of section 34-106 , Idaho Code, on the matter. The hearing and election shall be held in accordance with the terms and provisions of chapter 14, title 34 , Idaho Code. History: [63-4103, added 1987, ch. 87, sec. 1, p. 165; am. 1995, ch. 118, sec. 89, p. 501; am. 2009, ch. 341, sec. 147, p. 1070.]
+63-4103. Petitions for dissolution of special districts. Proceedings for the dissolution of a special district may be initiated by a petition containing the signatures of qualified electors of the district or owners of property within the district equal in number to twenty-five percent (25%) of the largest number of persons who voted for any director in the last election of directors or if no election has been held within two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4103__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>years then a petition may be initiated by twenty-five</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4103__subsec_25">
+            <akn:num>(25)</akn:num>
+            <akn:content>
+              <akn:p>or more qualified electors or property owners of the district.
+The petition, when completed and verified, shall be filed with the clerk of the county or counties if more than one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4103__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>county is involved. The county clerk shall publish notice and the county commissioners shall hold a hearing on the matter. If necessary, they shall hold an election, subject to the provisions of section 34-106 , Idaho Code, on the matter. The hearing and election shall be held in accordance with the terms and provisions of chapter 14, title 34 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_4104">
+          <akn:num>63-4104</akn:num>
+          <akn:heading>Nonfunctioning district</akn:heading>
+          <akn:subsection eId="63_4104__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>or more years may be dissolved by the board or boards of county commissioners of the county or counties in which it is located. The county commissioners may initiate such action upon their own volition or it may be initiated by petition. If by resolution a board of county commissioners finds that an emergency exists, the board may immediately take all steps necessary to operate and provide services of the district and preserve and maintain the property owned by the district. History: [63-4104, added 1987, ch. 87, sec. 1, p. 165; am. 2001, ch. 184, sec. 2, p. 642.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4104. Nonfunctioning district. Any special district which fails or has ceased to function for two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4104__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>or more years may be dissolved by the board or boards of county commissioners of the county or counties in which it is located. The county commissioners may initiate such action upon their own volition or it may be initiated by petition. If by resolution a board of county commissioners finds that an emergency exists, the board may immediately take all steps necessary to operate and provide services of the district and preserve and maintain the property owned by the district. History: [63-4104, added 1987, ch. 87, sec. 1, p. 165; am. 2001, ch. 184, sec. 2, p. 642.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4104. Nonfunctioning district. Any special district which fails or has ceased to function for two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4104__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>or more years may be dissolved by the board or boards of county commissioners of the county or counties in which it is located. The county commissioners may initiate such action upon their own volition or it may be initiated by petition. If by resolution a board of county commissioners finds that an emergency exists, the board may immediately take all steps necessary to operate and provide services of the district and preserve and maintain the property owned by the district. History: [63-4104, added 1987, ch. 87, sec. 1, p. 165; am. 2001, ch. 184, sec. 2, p. 642.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4104. Nonfunctioning district. Any special district which fails or has ceased to function for two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4104__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>or more years may be dissolved by the board or boards of county commissioners of the county or counties in which it is located. The county commissioners may initiate such action upon their own volition or it may be initiated by petition. If by resolution a board of county commissioners finds that an emergency exists, the board may immediately take all steps necessary to operate and provide services of the district and preserve and maintain the property owned by the district. History: [63-4104, added 1987, ch. 87, sec. 1, p. 165; am. 2001, ch. 184, sec. 2, p. 642.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4104. Nonfunctioning district. Any special district which fails or has ceased to function for two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4104__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>or more years may be dissolved by the board or boards of county commissioners of the county or counties in which it is located. The county commissioners may initiate such action upon their own volition or it may be initiated by petition. If by resolution a board of county commissioners finds that an emergency exists, the board may immediately take all steps necessary to operate and provide services of the district and preserve and maintain the property owned by the district. History: [63-4104, added 1987, ch. 87, sec. 1, p. 165; am. 2001, ch. 184, sec. 2, p. 642.]
+63-4104. Nonfunctioning district. Any special district which fails or has ceased to function for two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4104__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>or more years may be dissolved by the board or boards of county commissioners of the county or counties in which it is located. The county commissioners may initiate such action upon their own volition or it may be initiated by petition. If by resolution a board of county commissioners finds that an emergency exists, the board may immediately take all steps necessary to operate and provide services of the district and preserve and maintain the property owned by the district.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_4105">
+          <akn:num>63-4105</akn:num>
+          <akn:heading>Property and funds — Disposition upon dissolution</akn:heading>
+          <akn:subsection eId="63_4105__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>county, then all authority vested in the county commissioners under this section shall be vested jointly in the several commissioners; provided, however, that any special fund established for the deposit of moneys accruing to such district shall be established in the treasury of the county which contains the greatest portion of the preceding year’s valuation of the dissolved district and any property or moneys to be transferred to a county current expense fund shall be distributed to the counties in proportion to the portion of the valuation of the district which is located within each county but not including the valuation of any incorporated city which is providing services formerly provided by such district. History: [63-4105, added 1987, ch. 87, sec. 1, p. 166.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4105. Property and funds — Disposition upon dissolution. Title to all machinery, buildings, lands, and property of every kind and nature, belonging to a dissolved district shall immediately upon dissolution be vested in the board of county commissioners as custodians thereof; and thereafter as soon as may be practical the board shall dispose of the same. If the county and/or any incorporated cities are to continue providing the services formerly provided by the dissolved district, then the county commissioners and officials from such cities shall estimate the value of all such property and said property shall be transferred to any cities providing services formerly provided by the dissolved district in direct proportion to the portion of the dissolving districts’ total valuation for the preceding calendar year which is located within the city or cities, with the remaining portion of the property going to the county. If the county commissioners and officials from such cities determine that it is advantageous to dispose of the property at public or private sale, a</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4105__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>county, then all authority vested in the county commissioners under this section shall be vested jointly in the several commissioners; provided, however, that any special fund established for the deposit of moneys accruing to such district shall be established in the treasury of the county which contains the greatest portion of the preceding year’s valuation of the dissolved district and any property or moneys to be transferred to a county current expense fund shall be distributed to the counties in proportion to the portion of the valuation of the district which is located within each county but not including the valuation of any incorporated city which is providing services formerly provided by such district. History: [63-4105, added 1987, ch. 87, sec. 1, p. 166.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4105. Property and funds — Disposition upon dissolution. Title to all machinery, buildings, lands, and property of every kind and nature, belonging to a dissolved district shall immediately upon dissolution be vested in the board of county commissioners as custodians thereof; and thereafter as soon as may be practical the board shall dispose of the same. If the county and/or any incorporated cities are to continue providing the services formerly provided by the dissolved district, then the county commissioners and officials from such cities shall estimate the value of all such property and said property shall be transferred to any cities providing services formerly provided by the dissolved district in direct proportion to the portion of the dissolving districts’ total valuation for the preceding calendar year which is located within the city or cities, with the remaining portion of the property going to the county. If the county commissioners and officials from such cities determine that it is advantageous to dispose of the property at public or private sale, a</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4105__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>county, then all authority vested in the county commissioners under this section shall be vested jointly in the several commissioners; provided, however, that any special fund established for the deposit of moneys accruing to such district shall be established in the treasury of the county which contains the greatest portion of the preceding year’s valuation of the dissolved district and any property or moneys to be transferred to a county current expense fund shall be distributed to the counties in proportion to the portion of the valuation of the district which is located within each county but not including the valuation of any incorporated city which is providing services formerly provided by such district. History: [63-4105, added 1987, ch. 87, sec. 1, p. 166.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4105. Property and funds — Disposition upon dissolution. Title to all machinery, buildings, lands, and property of every kind and nature, belonging to a dissolved district shall immediately upon dissolution be vested in the board of county commissioners as custodians thereof; and thereafter as soon as may be practical the board shall dispose of the same. If the county and/or any incorporated cities are to continue providing the services formerly provided by the dissolved district, then the county commissioners and officials from such cities shall estimate the value of all such property and said property shall be transferred to any cities providing services formerly provided by the dissolved district in direct proportion to the portion of the dissolving districts’ total valuation for the preceding calendar year which is located within the city or cities, with the remaining portion of the property going to the county. If the county commissioners and officials from such cities determine that it is advantageous to dispose of the property at public or private sale, a</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4105__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>county, then all authority vested in the county commissioners under this section shall be vested jointly in the several commissioners; provided, however, that any special fund established for the deposit of moneys accruing to such district shall be established in the treasury of the county which contains the greatest portion of the preceding year’s valuation of the dissolved district and any property or moneys to be transferred to a county current expense fund shall be distributed to the counties in proportion to the portion of the valuation of the district which is located within each county but not including the valuation of any incorporated city which is providing services formerly provided by such district. History: [63-4105, added 1987, ch. 87, sec. 1, p. 166.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4105. Property and funds — Disposition upon dissolution. Title to all machinery, buildings, lands, and property of every kind and nature, belonging to a dissolved district shall immediately upon dissolution be vested in the board of county commissioners as custodians thereof; and thereafter as soon as may be practical the board shall dispose of the same. If the county and/or any incorporated cities are to continue providing the services formerly provided by the dissolved district, then the county commissioners and officials from such cities shall estimate the value of all such property and said property shall be transferred to any cities providing services formerly provided by the dissolved district in direct proportion to the portion of the dissolving districts’ total valuation for the preceding calendar year which is located within the city or cities, with the remaining portion of the property going to the county. If the county commissioners and officials from such cities determine that it is advantageous to dispose of the property at public or private sale, all funds arising from such sale or sales shall be deposited in the c</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4105__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>county, then all authority vested in the county commissioners under this section shall be vested jointly in the several commissioners; provided, however, that any special fund established for the deposit of moneys accruing to such district shall be established in the treasury of the county which contains the greatest portion of the preceding year’s valuation of the dissolved district and any property or moneys to be transferred to a county current expense fund shall be distributed to the counties in proportion to the portion of the valuation of the district which is located within each county but not including the valuation of any incorporated city which is providing services formerly provided by such district. History: [63-4105, added 1987, ch. 87, sec. 1, p. 166.]
+63-4105. Property and funds — Disposition upon dissolution. Title to all machinery, buildings, lands, and property of every kind and nature, belonging to a dissolved district shall immediately upon dissolution be vested in the board of county commissioners as custodians thereof; and thereafter as soon as may be practical the board shall dispose of the same. If the county and/or any incorporated cities are to continue providing the services formerly provided by the dissolved district, then the county commissioners and officials from such cities shall estimate the value of all such property and said property shall be transferred to any cities providing services formerly provided by the dissolved district in direct proportion to the portion of the dissolving districts’ total valuation for the preceding calendar year which is located within the city or cities, with the remaining portion of the property going to the county. If the county commissioners and officials from such cities determine that it is advantageous to dispose of the property at public or private sale, all funds arising from such sale or sales shall be deposited in the county treasury in a separate fund, together with other moneys belonging to</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4105__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>county, then all authority vested in the county commissioners under this section shall be vested jointly in the several commissioners; provided, however, that any special fund established for the deposit of moneys accruing to such district shall be established in the treasury of the county which contains the greatest portion of the preceding year’s valuation of the dissolved district and any property or moneys to be transferred to a county current expense fund shall be distributed to the counties in proportion to the portion of the valuation of the district which is located within each county but not including the valuation of any incorporated city which is providing services formerly provided by such district.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_4106">
+          <akn:num>63-4106</akn:num>
+          <akn:heading>Provision for payment of indebtedness upon dissolution — Special tax levy for payment of district indebtedness</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4106. Provision for payment of indebtedness upon dissolution — Special tax levy for payment of district indebtedness. The board of county commissioners in the county or counties in which the dissolved district is located shall compute the total indebtedness of the district and shall provide for the payment thereof out of district funds on hand, or out of revenues to be raised by special levies, which shall be determined by the county or counties, and shall be certified to the clerk of the county board of commissioners of each of the counties wherein is situated any part of such district and such tax shall be levied and imposed by each of such counties upon such property of the district as may be within such county and the tax shall be collected, and not less than quarterly, shall be remitted to the treasurer of the county which contains the greatest portion of the preceding calendar year’s valuation of the dissolved district, to be applied in payment of the indebtedness of such district as hereinafter provided. At the next regular annual meeting of the board of commissioners of the county or counties in which the dissolved district is located at which levies for state and county purposes are fixed, and each year thereafter until all indebtedness of such district shall have been fully paid, such board shall, in addition to all other tax levies, levy a special tax upon all of the property situated within the former boundaries of such dissolved district, sufficient to raise by taxation funds for the payment of current and accruing terms and conditions of outstanding bonds of such district; and shall each year thereafter continue such levy, or make such other or additional levies as may be required, to fully pay and retire the indebtedness of such district according to the terms and conditions thereof; and such taxes must be collected as are other county taxes and shall be turned over to the treasurer of the county which contains the greatest portion of the preceding calendar year’s valuation of the district who must redeem or post for redemption all warrants and bonds as the same mature and in order of their line, and for which the treasurer has funds arising from such district for the payment of same. History: [63-4106, added 1987, ch. 87, sec. 1, p. 167.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4106. Provision for payment of indebtedness upon dissolution — Special tax levy for payment of district indebtedness. The board of county commissioners in the county or counties in which the dissolved district is located shall compute the total indebtedness of the district and shall provide for the payment thereof out of district funds on hand, or out of revenues to be raised by special levies, which shall be determined by the county or counties, and shall be certified to the clerk of the county board of commissioners of each of the counties wherein is situated any part of such district and such tax shall be levied and imposed by each of such counties upon such property of the district as may be within such county and the tax shall be collected, and not less than quarterly, shall be remitted to the treasurer of the county which contains the greatest portion of the preceding calendar year’s valuation of the dissolved district, to be applied in payment of the indebtedness of such district as hereinafter provided. At the next regular annual meeting of the board of commissioners of the county or counties in which the dissolved district is located at which levies for state and county purposes are fixed, and each year thereafter until all indebtedness of such district shall have been fully paid, such board shall, in addition to all other tax levies, levy a special tax upon all of the property situated within the former boundaries of such dissolved district, sufficient to raise by taxation funds for the payment of current and accruing terms and conditions of outstanding bonds of such district; and shall each year thereafter continue such levy, or make such other or additional levies as may be required, to fully pay and retire the indebtedness of such district according to the terms and conditions thereof; and such taxes must be collected as are other county taxes and shall be turned over to the treasurer of the county which contains the greatest portion of the preceding calendar year’s valuation of the district who must redeem or post for redemption all warrants and bonds as the same mature and in order of their line, and for which the treasurer has funds arising from such district for the payment of same. History: [63-4106, added 1987, ch. 87, sec. 1, p. 167.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4106. Provision for payment of indebtedness upon dissolution — Special tax levy for payment of district indebtedness. The board of county commissioners in the county or counties in which the dissolved district is located shall compute the total indebtedness of the district and shall provide for the payment thereof out of district funds on hand, or out of revenues to be raised by special levies, which shall be determined by the county or counties, and shall be certified to the clerk of the county board of commissioners of each of the counties wherein is situated any part of such district and such tax shall be levied and imposed by each of such counties upon such property of the district as may be within such county and the tax shall be collected, and not less than quarterly, shall be remitted to the treasurer of the county which contains the greatest portion of the preceding calendar year’s valuation of the dissolved district, to be applied in payment of the indebtedness of such district as hereinafter provided. At the next regular annual meeting of the board of commissioners of the county or counties in which the dissolved district is located at which levies for state and county purposes are fixed, and each year thereafter until all indebtedness of such district shall have been fully paid, such board shall, in addition to all other tax levies, levy a special tax upon all of the property situated within the former boundaries of such dissolved district, sufficient to raise by taxation funds for the payment of current and accruing terms and conditions of outstanding bonds of such district; and shall each year thereafter continue such levy, or make such other or additional levies as may be required, to fully pay and retire the indebtedness of such district according to the terms and conditions thereof; and such taxes must be collected as are other county taxes and shall be turned over to the treasurer of the county which contains the greatest portion of the preceding calendar year’s valuation of the district who must redeem or post for redemption all warrants and bonds as the same mature and in order of their line, and for which the treasurer has funds arising from such district for the payment of same. History: [63-4106, added 1987, ch. 87, sec. 1, p. 167.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4106. Provision for payment of indebtedness upon dissolution — Special tax levy for payment of district indebtedness. The board of county commissioners in the county or counties in which the dissolved district is located shall compute the total indebtedness of the district and shall provide for the payment thereof out of district funds on hand, or out of revenues to be raised by special levies, which shall be determined by the county or counties, and shall be certified to the clerk of the county board of commissioners of each of the counties wherein is situated any part of such district and such tax shall be levied and imposed by each of such counties upon such property of the district as may be within such county and the tax shall be collected, and not less than quarterly, shall be remitted to the treasurer of the county which contains the greatest portion of the preceding calendar year’s valuation of the dissolved district, to be applied in payment of the indebtedness of such district as hereinafter provided. At the next regular annual meeting of the board of commissioners of the county or counties in which the dissolved district is located at which levies for state and county purposes are fixed, and each year thereafter until all indebtedness of such district shall have been fully paid, such board shall, in addition to all other tax levies, levy a special tax upon all of the property situated within the former boundaries of such dissolved district, sufficient to raise by taxation funds for the payment of current and accruing terms and conditions of outstanding bonds of such district; and shall each year thereafter continue such levy, or make such other or additional levies as may be required, to fully pay and retire the indebtedness of such district according to the terms and conditions thereof; and such taxes must be collected as are other county taxes and shall be turned over to the treasurer of the county which contains the greatest portion of the preceding calendar year’s valuation of the district who must redeem or post for redemption all warrants and bonds as the same mature and in order of their line, and for which the treasurer has funds arising from such district for the payment of same. History: [63-4106, added 1987, ch. 87, sec. 1, p. 167.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 41 SPECIAL DISTRICT DISSOLUTION ACT 63-4106. Provision for payment of indebtedness upon dissolution — Special tax levy for payment of district indebtedness. The board of county commissioners in the coun</akn:p>
+          </akn:content>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

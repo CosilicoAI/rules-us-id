@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-8" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-8" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="56-8" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-8/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-8/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-8/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-8/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_56_8">
+        <akn:num>Chapter 8</akn:num>
+        <akn:heading>Medicaid</akn:heading>
+        <akn:section eId="sec_56_801">
+          <akn:num>56-801</akn:num>
+          <akn:heading>Legislative intent</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-801. Legislative intent. The purpose and intent of this act is to benefit hard-to-place children residing in foster or institutional homes at state expense by providing the stability and security of permanent homes, and in so doing, achieve a decrease of total state expense by the reduction of costly foster and institutional care. Accordingly this act shall apply only to hard-to-place children. History: [56-801, added 1974, ch. 61, sec. 1, p. 1139.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-801. Legislative intent. The purpose and intent of this act is to benefit hard-to-place children residing in foster or institutional homes at state expense by providing the stability and security of permanent homes, and in so doing, achieve a decrease of total state expense by the reduction of costly foster and institutional care. Accordingly this act shall apply only to hard-to-place children. History: [56-801, added 1974, ch. 61, sec. 1, p. 1139.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-801. Legislative intent. The purpose and intent of this act is to benefit hard-to-place children residing in foster or institutional homes at state expense by providing the stability and security of permanent homes, and in so doing, achieve a decrease of total state expense by the reduction of costly foster and institutional care. Accordingly this act shall apply only to hard-to-place children. History: [56-801, added 1974, ch. 61, sec. 1, p. 1139.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-801. Legislative intent. The purpose and intent of this act is to benefit hard-to-place children residing in foster or institutional homes at state expense by providing the stability and security of permanent homes, and in so doing, achieve a decrease of total state expense by the reduction of costly foster and institutional care. Accordingly this act shall apply only to hard-to-place children. History: [56-801, added 1974, ch. 61, sec. 1, p. 1139.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-801. Legislative intent. The purpose and intent of this act is to benefit hard-to-place children residing in foster or institutional homes at state expense by providing the stability and security of permanent homes, and in so doing, achieve a decrease of total state expense by the reduction of costly foster and institutional care. Accordingly this act shall apply only to hard-to-place children. History: [56-801, added 1974, ch. 61, sec. 1, p. 1139.]
+56-801. Legislative intent. The purpose and intent of this act is to benefit hard-to-place children residing in foster or institutional homes at state expense by providing the stability and security of permanent homes, and in so doing, achieve a decrease of total state expense by the reduction of costly foster and institutional care. Accordingly this act shall apply only to hard-to-place children.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_802">
+          <akn:num>56-802</akn:num>
+          <akn:heading>Definitions</akn:heading>
+          <akn:subsection eId="56_802__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Hard-to-place child" means a child who is difficult to place for adoption or guardianship because of ethnic background, race, color, age, sibling grouping, or physical or emotional disability.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_802__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the department of health and welfare. History: [56-802, added 1974, ch. 61, sec. 2, p. 1139; am. 2001, ch. 92, sec. 1, p. 231; am. 2010, ch. 235, sec. 53, p. 590.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-802. Definitions. For the purposes of this act:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_802__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Hard-to-place child" means a child who is difficult to place for adoption or guardianship because of ethnic background, race, color, age, sibling grouping, or physical or emotional disability.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_802__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the department of health and welfare. History: [56-802, added 1974, ch. 61, sec. 2, p. 1139; am. 2001, ch. 92, sec. 1, p. 231; am. 2010, ch. 235, sec. 53, p. 590.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-802. Definitions. For the purposes of this act:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_802__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Hard-to-place child" means a child who is difficult to place for adoption or guardianship because of ethnic background, race, color, age, sibling grouping, or physical or emotional disability.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_802__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the department of health and welfare. History: [56-802, added 1974, ch. 61, sec. 2, p. 1139; am. 2001, ch. 92, sec. 1, p. 231; am. 2010, ch. 235, sec. 53, p. 590.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-802. Definitions. For the purposes of this act:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_802__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Hard-to-place child" means a child who is difficult to place for adoption or guardianship because of ethnic background, race, color, age, sibling grouping, or physical or emotional disability.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_802__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the department of health and welfare. History: [56-802, added 1974, ch. 61, sec. 2, p. 1139; am. 2001, ch. 92, sec. 1, p. 231; am. 2010, ch. 235, sec. 53, p. 590.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-802. Definitions. For the purposes of this act:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_802__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Hard-to-place child" means a child who is difficult to place for adoption or guardianship because of ethnic background, race, color, age, sibling grouping, or physical or emotional disability.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_802__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the department of health and welfare. History: [56-802, added 1974, ch. 61, sec. 2, p. 1139; am. 2001, ch. 92, sec. 1, p. 231; am. 2010, ch. 235, sec. 53, p. 590.]
+56-802. Definitions. For the purposes of this act:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_802__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Hard-to-place child" means a child who is difficult to place for adoption or guardianship because of ethnic background, race, color, age, sibling grouping, or physical or emotional disability.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_802__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department" means the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_803">
+          <akn:num>56-803</akn:num>
+          <akn:heading>Establishment of program — Promulgation of rules and regulations</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-803. Establishment of program — Promulgation of rules and regulations. The department is responsible for establishing and implementing the provisions of this act. The board of health and welfare is authorized to promulgate such rules and regulations as are necessary to administer this act. The department shall keep records for purposes of evaluating the effectiveness of this act’s implementation. History: [56-803, added 1974, ch. 61, sec. 3, p. 1139.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-803. Establishment of program — Promulgation of rules and regulations. The department is responsible for establishing and implementing the provisions of this act. The board of health and welfare is authorized to promulgate such rules and regulations as are necessary to administer this act. The department shall keep records for purposes of evaluating the effectiveness of this act’s implementation. History: [56-803, added 1974, ch. 61, sec. 3, p. 1139.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-803. Establishment of program — Promulgation of rules and regulations. The department is responsible for establishing and implementing the provisions of this act. The board of health and welfare is authorized to promulgate such rules and regulations as are necessary to administer this act. The department shall keep records for purposes of evaluating the effectiveness of this act’s implementation. History: [56-803, added 1974, ch. 61, sec. 3, p. 1139.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-803. Establishment of program — Promulgation of rules and regulations. The department is responsible for establishing and implementing the provisions of this act. The board of health and welfare is authorized to promulgate such rules and regulations as are necessary to administer this act. The department shall keep records for purposes of evaluating the effectiveness of this act’s implementation. History: [56-803, added 1974, ch. 61, sec. 3, p. 1139.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-803. Establishment of program — Promulgation of rules and regulations. The department is responsible for establishing and implementing the provisions of this act. The board of health and welfare is authorized to promulgate such rules and regulations as are necessary to administer this act. The department shall keep records for purposes of evaluating the effectiveness of this act’s implementation. History: [56-803, added 1974, ch. 61, sec. 3, p. 1139.]
+56-803. Establishment of program — Promulgation of rules and regulations. The department is responsible for establishing and implementing the provisions of this act. The board of health and welfare is authorized to promulgate such rules and regulations as are necessary to administer this act.
+The department shall keep records for purposes of evaluating the effectiveness of this act’s implementation.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_804">
+          <akn:num>56-804</akn:num>
+          <akn:heading>Dissemination of information to families</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-804. Dissemination of information to families. The department shall disseminate information to prospective adoptive families and families who wish to be appointed legal guardians of a child in the state’s custody, as to the availability of hard-to-place children, adoption and guardianship procedures, and of the existence of financial aid to adoptive families and guardians of hard-to-place children. History: [56-804, added 1974, ch. 61, sec. 4, p. 1139; am. 2001, ch. 92, sec. 2, p. 231.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-804. Dissemination of information to families. The department shall disseminate information to prospective adoptive families and families who wish to be appointed legal guardians of a child in the state’s custody, as to the availability of hard-to-place children, adoption and guardianship procedures, and of the existence of financial aid to adoptive families and guardians of hard-to-place children. History: [56-804, added 1974, ch. 61, sec. 4, p. 1139; am. 2001, ch. 92, sec. 2, p. 231.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-804. Dissemination of information to families. The department shall disseminate information to prospective adoptive families and families who wish to be appointed legal guardians of a child in the state’s custody, as to the availability of hard-to-place children, adoption and guardianship procedures, and of the existence of financial aid to adoptive families and guardians of hard-to-place children. History: [56-804, added 1974, ch. 61, sec. 4, p. 1139; am. 2001, ch. 92, sec. 2, p. 231.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-804. Dissemination of information to families. The department shall disseminate information to prospective adoptive families and families who wish to be appointed legal guardians of a child in the state’s custody, as to the availability of hard-to-place children, adoption and guardianship procedures, and of the existence of financial aid to adoptive families and guardians of hard-to-place children. History: [56-804, added 1974, ch. 61, sec. 4, p. 1139; am. 2001, ch. 92, sec. 2, p. 231.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-804. Dissemination of information to families. The department shall disseminate information to prospective adoptive families and families who wish to be appointed legal guardians of a child in the state’s custody, as to the availability of hard-to-place children, adoption and guardianship procedures, and of the existence of financial aid to adoptive families and guardians of hard-to-place children. History: [56-804, added 1974, ch. 61, sec. 4, p. 1139; am. 2001, ch. 92, sec. 2, p. 231.]
+56-804. Dissemination of information to families. The department shall disseminate information to prospective adoptive families and families who wish to be appointed legal guardians of a child in the state’s custody, as to the availability of hard-to-place children, adoption and guardianship procedures, and of the existence of financial aid to adoptive families and guardians of hard-to-place children.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_805">
+          <akn:num>56-805</akn:num>
+          <akn:heading>Financial aid — Period</akn:heading>
+          <akn:subsection eId="56_805__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Persons who have applied to adopt the hard-to-place child and to receive subsidies for the care and support of the hard-to-place child shall be evaluated as to their suitability as adoptive parents by means of an adoptive home study. Persons who are caring for a hard-to-place child in the state’s custody for whom reunification or adoption is not an option, and who wish to be appointed legal guardians of the child and to receive subsidies for the care and support of the child, shall be evaluated as to their suitability as guardians by means of a guardianship study.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Financial assistance shall be not more than the amount that would be paid for foster or institutional care for the child if the placement for adoption or guardianship had not taken place. Assistance may be provided families adopting or becoming guardians for hard-to-place children until such child is eighteen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_18">
+            <akn:num>(18)</akn:num>
+            <akn:content>
+              <akn:p>years of age, parents are no longer legally responsible for the child, or until the parents are no longer providing support for the child. After an adoption with a subsidy is finalized or a guardianship with subsidy has been ordered by the court and the court has released the child from the state’s legal custody, the family is independent of the department except for an annual evaluation by the department of the need for continued subsidy and the amount of the subsidy.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Payment of the costs of medical services shall be made directly to the physician or provider of the services according to the department’s established procedures.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Payment of the cost of nonrecurring adoption or guardianship expenses is limited to the following: reasonable and necessary adoption or guardianship fees, court costs, attorney’s fees, and other expenses which are directly related to the legal adoption or guardianship of a child with special needs and which are not incurred in violation of state or federal laws.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Eligibility for the benefits payable and amounts thereof shall be determined on a case-by-case basis by the department as set forth in the rules promulgated by the state board of health and welfare. History: [56-805, added 1974, ch. 61, sec. 5, p. 1139; am. 1982, ch. 54, sec. 1, p. 82; am. 1991, ch. 238, sec. 1, p. 573; am. 2001, ch. 92, sec. 3, p. 231.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-805. Financial aid — Period. Financial aid to families adopting or becoming guardians of hard-to-place children shall be awarded by the department as follows:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Persons who have applied to adopt the hard-to-place child and to receive subsidies for the care and support of the hard-to-place child shall be evaluated as to their suitability as adoptive parents by means of an adoptive home study. Persons who are caring for a hard-to-place child in the state’s custody for whom reunification or adoption is not an option, and who wish to be appointed legal guardians of the child and to receive subsidies for the care and support of the child, shall be evaluated as to their suitability as guardians by means of a guardianship study.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Financial assistance shall be not more than the amount that would be paid for foster or institutional care for the child if the placement for adoption or guardianship had not taken place. Assistance may be provided families adopting or becoming guardians for hard-to-place children until such child is eighteen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_18">
+            <akn:num>(18)</akn:num>
+            <akn:content>
+              <akn:p>years of age, parents are no longer legally responsible for the child, or until the parents are no longer providing support for the child. After an adoption with a subsidy is finalized or a guardianship with subsidy has been ordered by the court and the court has released the child from the state’s legal custody, the family is independent of the department except for an annual evaluation by the department of the need for continued subsidy and the amount of the subsidy.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Payment of the costs of medical services shall be made directly to the physician or provider of the services according to the department’s established procedures.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Payment of the cost of nonrecurring adoption or guardianship expenses is limited to the following: reasonable and necessary adoption or guardianship fees, court costs, attorney’s fees, and other expenses which are directly related to the legal adoption or guardianship of a child with special needs and which are not incurred in violation of state or federal laws.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Eligibility for the benefits payable and amounts thereof shall be determined on a case-by-case basis by the department as set forth in the rules promulgated by the state board of health and welfare. History: [56-805, added 1974, ch. 61, sec. 5, p. 1139; am. 1982, ch. 54, sec. 1, p. 82; am. 1991, ch. 238, sec. 1, p. 573; am. 2001, ch. 92, sec. 3, p. 231.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-805. Financial aid — Period. Financial aid to families adopting or becoming guardians of hard-to-place children shall be awarded by the department as follows:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Persons who have applied to adopt the hard-to-place child and to receive subsidies for the care and support of the hard-to-place child shall be evaluated as to their suitability as adoptive parents by means of an adoptive home study. Persons who are caring for a hard-to-place child in the state’s custody for whom reunification or adoption is not an option, and who wish to be appointed legal guardians of the child and to receive subsidies for the care and support of the child, shall be evaluated as to their suitability as guardians by means of a guardianship study.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Financial assistance shall be not more than the amount that would be paid for foster or institutional care for the child if the placement for adoption or guardianship had not taken place. Assistance may be provided families adopting or becoming guardians for hard-to-place children until such child is eighteen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_18">
+            <akn:num>(18)</akn:num>
+            <akn:content>
+              <akn:p>years of age, parents are no longer legally responsible for the child, or until the parents are no longer providing support for the child. After an adoption with a subsidy is finalized or a guardianship with subsidy has been ordered by the court and the court has released the child from the state’s legal custody, the family is independent of the department except for an annual evaluation by the department of the need for continued subsidy and the amount of the subsidy.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Payment of the costs of medical services shall be made directly to the physician or provider of the services according to the department’s established procedures.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Payment of the cost of nonrecurring adoption or guardianship expenses is limited to the following: reasonable and necessary adoption or guardianship fees, court costs, attorney’s fees, and other expenses which are directly related to the legal adoption or guardianship of a child with special needs and which are not incurred in violation of state or federal laws.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Eligibility for the benefits payable and amounts thereof shall be determined on a case-by-case basis by the department as set forth in the rules promulgated by the state board of health and welfare. History: [56-805, added 1974, ch. 61, sec. 5, p. 1139; am. 1982, ch. 54, sec. 1, p. 82; am. 1991, ch. 238, sec. 1, p. 573; am. 2001, ch. 92, sec. 3, p. 231.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-805. Financial aid — Period. Financial aid to families adopting or becoming guardians of hard-to-place children shall be awarded by the department as follows:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Persons who have applied to adopt the hard-to-place child and to receive subsidies for the care and support of the hard-to-place child shall be evaluated as to their suitability as adoptive parents by means of an adoptive home study. Persons who are caring for a hard-to-place child in the state’s custody for whom reunification or adoption is not an option, and who wish to be appointed legal guardians of the child and to receive subsidies for the care and support of the child, shall be evaluated as to their suitability as guardians by means of a guardianship study.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Financial assistance shall be not more than the amount that would be paid for foster or institutional care for the child if the placement for adoption or guardianship had not taken place. Assistance may be provided families adopting or becoming guardians for hard-to-place children until such child is eighteen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_18">
+            <akn:num>(18)</akn:num>
+            <akn:content>
+              <akn:p>years of age, parents are no longer legally responsible for the child, or until the parents are no longer providing support for the child. After an adoption with a subsidy is finalized or a guardianship with subsidy has been ordered by the court and the court has released the child from the state’s legal custody, the family is independent of the department except for an annual evaluation by the department of the need for continued subsidy and the amount of the subsidy.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Payment of the costs of medical services shall be made directly to the physician or provider of the services according to the department’s established procedures.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Payment of the cost of nonrecurring adoption or guardianship expenses is limited to the following: reasonable and necessary adoption or guardianship fees, court costs, attorney’s fees, and other expenses which are directly related to the legal adoption or guardianship of a child with special needs and which are not incurred in violation of state or federal laws.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Eligibility for the benefits payable and amounts thereof shall be determined on a case-by-case basis by the department as set forth in the rules promulgated by the state board of health and welfare. History: [56-805, added 1974, ch. 61, sec. 5, p. 1139; am. 1982, ch. 54, sec. 1, p. 82; am. 1991, ch. 238, sec. 1, p. 573; am. 2001, ch. 92, sec. 3, p. 231.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-805. Financial aid — Period. Financial aid to families adopting or becoming guardians of hard-to-place children shall be awarded by the department as follows:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Persons who have applied to adopt the hard-to-place child and to receive subsidies for the care and support of the hard-to-place child shall be evaluated as to their suitability as adoptive parents by means of an adoptive home study. Persons who are caring for a hard-to-place child in the state’s custody for whom reunification or adoption is not an option, and who wish to be appointed legal guardians of the child and to receive subsidies for the care and support of the child, shall be evaluated as to their suitability as guardians by means of a guardianship study.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Financial assistance shall be not more than the amount that would be paid for foster or institutional care for the child if the placement for adoption or guardianship had not taken place. Assistance may be provided families adopting or becoming guardians for hard-to-place children until such child is eighteen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_18">
+            <akn:num>(18)</akn:num>
+            <akn:content>
+              <akn:p>years of age, parents are no longer legally responsible for the child, or until the parents are no longer providing support for the child. After an adoption with a subsidy is finalized or a guardianship with subsidy has been ordered by the court and the court has released the child from the state’s legal custody, the family is independent of the department except for an annual evaluation by the department of the need for continued subsidy and the amount of the subsidy.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Payment of the costs of medical services shall be made directly to the physician or provider of the services according to the department’s established procedures.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Payment of the cost of nonrecurring adoption or guardianship expenses is limited to the following: reasonable and necessary adoption or guardianship fees, court costs, attorney’s fees, and other expenses which are directly related to the legal adoption or guardianship of a child with special needs and which are not incurred in violation of state or federal laws.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Eligibility for the benefits payable and amounts thereof shall be determined on a case-by-case basis by the department as set forth in the rules promulgated by the state board of health and welfare. History: [56-805, added 1974, ch. 61, sec. 5, p. 1139; am. 1982, ch. 54, sec. 1, p. 82; am. 1991, ch. 238, sec. 1, p. 573; am. 2001, ch. 92, sec. 3, p. 231.]
+56-805. Financial aid — Period. Financial aid to families adopting or becoming guardians of hard-to-place children shall be awarded by the department as follows:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Persons who have applied to adopt the hard-to-place child and to receive subsidies for the care and support of the hard-to-place child shall be evaluated as to their suitability as adoptive parents by means of an adoptive home study. Persons who are caring for a hard-to-place child in the state’s custody for whom reunification or adoption is not an option, and who wish to be appointed legal guardians of the child and to receive subsidies for the care and support of the child, shall be evaluated as to their suitability as guardians by means of a guardianship study.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Financial assistance shall be not more than the amount that would be paid for foster or institutional care for the child if the placement for adoption or guardianship had not taken place. Assistance may be provided families adopting or becoming guardians for hard-to-place children until such child is eighteen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_18">
+            <akn:num>(18)</akn:num>
+            <akn:content>
+              <akn:p>years of age, parents are no longer legally responsible for the child, or until the parents are no longer providing support for the child.
+After an adoption with a subsidy is finalized or a guardianship with subsidy has been ordered by the court and the court has released the child from the state’s legal custody, the family is independent of the department except for an annual evaluation by the department of the need for continued subsidy and the amount of the subsidy.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Payment of the costs of medical services shall be made directly to the physician or provider of the services according to the department’s established procedures.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Payment of the cost of nonrecurring adoption or guardianship expenses is limited to the following: reasonable and necessary adoption or guardianship fees, court costs, attorney’s fees, and other expenses which are directly related to the legal adoption or guardianship of a child with special needs and which are not incurred in violation of state or federal laws.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_805__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Eligibility for the benefits payable and amounts thereof shall be determined on a case-by-case basis by the department as set forth in the rules promulgated by the state board of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_806">
+          <akn:num>56-806</akn:num>
+          <akn:heading>Use of gifts or grants</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-806. Use of gifts or grants. All gifts or grants received from private sources for the purpose of this bill shall be used to offset state costs incurred pursuant to this act. History: [56-806, added 1974, ch. 61, sec. 6, p. 1139.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-806. Use of gifts or grants. All gifts or grants received from private sources for the purpose of this bill shall be used to offset state costs incurred pursuant to this act. History: [56-806, added 1974, ch. 61, sec. 6, p. 1139.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-806. Use of gifts or grants. All gifts or grants received from private sources for the purpose of this bill shall be used to offset state costs incurred pursuant to this act. History: [56-806, added 1974, ch. 61, sec. 6, p. 1139.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-806. Use of gifts or grants. All gifts or grants received from private sources for the purpose of this bill shall be used to offset state costs incurred pursuant to this act. History: [56-806, added 1974, ch. 61, sec. 6, p. 1139.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 8 HARD-TO-PLACE CHILDREN 56-806. Use of gifts or grants. All gifts or grants received from private sources for the purpose of this bill shall be used to offset state costs incurred pursuant to this act. History: [56-806, added 1974, ch. 61, sec. 6, p. 1139.]
+56-806. Use of gifts or grants. All gifts or grants received from private sources for the purpose of this bill shall be used to offset state costs incurred pursuant to this act.</akn:p>
+          </akn:content>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

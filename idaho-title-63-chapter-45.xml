@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-45" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-45" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="63-45" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-45/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-45/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-45/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-45/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_63_45">
+        <akn:num>Chapter 45</akn:num>
+        <akn:heading>Chapter 45</akn:heading>
+        <akn:section eId="sec_63_4501">
+          <akn:num>63-4501</akn:num>
+          <akn:heading>Short title</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 45 NEW CAPITAL INVESTMENTS INCENTIVE ACT 63-4501. Short title. This chapter shall be known and may be cited as the "Idaho New Capital Investments Incentive Act of 2008." History: [63-4501, added 2008, ch. 234, sec. 1, p. 712.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 45 NEW CAPITAL INVESTMENTS INCENTIVE ACT 63-4501. Short title. This chapter shall be known and may be cited as the "Idaho New Capital Investments Incentive Act of 2008." History: [63-4501, added 2008, ch. 234, sec. 1, p. 712.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 45 NEW CAPITAL INVESTMENTS INCENTIVE ACT 63-4501. Short title. This chapter shall be known and may be cited as the "Idaho New Capital Investments Incentive Act of 2008." History: [63-4501, added 2008, ch. 234, sec. 1, p. 712.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 45 NEW CAPITAL INVESTMENTS INCENTIVE ACT 63-4501. Short title. This chapter shall be known and may be cited as the "Idaho New Capital Investments Incentive Act of 2008." History: [63-4501, added 2008, ch. 234, sec. 1, p. 712.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 45 NEW CAPITAL INVESTMENTS INCENTIVE ACT 63-4501. Short title. This chapter shall be known and may be cited as the "Idaho New Capital Investments Incentive Act of 2008." History: [63-4501, added 2008, ch. 234, sec. 1, p. 712.]
+63-4501. Short title. This chapter shall be known and may be cited as the "Idaho New Capital Investments Incentive Act of 2008."</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_4502">
+          <akn:num>63-4502</akn:num>
+          <akn:heading>Tax exemption for new capital investments</akn:heading>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>For calendar years beginning on or after January 1, 2008, the net taxable value of all property of a taxpayer, whether acquired before, during or after the qualifying period, in excess of four hundred million dollars ($400,000,000) located within a single county in Idaho shall be exempt from property taxation and any special assessment, but only if the taxpayer makes a qualifying new capital investment as defined in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>of this section.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>For purposes of this section, the following definitions shall apply: (a)  "Qualifying new capital investment" means an investment of at least one billion dollars ($1,000,000,000) made during the qualifying period by the acquisition, construction, improvement or installation of real, operating or personal property related to new plant and building facilities at a project site located within the county referred to in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section. (b)  "New plant and building facilities" means: (i)   Qualified investments as defined in section 63-3029B , Idaho Code; or (ii)  Buildings or structural components of buildings, including equipment, materials and fixtures thereof, whether used at a project site or temporarily stored off-site in the county referred to in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section and intended for use at a project site. (c)  "Qualifying period" means an eighty-four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_84">
+            <akn:num>(84)</akn:num>
+            <akn:content>
+              <akn:p>month period of time beginning with the issuance of a building permit for a permanent building structure at a project site and ending no later than eighty-four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_84">
+            <akn:num>(84)</akn:num>
+            <akn:content>
+              <akn:p>months a thereafter.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_4502__subsec_84__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>(b) of this section are built, installed or constructed.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The property included in the calculation for purposes of determining a qualifying new capital investment value shall include all real or operating property owned, and all personal property owned, leased or rented. With respect to leased or rented personal property, only that portion of the property for which a taxpayer is contractually liable for payment of property taxes thereon shall be included in the calculation of the investment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Notwithstanding the exemption provided in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>of section 63-3029B , Idaho Code, no other exemption from property tax or any special assessment provided by the statutes of this state shall be applicable to any property described in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>of this section with respect to a year in which the incentives set forth in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section apply to any of the same property.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Property subject to the provisions of this section shall not be included on any property roll or any new construction roll prepared by the county assessor in accordance with section 63-301 or 63-301A , Idaho Code, respectively.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>The state tax commission shall adopt all rules that may be necessary to implement the provisions of this section. History: [63-4502, added 2008, ch. 234, sec. 1, p. 712; am. 2011, ch. 10, sec. 1, p. 22; am. 2018, ch. 151, sec. 1, p. 309.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 45 NEW CAPITAL INVESTMENTS INCENTIVE ACT 63-4502. Tax exemption for new capital investments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>For calendar years beginning on or after January 1, 2008, the net taxable value of all property of a taxpayer, whether acquired before, during or after the qualifying period, in excess of four hundred million dollars ($400,000,000) located within a single county in Idaho shall be exempt from property taxation and any special assessment, but only if the taxpayer makes a qualifying new capital investment as defined in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>of this section.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>For purposes of this section, the following definitions shall apply: (a)  "Qualifying new capital investment" means an investment of at least one billion dollars ($1,000,000,000) made during the qualifying period by the acquisition, construction, improvement or installation of real, operating or personal property related to new plant and building facilities at a project site located within the county referred to in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section. (b)  "New plant and building facilities" means: (i)   Qualified investments as defined in section 63-3029B , Idaho Code; or (ii)  Buildings or structural components of buildings, including equipment, materials and fixtures thereof, whether used at a project site or temporarily stored off-site in the county referred to in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section and intended for use at a project site. (c)  "Qualifying period" means an eighty-four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_84">
+            <akn:num>(84)</akn:num>
+            <akn:content>
+              <akn:p>month period of time beginning with the issuance of a building permit for a permanent building structure at a project site and ending no later than eighty-four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_84">
+            <akn:num>(84)</akn:num>
+            <akn:content>
+              <akn:p>months a thereafter.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_4502__subsec_84__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>(b) of this section are built, installed or constructed.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The property included in the calculation for purposes of determining a qualifying new capital investment value shall include all real or operating property owned, and all personal property owned, leased or rented. With respect to leased or rented personal property, only that portion of the property for which a taxpayer is contractually liable for payment of property taxes thereon shall be included in the calculation of the investment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Notwithstanding the exemption provided in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>of section 63-3029B , Idaho Code, no other exemption from property tax or any special assessment provided by the statutes of this state shall be applicable to any property described in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>of this section with respect to a year in which the incentives set forth in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section apply to any of the same property.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Property subject to the provisions of this section shall not be included on any property roll or any new construction roll prepared by the county assessor in accordance with section 63-301 or 63-301A , Idaho Code, respectively.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>The state tax commission shall adopt all rules that may be necessary to implement the provisions of this section. History: [63-4502, added 2008, ch. 234, sec. 1, p. 712; am. 2011, ch. 10, sec. 1, p. 22; am. 2018, ch. 151, sec. 1, p. 309.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 45 NEW CAPITAL INVESTMENTS INCENTIVE ACT 63-4502. Tax exemption for new capital investments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>For calendar years beginning on or after January 1, 2008, the net taxable value of all property of a taxpayer, whether acquired before, during or after the qualifying period, in excess of four hundred million dollars ($400,000,000) located within a single county in Idaho shall be exempt from property taxation and any special assessment, but only if the taxpayer makes a qualifying new capital investment as defined in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>of this section.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>For purposes of this section, the following definitions shall apply: (a)  "Qualifying new capital investment" means an investment of at least one billion dollars ($1,000,000,000) made during the qualifying period by the acquisition, construction, improvement or installation of real, operating or personal property related to new plant and building facilities at a project site located within the county referred to in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section. (b)  "New plant and building facilities" means: (i)   Qualified investments as defined in section 63-3029B , Idaho Code; or (ii)  Buildings or structural components of buildings, including equipment, materials and fixtures thereof, whether used at a project site or temporarily stored off-site in the county referred to in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section and intended for use at a project site. (c)  "Qualifying period" means an eighty-four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_84">
+            <akn:num>(84)</akn:num>
+            <akn:content>
+              <akn:p>month period of time beginning with the issuance of a building permit for a permanent building structure at a project site and ending no later than eighty-four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_84">
+            <akn:num>(84)</akn:num>
+            <akn:content>
+              <akn:p>months a thereafter.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_4502__subsec_84__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>(b) of this section are built, installed or constructed.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The property included in the calculation for purposes of determining a qualifying new capital investment value shall include all real or operating property owned, and all personal property owned, leased or rented. With respect to leased or rented personal property, only that portion of the property for which a taxpayer is contractually liable for payment of property taxes thereon shall be included in the calculation of the investment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Notwithstanding the exemption provided in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>of section 63-3029B , Idaho Code, no other exemption from property tax or any special assessment provided by the statutes of this state shall be applicable to any property described in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>of this section with respect to a year in which the incentives set forth in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section apply to any of the same property.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Property subject to the provisions of this section shall not be included on any property roll or any new construction roll prepared by the county assessor in accordance with section 63-301 or 63-301A , Idaho Code, respectively.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>The state tax commission shall adopt all rules that may be necessary to implement the provisions of this section. History: [63-4502, added 2008, ch. 234, sec. 1, p. 712; am. 2011, ch. 10, sec. 1, p. 22; am. 2018, ch. 151, sec. 1, p. 309.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 45 NEW CAPITAL INVESTMENTS INCENTIVE ACT 63-4502. Tax exemption for new capital investments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>For calendar years beginning on or after January 1, 2008, the net taxable value of all property of a taxpayer, whether acquired before, during or after the qualifying period, in excess of four hundred million dollars ($400,000,000) located within a single county in Idaho shall be exempt from property taxation and any special assessment, but only if the taxpayer makes a qualifying new capital investment as defined in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>of this section.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>For purposes of this section, the following definitions shall apply: (a)  "Qualifying new capital investment" means an investment of at least one billion dollars ($1,000,000,000) made during the qualifying period by the acquisition, construction, improvement or installation of real, operating or personal property related to new plant and building facilities at a project site located within the county referred to in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section. (b)  "New plant and building facilities" means: (i)   Qualified investments as defined in section 63-3029B , Idaho Code; or (ii)  Buildings or structural components of buildings, including equipment, materials and fixtures thereof, whether used at a project site or temporarily stored off-site in the county referred to in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section and intended for use at a project site. (c)  "Qualifying period" means an eighty-four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_84">
+            <akn:num>(84)</akn:num>
+            <akn:content>
+              <akn:p>month period of time beginning with the issuance of a building permit for a permanent building structure at a project site and ending no later than eighty-four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_84">
+            <akn:num>(84)</akn:num>
+            <akn:content>
+              <akn:p>months a thereafter.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_4502__subsec_84__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>(b) of this section are built, installed or constructed.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The property included in the calculation for purposes of determining a qualifying new capital investment value shall include all real or operating property owned, and all personal property owned, leased or rented. With respect to leased or rented personal property, only that portion of the property for which a taxpayer is contractually liable for payment of property taxes thereon shall be included in the calculation of the investment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Notwithstanding the exemption provided in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>of section 63-3029B , Idaho Code, no other exemption from property tax or any special assessment provided by the statutes of this state shall be applicable to any property described in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>of this section with respect to a year in which the incentives set forth in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section apply to any of the same property.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Property subject to the provisions of this section shall not be included on any property roll or any new construction roll prepared by the county assessor in accordance with section 63-301 or 63-301A , Idaho Code, respectively.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>The state tax commission shall adopt all rules that may be necessary to implement the provisions of this section. History: [63-4502, added 2008, ch. 234, sec. 1, p. 712; am. 2011, ch. 10, sec. 1, p. 22; am. 2018, ch. 151, sec. 1, p. 309.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 45 NEW CAPITAL INVESTMENTS INCENTIVE ACT 63-4502. Tax exemption for new capital investments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>For calendar years beginning on or after January 1, 2008, the net taxable value of all property of a taxpayer, whether acquired before, during or after the qualifying period, in excess of four hundred million dollars ($400,000,000) located within a single county in Idaho shall be exempt from property taxation and any special assessment, but only if the taxpayer makes a qualifying new capital investment as defined in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>of this section.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>For purposes of this section, the following definitions shall apply: (a)  "Qualifying new capital investment" means an investment of at least one billion dollars ($1,000,000,000) made during the qualifying period by the acquisition, construction, improvement or installation of real, operating or personal property related to new plant and building facilities at a project site located within the county referred to in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section. (b)  "New plant and building facilities" means: (i)   Qualified investments as defined in section 63-3029B , Idaho Code; or (ii)  Buildings or structural components of buildings, including equipment, materials and fixtures thereof, whether used at a project site or temporarily stored off-site in the county referred to in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section and intended for use at a project site. (c)  "Qualifying period" means an eighty-four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_84">
+            <akn:num>(84)</akn:num>
+            <akn:content>
+              <akn:p>month period of time beginning with the issuance of a building permit for a permanent building structure at a project site and ending no later than eighty-four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_84">
+            <akn:num>(84)</akn:num>
+            <akn:content>
+              <akn:p>months a thereafter.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_4502__subsec_84__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>(b) of this section are built, installed or constructed.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The property included in the calculation for purposes of determining a qualifying new capital investment value shall include all real or operating property owned, and all personal property owned, leased or rented. With respect to leased or rented personal property, only that portion of the property for which a taxpayer is contractually liable for payment of property taxes thereon shall be included in the calculation of the investment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Notwithstanding the exemption provided in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>of section 63-3029B , Idaho Code, no other exemption from property tax or any special assessment provided by the statutes of this state shall be applicable to any property described in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>of this section with respect to a year in which the incentives set forth in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section apply to any of the same property.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Property subject to the provisions of this section shall not be included on any property roll or any new construction roll prepared by the county assessor in accordance with section 63-301 or 63-301A , Idaho Code, respectively.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>The state tax commission shall adopt all rules that may be necessary to implement the provisions of this section. History: [63-4502, added 2008, ch. 234, sec. 1, p. 712; am. 2011, ch. 10, sec. 1, p. 22; am. 2018, ch. 151, sec. 1, p. 309.]
+63-4502. Tax exemption for new capital investments.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>For calendar years beginning on or after January 1, 2008, the net taxable value of all property of a taxpayer, whether acquired before, during or after the qualifying period, in excess of four hundred million dollars ($400,000,000) located within a single county in Idaho shall be exempt from property taxation and any special assessment, but only if the taxpayer makes a qualifying new capital investment as defined in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>of this section.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>For purposes of this section, the following definitions shall apply:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section and intended for use at a project site.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_84">
+            <akn:num>(84)</akn:num>
+            <akn:content>
+              <akn:p>month period of time beginning with the issuance of a building permit for a permanent building structure at a project site and ending no later than eighty-four</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_84">
+            <akn:num>(84)</akn:num>
+            <akn:content>
+              <akn:p>months a thereafter.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_4502__subsec_84__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>(b) of this section are built, installed or constructed.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The property included in the calculation for purposes of determining a qualifying new capital investment value shall include all real or operating property owned, and all personal property owned, leased or rented. With respect to leased or rented personal property, only that portion of the property for which a taxpayer is contractually liable for payment of property taxes thereon shall be included in the calculation of the investment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Notwithstanding the exemption provided in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>of section 63-3029B , Idaho Code, no other exemption from property tax or any special assessment provided by the statutes of this state shall be applicable to any property described in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>of this section with respect to a year in which the incentives set forth in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section apply to any of the same property.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Property subject to the provisions of this section shall not be included on any property roll or any new construction roll prepared by the county assessor in accordance with section 63-301 or 63-301A , Idaho Code, respectively.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_4502__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>The state tax commission shall adopt all rules that may be necessary to implement the provisions of this section.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

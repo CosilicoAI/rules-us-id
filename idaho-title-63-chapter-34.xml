@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-34" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-34" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="63-34" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-34/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-34/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-34/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-34/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_63_34">
+        <akn:num>Chapter 34</akn:num>
+        <akn:heading>Chapter 34</akn:heading>
+        <akn:section eId="sec_63_3408">
+          <akn:num>63-3408</akn:num>
+          <akn:heading>Suit by attorney general — Certificate of secretary of state</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 34 COLLECTION OF TAXES AND LICENSE FEES 63-3408. Suit by attorney general — Certificate of secretary of state. The attorney general or an appropriate official of any political subdivision of this state may bring suits in the courts of other states to collect taxes legally due this state or any political subdivision thereof. The officials of other states which extend a like comity to this state are empowered to sue for the collection of such taxes in the courts of this state. A certificate by the secretary of state under the Great Seal of the State that such officers have authority to collect the tax is conclusive evidence of such authority. History: [63-3408, added 1963, ch. 32, sec. 1, p. 175.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 34 COLLECTION OF TAXES AND LICENSE FEES 63-3408. Suit by attorney general — Certificate of secretary of state. The attorney general or an appropriate official of any political subdivision of this state may bring suits in the courts of other states to collect taxes legally due this state or any political subdivision thereof. The officials of other states which extend a like comity to this state are empowered to sue for the collection of such taxes in the courts of this state. A certificate by the secretary of state under the Great Seal of the State that such officers have authority to collect the tax is conclusive evidence of such authority. History: [63-3408, added 1963, ch. 32, sec. 1, p. 175.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 34 COLLECTION OF TAXES AND LICENSE FEES 63-3408. Suit by attorney general — Certificate of secretary of state. The attorney general or an appropriate official of any political subdivision of this state may bring suits in the courts of other states to collect taxes legally due this state or any political subdivision thereof. The officials of other states which extend a like comity to this state are empowered to sue for the collection of such taxes in the courts of this state. A certificate by the secretary of state under the Great Seal of the State that such officers have authority to collect the tax is conclusive evidence of such authority. History: [63-3408, added 1963, ch. 32, sec. 1, p. 175.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 34 COLLECTION OF TAXES AND LICENSE FEES 63-3408. Suit by attorney general — Certificate of secretary of state. The attorney general or an appropriate official of any political subdivision of this state may bring suits in the courts of other states to collect taxes legally due this state or any political subdivision thereof. The officials of other states which extend a like comity to this state are empowered to sue for the collection of such taxes in the courts of this state. A certificate by the secretary of state under the Great Seal of the State that such officers have authority to collect the tax is conclusive evidence of such authority. History: [63-3408, added 1963, ch. 32, sec. 1, p. 175.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 34 COLLECTION OF TAXES AND LICENSE FEES 63-3408. Suit by attorney general — Certificate of secretary of state. The attorney general or an appropriate official of any political subdivision of this state may bring suits in the courts of other states to collect taxes legally due this state or any political subdivision thereof. The officials of other states which extend a like comity to this state are empowered to sue for the collection of such taxes in the courts of this state. A certificate by the secretary of state under the Great Seal of the State that such officers have authority to collect the tax is conclusive evidence of such authority. History: [63-3408, added 1963, ch. 32, sec. 1, p. 175.]
+63-3408. Suit by attorney general — Certificate of secretary of state. The attorney general or an appropriate official of any political subdivision of this state may bring suits in the courts of other states to collect taxes legally due this state or any political subdivision thereof. The officials of other states which extend a like comity to this state are empowered to sue for the collection of such taxes in the courts of this state. A certificate by the secretary of state under the Great Seal of the State that such officers have authority to collect the tax is conclusive evidence of such authority.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_3409">
+          <akn:num>63-3409</akn:num>
+          <akn:heading>Suits by attorney general on behalf of other states</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 34 COLLECTION OF TAXES AND LICENSE FEES 63-3409. Suits by attorney general on behalf of other states. The attorney general of this state is empowered to sue and collect, for and on behalf of any other political subdivision or state of the United States taxes legally due such political subdivision or state provided that the law of such state contains a reciprocal provision by which that state will enforce and collect taxes due this state or its political subdivision. History: [63-3409, added 1963, ch. 32, sec. 2, p. 175.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 34 COLLECTION OF TAXES AND LICENSE FEES 63-3409. Suits by attorney general on behalf of other states. The attorney general of this state is empowered to sue and collect, for and on behalf of any other political subdivision or state of the United States taxes legally due such political subdivision or state provided that the law of such state contains a reciprocal provision by which that state will enforce and collect taxes due this state or its political subdivision. History: [63-3409, added 1963, ch. 32, sec. 2, p. 175.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 34 COLLECTION OF TAXES AND LICENSE FEES 63-3409. Suits by attorney general on behalf of other states. The attorney general of this state is empowered to sue and collect, for and on behalf of any other political subdivision or state of the United States taxes legally due such political subdivision or state provided that the law of such state contains a reciprocal provision by which that state will enforce and collect taxes due this state or its political subdivision. History: [63-3409, added 1963, ch. 32, sec. 2, p. 175.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 34 COLLECTION OF TAXES AND LICENSE FEES 63-3409. Suits by attorney general on behalf of other states. The attorney general of this state is empowered to sue and collect, for and on behalf of any other political subdivision or state of the United States taxes legally due such political subdivision or state provided that the law of such state contains a reciprocal provision by which that state will enforce and collect taxes due this state or its political subdivision. History: [63-3409, added 1963, ch. 32, sec. 2, p. 175.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 34 COLLECTION OF TAXES AND LICENSE FEES 63-3409. Suits by attorney general on behalf of other states. The attorney general of this state is empowered to sue and collect, for and on behalf of any other political subdivision or state of the United States taxes legally due such political subdivision or state provided that the law of such state contains a reciprocal provision by which that state will enforce and collect taxes due this state or its political subdivision. History: [63-3409, added 1963, ch. 32, sec. 2, p. 175.]
+63-3409. Suits by attorney general on behalf of other states. The attorney general of this state is empowered to sue and collect, for and on behalf of any other political subdivision or state of the United States taxes legally due such political subdivision or state provided that the law of such state contains a reciprocal provision by which that state will enforce and collect taxes due this state or its political subdivision.</akn:p>
+          </akn:content>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,1631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-19" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-19" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="56-19" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-19/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-19/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-19/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-19/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_56_19">
+        <akn:num>Chapter 19</akn:num>
+        <akn:heading>Chapter 19</akn:heading>
+        <akn:section eId="sec_56_1901">
+          <akn:num>56-1901</akn:num>
+          <akn:heading>health and social services ombudsman established</akn:heading>
+          <akn:subsection eId="56_1901__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>As used in this chapter, "service recipient" means: (a)  A child who receives foster care or protective supervision services pursuant to chapter 16, title 16 , Idaho Code; or (b)  A child receiving services in a residential treatment facility in Idaho.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>There is hereby created in the department of self-governing agencies the office of health and social services ombudsman.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The health and social services ombudsman shall act as an independent ombudsman monitoring and evaluating the compliance of public agencies and private entities with relevant statutes, rules, and policies pertaining to the provision of health and social services to service recipients.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The health and social services ombudsman shall ensure the protection of service recipients’ rights and promotion of the recipients’ best interests and safeguard the welfare of service recipients through advocacy, system reform, public awareness, and training.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>The health and social services ombudsman shall be appointed by the governor and subject to confirmation by the senate. Such individual shall be qualified by training and experience to perform the duties and exercise the powers of the health and social services ombudsman as provided in this chapter. History: [56-1901, added 2024, ch. 188, sec. 2, p. 681.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1901. health and social services ombudsman established.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>As used in this chapter, "service recipient" means: (a)  A child who receives foster care or protective supervision services pursuant to chapter 16, title 16 , Idaho Code; or (b)  A child receiving services in a residential treatment facility in Idaho.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>There is hereby created in the department of self-governing agencies the office of health and social services ombudsman.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The health and social services ombudsman shall act as an independent ombudsman monitoring and evaluating the compliance of public agencies and private entities with relevant statutes, rules, and policies pertaining to the provision of health and social services to service recipients.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The health and social services ombudsman shall ensure the protection of service recipients’ rights and promotion of the recipients’ best interests and safeguard the welfare of service recipients through advocacy, system reform, public awareness, and training.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>The health and social services ombudsman shall be appointed by the governor and subject to confirmation by the senate. Such individual shall be qualified by training and experience to perform the duties and exercise the powers of the health and social services ombudsman as provided in this chapter. History: [56-1901, added 2024, ch. 188, sec. 2, p. 681.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1901. health and social services ombudsman established.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>As used in this chapter, "service recipient" means: (a)  A child who receives foster care or protective supervision services pursuant to chapter 16, title 16 , Idaho Code; or (b)  A child receiving services in a residential treatment facility in Idaho.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>There is hereby created in the department of self-governing agencies the office of health and social services ombudsman.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The health and social services ombudsman shall act as an independent ombudsman monitoring and evaluating the compliance of public agencies and private entities with relevant statutes, rules, and policies pertaining to the provision of health and social services to service recipients.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The health and social services ombudsman shall ensure the protection of service recipients’ rights and promotion of the recipients’ best interests and safeguard the welfare of service recipients through advocacy, system reform, public awareness, and training.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>The health and social services ombudsman shall be appointed by the governor and subject to confirmation by the senate. Such individual shall be qualified by training and experience to perform the duties and exercise the powers of the health and social services ombudsman as provided in this chapter. History: [56-1901, added 2024, ch. 188, sec. 2, p. 681.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1901. health and social services ombudsman established.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>As used in this chapter, "service recipient" means: (a)  A child who receives foster care or protective supervision services pursuant to chapter 16, title 16 , Idaho Code; or (b)  A child receiving services in a residential treatment facility in Idaho.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>There is hereby created in the department of self-governing agencies the office of health and social services ombudsman.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The health and social services ombudsman shall act as an independent ombudsman monitoring and evaluating the compliance of public agencies and private entities with relevant statutes, rules, and policies pertaining to the provision of health and social services to service recipients.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The health and social services ombudsman shall ensure the protection of service recipients’ rights and promotion of the recipients’ best interests and safeguard the welfare of service recipients through advocacy, system reform, public awareness, and training.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>The health and social services ombudsman shall be appointed by the governor and subject to confirmation by the senate. Such individual shall be qualified by training and experience to perform the duties and exercise the powers of the health and social services ombudsman as provided in this chapter. History: [56-1901, added 2024, ch. 188, sec. 2, p. 681.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1901. health and social services ombudsman established.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>As used in this chapter, "service recipient" means: (a)  A child who receives foster care or protective supervision services pursuant to chapter 16, title 16 , Idaho Code; or (b)  A child receiving services in a residential treatment facility in Idaho.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>There is hereby created in the department of self-governing agencies the office of health and social services ombudsman.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The health and social services ombudsman shall act as an independent ombudsman monitoring and evaluating the compliance of public agencies and private entities with relevant statutes, rules, and policies pertaining to the provision of health and social services to service recipients.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The health and social services ombudsman shall ensure the protection of service recipients’ rights and promotion of the recipients’ best interests and safeguard the welfare of service recipients through advocacy, system reform, public awareness, and training.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>The health and social services ombudsman shall be appointed by the governor and subject to confirmation by the senate. Such individual shall be qualified by training and experience to perform the duties and exercise the powers of the health and social services ombudsman as provided in this chapter. History: [56-1901, added 2024, ch. 188, sec. 2, p. 681.]
+56-1901. health and social services ombudsman established.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>As used in this chapter, "service recipient" means:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>There is hereby created in the department of self-governing agencies the office of health and social services ombudsman.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The health and social services ombudsman shall act as an independent ombudsman monitoring and evaluating the compliance of public agencies and private entities with relevant statutes, rules, and policies pertaining to the provision of health and social services to service recipients.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The health and social services ombudsman shall ensure the protection of service recipients’ rights and promotion of the recipients’ best interests and safeguard the welfare of service recipients through advocacy, system reform, public awareness, and training.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1901__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>The health and social services ombudsman shall be appointed by the governor and subject to confirmation by the senate. Such individual shall be qualified by training and experience to perform the duties and exercise the powers of the health and social services ombudsman as provided in this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1902">
+          <akn:num>56-1902</akn:num>
+          <akn:heading>powers and duties</akn:heading>
+          <akn:subsection eId="56_1902__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Operate independently of the legislature, the courts, the department of health and welfare, and any other state agency or department;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Establish and manage a statewide procedure to receive, examine, and resolve complaints submitted pursuant to section 56-1903 , Idaho Code;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Inform a service recipient or the service recipient’s legal guardian of the service recipient’s rights and obligations under applicable federal and state laws;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Collect and analyze each quarterly report issued by the citizen review panel pursuant to section 16-1647 , Idaho Code, and any responses by the department of health and welfare or other relevant state department or agency;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Gather and analyze data to discern general patterns and trends, chronic problems, and other systemic challenges in the provision of health and social services, including but not limited to foster care or protective supervision services, and in the detection, reporting, examination, prosecution, and resolution of cases of abuse and neglect;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Review and recommend changes to laws relevant to the child protective act pursuant to chapter 16, title 16 , Idaho Code, and the juvenile corrections act pursuant to chapter 5, title 20 , Idaho Code;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Provide an annual report on the work of the office, the operation of child welfare in the state, and related recommendations to the governor, the legislature, the director of the department of health and welfare or other relevant state departments or agencies, the state public defender, and the courts; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>Establish internal procedures and educate the public about the role of the office. History: [56-1902, added 2024, ch. 188, sec. 2, p. 681.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1902. powers and duties. The health and social services ombudsman shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Operate independently of the legislature, the courts, the department of health and welfare, and any other state agency or department;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Establish and manage a statewide procedure to receive, examine, and resolve complaints submitted pursuant to section 56-1903 , Idaho Code;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Inform a service recipient or the service recipient’s legal guardian of the service recipient’s rights and obligations under applicable federal and state laws;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Collect and analyze each quarterly report issued by the citizen review panel pursuant to section 16-1647 , Idaho Code, and any responses by the department of health and welfare or other relevant state department or agency;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Gather and analyze data to discern general patterns and trends, chronic problems, and other systemic challenges in the provision of health and social services, including but not limited to foster care or protective supervision services, and in the detection, reporting, examination, prosecution, and resolution of cases of abuse and neglect;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Review and recommend changes to laws relevant to the child protective act pursuant to chapter 16, title 16 , Idaho Code, and the juvenile corrections act pursuant to chapter 5, title 20 , Idaho Code;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Provide an annual report on the work of the office, the operation of child welfare in the state, and related recommendations to the governor, the legislature, the director of the department of health and welfare or other relevant state departments or agencies, the state public defender, and the courts; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>Establish internal procedures and educate the public about the role of the office. History: [56-1902, added 2024, ch. 188, sec. 2, p. 681.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1902. powers and duties. The health and social services ombudsman shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Operate independently of the legislature, the courts, the department of health and welfare, and any other state agency or department;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Establish and manage a statewide procedure to receive, examine, and resolve complaints submitted pursuant to section 56-1903 , Idaho Code;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Inform a service recipient or the service recipient’s legal guardian of the service recipient’s rights and obligations under applicable federal and state laws;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Collect and analyze each quarterly report issued by the citizen review panel pursuant to section 16-1647 , Idaho Code, and any responses by the department of health and welfare or other relevant state department or agency;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Gather and analyze data to discern general patterns and trends, chronic problems, and other systemic challenges in the provision of health and social services, including but not limited to foster care or protective supervision services, and in the detection, reporting, examination, prosecution, and resolution of cases of abuse and neglect;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Review and recommend changes to laws relevant to the child protective act pursuant to chapter 16, title 16 , Idaho Code, and the juvenile corrections act pursuant to chapter 5, title 20 , Idaho Code;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Provide an annual report on the work of the office, the operation of child welfare in the state, and related recommendations to the governor, the legislature, the director of the department of health and welfare or other relevant state departments or agencies, the state public defender, and the courts; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>Establish internal procedures and educate the public about the role of the office. History: [56-1902, added 2024, ch. 188, sec. 2, p. 681.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1902. powers and duties. The health and social services ombudsman shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Operate independently of the legislature, the courts, the department of health and welfare, and any other state agency or department;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Establish and manage a statewide procedure to receive, examine, and resolve complaints submitted pursuant to section 56-1903 , Idaho Code;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Inform a service recipient or the service recipient’s legal guardian of the service recipient’s rights and obligations under applicable federal and state laws;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Collect and analyze each quarterly report issued by the citizen review panel pursuant to section 16-1647 , Idaho Code, and any responses by the department of health and welfare or other relevant state department or agency;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Gather and analyze data to discern general patterns and trends, chronic problems, and other systemic challenges in the provision of health and social services, including but not limited to foster care or protective supervision services, and in the detection, reporting, examination, prosecution, and resolution of cases of abuse and neglect;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Review and recommend changes to laws relevant to the child protective act pursuant to chapter 16, title 16 , Idaho Code, and the juvenile corrections act pursuant to chapter 5, title 20 , Idaho Code;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Provide an annual report on the work of the office, the operation of child welfare in the state, and related recommendations to the governor, the legislature, the director of the department of health and welfare or other relevant state departments or agencies, the state public defender, and the courts; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>Establish internal procedures and educate the public about the role of the office. History: [56-1902, added 2024, ch. 188, sec. 2, p. 681.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1902. powers and duties. The health and social services ombudsman shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Operate independently of the legislature, the courts, the department of health and welfare, and any other state agency or department;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Establish and manage a statewide procedure to receive, examine, and resolve complaints submitted pursuant to section 56-1903 , Idaho Code;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Inform a service recipient or the service recipient’s legal guardian of the service recipient’s rights and obligations under applicable federal and state laws;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Collect and analyze each quarterly report issued by the citizen review panel pursuant to section 16-1647 , Idaho Code, and any responses by the department of health and welfare or other relevant state department or agency;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Gather and analyze data to discern general patterns and trends, chronic problems, and other systemic challenges in the provision of health and social services, including but not limited to foster care or protective supervision services, and in the detection, reporting, examination, prosecution, and resolution of cases of abuse and neglect;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Review and recommend changes to laws relevant to the child protective act pursuant to chapter 16, title 16 , Idaho Code, and the juvenile corrections act pursuant to chapter 5, title 20 , Idaho Code;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Provide an annual report on the work of the office, the operation of child welfare in the state, and related recommendations to the governor, the legislature, the director of the department of health and welfare or other relevant state departments or agencies, the state public defender, and the courts; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>Establish internal procedures and educate the public about the role of the office. History: [56-1902, added 2024, ch. 188, sec. 2, p. 681.]
+56-1902. powers and duties. The health and social services ombudsman shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Operate independently of the legislature, the courts, the department of health and welfare, and any other state agency or department;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Establish and manage a statewide procedure to receive, examine, and resolve complaints submitted pursuant to section 56-1903 , Idaho Code;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Inform a service recipient or the service recipient’s legal guardian of the service recipient’s rights and obligations under applicable federal and state laws;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Collect and analyze each quarterly report issued by the citizen review panel pursuant to section 16-1647 , Idaho Code, and any responses by the department of health and welfare or other relevant state department or agency;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Gather and analyze data to discern general patterns and trends, chronic problems, and other systemic challenges in the provision of health and social services, including but not limited to foster care or protective supervision services, and in the detection, reporting, examination, prosecution, and resolution of cases of abuse and neglect;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Review and recommend changes to laws relevant to the child protective act pursuant to chapter 16, title 16 , Idaho Code, and the juvenile corrections act pursuant to chapter 5, title 20 , Idaho Code;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Provide an annual report on the work of the office, the operation of child welfare in the state, and related recommendations to the governor, the legislature, the director of the department of health and welfare or other relevant state departments or agencies, the state public defender, and the courts; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1902__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>Establish internal procedures and educate the public about the role of the office.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1903">
+          <akn:num>56-1903</akn:num>
+          <akn:heading>Complaints</akn:heading>
+          <akn:subsection eId="56_1903__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>With respect to a particular service recipient, alleging an agency’s or department’s behavior or action was:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Contrary to law, rule, or policy; (ii)  Imposed without an adequate statement of reason; or (iii) Based on irrelevant, immaterial, or erroneous grounds;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>By any of the following:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>A service recipient, including a child under eighteen</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1903__subsec_i__subsec_18">
+              <akn:num>(18)</akn:num>
+              <akn:content>
+                <akn:p>years of age if the child is able to articulate a complaint; (ii)  A biological parent of a service recipient; (iii) A foster parent of a service recipient; (iv)  An adoptive parent or a prospective adoptive parent of a service recipient;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_v">
+            <akn:num>(v)</akn:num>
+            <akn:content>
+              <akn:p>A legally appointed guardian of the service recipient; (vi)  A guardian ad litem for a service recipient; (vii) A relative of a service recipient or any person with a legitimate interest; (viii) A member of the Idaho senate or Idaho house of representatives; and (ix)  An attorney for any individual described in this paragraph.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>Upon receipt of a complaint, the ombudsman is authorized to conduct a review or examination of said complaint if, within the ombudsman’s sole discretion, the ombudsman deems the complaint meritorious and within the powers and duties of the office of the ombudsman.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>When there is reasonable cause to believe maltreatment has resulted in death or serious physical injury jeopardizing the life, health, or safety of a service recipient, the ombudsman shall report such information as expeditiously as possible to the appropriate law enforcement agency.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_4">
+              <akn:num>(4)</akn:num>
+              <akn:content>
+                <akn:p>When a complaint is made by an individual pursuant to subsection</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>of this section, if known, the complaint shall contain:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The name and address of the service recipient and the alleged perpetrator;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>The nature and extent of the maltreatment; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any other known information that will be of assistance in the examination of the complaint. History: [56-1903, added 2024, ch. 188, sec. 2, p. 682.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1903. Complaints.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1903__subsec_c__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>Complaints may be submitted to the ombudsman:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>With respect to a particular service recipient, alleging an agency’s or department’s behavior or action was:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Contrary to law, rule, or policy; (ii)  Imposed without an adequate statement of reason; or (iii) Based on irrelevant, immaterial, or erroneous grounds;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>By any of the following:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>A service recipient, including a child under eighteen</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1903__subsec_i__subsec_18">
+              <akn:num>(18)</akn:num>
+              <akn:content>
+                <akn:p>years of age if the child is able to articulate a complaint; (ii)  A biological parent of a service recipient; (iii) A foster parent of a service recipient; (iv)  An adoptive parent or a prospective adoptive parent of a service recipient;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_v">
+            <akn:num>(v)</akn:num>
+            <akn:content>
+              <akn:p>A legally appointed guardian of the service recipient; (vi)  A guardian ad litem for a service recipient; (vii) A relative of a service recipient or any person with a legitimate interest; (viii) A member of the Idaho senate or Idaho house of representatives; and (ix)  An attorney for any individual described in this paragraph.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>Upon receipt of a complaint, the ombudsman is authorized to conduct a review or examination of said complaint if, within the ombudsman’s sole discretion, the ombudsman deems the complaint meritorious and within the powers and duties of the office of the ombudsman.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>When there is reasonable cause to believe maltreatment has resulted in death or serious physical injury jeopardizing the life, health, or safety of a service recipient, the ombudsman shall report such information as expeditiously as possible to the appropriate law enforcement agency.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_4">
+              <akn:num>(4)</akn:num>
+              <akn:content>
+                <akn:p>When a complaint is made by an individual pursuant to subsection</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>of this section, if known, the complaint shall contain:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The name and address of the service recipient and the alleged perpetrator;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>The nature and extent of the maltreatment; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any other known information that will be of assistance in the examination of the complaint. History: [56-1903, added 2024, ch. 188, sec. 2, p. 682.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1903. Complaints.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1903__subsec_c__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>Complaints may be submitted to the ombudsman:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>With respect to a particular service recipient, alleging an agency’s or department’s behavior or action was:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Contrary to law, rule, or policy; (ii)  Imposed without an adequate statement of reason; or (iii) Based on irrelevant, immaterial, or erroneous grounds;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>By any of the following:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>A service recipient, including a child under eighteen</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1903__subsec_i__subsec_18">
+              <akn:num>(18)</akn:num>
+              <akn:content>
+                <akn:p>years of age if the child is able to articulate a complaint; (ii)  A biological parent of a service recipient; (iii) A foster parent of a service recipient; (iv)  An adoptive parent or a prospective adoptive parent of a service recipient;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_v">
+            <akn:num>(v)</akn:num>
+            <akn:content>
+              <akn:p>A legally appointed guardian of the service recipient; (vi)  A guardian ad litem for a service recipient; (vii) A relative of a service recipient or any person with a legitimate interest; (viii) A member of the Idaho senate or Idaho house of representatives; and (ix)  An attorney for any individual described in this paragraph.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>Upon receipt of a complaint, the ombudsman is authorized to conduct a review or examination of said complaint if, within the ombudsman’s sole discretion, the ombudsman deems the complaint meritorious and within the powers and duties of the office of the ombudsman.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>When there is reasonable cause to believe maltreatment has resulted in death or serious physical injury jeopardizing the life, health, or safety of a service recipient, the ombudsman shall report such information as expeditiously as possible to the appropriate law enforcement agency.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_4">
+              <akn:num>(4)</akn:num>
+              <akn:content>
+                <akn:p>When a complaint is made by an individual pursuant to subsection</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>of this section, if known, the complaint shall contain:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The name and address of the service recipient and the alleged perpetrator;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>The nature and extent of the maltreatment; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any other known information that will be of assistance in the examination of the complaint. History: [56-1903, added 2024, ch. 188, sec. 2, p. 682.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1903. Complaints.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1903__subsec_c__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>Complaints may be submitted to the ombudsman:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>With respect to a particular service recipient, alleging an agency’s or department’s behavior or action was:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Contrary to law, rule, or policy; (ii)  Imposed without an adequate statement of reason; or (iii) Based on irrelevant, immaterial, or erroneous grounds;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>By any of the following:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>A service recipient, including a child under eighteen</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1903__subsec_i__subsec_18">
+              <akn:num>(18)</akn:num>
+              <akn:content>
+                <akn:p>years of age if the child is able to articulate a complaint; (ii)  A biological parent of a service recipient; (iii) A foster parent of a service recipient; (iv)  An adoptive parent or a prospective adoptive parent of a service recipient;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_v">
+            <akn:num>(v)</akn:num>
+            <akn:content>
+              <akn:p>A legally appointed guardian of the service recipient; (vi)  A guardian ad litem for a service recipient; (vii) A relative of a service recipient or any person with a legitimate interest; (viii) A member of the Idaho senate or Idaho house of representatives; and (ix)  An attorney for any individual described in this paragraph.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>Upon receipt of a complaint, the ombudsman is authorized to conduct a review or examination of said complaint if, within the ombudsman’s sole discretion, the ombudsman deems the complaint meritorious and within the powers and duties of the office of the ombudsman.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>When there is reasonable cause to believe maltreatment has resulted in death or serious physical injury jeopardizing the life, health, or safety of a service recipient, the ombudsman shall report such information as expeditiously as possible to the appropriate law enforcement agency.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_4">
+              <akn:num>(4)</akn:num>
+              <akn:content>
+                <akn:p>When a complaint is made by an individual pursuant to subsection</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>of this section, if known, the complaint shall contain:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The name and address of the service recipient and the alleged perpetrator;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>The nature and extent of the maltreatment; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any other known information that will be of assistance in the examination of the complaint. History: [56-1903, added 2024, ch. 188, sec. 2, p. 682.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1903. Complaints.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1903__subsec_c__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>Complaints may be submitted to the ombudsman:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>With respect to a particular service recipient, alleging an agency’s or department’s behavior or action was:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Contrary to law, rule, or policy; (ii)  Imposed without an adequate statement of reason; or (iii) Based on irrelevant, immaterial, or erroneous grounds;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>By any of the following:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>A service recipient, including a child under eighteen</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1903__subsec_i__subsec_18">
+              <akn:num>(18)</akn:num>
+              <akn:content>
+                <akn:p>years of age if the child is able to articulate a complaint; (ii)  A biological parent of a service recipient; (iii) A foster parent of a service recipient; (iv)  An adoptive parent or a prospective adoptive parent of a service recipient;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_v">
+            <akn:num>(v)</akn:num>
+            <akn:content>
+              <akn:p>A legally appointed guardian of the service recipient; (vi)  A guardian ad litem for a service recipient; (vii) A relative of a service recipient or any person with a legitimate interest; (viii) A member of the Idaho senate or Idaho house of representatives; and (ix)  An attorney for any individual described in this paragraph.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>Upon receipt of a complaint, the ombudsman is authorized to conduct a review or examination of said complaint if, within the ombudsman’s sole discretion, the ombudsman deems the complaint meritorious and within the powers and duties of the office of the ombudsman.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>When there is reasonable cause to believe maltreatment has resulted in death or serious physical injury jeopardizing the life, health, or safety of a service recipient, the ombudsman shall report such information as expeditiously as possible to the appropriate law enforcement agency.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_4">
+              <akn:num>(4)</akn:num>
+              <akn:content>
+                <akn:p>When a complaint is made by an individual pursuant to subsection</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>of this section, if known, the complaint shall contain:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The name and address of the service recipient and the alleged perpetrator;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>The nature and extent of the maltreatment; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any other known information that will be of assistance in the examination of the complaint. History: [56-1903, added 2024, ch. 188, sec. 2, p. 682.]
+56-1903. Complaints.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1903__subsec_c__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>Complaints may be submitted to the ombudsman:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>With respect to a particular service recipient, alleging an agency’s or department’s behavior or action was:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Contrary to law, rule, or policy;
+(ii)  Imposed without an adequate statement of reason; or
+(iii) Based on irrelevant, immaterial, or erroneous grounds;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>By any of the following:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>A service recipient, including a child under eighteen</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1903__subsec_i__subsec_18">
+              <akn:num>(18)</akn:num>
+              <akn:content>
+                <akn:p>years of age if the child is able to articulate a complaint;
+(ii)  A biological parent of a service recipient;
+(iii) A foster parent of a service recipient;
+(iv)  An adoptive parent or a prospective adoptive parent of a service recipient;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_v">
+            <akn:num>(v)</akn:num>
+            <akn:content>
+              <akn:p>A legally appointed guardian of the service recipient;
+(vi)  A guardian ad litem for a service recipient;
+(vii) A relative of a service recipient or any person with a legitimate interest;
+(viii) A member of the Idaho senate or Idaho house of representatives; and
+(ix)  An attorney for any individual described in this paragraph.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>Upon receipt of a complaint, the ombudsman is authorized to conduct a review or examination of said complaint if, within the ombudsman’s sole discretion, the ombudsman deems the complaint meritorious and within the powers and duties of the office of the ombudsman.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>When there is reasonable cause to believe maltreatment has resulted in death or serious physical injury jeopardizing the life, health, or safety of a service recipient, the ombudsman shall report such information as expeditiously as possible to the appropriate law enforcement agency.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_4">
+              <akn:num>(4)</akn:num>
+              <akn:content>
+                <akn:p>When a complaint is made by an individual pursuant to subsection</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1903__subsec_v__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>of this section, if known, the complaint shall contain:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The name and address of the service recipient and the alleged perpetrator;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>The nature and extent of the maltreatment; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1903__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Any other known information that will be of assistance in the examination of the complaint.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1904">
+          <akn:num>56-1904</akn:num>
+          <akn:heading>complaint review and examination</akn:heading>
+          <akn:subsection eId="56_1904__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Determine if a complaint involves any action by the department of health and welfare or any other state agency or department that provides health and social services in this state to service recipients;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Review an alleged violation of the rights of a service recipient or service recipient’s legal guardian;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>When a child may have died as a result of alleged abuse or neglect while receiving foster care or protective supervision services or after being placed for adoption:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Initiate examinations of actions taken by the department of health and welfare or any state agency that provides health and social services in this state; (ii)  Pursue all necessary action, including legal action, to protect the child’s welfare and rights; (iii) Review policies and make recommendations for improvements regarding any agency’s or department’s involvement with children; and (iv)  Commence and conduct investigations into alleged violations of the rights of a foster parent;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Access records and reports to the same extent and in the same manner as provided to any department or agency, court of any jurisdiction, the attorney general, prosecuting attorney, or any attorney retained by a state agency or department to the same extent and in the same manner as provided to the department of health and welfare;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Pursue, through subpoena or otherwise, the production of documents necessary to carry out the ombudsman’s role pursuant to this chapter and seek enforcement from a court of relevant jurisdiction;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>Hold fact finding hearings and request individuals to appear before the ombudsman to give testimony or produce documents or other evidence that the ombudsman considers relevant to a matter under examination; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_g">
+            <akn:num>(g)</akn:num>
+            <akn:content>
+              <akn:p>At any time, make independent recommendations without prior review by any other agency, department, office, or official concerning improvements to health and social services and the rapid implementation of such. No entity may prohibit the release of an ombudsman recommendation to the governor, the legislature, or the courts.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1904__subsec_g__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>If, in the course of conducting an examination into a complaint, the ombudsman suspects an individual has committed a crime, the ombudsman shall immediately inform the proper authorities.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1904__subsec_g__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>Upon completion of an examination into a complaint, the ombudsman shall prepare a final report of the complaint review. If maltreatment of a service recipient or violation of the rights of the service recipient is substantiated, the final report shall be made available to law enforcement. History: [56-1904, added 2024, ch. 188, sec. 2, p. 682.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1904. complaint review and examination.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1904__subsec_g__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>Upon receipt of a complaint, or upon the ombudsman’s own initiative, the ombudsman may:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Determine if a complaint involves any action by the department of health and welfare or any other state agency or department that provides health and social services in this state to service recipients;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Review an alleged violation of the rights of a service recipient or service recipient’s legal guardian;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>When a child may have died as a result of alleged abuse or neglect while receiving foster care or protective supervision services or after being placed for adoption:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Initiate examinations of actions taken by the department of health and welfare or any state agency that provides health and social services in this state; (ii)  Pursue all necessary action, including legal action, to protect the child’s welfare and rights; (iii) Review policies and make recommendations for improvements regarding any agency’s or department’s involvement with children; and (iv)  Commence and conduct investigations into alleged violations of the rights of a foster parent;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Access records and reports to the same extent and in the same manner as provided to any department or agency, court of any jurisdiction, the attorney general, prosecuting attorney, or any attorney retained by a state agency or department to the same extent and in the same manner as provided to the department of health and welfare;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Pursue, through subpoena or otherwise, the production of documents necessary to carry out the ombudsman’s role pursuant to this chapter and seek enforcement from a court of relevant jurisdiction;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>Hold fact finding hearings and request individuals to appear before the ombudsman to give testimony or produce documents or other evidence that the ombudsman considers relevant to a matter under examination; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_g">
+            <akn:num>(g)</akn:num>
+            <akn:content>
+              <akn:p>At any time, make independent recommendations without prior review by any other agency, department, office, or official concerning improvements to health and social services and the rapid implementation of such. No entity may prohibit the release of an ombudsman recommendation to the governor, the legislature, or the courts.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1904__subsec_g__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>If, in the course of conducting an examination into a complaint, the ombudsman suspects an individual has committed a crime, the ombudsman shall immediately inform the proper authorities.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1904__subsec_g__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>Upon completion of an examination into a complaint, the ombudsman shall prepare a final report of the complaint review. If maltreatment of a service recipient or violation of the rights of the service recipient is substantiated, the final report shall be made available to law enforcement. History: [56-1904, added 2024, ch. 188, sec. 2, p. 682.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1904. complaint review and examination.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1904__subsec_g__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>Upon receipt of a complaint, or upon the ombudsman’s own initiative, the ombudsman may:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Determine if a complaint involves any action by the department of health and welfare or any other state agency or department that provides health and social services in this state to service recipients;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Review an alleged violation of the rights of a service recipient or service recipient’s legal guardian;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>When a child may have died as a result of alleged abuse or neglect while receiving foster care or protective supervision services or after being placed for adoption:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Initiate examinations of actions taken by the department of health and welfare or any state agency that provides health and social services in this state; (ii)  Pursue all necessary action, including legal action, to protect the child’s welfare and rights; (iii) Review policies and make recommendations for improvements regarding any agency’s or department’s involvement with children; and (iv)  Commence and conduct investigations into alleged violations of the rights of a foster parent;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Access records and reports to the same extent and in the same manner as provided to any department or agency, court of any jurisdiction, the attorney general, prosecuting attorney, or any attorney retained by a state agency or department to the same extent and in the same manner as provided to the department of health and welfare;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Pursue, through subpoena or otherwise, the production of documents necessary to carry out the ombudsman’s role pursuant to this chapter and seek enforcement from a court of relevant jurisdiction;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>Hold fact finding hearings and request individuals to appear before the ombudsman to give testimony or produce documents or other evidence that the ombudsman considers relevant to a matter under examination; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_g">
+            <akn:num>(g)</akn:num>
+            <akn:content>
+              <akn:p>At any time, make independent recommendations without prior review by any other agency, department, office, or official concerning improvements to health and social services and the rapid implementation of such. No entity may prohibit the release of an ombudsman recommendation to the governor, the legislature, or the courts.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1904__subsec_g__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>If, in the course of conducting an examination into a complaint, the ombudsman suspects an individual has committed a crime, the ombudsman shall immediately inform the proper authorities.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1904__subsec_g__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>Upon completion of an examination into a complaint, the ombudsman shall prepare a final report of the complaint review. If maltreatment of a service recipient or violation of the rights of the service recipient is substantiated, the final report shall be made available to law enforcement. History: [56-1904, added 2024, ch. 188, sec. 2, p. 682.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1904. complaint review and examination.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1904__subsec_g__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>Upon receipt of a complaint, or upon the ombudsman’s own initiative, the ombudsman may:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Determine if a complaint involves any action by the department of health and welfare or any other state agency or department that provides health and social services in this state to service recipients;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Review an alleged violation of the rights of a service recipient or service recipient’s legal guardian;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>When a child may have died as a result of alleged abuse or neglect while receiving foster care or protective supervision services or after being placed for adoption:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Initiate examinations of actions taken by the department of health and welfare or any state agency that provides health and social services in this state; (ii)  Pursue all necessary action, including legal action, to protect the child’s welfare and rights; (iii) Review policies and make recommendations for improvements regarding any agency’s or department’s involvement with children; and (iv)  Commence and conduct investigations into alleged violations of the rights of a foster parent;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Access records and reports to the same extent and in the same manner as provided to any department or agency, court of any jurisdiction, the attorney general, prosecuting attorney, or any attorney retained by a state agency or department to the same extent and in the same manner as provided to the department of health and welfare;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Pursue, through subpoena or otherwise, the production of documents necessary to carry out the ombudsman’s role pursuant to this chapter and seek enforcement from a court of relevant jurisdiction;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>Hold fact finding hearings and request individuals to appear before the ombudsman to give testimony or produce documents or other evidence that the ombudsman considers relevant to a matter under examination; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_g">
+            <akn:num>(g)</akn:num>
+            <akn:content>
+              <akn:p>At any time, make independent recommendations without prior review by any other agency, department, office, or official concerning improvements to health and social services and the rapid implementation of such. No entity may prohibit the release of an ombudsman recommendation to the governor, the legislature, or the courts.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1904__subsec_g__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>If, in the course of conducting an examination into a complaint, the ombudsman suspects an individual has committed a crime, the ombudsman shall immediately inform the proper authorities.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1904__subsec_g__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>Upon completion of an examination into a complaint, the ombudsman shall prepare a final report of the complaint review. If maltreatment of a service recipient or violation of the rights of the service recipient is substantiated, the final report shall be made available to law enforcement. History: [56-1904, added 2024, ch. 188, sec. 2, p. 682.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1904. complaint review and examination.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1904__subsec_g__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>Upon receipt of a complaint, or upon the ombudsman’s own initiative, the ombudsman may:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Determine if a complaint involves any action by the department of health and welfare or any other state agency or department that provides health and social services in this state to service recipients;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Review an alleged violation of the rights of a service recipient or service recipient’s legal guardian;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>When a child may have died as a result of alleged abuse or neglect while receiving foster care or protective supervision services or after being placed for adoption:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Initiate examinations of actions taken by the department of health and welfare or any state agency that provides health and social services in this state; (ii)  Pursue all necessary action, including legal action, to protect the child’s welfare and rights; (iii) Review policies and make recommendations for improvements regarding any agency’s or department’s involvement with children; and (iv)  Commence and conduct investigations into alleged violations of the rights of a foster parent;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Access records and reports to the same extent and in the same manner as provided to any department or agency, court of any jurisdiction, the attorney general, prosecuting attorney, or any attorney retained by a state agency or department to the same extent and in the same manner as provided to the department of health and welfare;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Pursue, through subpoena or otherwise, the production of documents necessary to carry out the ombudsman’s role pursuant to this chapter and seek enforcement from a court of relevant jurisdiction;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>Hold fact finding hearings and request individuals to appear before the ombudsman to give testimony or produce documents or other evidence that the ombudsman considers relevant to a matter under examination; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_g">
+            <akn:num>(g)</akn:num>
+            <akn:content>
+              <akn:p>At any time, make independent recommendations without prior review by any other agency, department, office, or official concerning improvements to health and social services and the rapid implementation of such. No entity may prohibit the release of an ombudsman recommendation to the governor, the legislature, or the courts.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1904__subsec_g__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>If, in the course of conducting an examination into a complaint, the ombudsman suspects an individual has committed a crime, the ombudsman shall immediately inform the proper authorities.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1904__subsec_g__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>Upon completion of an examination into a complaint, the ombudsman shall prepare a final report of the complaint review. If maltreatment of a service recipient or violation of the rights of the service recipient is substantiated, the final report shall be made available to law enforcement. History: [56-1904, added 2024, ch. 188, sec. 2, p. 682.]
+56-1904. complaint review and examination.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1904__subsec_g__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>Upon receipt of a complaint, or upon the ombudsman’s own initiative, the ombudsman may:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Determine if a complaint involves any action by the department of health and welfare or any other state agency or department that provides health and social services in this state to service recipients;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Review an alleged violation of the rights of a service recipient or service recipient’s legal guardian;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>When a child may have died as a result of alleged abuse or neglect while receiving foster care or protective supervision services or after being placed for adoption:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Initiate examinations of actions taken by the department of health and welfare or any state agency that provides health and social services in this state;
+(ii)  Pursue all necessary action, including legal action, to protect the child’s welfare and rights;
+(iii) Review policies and make recommendations for improvements regarding any agency’s or department’s involvement with children; and
+(iv)  Commence and conduct investigations into alleged violations of the rights of a foster parent;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Access records and reports to the same extent and in the same manner as provided to any department or agency, court of any jurisdiction, the attorney general, prosecuting attorney, or any attorney retained by a state agency or department to the same extent and in the same manner as provided to the department of health and welfare;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Pursue, through subpoena or otherwise, the production of documents necessary to carry out the ombudsman’s role pursuant to this chapter and seek enforcement from a court of relevant jurisdiction;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>Hold fact finding hearings and request individuals to appear before the ombudsman to give testimony or produce documents or other evidence that the ombudsman considers relevant to a matter under examination; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1904__subsec_g">
+            <akn:num>(g)</akn:num>
+            <akn:content>
+              <akn:p>At any time, make independent recommendations without prior review by any other agency, department, office, or official concerning improvements to health and social services and the rapid implementation of such. No entity may prohibit the release of an ombudsman recommendation to the governor, the legislature, or the courts.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="56_1904__subsec_g__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>If, in the course of conducting an examination into a complaint, the ombudsman suspects an individual has committed a crime, the ombudsman shall immediately inform the proper authorities.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="56_1904__subsec_g__subsec_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>Upon completion of an examination into a complaint, the ombudsman shall prepare a final report of the complaint review. If maltreatment of a service recipient or violation of the rights of the service recipient is substantiated, the final report shall be made available to law enforcement.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1905">
+          <akn:num>56-1905</akn:num>
+          <akn:heading>Obligations of state agencies and departments</akn:heading>
+          <akn:subsection eId="56_1905__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Provide the ombudsman with access to all information, records, and documents in possession or control of the state agency or department, including unfettered access to the state agency’s or department’s computer network and electronic files to the extent not prohibited by federal law;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1905__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Assist the ombudsman with document acquisition, including by providing help with any waivers or releases necessary to obtain the information; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1905__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Provide timely responses to requests from the ombudsman. History: [56-1905, added 2024, ch. 188, sec. 2, p. 683.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1905. Obligations of state agencies and departments. Upon request of the ombudsman, a state agency or department shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1905__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Provide the ombudsman with access to all information, records, and documents in possession or control of the state agency or department, including unfettered access to the state agency’s or department’s computer network and electronic files to the extent not prohibited by federal law;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1905__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Assist the ombudsman with document acquisition, including by providing help with any waivers or releases necessary to obtain the information; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1905__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Provide timely responses to requests from the ombudsman. History: [56-1905, added 2024, ch. 188, sec. 2, p. 683.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1905. Obligations of state agencies and departments. Upon request of the ombudsman, a state agency or department shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1905__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Provide the ombudsman with access to all information, records, and documents in possession or control of the state agency or department, including unfettered access to the state agency’s or department’s computer network and electronic files to the extent not prohibited by federal law;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1905__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Assist the ombudsman with document acquisition, including by providing help with any waivers or releases necessary to obtain the information; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1905__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Provide timely responses to requests from the ombudsman. History: [56-1905, added 2024, ch. 188, sec. 2, p. 683.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1905. Obligations of state agencies and departments. Upon request of the ombudsman, a state agency or department shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1905__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Provide the ombudsman with access to all information, records, and documents in possession or control of the state agency or department, including unfettered access to the state agency’s or department’s computer network and electronic files to the extent not prohibited by federal law;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1905__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Assist the ombudsman with document acquisition, including by providing help with any waivers or releases necessary to obtain the information; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1905__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Provide timely responses to requests from the ombudsman. History: [56-1905, added 2024, ch. 188, sec. 2, p. 683.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1905. Obligations of state agencies and departments. Upon request of the ombudsman, a state agency or department shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1905__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Provide the ombudsman with access to all information, records, and documents in possession or control of the state agency or department, including unfettered access to the state agency’s or department’s computer network and electronic files to the extent not prohibited by federal law;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1905__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Assist the ombudsman with document acquisition, including by providing help with any waivers or releases necessary to obtain the information; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1905__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Provide timely responses to requests from the ombudsman. History: [56-1905, added 2024, ch. 188, sec. 2, p. 683.]
+56-1905. Obligations of state agencies and departments. Upon request of the ombudsman, a state agency or department shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1905__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Provide the ombudsman with access to all information, records, and documents in possession or control of the state agency or department, including unfettered access to the state agency’s or department’s computer network and electronic files to the extent not prohibited by federal law;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1905__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Assist the ombudsman with document acquisition, including by providing help with any waivers or releases necessary to obtain the information; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1905__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Provide timely responses to requests from the ombudsman.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1906">
+          <akn:num>56-1906</akn:num>
+          <akn:heading>Penalties for obstruction or retaliation</akn:heading>
+          <akn:subsection eId="56_1906__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>months, or both. History: [56-1906, added 2024, ch. 188, sec. 2, p. 683.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1906. Penalties for obstruction or retaliation. Any individual who willfully interferes with or impedes the health and social services ombudsman in the performance of the duties of the ombudsman’s office or who retaliates against anyone who files a complaint pursuant to section 56-1903 , Idaho Code, shall be guilty of a misdemeanor punishable by a fine of up to one thousand dollars ($1,000) or by imprisonment in the county jail for a term not to exceed six</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1906__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>months, or both. History: [56-1906, added 2024, ch. 188, sec. 2, p. 683.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1906. Penalties for obstruction or retaliation. Any individual who willfully interferes with or impedes the health and social services ombudsman in the performance of the duties of the ombudsman’s office or who retaliates against anyone who files a complaint pursuant to section 56-1903 , Idaho Code, shall be guilty of a misdemeanor punishable by a fine of up to one thousand dollars ($1,000) or by imprisonment in the county jail for a term not to exceed six</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1906__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>months, or both. History: [56-1906, added 2024, ch. 188, sec. 2, p. 683.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1906. Penalties for obstruction or retaliation. Any individual who willfully interferes with or impedes the health and social services ombudsman in the performance of the duties of the ombudsman’s office or who retaliates against anyone who files a complaint pursuant to section 56-1903 , Idaho Code, shall be guilty of a misdemeanor punishable by a fine of up to one thousand dollars ($1,000) or by imprisonment in the county jail for a term not to exceed six</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1906__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>months, or both. History: [56-1906, added 2024, ch. 188, sec. 2, p. 683.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1906. Penalties for obstruction or retaliation. Any individual who willfully interferes with or impedes the health and social services ombudsman in the performance of the duties of the ombudsman’s office or who retaliates against anyone who files a complaint pursuant to section 56-1903 , Idaho Code, shall be guilty of a misdemeanor punishable by a fine of up to one thousand dollars ($1,000) or by imprisonment in the county jail for a term not to exceed six</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1906__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>months, or both. History: [56-1906, added 2024, ch. 188, sec. 2, p. 683.]
+56-1906. Penalties for obstruction or retaliation. Any individual who willfully interferes with or impedes the health and social services ombudsman in the performance of the duties of the ombudsman’s office or who retaliates against anyone who files a complaint pursuant to section 56-1903 , Idaho Code, shall be guilty of a misdemeanor punishable by a fine of up to one thousand dollars ($1,000) or by imprisonment in the county jail for a term not to exceed six</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1906__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>months, or both.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1907">
+          <akn:num>56-1907</akn:num>
+          <akn:heading>Access to records</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1907. Access to records. Any person, department, agency, or commission authorized to carry out the duties enumerated in this chapter shall have access to all relevant records, which shall be subject to disclosure pursuant to chapter 1, title 74 , Idaho Code. Other persons and entities shall be granted only such access with the written consent of the guardian or guardian ad litem of the service recipient or the service recipient’s legal representative or pursuant to other proper judicial process or federal law. History: [56-1907, added 2024, ch. 188, sec. 2, p. 684.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1907. Access to records. Any person, department, agency, or commission authorized to carry out the duties enumerated in this chapter shall have access to all relevant records, which shall be subject to disclosure pursuant to chapter 1, title 74 , Idaho Code. Other persons and entities shall be granted only such access with the written consent of the guardian or guardian ad litem of the service recipient or the service recipient’s legal representative or pursuant to other proper judicial process or federal law. History: [56-1907, added 2024, ch. 188, sec. 2, p. 684.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1907. Access to records. Any person, department, agency, or commission authorized to carry out the duties enumerated in this chapter shall have access to all relevant records, which shall be subject to disclosure pursuant to chapter 1, title 74 , Idaho Code. Other persons and entities shall be granted only such access with the written consent of the guardian or guardian ad litem of the service recipient or the service recipient’s legal representative or pursuant to other proper judicial process or federal law. History: [56-1907, added 2024, ch. 188, sec. 2, p. 684.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1907. Access to records. Any person, department, agency, or commission authorized to carry out the duties enumerated in this chapter shall have access to all relevant records, which shall be subject to disclosure pursuant to chapter 1, title 74 , Idaho Code. Other persons and entities shall be granted only such access with the written consent of the guardian or guardian ad litem of the service recipient or the service recipient’s legal representative or pursuant to other proper judicial process or federal law. History: [56-1907, added 2024, ch. 188, sec. 2, p. 684.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1907. Access to records. Any person, department, agency, or commission authorized to carry out the duties enumerated in this chapter shall have access to all relevant records, which shall be subject to disclosure pursuant to chapter 1, title 74 , Idaho Code. Other persons and entities shall be granted only such access with the written consent of the guardian or guardian ad litem of the service recipient or the service recipient’s legal representative or pursuant to other proper judicial process or federal law. History: [56-1907, added 2024, ch. 188, sec. 2, p. 684.]
+56-1907. Access to records. Any person, department, agency, or commission authorized to carry out the duties enumerated in this chapter shall have access to all relevant records, which shall be subject to disclosure pursuant to chapter 1, title 74 , Idaho Code. Other persons and entities shall be granted only such access with the written consent of the guardian or guardian ad litem of the service recipient or the service recipient’s legal representative or pursuant to other proper judicial process or federal law.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_1908">
+          <akn:num>56-1908</akn:num>
+          <akn:heading>disclosure of complaints</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1908. disclosure of complaints. Complaints received by the ombudsman and any examination of such complaint, including informal proceedings and any informal proceedings conducted by any designee of the ombudsman pursuant to this chapter and any rules adopted pursuant to this chapter, shall not be subject to public disclosure pursuant to chapter 1, title 74 , Idaho Code. History: [56-1908, added 2024, ch. 188, sec. 2, p. 684.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1908. disclosure of complaints. Complaints received by the ombudsman and any examination of such complaint, including informal proceedings and any informal proceedings conducted by any designee of the ombudsman pursuant to this chapter and any rules adopted pursuant to this chapter, shall not be subject to public disclosure pursuant to chapter 1, title 74 , Idaho Code. History: [56-1908, added 2024, ch. 188, sec. 2, p. 684.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1908. disclosure of complaints. Complaints received by the ombudsman and any examination of such complaint, including informal proceedings and any informal proceedings conducted by any designee of the ombudsman pursuant to this chapter and any rules adopted pursuant to this chapter, shall not be subject to public disclosure pursuant to chapter 1, title 74 , Idaho Code. History: [56-1908, added 2024, ch. 188, sec. 2, p. 684.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1908. disclosure of complaints. Complaints received by the ombudsman and any examination of such complaint, including informal proceedings and any informal proceedings conducted by any designee of the ombudsman pursuant to this chapter and any rules adopted pursuant to this chapter, shall not be subject to public disclosure pursuant to chapter 1, title 74 , Idaho Code. History: [56-1908, added 2024, ch. 188, sec. 2, p. 684.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 19 HEALTH AND SOCIAL SERVICES OMBUDSMAN 56-1908. disclosure of complaints. Complaints received by the ombudsman and any examination of such complaint, including informal proceedings and any informal proceedings conducted by any designee of the ombudsman pursuant to this chapter and any rules adopted pursuant to this chapter, shall not be subject to public disclosure pursuant to chapter 1, title 74 , Idaho Code. History: [56-1908, added 2024, ch. 188, sec. 2, p. 684.]
+56-1908. disclosure of complaints. Complaints received by the ombudsman and any examination of such complaint, including informal proceedings and any informal proceedings conducted by any designee of the ombudsman pursuant to this chapter and any rules adopted pursuant to this chapter, shall not be subject to public disclosure pursuant to chapter 1, title 74 , Idaho Code.</akn:p>
+          </akn:content>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

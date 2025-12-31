@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-6" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-6" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="56-6" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-6/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-6/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-6/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-6/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_56_6">
+        <akn:num>Chapter 6</akn:num>
+        <akn:heading>Child Care</akn:heading>
+        <akn:section eId="sec_56_601">
+          <akn:num>56-601</akn:num>
+          <akn:heading>Policy</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-601. Policy. It is hereby declared to be the policy of this state to conserve and develop the youth resources thereof, which is the source of our state’s future citizens and taxpayers, and likewise to conserve and develop the natural resources of our state as a trust held by us for these future citizens, and it is the urgent duty of the state to conserve the youth as well as the natural resources thereof. History: [56-601, added 1963, ch. 126, sec. 1, p. 370.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-601. Policy. It is hereby declared to be the policy of this state to conserve and develop the youth resources thereof, which is the source of our state’s future citizens and taxpayers, and likewise to conserve and develop the natural resources of our state as a trust held by us for these future citizens, and it is the urgent duty of the state to conserve the youth as well as the natural resources thereof. History: [56-601, added 1963, ch. 126, sec. 1, p. 370.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-601. Policy. It is hereby declared to be the policy of this state to conserve and develop the youth resources thereof, which is the source of our state’s future citizens and taxpayers, and likewise to conserve and develop the natural resources of our state as a trust held by us for these future citizens, and it is the urgent duty of the state to conserve the youth as well as the natural resources thereof. History: [56-601, added 1963, ch. 126, sec. 1, p. 370.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-601. Policy. It is hereby declared to be the policy of this state to conserve and develop the youth resources thereof, which is the source of our state’s future citizens and taxpayers, and likewise to conserve and develop the natural resources of our state as a trust held by us for these future citizens, and it is the urgent duty of the state to conserve the youth as well as the natural resources thereof. History: [56-601, added 1963, ch. 126, sec. 1, p. 370.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-601. Policy. It is hereby declared to be the policy of this state to conserve and develop the youth resources thereof, which is the source of our state’s future citizens and taxpayers, and likewise to conserve and develop the natural resources of our state as a trust held by us for these future citizens, and it is the urgent duty of the state to conserve the youth as well as the natural resources thereof. History: [56-601, added 1963, ch. 126, sec. 1, p. 370.]
+56-601. Policy. It is hereby declared to be the policy of this state to conserve and develop the youth resources thereof, which is the source of our state’s future citizens and taxpayers, and likewise to conserve and develop the natural resources of our state as a trust held by us for these future citizens, and it is the urgent duty of the state to conserve the youth as well as the natural resources thereof.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_602">
+          <akn:num>56-602</akn:num>
+          <akn:heading>Idaho youth conservation project created</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-602. Idaho youth conservation project created. There is hereby created the Idaho youth conservation project, which shall be placed under the jurisdiction and supervision of the Idaho park and recreation board. History: [56-602, added 1963, ch. 126, sec. 2, p. 370; am. 1970, ch. 178, sec. 1, p. 522; am. 1974, ch. 8, sec. 19, p. 35.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-602. Idaho youth conservation project created. There is hereby created the Idaho youth conservation project, which shall be placed under the jurisdiction and supervision of the Idaho park and recreation board. History: [56-602, added 1963, ch. 126, sec. 2, p. 370; am. 1970, ch. 178, sec. 1, p. 522; am. 1974, ch. 8, sec. 19, p. 35.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-602. Idaho youth conservation project created. There is hereby created the Idaho youth conservation project, which shall be placed under the jurisdiction and supervision of the Idaho park and recreation board. History: [56-602, added 1963, ch. 126, sec. 2, p. 370; am. 1970, ch. 178, sec. 1, p. 522; am. 1974, ch. 8, sec. 19, p. 35.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-602. Idaho youth conservation project created. There is hereby created the Idaho youth conservation project, which shall be placed under the jurisdiction and supervision of the Idaho park and recreation board. History: [56-602, added 1963, ch. 126, sec. 2, p. 370; am. 1970, ch. 178, sec. 1, p. 522; am. 1974, ch. 8, sec. 19, p. 35.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-602. Idaho youth conservation project created. There is hereby created the Idaho youth conservation project, which shall be placed under the jurisdiction and supervision of the Idaho park and recreation board. History: [56-602, added 1963, ch. 126, sec. 2, p. 370; am. 1970, ch. 178, sec. 1, p. 522; am. 1974, ch. 8, sec. 19, p. 35.]
+56-602. Idaho youth conservation project created. There is hereby created the Idaho youth conservation project, which shall be placed under the jurisdiction and supervision of the Idaho park and recreation board.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_603">
+          <akn:num>56-603</akn:num>
+          <akn:heading>Requirements for participants — Summer camp</akn:heading>
+          <akn:subsection eId="56_603__subsec_14">
+            <akn:num>(14)</akn:num>
+            <akn:content>
+              <akn:p>years nor more than seventeen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_603__subsec_17">
+            <akn:num>(17)</akn:num>
+            <akn:content>
+              <akn:p>years of age. (b)  In order to participate in the project an individual must agree to comply with the rules and regulations as set up by the park board for the government of those taking part in the project. (c)  Participation shall be for the duration of one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_603__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>summer camp as set by the park and recreation board. History: [56-603, added 1963, ch. 126, sec. 3, p. 370; am. 1970, ch. 178, sec. 2, p. 522; am. 1974, ch. 8, sec. 20, p. 35; am. 1991, ch. 330, sec. 1, p. 854.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-603. Requirements for participants — Summer camp. (a) Participants in the Idaho youth conservation project shall be citizens of the United States and the state of Idaho, of good character and health who are not less than fourteen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_603__subsec_14">
+            <akn:num>(14)</akn:num>
+            <akn:content>
+              <akn:p>years nor more than seventeen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_603__subsec_17">
+            <akn:num>(17)</akn:num>
+            <akn:content>
+              <akn:p>years of age. (b)  In order to participate in the project an individual must agree to comply with the rules and regulations as set up by the park board for the government of those taking part in the project. (c)  Participation shall be for the duration of one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_603__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>summer camp as set by the park and recreation board. History: [56-603, added 1963, ch. 126, sec. 3, p. 370; am. 1970, ch. 178, sec. 2, p. 522; am. 1974, ch. 8, sec. 20, p. 35; am. 1991, ch. 330, sec. 1, p. 854.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-603. Requirements for participants — Summer camp. (a) Participants in the Idaho youth conservation project shall be citizens of the United States and the state of Idaho, of good character and health who are not less than fourteen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_603__subsec_14">
+            <akn:num>(14)</akn:num>
+            <akn:content>
+              <akn:p>years nor more than seventeen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_603__subsec_17">
+            <akn:num>(17)</akn:num>
+            <akn:content>
+              <akn:p>years of age. (b)  In order to participate in the project an individual must agree to comply with the rules and regulations as set up by the park board for the government of those taking part in the project. (c)  Participation shall be for the duration of one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_603__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>summer camp as set by the park and recreation board. History: [56-603, added 1963, ch. 126, sec. 3, p. 370; am. 1970, ch. 178, sec. 2, p. 522; am. 1974, ch. 8, sec. 20, p. 35; am. 1991, ch. 330, sec. 1, p. 854.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-603. Requirements for participants — Summer camp. (a) Participants in the Idaho youth conservation project shall be citizens of the United States and the state of Idaho, of good character and health who are not less than fourteen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_603__subsec_14">
+            <akn:num>(14)</akn:num>
+            <akn:content>
+              <akn:p>years nor more than seventeen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_603__subsec_17">
+            <akn:num>(17)</akn:num>
+            <akn:content>
+              <akn:p>years of age. (b)  In order to participate in the project an individual must agree to comply with the rules and regulations as set up by the park board for the government of those taking part in the project. (c)  Participation shall be for the duration of one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_603__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>summer camp as set by the park and recreation board. History: [56-603, added 1963, ch. 126, sec. 3, p. 370; am. 1970, ch. 178, sec. 2, p. 522; am. 1974, ch. 8, sec. 20, p. 35; am. 1991, ch. 330, sec. 1, p. 854.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-603. Requirements for participants — Summer camp. (a) Participants in the Idaho youth conservation project shall be citizens of the United States and the state of Idaho, of good character and health who are not less than fourteen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_603__subsec_14">
+            <akn:num>(14)</akn:num>
+            <akn:content>
+              <akn:p>years nor more than seventeen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_603__subsec_17">
+            <akn:num>(17)</akn:num>
+            <akn:content>
+              <akn:p>years of age. (b)  In order to participate in the project an individual must agree to comply with the rules and regulations as set up by the park board for the government of those taking part in the project. (c)  Participation shall be for the duration of one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_603__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>summer camp as set by the park and recreation board. History: [56-603, added 1963, ch. 126, sec. 3, p. 370; am. 1970, ch. 178, sec. 2, p. 522; am. 1974, ch. 8, sec. 20, p. 35; am. 1991, ch. 330, sec. 1, p. 854.]
+56-603. Requirements for participants — Summer camp. (a) Participants in the Idaho youth conservation project shall be citizens of the United States and the state of Idaho, of good character and health who are not less than fourteen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_603__subsec_14">
+            <akn:num>(14)</akn:num>
+            <akn:content>
+              <akn:p>years nor more than seventeen</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_603__subsec_17">
+            <akn:num>(17)</akn:num>
+            <akn:content>
+              <akn:p>years of age.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_603__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>summer camp as set by the park and recreation board.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_604">
+          <akn:num>56-604</akn:num>
+          <akn:heading>Duties of park and recreation board</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-604. Duties of park and recreation board. It shall be the duty of the park and recreation board to expend such funds as it deems necessary to provide staff, select workers, equip, supply and maintain all phases of said project as funds are available. History: [56-604, added 1963, ch. 126, sec. 4, p. 370; am. 1970, ch. 178, sec. 3, p. 522; am. 1974, ch. 8, sec. 21, p. 35.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-604. Duties of park and recreation board. It shall be the duty of the park and recreation board to expend such funds as it deems necessary to provide staff, select workers, equip, supply and maintain all phases of said project as funds are available. History: [56-604, added 1963, ch. 126, sec. 4, p. 370; am. 1970, ch. 178, sec. 3, p. 522; am. 1974, ch. 8, sec. 21, p. 35.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-604. Duties of park and recreation board. It shall be the duty of the park and recreation board to expend such funds as it deems necessary to provide staff, select workers, equip, supply and maintain all phases of said project as funds are available. History: [56-604, added 1963, ch. 126, sec. 4, p. 370; am. 1970, ch. 178, sec. 3, p. 522; am. 1974, ch. 8, sec. 21, p. 35.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-604. Duties of park and recreation board. It shall be the duty of the park and recreation board to expend such funds as it deems necessary to provide staff, select workers, equip, supply and maintain all phases of said project as funds are available. History: [56-604, added 1963, ch. 126, sec. 4, p. 370; am. 1970, ch. 178, sec. 3, p. 522; am. 1974, ch. 8, sec. 21, p. 35.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-604. Duties of park and recreation board. It shall be the duty of the park and recreation board to expend such funds as it deems necessary to provide staff, select workers, equip, supply and maintain all phases of said project as funds are available. History: [56-604, added 1963, ch. 126, sec. 4, p. 370; am. 1970, ch. 178, sec. 3, p. 522; am. 1974, ch. 8, sec. 21, p. 35.]
+56-604. Duties of park and recreation board. It shall be the duty of the park and recreation board to expend such funds as it deems necessary to provide staff, select workers, equip, supply and maintain all phases of said project as funds are available.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_605">
+          <akn:num>56-605</akn:num>
+          <akn:heading>Purposes of project</akn:heading>
+          <akn:subsection eId="56_605__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>the conservation of youth in the most positive way by introducing them to the satisfactions of constructive work and outdoor life, the rewards of which they can witness and evaluate for themselves;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_605__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>to promote the conservation of our natural resources within an effective framework specifically tailored to the needs of Idaho for future programs to conserve timber, water, soil, forage and recreation resources through the use of our youth resources. History: [56-605, added 1963, ch. 126, sec. 5, p. 370.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-605. Purposes of project. Purpose of such project shall be twofold;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_605__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>the conservation of youth in the most positive way by introducing them to the satisfactions of constructive work and outdoor life, the rewards of which they can witness and evaluate for themselves;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_605__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>to promote the conservation of our natural resources within an effective framework specifically tailored to the needs of Idaho for future programs to conserve timber, water, soil, forage and recreation resources through the use of our youth resources. History: [56-605, added 1963, ch. 126, sec. 5, p. 370.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-605. Purposes of project. Purpose of such project shall be twofold;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_605__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>the conservation of youth in the most positive way by introducing them to the satisfactions of constructive work and outdoor life, the rewards of which they can witness and evaluate for themselves;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_605__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>to promote the conservation of our natural resources within an effective framework specifically tailored to the needs of Idaho for future programs to conserve timber, water, soil, forage and recreation resources through the use of our youth resources. History: [56-605, added 1963, ch. 126, sec. 5, p. 370.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-605. Purposes of project. Purpose of such project shall be twofold;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_605__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>the conservation of youth in the most positive way by introducing them to the satisfactions of constructive work and outdoor life, the rewards of which they can witness and evaluate for themselves;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_605__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>to promote the conservation of our natural resources within an effective framework specifically tailored to the needs of Idaho for future programs to conserve timber, water, soil, forage and recreation resources through the use of our youth resources. History: [56-605, added 1963, ch. 126, sec. 5, p. 370.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-605. Purposes of project. Purpose of such project shall be twofold;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_605__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>the conservation of youth in the most positive way by introducing them to the satisfactions of constructive work and outdoor life, the rewards of which they can witness and evaluate for themselves;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_605__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>to promote the conservation of our natural resources within an effective framework specifically tailored to the needs of Idaho for future programs to conserve timber, water, soil, forage and recreation resources through the use of our youth resources. History: [56-605, added 1963, ch. 126, sec. 5, p. 370.]
+56-605. Purposes of project. Purpose of such project shall be twofold;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_605__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>the conservation of youth in the most positive way by introducing them to the satisfactions of constructive work and outdoor life, the rewards of which they can witness and evaluate for themselves;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_605__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>to promote the conservation of our natural resources within an effective framework specifically tailored to the needs of Idaho for future programs to conserve timber, water, soil, forage and recreation resources through the use of our youth resources.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_606">
+          <akn:num>56-606</akn:num>
+          <akn:heading>Authority of the park and recreation board</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-606. Authority of the park and recreation board. In order to carry out the purposes of this act the park and recreation board shall have the authority to: 1.  Formulate rules and regulations for operation of the project. 2.  Appoint, in accordance with the policy and regulations of the department, such qualified personnel as it deems necessary for the efficient and economic discharge of the functions of the project. Compensation and benefits of all such appointees to be fixed as may be provided by law and the policies and regulations of the department. 3.  Establish adequate standards of safety, health, and morals for participants. 4.  To enter into such agreements with and otherwise cooperate with such other governmental agencies, departments and instrumentalities as may be necessary in carrying out the purposes of this act. 5.  To formulate such other rules and regulations, establish such other procedures, and enter into such contracts and agreements and generally perform such functions as it may deem necessary or desirable to carry out the provisions of this act. 6.  To provide a regular schedule of work, on-the-job training and recreation as falls naturally within the philosophy and program scope of the youth conservation project. History: [56-606, added 1963, ch. 126, sec. 6, p. 370; am. 1970, ch. 178, sec. 4, p. 522; am. 1974, ch. 8, sec. 22, p. 35.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-606. Authority of the park and recreation board. In order to carry out the purposes of this act the park and recreation board shall have the authority to: 1.  Formulate rules and regulations for operation of the project. 2.  Appoint, in accordance with the policy and regulations of the department, such qualified personnel as it deems necessary for the efficient and economic discharge of the functions of the project. Compensation and benefits of all such appointees to be fixed as may be provided by law and the policies and regulations of the department. 3.  Establish adequate standards of safety, health, and morals for participants. 4.  To enter into such agreements with and otherwise cooperate with such other governmental agencies, departments and instrumentalities as may be necessary in carrying out the purposes of this act. 5.  To formulate such other rules and regulations, establish such other procedures, and enter into such contracts and agreements and generally perform such functions as it may deem necessary or desirable to carry out the provisions of this act. 6.  To provide a regular schedule of work, on-the-job training and recreation as falls naturally within the philosophy and program scope of the youth conservation project. History: [56-606, added 1963, ch. 126, sec. 6, p. 370; am. 1970, ch. 178, sec. 4, p. 522; am. 1974, ch. 8, sec. 22, p. 35.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-606. Authority of the park and recreation board. In order to carry out the purposes of this act the park and recreation board shall have the authority to: 1.  Formulate rules and regulations for operation of the project. 2.  Appoint, in accordance with the policy and regulations of the department, such qualified personnel as it deems necessary for the efficient and economic discharge of the functions of the project. Compensation and benefits of all such appointees to be fixed as may be provided by law and the policies and regulations of the department. 3.  Establish adequate standards of safety, health, and morals for participants. 4.  To enter into such agreements with and otherwise cooperate with such other governmental agencies, departments and instrumentalities as may be necessary in carrying out the purposes of this act. 5.  To formulate such other rules and regulations, establish such other procedures, and enter into such contracts and agreements and generally perform such functions as it may deem necessary or desirable to carry out the provisions of this act. 6.  To provide a regular schedule of work, on-the-job training and recreation as falls naturally within the philosophy and program scope of the youth conservation project. History: [56-606, added 1963, ch. 126, sec. 6, p. 370; am. 1970, ch. 178, sec. 4, p. 522; am. 1974, ch. 8, sec. 22, p. 35.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-606. Authority of the park and recreation board. In order to carry out the purposes of this act the park and recreation board shall have the authority to: 1.  Formulate rules and regulations for operation of the project. 2.  Appoint, in accordance with the policy and regulations of the department, such qualified personnel as it deems necessary for the efficient and economic discharge of the functions of the project. Compensation and benefits of all such appointees to be fixed as may be provided by law and the policies and regulations of the department. 3.  Establish adequate standards of safety, health, and morals for participants. 4.  To enter into such agreements with and otherwise cooperate with such other governmental agencies, departments and instrumentalities as may be necessary in carrying out the purposes of this act. 5.  To formulate such other rules and regulations, establish such other procedures, and enter into such contracts and agreements and generally perform such functions as it may deem necessary or desirable to carry out the provisions of this act. 6.  To provide a regular schedule of work, on-the-job training and recreation as falls naturally within the philosophy and program scope of the youth conservation project. History: [56-606, added 1963, ch. 126, sec. 6, p. 370; am. 1970, ch. 178, sec. 4, p. 522; am. 1974, ch. 8, sec. 22, p. 35.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-606. Authority of the park and recreation board. In order to carry out the purposes of this act the park and recreation board shall have the authority to: 1.  Formulate rules and regulations for operation of the project. 2.  Appoint, in accordance with the policy and regulations of the department, such qualified personnel as it deems necessary for the efficient and economic discharge of the functions of the project. Compensation and benefits of all such appointees to be fixed as may be provided by law and the policies and regulations of the department. 3.  Establish adequate standards of safety, health, and morals for participants. 4.  To enter into such agreements with and otherwise cooperate with such other governmental agencies, departments and instrumentalities as may be necessary in carrying out the purposes of this act. 5.  To formulate such other rules and regulations, establish such other procedures, and enter into such contracts and agreements and generally perform such functions as it may deem necessary or desirable to carry out the provisions of this act. 6.  To provide a regular schedule of work, on-the-job training and recreation as falls naturally within the philosophy and program scope of the youth conservation project. History: [56-606, added 1963, ch. 126, sec. 6, p. 370; am. 1970, ch. 178, sec. 4, p. 522; am. 1974, ch. 8, sec. 22, p. 35.]
+56-606. Authority of the park and recreation board. In order to carry out the purposes of this act the park and recreation board shall have the authority to:
+1.  Formulate rules and regulations for operation of the project.
+2.  Appoint, in accordance with the policy and regulations of the department, such qualified personnel as it deems necessary for the efficient and economic discharge of the functions of the project. Compensation and benefits of all such appointees to be fixed as may be provided by law and the policies and regulations of the department.
+3.  Establish adequate standards of safety, health, and morals for participants.
+4.  To enter into such agreements with and otherwise cooperate with such other governmental agencies, departments and instrumentalities as may be necessary in carrying out the purposes of this act.
+5.  To formulate such other rules and regulations, establish such other procedures, and enter into such contracts and agreements and generally perform such functions as it may deem necessary or desirable to carry out the provisions of this act.
+6.  To provide a regular schedule of work, on-the-job training and recreation as falls naturally within the philosophy and program scope of the youth conservation project.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_607">
+          <akn:num>56-607</akn:num>
+          <akn:heading>Compensation of participants</akn:heading>
+          <akn:subsection eId="56_607__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The base compensation of participants shall be set by the park and recreation board.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_607__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The park and recreation board shall establish procedures whereby each participant may make an allotment to his parent, dependent, legal guardian, or any fund established for his benefit, of part of the periodic compensation to which he is entitled by this act, and such allotment shall be paid directly to the person or fund in which favor it is made. B.  In addition to compensation authorized in subsection A, participants shall be furnished with such quarters, subsistence, transportation, equipment, clothing, medical services, and hospital services as the park and recreation board may deem necessary or appropriate for their needs. History: [56-607, added 1963, ch. 126, sec. 7, p. 370; am. 1970, ch. 178, sec. 5, p. 522; am. 1974, ch. 8, sec. 23, p. 35; am. 1991, ch. 330, sec. 2, p. 855.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-607. Compensation of participants. A.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_607__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The base compensation of participants shall be set by the park and recreation board.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_607__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The park and recreation board shall establish procedures whereby each participant may make an allotment to his parent, dependent, legal guardian, or any fund established for his benefit, of part of the periodic compensation to which he is entitled by this act, and such allotment shall be paid directly to the person or fund in which favor it is made. B.  In addition to compensation authorized in subsection A, participants shall be furnished with such quarters, subsistence, transportation, equipment, clothing, medical services, and hospital services as the park and recreation board may deem necessary or appropriate for their needs. History: [56-607, added 1963, ch. 126, sec. 7, p. 370; am. 1970, ch. 178, sec. 5, p. 522; am. 1974, ch. 8, sec. 23, p. 35; am. 1991, ch. 330, sec. 2, p. 855.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-607. Compensation of participants. A.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_607__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The base compensation of participants shall be set by the park and recreation board.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_607__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The park and recreation board shall establish procedures whereby each participant may make an allotment to his parent, dependent, legal guardian, or any fund established for his benefit, of part of the periodic compensation to which he is entitled by this act, and such allotment shall be paid directly to the person or fund in which favor it is made. B.  In addition to compensation authorized in subsection A, participants shall be furnished with such quarters, subsistence, transportation, equipment, clothing, medical services, and hospital services as the park and recreation board may deem necessary or appropriate for their needs. History: [56-607, added 1963, ch. 126, sec. 7, p. 370; am. 1970, ch. 178, sec. 5, p. 522; am. 1974, ch. 8, sec. 23, p. 35; am. 1991, ch. 330, sec. 2, p. 855.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-607. Compensation of participants. A.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_607__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The base compensation of participants shall be set by the park and recreation board.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_607__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The park and recreation board shall establish procedures whereby each participant may make an allotment to his parent, dependent, legal guardian, or any fund established for his benefit, of part of the periodic compensation to which he is entitled by this act, and such allotment shall be paid directly to the person or fund in which favor it is made. B.  In addition to compensation authorized in subsection A, participants shall be furnished with such quarters, subsistence, transportation, equipment, clothing, medical services, and hospital services as the park and recreation board may deem necessary or appropriate for their needs. History: [56-607, added 1963, ch. 126, sec. 7, p. 370; am. 1970, ch. 178, sec. 5, p. 522; am. 1974, ch. 8, sec. 23, p. 35; am. 1991, ch. 330, sec. 2, p. 855.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-607. Compensation of participants. A.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_607__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The base compensation of participants shall be set by the park and recreation board.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_607__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The park and recreation board shall establish procedures whereby each participant may make an allotment to his parent, dependent, legal guardian, or any fund established for his benefit, of part of the periodic compensation to which he is entitled by this act, and such allotment shall be paid directly to the person or fund in which favor it is made. B.  In addition to compensation authorized in subsection A, participants shall be furnished with such quarters, subsistence, transportation, equipment, clothing, medical services, and hospital services as the park and recreation board may deem necessary or appropriate for their needs. History: [56-607, added 1963, ch. 126, sec. 7, p. 370; am. 1970, ch. 178, sec. 5, p. 522; am. 1974, ch. 8, sec. 23, p. 35; am. 1991, ch. 330, sec. 2, p. 855.]
+56-607. Compensation of participants. A.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_607__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The base compensation of participants shall be set by the park and recreation board.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_607__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The park and recreation board shall establish procedures whereby each participant may make an allotment to his parent, dependent, legal guardian, or any fund established for his benefit, of part of the periodic compensation to which he is entitled by this act, and such allotment shall be paid directly to the person or fund in which favor it is made.
+B.  In addition to compensation authorized in subsection A, participants shall be furnished with such quarters, subsistence, transportation, equipment, clothing, medical services, and hospital services as the park and recreation board may deem necessary or appropriate for their needs.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_608">
+          <akn:num>56-608</akn:num>
+          <akn:heading>Laws inapplicable to participants</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-608. Laws inapplicable to participants. Existing provisions of law with respect to hours of work, rate of compensation, sick leave, vacation and unemployment compensation shall not be applicable to any individual because of participation in the project. History: [56-608, added 1963, ch. 126, sec. 8, p. 370.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-608. Laws inapplicable to participants. Existing provisions of law with respect to hours of work, rate of compensation, sick leave, vacation and unemployment compensation shall not be applicable to any individual because of participation in the project. History: [56-608, added 1963, ch. 126, sec. 8, p. 370.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-608. Laws inapplicable to participants. Existing provisions of law with respect to hours of work, rate of compensation, sick leave, vacation and unemployment compensation shall not be applicable to any individual because of participation in the project. History: [56-608, added 1963, ch. 126, sec. 8, p. 370.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-608. Laws inapplicable to participants. Existing provisions of law with respect to hours of work, rate of compensation, sick leave, vacation and unemployment compensation shall not be applicable to any individual because of participation in the project. History: [56-608, added 1963, ch. 126, sec. 8, p. 370.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-608. Laws inapplicable to participants. Existing provisions of law with respect to hours of work, rate of compensation, sick leave, vacation and unemployment compensation shall not be applicable to any individual because of participation in the project. History: [56-608, added 1963, ch. 126, sec. 8, p. 370.]
+56-608. Laws inapplicable to participants. Existing provisions of law with respect to hours of work, rate of compensation, sick leave, vacation and unemployment compensation shall not be applicable to any individual because of participation in the project.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_609">
+          <akn:num>56-609</akn:num>
+          <akn:heading>worker’s compensation benefits</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-609. worker’s compensation benefits. Participants shall, for the purpose of the administration of the worker’s compensation law, be deemed to be civil employees of the state. History: [56-609, added 1963, ch. 126, sec. 9, p. 370; am. 1991, ch. 330, sec. 3, p. 855; am. 2015, ch. 244, sec. 36, p. 1028.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-609. worker’s compensation benefits. Participants shall, for the purpose of the administration of the worker’s compensation law, be deemed to be civil employees of the state. History: [56-609, added 1963, ch. 126, sec. 9, p. 370; am. 1991, ch. 330, sec. 3, p. 855; am. 2015, ch. 244, sec. 36, p. 1028.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-609. worker’s compensation benefits. Participants shall, for the purpose of the administration of the worker’s compensation law, be deemed to be civil employees of the state. History: [56-609, added 1963, ch. 126, sec. 9, p. 370; am. 1991, ch. 330, sec. 3, p. 855; am. 2015, ch. 244, sec. 36, p. 1028.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-609. worker’s compensation benefits. Participants shall, for the purpose of the administration of the worker’s compensation law, be deemed to be civil employees of the state. History: [56-609, added 1963, ch. 126, sec. 9, p. 370; am. 1991, ch. 330, sec. 3, p. 855; am. 2015, ch. 244, sec. 36, p. 1028.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 6 YOUTH CONSERVATION 56-609. worker’s compensation benefits. Participants shall, for the purpose of the administration of the worker’s compensation law, be deemed to be civil employees of the state. History: [56-609, added 1963, ch. 126, sec. 9, p. 370; am. 1991, ch. 330, sec. 3, p. 855; am. 2015, ch. 244, sec. 36, p. 1028.]
+56-609. worker’s compensation benefits. Participants shall, for the purpose of the administration of the worker’s compensation law, be deemed to be civil employees of the state.</akn:p>
+          </akn:content>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

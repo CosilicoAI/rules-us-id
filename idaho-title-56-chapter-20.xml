@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-20" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-20" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="56-20" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-20/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-20/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-20/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-20/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_56_20">
+        <akn:num>Chapter 20</akn:num>
+        <akn:heading>Chapter 20</akn:heading>
+        <akn:section eId="sec_56_2001">
+          <akn:num>56-2001</akn:num>
+          <akn:heading>Definition</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 20 PREEMPTION OF GUARANTEED INCOME PROGRAMS 56-2001. Definition. As used in this chapter, "guaranteed income program" means a plan funded or administered by the government under which an individual is provided with regular, unconditional cash payments to be used for any purpose by the individual. "Guaranteed income program" does not include a program under which an individual is required to seek reemployment, perform work, or attend training as a condition of any payments. History: [(56-2001) 56-1901, added 2024, ch. 224, sec. 1, p. 792; am. and redesig. 2025, ch. 211, sec. 28, p. 1000.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 20 PREEMPTION OF GUARANTEED INCOME PROGRAMS 56-2001. Definition. As used in this chapter, "guaranteed income program" means a plan funded or administered by the government under which an individual is provided with regular, unconditional cash payments to be used for any purpose by the individual. "Guaranteed income program" does not include a program under which an individual is required to seek reemployment, perform work, or attend training as a condition of any payments. History: [(56-2001) 56-1901, added 2024, ch. 224, sec. 1, p. 792; am. and redesig. 2025, ch. 211, sec. 28, p. 1000.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 20 PREEMPTION OF GUARANTEED INCOME PROGRAMS 56-2001. Definition. As used in this chapter, "guaranteed income program" means a plan funded or administered by the government under which an individual is provided with regular, unconditional cash payments to be used for any purpose by the individual. "Guaranteed income program" does not include a program under which an individual is required to seek reemployment, perform work, or attend training as a condition of any payments. History: [(56-2001) 56-1901, added 2024, ch. 224, sec. 1, p. 792; am. and redesig. 2025, ch. 211, sec. 28, p. 1000.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 20 PREEMPTION OF GUARANTEED INCOME PROGRAMS 56-2001. Definition. As used in this chapter, "guaranteed income program" means a plan funded or administered by the government under which an individual is provided with regular, unconditional cash payments to be used for any purpose by the individual. "Guaranteed income program" does not include a program under which an individual is required to seek reemployment, perform work, or attend training as a condition of any payments. History: [(56-2001) 56-1901, added 2024, ch. 224, sec. 1, p. 792; am. and redesig. 2025, ch. 211, sec. 28, p. 1000.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 20 PREEMPTION OF GUARANTEED INCOME PROGRAMS 56-2001. Definition. As used in this chapter, "guaranteed income program" means a plan funded or administered by the government under which an individual is provided with regular, unconditional cash payments to be used for any purpose by the individual. "Guaranteed income program" does not include a program under which an individual is required to seek reemployment, perform work, or attend training as a condition of any payments. History: [(56-2001) 56-1901, added 2024, ch. 224, sec. 1, p. 792; am. and redesig. 2025, ch. 211, sec. 28, p. 1000.]
+56-2001. Definition. As used in this chapter, "guaranteed income program" means a plan funded or administered by the government under which an individual is provided with regular, unconditional cash payments to be used for any purpose by the individual. "Guaranteed income program" does not include a program under which an individual is required to seek reemployment, perform work, or attend training as a condition of any payments.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_2002">
+          <akn:num>56-2002</akn:num>
+          <akn:heading>preemption</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 20 PREEMPTION OF GUARANTEED INCOME PROGRAMS 56-2002. preemption. Except as expressly authorized by state statute, a county, city, agency, board, or any other political subdivision of this state shall not adopt or enforce any law, rule, regulation, or ordinance for the purpose of making payments to individuals under a guaranteed income program. Any law, rule, regulation, or ordinance prohibited by this chapter is null and void. History: [(56-2002) 56-1902, added 2024, ch. 224, sec. 1, p. 793; am. and redesig. 2025, ch. 211, sec. 28, p. 1000.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 20 PREEMPTION OF GUARANTEED INCOME PROGRAMS 56-2002. preemption. Except as expressly authorized by state statute, a county, city, agency, board, or any other political subdivision of this state shall not adopt or enforce any law, rule, regulation, or ordinance for the purpose of making payments to individuals under a guaranteed income program. Any law, rule, regulation, or ordinance prohibited by this chapter is null and void. History: [(56-2002) 56-1902, added 2024, ch. 224, sec. 1, p. 793; am. and redesig. 2025, ch. 211, sec. 28, p. 1000.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 20 PREEMPTION OF GUARANTEED INCOME PROGRAMS 56-2002. preemption. Except as expressly authorized by state statute, a county, city, agency, board, or any other political subdivision of this state shall not adopt or enforce any law, rule, regulation, or ordinance for the purpose of making payments to individuals under a guaranteed income program. Any law, rule, regulation, or ordinance prohibited by this chapter is null and void. History: [(56-2002) 56-1902, added 2024, ch. 224, sec. 1, p. 793; am. and redesig. 2025, ch. 211, sec. 28, p. 1000.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 20 PREEMPTION OF GUARANTEED INCOME PROGRAMS 56-2002. preemption. Except as expressly authorized by state statute, a county, city, agency, board, or any other political subdivision of this state shall not adopt or enforce any law, rule, regulation, or ordinance for the purpose of making payments to individuals under a guaranteed income program. Any law, rule, regulation, or ordinance prohibited by this chapter is null and void. History: [(56-2002) 56-1902, added 2024, ch. 224, sec. 1, p. 793; am. and redesig. 2025, ch. 211, sec. 28, p. 1000.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 20 PREEMPTION OF GUARANTEED INCOME PROGRAMS 56-2002. preemption. Except as expressly authorized by state statute, a county, city, agency, board, or any other political subdivision of this state shall not adopt or enforce any law, rule, regulation, or ordinance for the purpose of making payments to individuals under a guaranteed income program. Any law, rule, regulation, or ordinance prohibited by this chapter is null and void. History: [(56-2002) 56-1902, added 2024, ch. 224, sec. 1, p. 793; am. and redesig. 2025, ch. 211, sec. 28, p. 1000.]
+56-2002. preemption. Except as expressly authorized by state statute, a county, city, agency, board, or any other political subdivision of this state shall not adopt or enforce any law, rule, regulation, or ordinance for the purpose of making payments to individuals under a guaranteed income program. Any law, rule, regulation, or ordinance prohibited by this chapter is null and void.</akn:p>
+          </akn:content>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

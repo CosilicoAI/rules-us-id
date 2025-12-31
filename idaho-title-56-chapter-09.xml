@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-9" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-9" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="56-9" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-9/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-9/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-9/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-9/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_56_9">
+        <akn:num>Chapter 9</akn:num>
+        <akn:heading>Chapter 9</akn:heading>
+        <akn:section eId="sec_56_901">
+          <akn:num>56-901</akn:num>
+          <akn:heading>Telecommunications service assistance program — Definitions</akn:heading>
+          <akn:subsection eId="56_901__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A telecommunications service assistance program is hereby established within the department of health and welfare to provide eligible recipients with a reduction in costs of telecommunications services to promote universal service. The program shall be administered by the department of health and welfare in accordance with the provisions of this chapter and rules and regulations promulgated in compliance with chapter 52, title 67 , Idaho Code, to administer the program. The telecommunications service assistance program adopted shall grant limited federal "lifeline" contributions to Idaho’s low-income customers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_901__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>For the purposes of this chapter, a "telecommunications carrier" means a telephone corporation providing telecommunication services for compensation within this state, and shall include municipal, cooperative, or mutual nonprofit telephone companies, and telecommunication corporations providing wireless, cellular, personal communications services and mobile radio services for compensation. History: [56-901, added 1987, ch. 328, sec. 1, p. 686; am. 1998, ch. 37, sec. 8, p. 162; am. 2013, ch. 186, sec. 1, p. 446.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-901. Telecommunications service assistance program — Definitions.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_901__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A telecommunications service assistance program is hereby established within the department of health and welfare to provide eligible recipients with a reduction in costs of telecommunications services to promote universal service. The program shall be administered by the department of health and welfare in accordance with the provisions of this chapter and rules and regulations promulgated in compliance with chapter 52, title 67 , Idaho Code, to administer the program. The telecommunications service assistance program adopted shall grant limited federal "lifeline" contributions to Idaho’s low-income customers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_901__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>For the purposes of this chapter, a "telecommunications carrier" means a telephone corporation providing telecommunication services for compensation within this state, and shall include municipal, cooperative, or mutual nonprofit telephone companies, and telecommunication corporations providing wireless, cellular, personal communications services and mobile radio services for compensation. History: [56-901, added 1987, ch. 328, sec. 1, p. 686; am. 1998, ch. 37, sec. 8, p. 162; am. 2013, ch. 186, sec. 1, p. 446.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-901. Telecommunications service assistance program — Definitions.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_901__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A telecommunications service assistance program is hereby established within the department of health and welfare to provide eligible recipients with a reduction in costs of telecommunications services to promote universal service. The program shall be administered by the department of health and welfare in accordance with the provisions of this chapter and rules and regulations promulgated in compliance with chapter 52, title 67 , Idaho Code, to administer the program. The telecommunications service assistance program adopted shall grant limited federal "lifeline" contributions to Idaho’s low-income customers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_901__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>For the purposes of this chapter, a "telecommunications carrier" means a telephone corporation providing telecommunication services for compensation within this state, and shall include municipal, cooperative, or mutual nonprofit telephone companies, and telecommunication corporations providing wireless, cellular, personal communications services and mobile radio services for compensation. History: [56-901, added 1987, ch. 328, sec. 1, p. 686; am. 1998, ch. 37, sec. 8, p. 162; am. 2013, ch. 186, sec. 1, p. 446.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-901. Telecommunications service assistance program — Definitions.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_901__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A telecommunications service assistance program is hereby established within the department of health and welfare to provide eligible recipients with a reduction in costs of telecommunications services to promote universal service. The program shall be administered by the department of health and welfare in accordance with the provisions of this chapter and rules and regulations promulgated in compliance with chapter 52, title 67 , Idaho Code, to administer the program. The telecommunications service assistance program adopted shall grant limited federal "lifeline" contributions to Idaho’s low-income customers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_901__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>For the purposes of this chapter, a "telecommunications carrier" means a telephone corporation providing telecommunication services for compensation within this state, and shall include municipal, cooperative, or mutual nonprofit telephone companies, and telecommunication corporations providing wireless, cellular, personal communications services and mobile radio services for compensation. History: [56-901, added 1987, ch. 328, sec. 1, p. 686; am. 1998, ch. 37, sec. 8, p. 162; am. 2013, ch. 186, sec. 1, p. 446.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-901. Telecommunications service assistance program — Definitions.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_901__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A telecommunications service assistance program is hereby established within the department of health and welfare to provide eligible recipients with a reduction in costs of telecommunications services to promote universal service. The program shall be administered by the department of health and welfare in accordance with the provisions of this chapter and rules and regulations promulgated in compliance with chapter 52, title 67 , Idaho Code, to administer the program. The telecommunications service assistance program adopted shall grant limited federal "lifeline" contributions to Idaho’s low-income customers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_901__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>For the purposes of this chapter, a "telecommunications carrier" means a telephone corporation providing telecommunication services for compensation within this state, and shall include municipal, cooperative, or mutual nonprofit telephone companies, and telecommunication corporations providing wireless, cellular, personal communications services and mobile radio services for compensation. History: [56-901, added 1987, ch. 328, sec. 1, p. 686; am. 1998, ch. 37, sec. 8, p. 162; am. 2013, ch. 186, sec. 1, p. 446.]
+56-901. Telecommunications service assistance program — Definitions.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_901__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A telecommunications service assistance program is hereby established within the department of health and welfare to provide eligible recipients with a reduction in costs of telecommunications services to promote universal service. The program shall be administered by the department of health and welfare in accordance with the provisions of this chapter and rules and regulations promulgated in compliance with chapter 52, title 67 , Idaho Code, to administer the program. The telecommunications service assistance program adopted shall grant limited federal "lifeline" contributions to Idaho’s low-income customers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_901__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>For the purposes of this chapter, a "telecommunications carrier" means a telephone corporation providing telecommunication services for compensation within this state, and shall include municipal, cooperative, or mutual nonprofit telephone companies, and telecommunication corporations providing wireless, cellular, personal communications services and mobile radio services for compensation.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_902">
+          <akn:num>56-902</akn:num>
+          <akn:heading>Assistance rate discount — Form — Applicable services — Amount — Application</akn:heading>
+          <akn:subsection eId="56_902__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Telecommunication carriers providing residential basic local service shall provide assistance in the form of a monthly discount to eligible subscribers of residential basic local service of two dollars and fifty cents ($2.50). In no case will the discount exceed the rate charged for the grade of residential basic local service subscribed to by each eligible individual. The Idaho telecommunications service assistance plan shall only be used to provide for a single line at the subscriber household.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_902__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The providers of residential basic local service and the Idaho department of health and welfare shall comply with all requirements expressly provided by federal order, regulation and statute for eligible subscribers to qualify for the federal "lifeline" telephone assistance program. In accordance with federal law, the Idaho public utilities commission may grant waivers to carriers of residential basic local service from providing certain services to eligible subscribers. History: [56-902, added 1987, ch. 328, sec. 1, p. 687; am. 1998, ch. 37, sec. 9, p. 163; am. 2013, ch. 186, sec. 2, p. 446.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-902. Assistance rate discount — Form — Applicable services — Amount — Application.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_902__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Telecommunication carriers providing residential basic local service shall provide assistance in the form of a monthly discount to eligible subscribers of residential basic local service of two dollars and fifty cents ($2.50). In no case will the discount exceed the rate charged for the grade of residential basic local service subscribed to by each eligible individual. The Idaho telecommunications service assistance plan shall only be used to provide for a single line at the subscriber household.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_902__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The providers of residential basic local service and the Idaho department of health and welfare shall comply with all requirements expressly provided by federal order, regulation and statute for eligible subscribers to qualify for the federal "lifeline" telephone assistance program. In accordance with federal law, the Idaho public utilities commission may grant waivers to carriers of residential basic local service from providing certain services to eligible subscribers. History: [56-902, added 1987, ch. 328, sec. 1, p. 687; am. 1998, ch. 37, sec. 9, p. 163; am. 2013, ch. 186, sec. 2, p. 446.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-902. Assistance rate discount — Form — Applicable services — Amount — Application.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_902__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Telecommunication carriers providing residential basic local service shall provide assistance in the form of a monthly discount to eligible subscribers of residential basic local service of two dollars and fifty cents ($2.50). In no case will the discount exceed the rate charged for the grade of residential basic local service subscribed to by each eligible individual. The Idaho telecommunications service assistance plan shall only be used to provide for a single line at the subscriber household.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_902__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The providers of residential basic local service and the Idaho department of health and welfare shall comply with all requirements expressly provided by federal order, regulation and statute for eligible subscribers to qualify for the federal "lifeline" telephone assistance program. In accordance with federal law, the Idaho public utilities commission may grant waivers to carriers of residential basic local service from providing certain services to eligible subscribers. History: [56-902, added 1987, ch. 328, sec. 1, p. 687; am. 1998, ch. 37, sec. 9, p. 163; am. 2013, ch. 186, sec. 2, p. 446.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-902. Assistance rate discount — Form — Applicable services — Amount — Application.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_902__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Telecommunication carriers providing residential basic local service shall provide assistance in the form of a monthly discount to eligible subscribers of residential basic local service of two dollars and fifty cents ($2.50). In no case will the discount exceed the rate charged for the grade of residential basic local service subscribed to by each eligible individual. The Idaho telecommunications service assistance plan shall only be used to provide for a single line at the subscriber household.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_902__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The providers of residential basic local service and the Idaho department of health and welfare shall comply with all requirements expressly provided by federal order, regulation and statute for eligible subscribers to qualify for the federal "lifeline" telephone assistance program. In accordance with federal law, the Idaho public utilities commission may grant waivers to carriers of residential basic local service from providing certain services to eligible subscribers. History: [56-902, added 1987, ch. 328, sec. 1, p. 687; am. 1998, ch. 37, sec. 9, p. 163; am. 2013, ch. 186, sec. 2, p. 446.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-902. Assistance rate discount — Form — Applicable services — Amount — Application.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_902__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Telecommunication carriers providing residential basic local service shall provide assistance in the form of a monthly discount to eligible subscribers of residential basic local service of two dollars and fifty cents ($2.50). In no case will the discount exceed the rate charged for the grade of residential basic local service subscribed to by each eligible individual. The Idaho telecommunications service assistance plan shall only be used to provide for a single line at the subscriber household.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_902__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The providers of residential basic local service and the Idaho department of health and welfare shall comply with all requirements expressly provided by federal order, regulation and statute for eligible subscribers to qualify for the federal "lifeline" telephone assistance program. In accordance with federal law, the Idaho public utilities commission may grant waivers to carriers of residential basic local service from providing certain services to eligible subscribers. History: [56-902, added 1987, ch. 328, sec. 1, p. 687; am. 1998, ch. 37, sec. 9, p. 163; am. 2013, ch. 186, sec. 2, p. 446.]
+56-902. Assistance rate discount — Form — Applicable services — Amount — Application.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_902__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Telecommunication carriers providing residential basic local service shall provide assistance in the form of a monthly discount to eligible subscribers of residential basic local service of two dollars and fifty cents ($2.50). In no case will the discount exceed the rate charged for the grade of residential basic local service subscribed to by each eligible individual. The Idaho telecommunications service assistance plan shall only be used to provide for a single line at the subscriber household.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_902__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The providers of residential basic local service and the Idaho department of health and welfare shall comply with all requirements expressly provided by federal order, regulation and statute for eligible subscribers to qualify for the federal "lifeline" telephone assistance program. In accordance with federal law, the Idaho public utilities commission may grant waivers to carriers of residential basic local service from providing certain services to eligible subscribers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_903">
+          <akn:num>56-903</akn:num>
+          <akn:heading>Assistance eligibility</akn:heading>
+          <akn:subsection eId="56_903__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>In order to be eligible for the telecommunications service assistance program, an applicant shall be the head of a household and shall meet narrowly targeted eligibility criteria based solely on income or factors directly related to income established by the department of health and welfare. The department of health and welfare shall develop procedures for taking applications for assistance and for determining and certifying program eligibility. Such applications shall contain the disclosure of information authorization necessary to process the assistance discounts. Individuals who qualify for assistance under this chapter must be periodically recertified by the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>At least once each year the department shall provide an electronic list of names, addresses and, if applicable, telephone numbers of all eligible recipients to each telecommunications carrier designated as an eligible telecommunications carrier by the public utilities commission. The eligible telecommunications carrier shall determine from the list those recipients to whom the company provides service. History: [56-903, added 1987, ch. 328, sec. 1, p. 687; am. 1998, ch. 37, sec. 10, p. 163.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-903. Assistance eligibility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_903__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>In order to be eligible for the telecommunications service assistance program, an applicant shall be the head of a household and shall meet narrowly targeted eligibility criteria based solely on income or factors directly related to income established by the department of health and welfare. The department of health and welfare shall develop procedures for taking applications for assistance and for determining and certifying program eligibility. Such applications shall contain the disclosure of information authorization necessary to process the assistance discounts. Individuals who qualify for assistance under this chapter must be periodically recertified by the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>At least once each year the department shall provide an electronic list of names, addresses and, if applicable, telephone numbers of all eligible recipients to each telecommunications carrier designated as an eligible telecommunications carrier by the public utilities commission. The eligible telecommunications carrier shall determine from the list those recipients to whom the company provides service. History: [56-903, added 1987, ch. 328, sec. 1, p. 687; am. 1998, ch. 37, sec. 10, p. 163.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-903. Assistance eligibility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_903__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>In order to be eligible for the telecommunications service assistance program, an applicant shall be the head of a household and shall meet narrowly targeted eligibility criteria based solely on income or factors directly related to income established by the department of health and welfare. The department of health and welfare shall develop procedures for taking applications for assistance and for determining and certifying program eligibility. Such applications shall contain the disclosure of information authorization necessary to process the assistance discounts. Individuals who qualify for assistance under this chapter must be periodically recertified by the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>At least once each year the department shall provide an electronic list of names, addresses and, if applicable, telephone numbers of all eligible recipients to each telecommunications carrier designated as an eligible telecommunications carrier by the public utilities commission. The eligible telecommunications carrier shall determine from the list those recipients to whom the company provides service. History: [56-903, added 1987, ch. 328, sec. 1, p. 687; am. 1998, ch. 37, sec. 10, p. 163.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-903. Assistance eligibility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_903__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>In order to be eligible for the telecommunications service assistance program, an applicant shall be the head of a household and shall meet narrowly targeted eligibility criteria based solely on income or factors directly related to income established by the department of health and welfare. The department of health and welfare shall develop procedures for taking applications for assistance and for determining and certifying program eligibility. Such applications shall contain the disclosure of information authorization necessary to process the assistance discounts. Individuals who qualify for assistance under this chapter must be periodically recertified by the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>At least once each year the department shall provide an electronic list of names, addresses and, if applicable, telephone numbers of all eligible recipients to each telecommunications carrier designated as an eligible telecommunications carrier by the public utilities commission. The eligible telecommunications carrier shall determine from the list those recipients to whom the company provides service. History: [56-903, added 1987, ch. 328, sec. 1, p. 687; am. 1998, ch. 37, sec. 10, p. 163.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-903. Assistance eligibility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_903__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>In order to be eligible for the telecommunications service assistance program, an applicant shall be the head of a household and shall meet narrowly targeted eligibility criteria based solely on income or factors directly related to income established by the department of health and welfare. The department of health and welfare shall develop procedures for taking applications for assistance and for determining and certifying program eligibility. Such applications shall contain the disclosure of information authorization necessary to process the assistance discounts. Individuals who qualify for assistance under this chapter must be periodically recertified by the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>At least once each year the department shall provide an electronic list of names, addresses and, if applicable, telephone numbers of all eligible recipients to each telecommunications carrier designated as an eligible telecommunications carrier by the public utilities commission. The eligible telecommunications carrier shall determine from the list those recipients to whom the company provides service. History: [56-903, added 1987, ch. 328, sec. 1, p. 687; am. 1998, ch. 37, sec. 10, p. 163.]
+56-903. Assistance eligibility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_903__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>In order to be eligible for the telecommunications service assistance program, an applicant shall be the head of a household and shall meet narrowly targeted eligibility criteria based solely on income or factors directly related to income established by the department of health and welfare. The department of health and welfare shall develop procedures for taking applications for assistance and for determining and certifying program eligibility. Such applications shall contain the disclosure of information authorization necessary to process the assistance discounts. Individuals who qualify for assistance under this chapter must be periodically recertified by the department of health and welfare.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_903__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>At least once each year the department shall provide an electronic list of names, addresses and, if applicable, telephone numbers of all eligible recipients to each telecommunications carrier designated as an eligible telecommunications carrier by the public utilities commission. The eligible telecommunications carrier shall determine from the list those recipients to whom the company provides service.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_904">
+          <akn:num>56-904</akn:num>
+          <akn:heading>Recovery of telecommunications service revenue reductions — Administration</akn:heading>
+          <akn:subsection eId="56_904__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The Idaho public utilities commission shall determine and impose a uniform statewide monthly surcharge on each end user’s business, residential and wireless access service. The surcharge shall be an amount sufficient to reimburse each carrier of residential basic local exchange service for the total amount of telephone assistance discounts provided as well as the carrier’s and the administrator’s expenses of administering the plan. Such surcharge shall be effective concurrent with the discounts given eligible subscribers. The surcharge shall be explicitly stated on end user billings but shall not be imposed on eligible subscribers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The Idaho public utilities commission may adopt rules or issue orders necessary to receive matching federal low income telephone assistance and to implement the Idaho telephone assistance program, including procedures for adjustment and true-up of the subscriber surcharge. The commission may contract with a neutral third party to collect the surcharge, distribute assistance revenues, and perform other tasks as assigned.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>All carriers of telecommunications services shall remit the assistance surcharge revenues to the fund administrator designated by the commission on a monthly basis, unless less frequent remittances are authorized by order of the public utilities commission. The administrator shall distribute telecommunication service assistance program revenues monthly to eligible telecommunication carriers in an amount that equals their costs of administering the program and the monthly discount provided to eligible subscribers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The surcharge imposed in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section, when collected from customers of mobile wireless carriers, shall be imposed only on customers with a place of primary use in Idaho. As used in this section and as defined in 4 U.S.C. section 124, "place of primary use" means the residential street address or the primary business street address in Idaho where the customer’s use of the wireless service primarily occurs. History: [56-904, added 1987, ch. 328, sec. 1, p. 687; am. 1998, ch. 37, sec. 11, p. 164; am. 2002, ch. 311, sec. 1, p. 885.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-904. Recovery of telecommunications service revenue reductions — Administration.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The Idaho public utilities commission shall determine and impose a uniform statewide monthly surcharge on each end user’s business, residential and wireless access service. The surcharge shall be an amount sufficient to reimburse each carrier of residential basic local exchange service for the total amount of telephone assistance discounts provided as well as the carrier’s and the administrator’s expenses of administering the plan. Such surcharge shall be effective concurrent with the discounts given eligible subscribers. The surcharge shall be explicitly stated on end user billings but shall not be imposed on eligible subscribers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The Idaho public utilities commission may adopt rules or issue orders necessary to receive matching federal low income telephone assistance and to implement the Idaho telephone assistance program, including procedures for adjustment and true-up of the subscriber surcharge. The commission may contract with a neutral third party to collect the surcharge, distribute assistance revenues, and perform other tasks as assigned.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>All carriers of telecommunications services shall remit the assistance surcharge revenues to the fund administrator designated by the commission on a monthly basis, unless less frequent remittances are authorized by order of the public utilities commission. The administrator shall distribute telecommunication service assistance program revenues monthly to eligible telecommunication carriers in an amount that equals their costs of administering the program and the monthly discount provided to eligible subscribers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The surcharge imposed in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section, when collected from customers of mobile wireless carriers, shall be imposed only on customers with a place of primary use in Idaho. As used in this section and as defined in 4 U.S.C. section 124, "place of primary use" means the residential street address or the primary business street address in Idaho where the customer’s use of the wireless service primarily occurs. History: [56-904, added 1987, ch. 328, sec. 1, p. 687; am. 1998, ch. 37, sec. 11, p. 164; am. 2002, ch. 311, sec. 1, p. 885.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-904. Recovery of telecommunications service revenue reductions — Administration.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The Idaho public utilities commission shall determine and impose a uniform statewide monthly surcharge on each end user’s business, residential and wireless access service. The surcharge shall be an amount sufficient to reimburse each carrier of residential basic local exchange service for the total amount of telephone assistance discounts provided as well as the carrier’s and the administrator’s expenses of administering the plan. Such surcharge shall be effective concurrent with the discounts given eligible subscribers. The surcharge shall be explicitly stated on end user billings but shall not be imposed on eligible subscribers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The Idaho public utilities commission may adopt rules or issue orders necessary to receive matching federal low income telephone assistance and to implement the Idaho telephone assistance program, including procedures for adjustment and true-up of the subscriber surcharge. The commission may contract with a neutral third party to collect the surcharge, distribute assistance revenues, and perform other tasks as assigned.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>All carriers of telecommunications services shall remit the assistance surcharge revenues to the fund administrator designated by the commission on a monthly basis, unless less frequent remittances are authorized by order of the public utilities commission. The administrator shall distribute telecommunication service assistance program revenues monthly to eligible telecommunication carriers in an amount that equals their costs of administering the program and the monthly discount provided to eligible subscribers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The surcharge imposed in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section, when collected from customers of mobile wireless carriers, shall be imposed only on customers with a place of primary use in Idaho. As used in this section and as defined in 4 U.S.C. section 124, "place of primary use" means the residential street address or the primary business street address in Idaho where the customer’s use of the wireless service primarily occurs. History: [56-904, added 1987, ch. 328, sec. 1, p. 687; am. 1998, ch. 37, sec. 11, p. 164; am. 2002, ch. 311, sec. 1, p. 885.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-904. Recovery of telecommunications service revenue reductions — Administration.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The Idaho public utilities commission shall determine and impose a uniform statewide monthly surcharge on each end user’s business, residential and wireless access service. The surcharge shall be an amount sufficient to reimburse each carrier of residential basic local exchange service for the total amount of telephone assistance discounts provided as well as the carrier’s and the administrator’s expenses of administering the plan. Such surcharge shall be effective concurrent with the discounts given eligible subscribers. The surcharge shall be explicitly stated on end user billings but shall not be imposed on eligible subscribers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The Idaho public utilities commission may adopt rules or issue orders necessary to receive matching federal low income telephone assistance and to implement the Idaho telephone assistance program, including procedures for adjustment and true-up of the subscriber surcharge. The commission may contract with a neutral third party to collect the surcharge, distribute assistance revenues, and perform other tasks as assigned.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>All carriers of telecommunications services shall remit the assistance surcharge revenues to the fund administrator designated by the commission on a monthly basis, unless less frequent remittances are authorized by order of the public utilities commission. The administrator shall distribute telecommunication service assistance program revenues monthly to eligible telecommunication carriers in an amount that equals their costs of administering the program and the monthly discount provided to eligible subscribers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The surcharge imposed in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section, when collected from customers of mobile wireless carriers, shall be imposed only on customers with a place of primary use in Idaho. As used in this section and as defined in 4 U.S.C. section 124, "place of primary use" means the residential street address or the primary business street address in Idaho where the customer’s use of the wireless service primarily occurs. History: [56-904, added 1987, ch. 328, sec. 1, p. 687; am. 1998, ch. 37, sec. 11, p. 164; am. 2002, ch. 311, sec. 1, p. 885.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-904. Recovery of telecommunications service revenue reductions — Administration.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The Idaho public utilities commission shall determine and impose a uniform statewide monthly surcharge on each end user’s business, residential and wireless access service. The surcharge shall be an amount sufficient to reimburse each carrier of residential basic local exchange service for the total amount of telephone assistance discounts provided as well as the carrier’s and the administrator’s expenses of administering the plan. Such surcharge shall be effective concurrent with the discounts given eligible subscribers. The surcharge shall be explicitly stated on end user billings but shall not be imposed on eligible subscribers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The Idaho public utilities commission may adopt rules or issue orders necessary to receive matching federal low income telephone assistance and to implement the Idaho telephone assistance program, including procedures for adjustment and true-up of the subscriber surcharge. The commission may contract with a neutral third party to collect the surcharge, distribute assistance revenues, and perform other tasks as assigned.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>All carriers of telecommunications services shall remit the assistance surcharge revenues to the fund administrator designated by the commission on a monthly basis, unless less frequent remittances are authorized by order of the public utilities commission. The administrator shall distribute telecommunication service assistance program revenues monthly to eligible telecommunication carriers in an amount that equals their costs of administering the program and the monthly discount provided to eligible subscribers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The surcharge imposed in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section, when collected from customers of mobile wireless carriers, shall be imposed only on customers with a place of primary use in Idaho. As used in this section and as defined in 4 U.S.C. section 124, "place of primary use" means the residential street address or the primary business street address in Idaho where the customer’s use of the wireless service primarily occurs. History: [56-904, added 1987, ch. 328, sec. 1, p. 687; am. 1998, ch. 37, sec. 11, p. 164; am. 2002, ch. 311, sec. 1, p. 885.]
+56-904. Recovery of telecommunications service revenue reductions — Administration.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The Idaho public utilities commission shall determine and impose a uniform statewide monthly surcharge on each end user’s business, residential and wireless access service. The surcharge shall be an amount sufficient to reimburse each carrier of residential basic local exchange service for the total amount of telephone assistance discounts provided as well as the carrier’s and the administrator’s expenses of administering the plan. Such surcharge shall be effective concurrent with the discounts given eligible subscribers. The surcharge shall be explicitly stated on end user billings but shall not be imposed on eligible subscribers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The Idaho public utilities commission may adopt rules or issue orders necessary to receive matching federal low income telephone assistance and to implement the Idaho telephone assistance program, including procedures for adjustment and true-up of the subscriber surcharge. The commission may contract with a neutral third party to collect the surcharge, distribute assistance revenues, and perform other tasks as assigned.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>All carriers of telecommunications services shall remit the assistance surcharge revenues to the fund administrator designated by the commission on a monthly basis, unless less frequent remittances are authorized by order of the public utilities commission. The administrator shall distribute telecommunication service assistance program revenues monthly to eligible telecommunication carriers in an amount that equals their costs of administering the program and the monthly discount provided to eligible subscribers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The surcharge imposed in subsection</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_904__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of this section, when collected from customers of mobile wireless carriers, shall be imposed only on customers with a place of primary use in Idaho. As used in this section and as defined in 4 U.S.C. section 124, "place of primary use" means the residential street address or the primary business street address in Idaho where the customer’s use of the wireless service primarily occurs.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_905">
+          <akn:num>56-905</akn:num>
+          <akn:heading>Severability</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-905. Severability. The provisions of this act are hereby declared to be severable and if any provision of this act or the application of such provision to any person or circumstance is declared invalid for any reason, such declaration shall not affect the validity of remaining portions of this act. History: [56-905, added 1987, ch. 328, sec. 1, p. 688.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-905. Severability. The provisions of this act are hereby declared to be severable and if any provision of this act or the application of such provision to any person or circumstance is declared invalid for any reason, such declaration shall not affect the validity of remaining portions of this act. History: [56-905, added 1987, ch. 328, sec. 1, p. 688.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-905. Severability. The provisions of this act are hereby declared to be severable and if any provision of this act or the application of such provision to any person or circumstance is declared invalid for any reason, such declaration shall not affect the validity of remaining portions of this act. History: [56-905, added 1987, ch. 328, sec. 1, p. 688.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-905. Severability. The provisions of this act are hereby declared to be severable and if any provision of this act or the application of such provision to any person or circumstance is declared invalid for any reason, such declaration shall not affect the validity of remaining portions of this act. History: [56-905, added 1987, ch. 328, sec. 1, p. 688.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 9 TELECOMMUNICATIONS SERVICE ASSISTANCE 56-905. Severability. The provisions of this act are hereby declared to be severable and if any provision of this act or the application of such provision to any person or circumstance is declared invalid for any reason, such declaration shall not affect the validity of remaining portions of this act. History: [56-905, added 1987, ch. 328, sec. 1, p. 688.]
+56-905. Severability. The provisions of this act are hereby declared to be severable and if any provision of this act or the application of such provision to any person or circumstance is declared invalid for any reason, such declaration shall not affect the validity of remaining portions of this act.</akn:p>
+          </akn:content>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-32" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-32" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="63-32" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-32/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-32/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-32/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-32/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_63_32">
+        <akn:num>Chapter 32</akn:num>
+        <akn:heading>Administration</akn:heading>
+        <akn:section eId="sec_63_3201">
+          <akn:num>63-3201</akn:num>
+          <akn:heading>Borrowing of money in anticipation of income or revenue — Limit of borrowing — Issuance of notes</akn:heading>
+          <akn:subsection eId="63_3201__subsec_12">
+            <akn:num>(12)</akn:num>
+            <akn:content>
+              <akn:p>months or the end of the current fiscal year, whichever is shorter. History: [63-3201, added 1983, ch. 102, sec. 2, p. 220.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 32 ANTICIPATION OF REVENUE BY STATE 63-3201. Borrowing of money in anticipation of income or revenue — Limit of borrowing — Issuance of notes. The state treasurer, on approval of the state board of examiners, is hereby authorized and directed to borrow money from time to time for the state of Idaho, in anticipation of income or revenue from taxes, whether such taxes are specific, ad valorem, excise, income, franchise or license, for the current fiscal year, or that portion of such taxes not collected or previously anticipated at the time of borrowing, in a principal sum not greater than seventy-five per cent (75%) of income or revenue from such taxes which the state tax commission or any other tax collection agency certifies to the state treasurer are to be reasonably anticipated to be collected during the current fiscal year. the provision of section 67-1212 , Idaho Code, shall not limit the authority of the state treasurer to issue and sell tax anticipation notes under the authority of this chapter. Said loan shall be evidenced by the issuance and sale of tax anticipation notes of the state of Idaho, for fixed periods, not greater than twelve</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3201__subsec_12">
+            <akn:num>(12)</akn:num>
+            <akn:content>
+              <akn:p>months or the end of the current fiscal year, whichever is shorter. History: [63-3201, added 1983, ch. 102, sec. 2, p. 220.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 32 ANTICIPATION OF REVENUE BY STATE 63-3201. Borrowing of money in anticipation of income or revenue — Limit of borrowing — Issuance of notes. The state treasurer, on approval of the state board of examiners, is hereby authorized and directed to borrow money from time to time for the state of Idaho, in anticipation of income or revenue from taxes, whether such taxes are specific, ad valorem, excise, income, franchise or license, for the current fiscal year, or that portion of such taxes not collected or previously anticipated at the time of borrowing, in a principal sum not greater than seventy-five per cent (75%) of income or revenue from such taxes which the state tax commission or any other tax collection agency certifies to the state treasurer are to be reasonably anticipated to be collected during the current fiscal year. the provision of section 67-1212 , Idaho Code, shall not limit the authority of the state treasurer to issue and sell tax anticipation notes under the authority of this chapter. Said loan shall be evidenced by the issuance and sale of tax anticipation notes of the state of Idaho, for fixed periods, not greater than twelve</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3201__subsec_12">
+            <akn:num>(12)</akn:num>
+            <akn:content>
+              <akn:p>months or the end of the current fiscal year, whichever is shorter. History: [63-3201, added 1983, ch. 102, sec. 2, p. 220.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 32 ANTICIPATION OF REVENUE BY STATE 63-3201. Borrowing of money in anticipation of income or revenue — Limit of borrowing — Issuance of notes. The state treasurer, on approval of the state board of examiners, is hereby authorized and directed to borrow money from time to time for the state of Idaho, in anticipation of income or revenue from taxes, whether such taxes are specific, ad valorem, excise, income, franchise or license, for the current fiscal year, or that portion of such taxes not collected or previously anticipated at the time of borrowing, in a principal sum not greater than seventy-five per cent (75%) of income or revenue from such taxes which the state tax commission or any other tax collection agency certifies to the state treasurer are to be reasonably anticipated to be collected during the current fiscal year. the provision of section 67-1212 , Idaho Code, shall not limit the authority of the state treasurer to issue and sell tax anticipation notes under the authority of this chapter. Said loan shall be evidenced by the issuance and sale of tax anticipation notes of the state of Idaho, for fixed periods, not greater than twelve</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3201__subsec_12">
+            <akn:num>(12)</akn:num>
+            <akn:content>
+              <akn:p>months or the end of the current fiscal year, whichever is shorter. History: [63-3201, added 1983, ch. 102, sec. 2, p. 220.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 32 ANTICIPATION OF REVENUE BY STATE 63-3201. Borrowing of money in anticipation of income or revenue — Limit of borrowing — Issuance of notes. The state treasurer, on approval of the state board of examiners, is hereby authorized and directed to borrow money from time to time for the state of Idaho, in anticipation of income or revenue from taxes, whether such taxes are specific, ad valorem, excise, income, franchise or license, for the current fiscal year, or that portion of such taxes not collected or previously anticipated at the time of borrowing, in a principal sum not greater than seventy-five per cent (75%) of income or revenue from such taxes which the state tax commission or any other tax collection agency certifies to the state treasurer are to be reasonably anticipated to be collected during the current fiscal year. the provision of section 67-1212 , Idaho Code, shall not limit the authority of the state treasurer to issue and sell tax anticipation notes under the authority of this chapter. Said loan shall be evidenced by the issuance and sale of tax anticipation notes of the state of Idaho, for fixed periods, not greater than twelve</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3201__subsec_12">
+            <akn:num>(12)</akn:num>
+            <akn:content>
+              <akn:p>months or the end of the current fiscal year, whichever is shorter. History: [63-3201, added 1983, ch. 102, sec. 2, p. 220.]
+63-3201. Borrowing of money in anticipation of income or revenue — Limit of borrowing — Issuance of notes. The state treasurer, on approval of the state board of examiners, is hereby authorized and directed to borrow money from time to time for the state of Idaho, in anticipation of income or revenue from taxes, whether such taxes are specific, ad valorem, excise, income, franchise or license, for the current fiscal year, or that portion of such taxes not collected or previously anticipated at the time of borrowing, in a principal sum not greater than seventy-five per cent (75%) of income or revenue from such taxes which the state tax commission or any other tax collection agency certifies to the state treasurer are to be reasonably anticipated to be collected during the current fiscal year. the provision of section 67-1212 , Idaho Code, shall not limit the authority of the state treasurer to issue and sell tax anticipation notes under the authority of this chapter. Said loan shall be evidenced by the issuance and sale of tax anticipation notes of the state of Idaho, for fixed periods, not greater than twelve</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3201__subsec_12">
+            <akn:num>(12)</akn:num>
+            <akn:content>
+              <akn:p>months or the end of the current fiscal year, whichever is shorter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_3202">
+          <akn:num>63-3202</akn:num>
+          <akn:heading>Procedure for issuance of notes</akn:heading>
+          <akn:subsection eId="63_3202__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Whenever the state treasurer shall deem it to the best interests of the state of Idaho to issue state of Idaho tax anticipation notes, as provided in section 63-3201 , Idaho Code, the state treasurer shall make written application to the state board of examiners, stating the amount of state of Idaho tax anticipation notes the state treasurer deems advisable to issue. Upon approval of the state board of examiners by order or resolution duly entered on the minutes of the state board of examiners, the state treasurer shall issue the tax anticipation notes in accordance with the provisions of this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Prior to the public issuance and public sale of any tax anticipation note, the state treasurer shall prepare a written plan of financing which shall be filed in the office of the governor. The plan of financing shall provide for the terms and conditions under which the tax anticipation notes shall be issued, sold and delivered, the taxes to be anticipated, the maximum amount of tax anticipation notes which may be outstanding at any one time under the plan of financing, the sources of payment of the tax anticipation notes issued pursuant to the plan of financing, which may include the proceeds of sale of notes issued to refund outstanding tax anticipation notes and to pay accrued interest thereon, and all other details necessary in connection with the issuance, sale and delivery of the tax anticipation notes. The plan of financing shall specify a method pursuant to which the interest rate or rates on the tax anticipation notes may be determined during the time the tax anticipation notes are outstanding and shall also set forth the maximum interest rate which the tax anticipation notes may bear.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The tax anticipation notes shall bear interest, shall be in the form, shall be executed in the manner, shall be payable, shall be sold in the manner and at prices, either at, in excess of, or below the face value thereof, and generally shall be issued in the manner and with the details as shall be set forth in an order of the state treasurer, all in conformity with any applicable plan of financing and with this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Each tax anticipation note shall recite that it is a valid and binding obligation of the state of Idaho and that the faith and credit of the state of Idaho is solemnly pledged for the payment of the principal of and interest thereon in accordance with its terms and the constitution and laws of the state of Idaho.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Each tax anticipation note shall be recorded in the office of the state controller.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Immediately upon the completion of any sale, the state treasurer shall make a verified return of said sale to the state controller, specifying the amount of notes sold, the person or persons to whom said notes were sold and the price, terms and conditions of the sale. Immediately upon the sale of any tax anticipation notes, the state treasurer shall credit the proceeds of sale, other than accrued interest, to the general fund of the state. History: [63-3202, added 1983, ch. 102, sec. 2, p. 220; am. 1994, ch. 180, sec. 157, p. 523; am. 2003, ch. 32, sec. 33, p. 137.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 32 ANTICIPATION OF REVENUE BY STATE 63-3202. Procedure for issuance of notes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Whenever the state treasurer shall deem it to the best interests of the state of Idaho to issue state of Idaho tax anticipation notes, as provided in section 63-3201 , Idaho Code, the state treasurer shall make written application to the state board of examiners, stating the amount of state of Idaho tax anticipation notes the state treasurer deems advisable to issue. Upon approval of the state board of examiners by order or resolution duly entered on the minutes of the state board of examiners, the state treasurer shall issue the tax anticipation notes in accordance with the provisions of this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Prior to the public issuance and public sale of any tax anticipation note, the state treasurer shall prepare a written plan of financing which shall be filed in the office of the governor. The plan of financing shall provide for the terms and conditions under which the tax anticipation notes shall be issued, sold and delivered, the taxes to be anticipated, the maximum amount of tax anticipation notes which may be outstanding at any one time under the plan of financing, the sources of payment of the tax anticipation notes issued pursuant to the plan of financing, which may include the proceeds of sale of notes issued to refund outstanding tax anticipation notes and to pay accrued interest thereon, and all other details necessary in connection with the issuance, sale and delivery of the tax anticipation notes. The plan of financing shall specify a method pursuant to which the interest rate or rates on the tax anticipation notes may be determined during the time the tax anticipation notes are outstanding and shall also set forth the maximum interest rate which the tax anticipation notes may bear.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The tax anticipation notes shall bear interest, shall be in the form, shall be executed in the manner, shall be payable, shall be sold in the manner and at prices, either at, in excess of, or below the face value thereof, and generally shall be issued in the manner and with the details as shall be set forth in an order of the state treasurer, all in conformity with any applicable plan of financing and with this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Each tax anticipation note shall recite that it is a valid and binding obligation of the state of Idaho and that the faith and credit of the state of Idaho is solemnly pledged for the payment of the principal of and interest thereon in accordance with its terms and the constitution and laws of the state of Idaho.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Each tax anticipation note shall be recorded in the office of the state controller.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Immediately upon the completion of any sale, the state treasurer shall make a verified return of said sale to the state controller, specifying the amount of notes sold, the person or persons to whom said notes were sold and the price, terms and conditions of the sale. Immediately upon the sale of any tax anticipation notes, the state treasurer shall credit the proceeds of sale, other than accrued interest, to the general fund of the state. History: [63-3202, added 1983, ch. 102, sec. 2, p. 220; am. 1994, ch. 180, sec. 157, p. 523; am. 2003, ch. 32, sec. 33, p. 137.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 32 ANTICIPATION OF REVENUE BY STATE 63-3202. Procedure for issuance of notes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Whenever the state treasurer shall deem it to the best interests of the state of Idaho to issue state of Idaho tax anticipation notes, as provided in section 63-3201 , Idaho Code, the state treasurer shall make written application to the state board of examiners, stating the amount of state of Idaho tax anticipation notes the state treasurer deems advisable to issue. Upon approval of the state board of examiners by order or resolution duly entered on the minutes of the state board of examiners, the state treasurer shall issue the tax anticipation notes in accordance with the provisions of this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Prior to the public issuance and public sale of any tax anticipation note, the state treasurer shall prepare a written plan of financing which shall be filed in the office of the governor. The plan of financing shall provide for the terms and conditions under which the tax anticipation notes shall be issued, sold and delivered, the taxes to be anticipated, the maximum amount of tax anticipation notes which may be outstanding at any one time under the plan of financing, the sources of payment of the tax anticipation notes issued pursuant to the plan of financing, which may include the proceeds of sale of notes issued to refund outstanding tax anticipation notes and to pay accrued interest thereon, and all other details necessary in connection with the issuance, sale and delivery of the tax anticipation notes. The plan of financing shall specify a method pursuant to which the interest rate or rates on the tax anticipation notes may be determined during the time the tax anticipation notes are outstanding and shall also set forth the maximum interest rate which the tax anticipation notes may bear.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The tax anticipation notes shall bear interest, shall be in the form, shall be executed in the manner, shall be payable, shall be sold in the manner and at prices, either at, in excess of, or below the face value thereof, and generally shall be issued in the manner and with the details as shall be set forth in an order of the state treasurer, all in conformity with any applicable plan of financing and with this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Each tax anticipation note shall recite that it is a valid and binding obligation of the state of Idaho and that the faith and credit of the state of Idaho is solemnly pledged for the payment of the principal of and interest thereon in accordance with its terms and the constitution and laws of the state of Idaho.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Each tax anticipation note shall be recorded in the office of the state controller.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Immediately upon the completion of any sale, the state treasurer shall make a verified return of said sale to the state controller, specifying the amount of notes sold, the person or persons to whom said notes were sold and the price, terms and conditions of the sale. Immediately upon the sale of any tax anticipation notes, the state treasurer shall credit the proceeds of sale, other than accrued interest, to the general fund of the state. History: [63-3202, added 1983, ch. 102, sec. 2, p. 220; am. 1994, ch. 180, sec. 157, p. 523; am. 2003, ch. 32, sec. 33, p. 137.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 32 ANTICIPATION OF REVENUE BY STATE 63-3202. Procedure for issuance of notes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Whenever the state treasurer shall deem it to the best interests of the state of Idaho to issue state of Idaho tax anticipation notes, as provided in section 63-3201 , Idaho Code, the state treasurer shall make written application to the state board of examiners, stating the amount of state of Idaho tax anticipation notes the state treasurer deems advisable to issue. Upon approval of the state board of examiners by order or resolution duly entered on the minutes of the state board of examiners, the state treasurer shall issue the tax anticipation notes in accordance with the provisions of this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Prior to the public issuance and public sale of any tax anticipation note, the state treasurer shall prepare a written plan of financing which shall be filed in the office of the governor. The plan of financing shall provide for the terms and conditions under which the tax anticipation notes shall be issued, sold and delivered, the taxes to be anticipated, the maximum amount of tax anticipation notes which may be outstanding at any one time under the plan of financing, the sources of payment of the tax anticipation notes issued pursuant to the plan of financing, which may include the proceeds of sale of notes issued to refund outstanding tax anticipation notes and to pay accrued interest thereon, and all other details necessary in connection with the issuance, sale and delivery of the tax anticipation notes. The plan of financing shall specify a method pursuant to which the interest rate or rates on the tax anticipation notes may be determined during the time the tax anticipation notes are outstanding and shall also set forth the maximum interest rate which the tax anticipation notes may bear.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The tax anticipation notes shall bear interest, shall be in the form, shall be executed in the manner, shall be payable, shall be sold in the manner and at prices, either at, in excess of, or below the face value thereof, and generally shall be issued in the manner and with the details as shall be set forth in an order of the state treasurer, all in conformity with any applicable plan of financing and with this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Each tax anticipation note shall recite that it is a valid and binding obligation of the state of Idaho and that the faith and credit of the state of Idaho is solemnly pledged for the payment of the principal of and interest thereon in accordance with its terms and the constitution and laws of the state of Idaho.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Each tax anticipation note shall be recorded in the office of the state controller.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Immediately upon the completion of any sale, the state treasurer shall make a verified return of said sale to the state controller, specifying the amount of notes sold, the person or persons to whom said notes were sold and the price, terms and conditions of the sale. Immediately upon the sale of any tax anticipation notes, the state treasurer shall credit the proceeds of sale, other than accrued interest, to the general fund of the state. History: [63-3202, added 1983, ch. 102, sec. 2, p. 220; am. 1994, ch. 180, sec. 157, p. 523; am. 2003, ch. 32, sec. 33, p. 137.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 32 ANTICIPATION OF REVENUE BY STATE 63-3202. Procedure for issuance of notes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Whenever the state treasurer shall deem it to the best interests of the state of Idaho to issue state of Idaho tax anticipation notes, as provided in section 63-3201 , Idaho Code, the state treasurer shall make written application to the state board of examiners, stating the amount of state of Idaho tax anticipation notes the state treasurer deems advisable to issue. Upon approval of the state board of examiners by order or resolution duly entered on the minutes of the state board of examiners, the state treasurer shall issue the tax anticipation notes in accordance with the provisions of this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Prior to the public issuance and public sale of any tax anticipation note, the state treasurer shall prepare a written plan of financing which shall be filed in the office of the governor. The plan of financing shall provide for the terms and conditions under which the tax anticipation notes shall be issued, sold and delivered, the taxes to be anticipated, the maximum amount of tax anticipation notes which may be outstanding at any one time under the plan of financing, the sources of payment of the tax anticipation notes issued pursuant to the plan of financing, which may include the proceeds of sale of notes issued to refund outstanding tax anticipation notes and to pay accrued interest thereon, and all other details necessary in connection with the issuance, sale and delivery of the tax anticipation notes. The plan of financing shall specify a method pursuant to which the interest rate or rates on the tax anticipation notes may be determined during the time the tax anticipation notes are outstanding and shall also set forth the maximum interest rate which the tax anticipation notes may bear.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The tax anticipation notes shall bear interest, shall be in the form, shall be executed in the manner, shall be payable, shall be sold in the manner and at prices, either at, in excess of, or below the face value thereof, and generally shall be issued in the manner and with the details as shall be set forth in an order of the state treasurer, all in conformity with any applicable plan of financing and with this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Each tax anticipation note shall recite that it is a valid and binding obligation of the state of Idaho and that the faith and credit of the state of Idaho is solemnly pledged for the payment of the principal of and interest thereon in accordance with its terms and the constitution and laws of the state of Idaho.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Each tax anticipation note shall be recorded in the office of the state controller.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Immediately upon the completion of any sale, the state treasurer shall make a verified return of said sale to the state controller, specifying the amount of notes sold, the person or persons to whom said notes were sold and the price, terms and conditions of the sale. Immediately upon the sale of any tax anticipation notes, the state treasurer shall credit the proceeds of sale, other than accrued interest, to the general fund of the state. History: [63-3202, added 1983, ch. 102, sec. 2, p. 220; am. 1994, ch. 180, sec. 157, p. 523; am. 2003, ch. 32, sec. 33, p. 137.]
+63-3202. Procedure for issuance of notes.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Whenever the state treasurer shall deem it to the best interests of the state of Idaho to issue state of Idaho tax anticipation notes, as provided in section 63-3201 , Idaho Code, the state treasurer shall make written application to the state board of examiners, stating the amount of state of Idaho tax anticipation notes the state treasurer deems advisable to issue. Upon approval of the state board of examiners by order or resolution duly entered on the minutes of the state board of examiners, the state treasurer shall issue the tax anticipation notes in accordance with the provisions of this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Prior to the public issuance and public sale of any tax anticipation note, the state treasurer shall prepare a written plan of financing which shall be filed in the office of the governor. The plan of financing shall provide for the terms and conditions under which the tax anticipation notes shall be issued, sold and delivered, the taxes to be anticipated, the maximum amount of tax anticipation notes which may be outstanding at any one time under the plan of financing, the sources of payment of the tax anticipation notes issued pursuant to the plan of financing, which may include the proceeds of sale of notes issued to refund outstanding tax anticipation notes and to pay accrued interest thereon, and all other details necessary in connection with the issuance, sale and delivery of the tax anticipation notes. The plan of financing shall specify a method pursuant to which the interest rate or rates on the tax anticipation notes may be determined during the time the tax anticipation notes are outstanding and shall also set forth the maximum interest rate which the tax anticipation notes may bear.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The tax anticipation notes shall bear interest, shall be in the form, shall be executed in the manner, shall be payable, shall be sold in the manner and at prices, either at, in excess of, or below the face value thereof, and generally shall be issued in the manner and with the details as shall be set forth in an order of the state treasurer, all in conformity with any applicable plan of financing and with this chapter.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Each tax anticipation note shall recite that it is a valid and binding obligation of the state of Idaho and that the faith and credit of the state of Idaho is solemnly pledged for the payment of the principal of and interest thereon in accordance with its terms and the constitution and laws of the state of Idaho.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Each tax anticipation note shall be recorded in the office of the state controller.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3202__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Immediately upon the completion of any sale, the state treasurer shall make a verified return of said sale to the state controller, specifying the amount of notes sold, the person or persons to whom said notes were sold and the price, terms and conditions of the sale. Immediately upon the sale of any tax anticipation notes, the state treasurer shall credit the proceeds of sale, other than accrued interest, to the general fund of the state.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_3203">
+          <akn:num>63-3203</akn:num>
+          <akn:heading>Tax anticipation note redemption fund</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 32 ANTICIPATION OF REVENUE BY STATE 63-3203. Tax anticipation note redemption fund. To provide for the payment of the principal of and interest on tax anticipation notes there is hereby created a special fund to be known as the "Tax Anticipation Note Redemption Fund." Whenever any tax anticipation notes have been issued in anticipation of income or revenue from taxes as authorized and directed by this chapter, all income or revenue realized from the taxes which were specified in the approved plan of financing to be anticipated shall be placed in the tax anticipation note redemption fund until such time as the funds accumulated therein shall be sufficient to pay the principal amount of all such notes outstanding, together with interest thereon until paid; and the funds so accumulated in the redemption fund are hereby appropriated and set aside solely for such purposes; provided, however, except as otherwise provided in the constitution of the state of Idaho nothing in this chapter shall be construed to limit the payment of the principal and interest of tax anticipation notes solely to the income and revenues from the specific taxes in anticipation of which the notes were issued. Accrued interest received upon the sale of the tax anticipation notes shall be deposited by the state treasurer in the redemption fund. The state treasurer is authorized to invest all moneys from time to time in the redemption fund in any authorized investment of the state treasurer maturing at a time or times which will permit payment of the principal of and interest on the tax anticipation notes in a timely manner when due. The state treasurer is authorized to covenant with the purchasers of the tax anticipation notes as to the manner of holding moneys in the redemption fund, the investments of moneys in the redemption fund and the disposition of any investment income therefrom either by retaining investment income in the redemption fund to be used to pay principal of and interest on tax anticipation notes when due or by paying the investment income to the state treasurer for deposit into the general account in the operating fund of the state; provided, however, whenever there is sufficient money in the redemption fund to pay all principal of and interest on all outstanding tax anticipation notes payable therefrom, all investment income thereon must be paid to the state treasurer for deposit into the general account in the state operating fund of the state. History: [63-3203, added 1983, ch. 102, sec. 2, p. 221.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 32 ANTICIPATION OF REVENUE BY STATE 63-3203. Tax anticipation note redemption fund. To provide for the payment of the principal of and interest on tax anticipation notes there is hereby created a special fund to be known as the "Tax Anticipation Note Redemption Fund." Whenever any tax anticipation notes have been issued in anticipation of income or revenue from taxes as authorized and directed by this chapter, all income or revenue realized from the taxes which were specified in the approved plan of financing to be anticipated shall be placed in the tax anticipation note redemption fund until such time as the funds accumulated therein shall be sufficient to pay the principal amount of all such notes outstanding, together with interest thereon until paid; and the funds so accumulated in the redemption fund are hereby appropriated and set aside solely for such purposes; provided, however, except as otherwise provided in the constitution of the state of Idaho nothing in this chapter shall be construed to limit the payment of the principal and interest of tax anticipation notes solely to the income and revenues from the specific taxes in anticipation of which the notes were issued. Accrued interest received upon the sale of the tax anticipation notes shall be deposited by the state treasurer in the redemption fund. The state treasurer is authorized to invest all moneys from time to time in the redemption fund in any authorized investment of the state treasurer maturing at a time or times which will permit payment of the principal of and interest on the tax anticipation notes in a timely manner when due. The state treasurer is authorized to covenant with the purchasers of the tax anticipation notes as to the manner of holding moneys in the redemption fund, the investments of moneys in the redemption fund and the disposition of any investment income therefrom either by retaining investment income in the redemption fund to be used to pay principal of and interest on tax anticipation notes when due or by paying the investment income to the state treasurer for deposit into the general account in the operating fund of the state; provided, however, whenever there is sufficient money in the redemption fund to pay all principal of and interest on all outstanding tax anticipation notes payable therefrom, all investment income thereon must be paid to the state treasurer for deposit into the general account in the state operating fund of the state. History: [63-3203, added 1983, ch. 102, sec. 2, p. 221.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 32 ANTICIPATION OF REVENUE BY STATE 63-3203. Tax anticipation note redemption fund. To provide for the payment of the principal of and interest on tax anticipation notes there is hereby created a special fund to be known as the "Tax Anticipation Note Redemption Fund." Whenever any tax anticipation notes have been issued in anticipation of income or revenue from taxes as authorized and directed by this chapter, all income or revenue realized from the taxes which were specified in the approved plan of financing to be anticipated shall be placed in the tax anticipation note redemption fund until such time as the funds accumulated therein shall be sufficient to pay the principal amount of all such notes outstanding, together with interest thereon until paid; and the funds so accumulated in the redemption fund are hereby appropriated and set aside solely for such purposes; provided, however, except as otherwise provided in the constitution of the state of Idaho nothing in this chapter shall be construed to limit the payment of the principal and interest of tax anticipation notes solely to the income and revenues from the specific taxes in anticipation of which the notes were issued. Accrued interest received upon the sale of the tax anticipation notes shall be deposited by the state treasurer in the redemption fund. The state treasurer is authorized to invest all moneys from time to time in the redemption fund in any authorized investment of the state treasurer maturing at a time or times which will permit payment of the principal of and interest on the tax anticipation notes in a timely manner when due. The state treasurer is authorized to covenant with the purchasers of the tax anticipation notes as to the manner of holding moneys in the redemption fund, the investments of moneys in the redemption fund and the disposition of any investment income therefrom either by retaining investment income in the redemption fund to be used to pay principal of and interest on tax anticipation notes when due or by paying the investment income to the state treasurer for deposit into the general account in the operating fund of the state; provided, however, whenever there is sufficient money in the redemption fund to pay all principal of and interest on all outstanding tax anticipation notes payable therefrom, all investment income thereon must be paid to the state treasurer for deposit into the general account in the state operating fund of the state. History: [63-3203, added 1983, ch. 102, sec. 2, p. 221.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 32 ANTICIPATION OF REVENUE BY STATE 63-3203. Tax anticipation note redemption fund. To provide for the payment of the principal of and interest on tax anticipation notes there is hereby created a special fund to be known as the "Tax Anticipation Note Redemption Fund." Whenever any tax anticipation notes have been issued in anticipation of income or revenue from taxes as authorized and directed by this chapter, all income or revenue realized from the taxes which were specified in the approved plan of financing to be anticipated shall be placed in the tax anticipation note redemption fund until such time as the funds accumulated therein shall be sufficient to pay the principal amount of all such notes outstanding, together with interest thereon until paid; and the funds so accumulated in the redemption fund are hereby appropriated and set aside solely for such purposes; provided, however, except as otherwise provided in the constitution of the state of Idaho nothing in this chapter shall be construed to limit the payment of the principal and interest of tax anticipation notes solely to the income and revenues from the specific taxes in anticipation of which the notes were issued. Accrued interest received upon the sale of the tax anticipation notes shall be deposited by the state treasurer in the redemption fund. The state treasurer is authorized to invest all moneys from time to time in the redemption fund in any authorized investment of the state treasurer maturing at a time or times which will permit payment of the principal of and interest on the tax anticipation notes in a timely manner when due. The state treasurer is authorized to covenant with the purchasers of the tax anticipation notes as to the manner of holding moneys in the redemption fund, the investments of moneys in the redemption fund and the disposition of any investment income therefrom either by retaining investment income in the redemption fund to be used to pay principal</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_3204">
+          <akn:num>63-3204</akn:num>
+          <akn:heading>Expenses of negotiating loan and issuing notes</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 32 ANTICIPATION OF REVENUE BY STATE 63-3204. Expenses of negotiating loan and issuing notes. Any and all expenses incident to the issuance of tax anticipation notes authorized and directed by this chapter, shall be paid from the proceeds of sale of the tax anticipation notes credited to the general account in the state operating fund of the state and there is hereby appropriated all sums necessary for the payment of the expenses of issuance when due. History: [63-3204, added 1983, ch. 102, sec. 2, p. 222.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 32 ANTICIPATION OF REVENUE BY STATE 63-3204. Expenses of negotiating loan and issuing notes. Any and all expenses incident to the issuance of tax anticipation notes authorized and directed by this chapter, shall be paid from the proceeds of sale of the tax anticipation notes credited to the general account in the state operating fund of the state and there is hereby appropriated all sums necessary for the payment of the expenses of issuance when due. History: [63-3204, added 1983, ch. 102, sec. 2, p. 222.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 32 ANTICIPATION OF REVENUE BY STATE 63-3204. Expenses of negotiating loan and issuing notes. Any and all expenses incident to the issuance of tax anticipation notes authorized and directed by this chapter, shall be paid from the proceeds of sale of the tax anticipation notes credited to the general account in the state operating fund of the state and there is hereby appropriated all sums necessary for the payment of the expenses of issuance when due. History: [63-3204, added 1983, ch. 102, sec. 2, p. 222.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 32 ANTICIPATION OF REVENUE BY STATE 63-3204. Expenses of negotiating loan and issuing notes. Any and all expenses incident to the issuance of tax anticipation notes authorized and directed by this chapter, shall be paid from the proceeds of sale of the tax anticipation notes credited to the general account in the state operating fund of the state and there is hereby appropriated all sums necessary for the payment of the expenses of issuance when due. History: [63-3204, added 1983, ch. 102, sec. 2, p. 222.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 32 ANTICIPATION OF REVENUE BY STATE 63-3204. Expenses of negotiating loan and issuing notes. Any and all expenses incident to the issuance of tax anticipation notes authorized and directed by this chapter, shall be paid from the proceeds of sale of the tax anticipation notes credited to the general account in the state operating fund of the state and there is hereby appropriated all sums necessary for the payment of the expenses of issuance when due. History: [63-3204, added 1983, ch. 102, sec. 2, p. 222.]
+63-3204. Expenses of negotiating loan and issuing notes. Any and all expenses incident to the issuance of tax anticipation notes authorized and directed by this chapter, shall be paid from the proceeds of sale of the tax anticipation notes credited to the general account in the state operating fund of the state and there is hereby appropriated all sums necessary for the payment of the expenses of issuance when due.</akn:p>
+          </akn:content>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-23" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-23" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="63-23" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-23/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-23/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-23/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-23/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_63_23">
+        <akn:num>Chapter 23</akn:num>
+        <akn:heading>License Fees</akn:heading>
+        <akn:section eId="sec_63_2301">
+          <akn:num>63-2301</akn:num>
+          <akn:heading>Licenses prepared — Printed — Accounting</akn:heading>
+          <akn:subsection eId="63_2301__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>County issuing the license;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Type of license and amount paid;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Person or business to whom issued;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Date of issuance and expiration date;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Treasurer’s signature.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_2301__subsec_e__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>The treasurer shall keep in his office an accounting for all licenses sold by him. History: [63-2301, added 1995, ch. 206, sec. 2, p. 701.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2301. Licenses prepared — Printed — Accounting.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_2301__subsec_e__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>The county treasurer shall issue consecutively numbered licenses for each class provided for in this chapter. The licenses shall have essentially the following information:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>County issuing the license;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Type of license and amount paid;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Person or business to whom issued;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Date of issuance and expiration date;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Treasurer’s signature.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_2301__subsec_e__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>The treasurer shall keep in his office an accounting for all licenses sold by him. History: [63-2301, added 1995, ch. 206, sec. 2, p. 701.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2301. Licenses prepared — Printed — Accounting.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_2301__subsec_e__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>The county treasurer shall issue consecutively numbered licenses for each class provided for in this chapter. The licenses shall have essentially the following information:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>County issuing the license;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Type of license and amount paid;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Person or business to whom issued;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Date of issuance and expiration date;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Treasurer’s signature.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_2301__subsec_e__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>The treasurer shall keep in his office an accounting for all licenses sold by him. History: [63-2301, added 1995, ch. 206, sec. 2, p. 701.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2301. Licenses prepared — Printed — Accounting.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_2301__subsec_e__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>The county treasurer shall issue consecutively numbered licenses for each class provided for in this chapter. The licenses shall have essentially the following information:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>County issuing the license;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Type of license and amount paid;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Person or business to whom issued;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Date of issuance and expiration date;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Treasurer’s signature.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_2301__subsec_e__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>The treasurer shall keep in his office an accounting for all licenses sold by him. History: [63-2301, added 1995, ch. 206, sec. 2, p. 701.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2301. Licenses prepared — Printed — Accounting.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_2301__subsec_e__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>The county treasurer shall issue consecutively numbered licenses for each class provided for in this chapter. The licenses shall have essentially the following information:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>County issuing the license;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Type of license and amount paid;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Person or business to whom issued;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Date of issuance and expiration date;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Treasurer’s signature.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_2301__subsec_e__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>The treasurer shall keep in his office an accounting for all licenses sold by him. History: [63-2301, added 1995, ch. 206, sec. 2, p. 701.]
+63-2301. Licenses prepared — Printed — Accounting.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="63_2301__subsec_e__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>The county treasurer shall issue consecutively numbered licenses for each class provided for in this chapter. The licenses shall have essentially the following information:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>County issuing the license;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Type of license and amount paid;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Person or business to whom issued;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Date of issuance and expiration date;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2301__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Treasurer’s signature.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_2301__subsec_e__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>The treasurer shall keep in his office an accounting for all licenses sold by him.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_2302">
+          <akn:num>63-2302</akn:num>
+          <akn:heading>License to be procured before commencing business</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2302. License to be procured before commencing business. A license must be procured immediately before the commencement of any business or occupation liable to a license tax from the treasurer of the county where the applicant desires to transact the business which license authorizes the party obtaining it in his particular locality in the county to transact the business described in the license. Separate licenses must be obtained for each branch, establishment or separate house of business located in the same county. No license issued under this chapter shall be required of any person to carry on any business within the limits of any incorporated city having power by its charter to impose or levy city license taxes, if such person procures the license required by the ordinances or orders of such city. History: [63-2302, added 1995, ch. 206, sec. 2, p. 701; am. 1997, ch. 146, sec. 1, p. 422.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2302. License to be procured before commencing business. A license must be procured immediately before the commencement of any business or occupation liable to a license tax from the treasurer of the county where the applicant desires to transact the business which license authorizes the party obtaining it in his particular locality in the county to transact the business described in the license. Separate licenses must be obtained for each branch, establishment or separate house of business located in the same county. No license issued under this chapter shall be required of any person to carry on any business within the limits of any incorporated city having power by its charter to impose or levy city license taxes, if such person procures the license required by the ordinances or orders of such city. History: [63-2302, added 1995, ch. 206, sec. 2, p. 701; am. 1997, ch. 146, sec. 1, p. 422.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2302. License to be procured before commencing business. A license must be procured immediately before the commencement of any business or occupation liable to a license tax from the treasurer of the county where the applicant desires to transact the business which license authorizes the party obtaining it in his particular locality in the county to transact the business described in the license. Separate licenses must be obtained for each branch, establishment or separate house of business located in the same county. No license issued under this chapter shall be required of any person to carry on any business within the limits of any incorporated city having power by its charter to impose or levy city license taxes, if such person procures the license required by the ordinances or orders of such city. History: [63-2302, added 1995, ch. 206, sec. 2, p. 701; am. 1997, ch. 146, sec. 1, p. 422.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2302. License to be procured before commencing business. A license must be procured immediately before the commencement of any business or occupation liable to a license tax from the treasurer of the county where the applicant desires to transact the business which license authorizes the party obtaining it in his particular locality in the county to transact the business described in the license. Separate licenses must be obtained for each branch, establishment or separate house of business located in the same county. No license issued under this chapter shall be required of any person to carry on any business within the limits of any incorporated city having power by its charter to impose or levy city license taxes, if such person procures the license required by the ordinances or orders of such city. History: [63-2302, added 1995, ch. 206, sec. 2, p. 701; am. 1997, ch. 146, sec. 1, p. 422.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2302. License to be procured before commencing business. A license must be procured immediately before the commencement of any business or occupation liable to a license tax from the treasurer of the county where the applicant desires to transact the business which license authorizes the party obtaining it in his particular locality in the county to transact the business described in the license. Separate licenses must be obtained for each branch, establishment or separate house of business located in the same county. No license issued under this chapter shall be required of any person to carry on any business within the limits of any incorporated city having power by its charter to impose or levy city license taxes, if such person procures the license required by the ordinances or orders of such city. History: [63-2302, added 1995, ch. 206, sec. 2, p. 701; am. 1997, ch. 146, sec. 1, p. 422.]
+63-2302. License to be procured before commencing business. A license must be procured immediately before the commencement of any business or occupation liable to a license tax from the treasurer of the county where the applicant desires to transact the business which license authorizes the party obtaining it in his particular locality in the county to transact the business described in the license. Separate licenses must be obtained for each branch, establishment or separate house of business located in the same county.
+No license issued under this chapter shall be required of any person to carry on any business within the limits of any incorporated city having power by its charter to impose or levy city license taxes, if such person procures the license required by the ordinances or orders of such city.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_2303">
+          <akn:num>63-2303</akn:num>
+          <akn:heading>Pawnbroker’s license</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2303. Pawnbroker’s license. Each pawnbroker whose business is located in the county and outside the limits of an incorporated city must obtain a pawnbroker’s license from the treasurer and must pay therefor fifty dollars ($50.00) per calendar quarter. History: [63-2303, added 1995, ch. 206, sec. 2, p. 702; am. 1997, ch. 146, sec. 2, p. 422.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2303. Pawnbroker’s license. Each pawnbroker whose business is located in the county and outside the limits of an incorporated city must obtain a pawnbroker’s license from the treasurer and must pay therefor fifty dollars ($50.00) per calendar quarter. History: [63-2303, added 1995, ch. 206, sec. 2, p. 702; am. 1997, ch. 146, sec. 2, p. 422.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2303. Pawnbroker’s license. Each pawnbroker whose business is located in the county and outside the limits of an incorporated city must obtain a pawnbroker’s license from the treasurer and must pay therefor fifty dollars ($50.00) per calendar quarter. History: [63-2303, added 1995, ch. 206, sec. 2, p. 702; am. 1997, ch. 146, sec. 2, p. 422.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2303. Pawnbroker’s license. Each pawnbroker whose business is located in the county and outside the limits of an incorporated city must obtain a pawnbroker’s license from the treasurer and must pay therefor fifty dollars ($50.00) per calendar quarter. History: [63-2303, added 1995, ch. 206, sec. 2, p. 702; am. 1997, ch. 146, sec. 2, p. 422.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2303. Pawnbroker’s license. Each pawnbroker whose business is located in the county and outside the limits of an incorporated city must obtain a pawnbroker’s license from the treasurer and must pay therefor fifty dollars ($50.00) per calendar quarter. History: [63-2303, added 1995, ch. 206, sec. 2, p. 702; am. 1997, ch. 146, sec. 2, p. 422.]
+63-2303. Pawnbroker’s license. Each pawnbroker whose business is located in the county and outside the limits of an incorporated city must obtain a pawnbroker’s license from the treasurer and must pay therefor fifty dollars ($50.00) per calendar quarter.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_2305">
+          <akn:num>63-2305</akn:num>
+          <akn:heading>Bridge and ferry license</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2305. Bridge and ferry license. Licenses to take tolls on bridges or ferries are fixed annually by the commissioners. The licenses therein provided for must be obtained from the treasurer of the county. History: [63-2305, added 1995, ch. 206, sec. 2, p. 702.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2305. Bridge and ferry license. Licenses to take tolls on bridges or ferries are fixed annually by the commissioners. The licenses therein provided for must be obtained from the treasurer of the county. History: [63-2305, added 1995, ch. 206, sec. 2, p. 702.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2305. Bridge and ferry license. Licenses to take tolls on bridges or ferries are fixed annually by the commissioners. The licenses therein provided for must be obtained from the treasurer of the county. History: [63-2305, added 1995, ch. 206, sec. 2, p. 702.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2305. Bridge and ferry license. Licenses to take tolls on bridges or ferries are fixed annually by the commissioners. The licenses therein provided for must be obtained from the treasurer of the county. History: [63-2305, added 1995, ch. 206, sec. 2, p. 702.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2305. Bridge and ferry license. Licenses to take tolls on bridges or ferries are fixed annually by the commissioners. The licenses therein provided for must be obtained from the treasurer of the county. History: [63-2305, added 1995, ch. 206, sec. 2, p. 702.]
+63-2305. Bridge and ferry license. Licenses to take tolls on bridges or ferries are fixed annually by the commissioners. The licenses therein provided for must be obtained from the treasurer of the county.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_2306">
+          <akn:num>63-2306</akn:num>
+          <akn:heading>Monthly settlement for licenses — Application of license money</akn:heading>
+          <akn:subsection eId="63_2306__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Thirty percent (30%) to the school district in which the licenses are collected for general revenue purposes;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Forty percent (40%) for general revenue purposes of the city; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Thirty percent (30%) to the county current expense fund.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_2306__subsec_c__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>If by applicants without an incorporated city:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Fifty percent (50%) to the school district in which the licenses are collected; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Fifty percent (50%) to the county current expense fund. History: [63-2306, added 1995, ch. 206, sec. 2, p. 702.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2306. Monthly settlement for licenses — Application of license money. On the first Monday in each month the treasurer shall pay into the county treasury all money collected from all licenses sold during the preceding month upon the certificate of the county auditor, and shall file a statement or report each month with the county auditor showing the amount of licenses collected in each school district to be apportioned in the following manner:</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_2306__subsec_b__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>If by applicants within an incorporated city or city acting under special charter:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Thirty percent (30%) to the school district in which the licenses are collected for general revenue purposes;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Forty percent (40%) for general revenue purposes of the city; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Thirty percent (30%) to the county current expense fund.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_2306__subsec_c__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>If by applicants without an incorporated city:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Fifty percent (50%) to the school district in which the licenses are collected; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Fifty percent (50%) to the county current expense fund. History: [63-2306, added 1995, ch. 206, sec. 2, p. 702.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2306. Monthly settlement for licenses — Application of license money. On the first Monday in each month the treasurer shall pay into the county treasury all money collected from all licenses sold during the preceding month upon the certificate of the county auditor, and shall file a statement or report each month with the county auditor showing the amount of licenses collected in each school district to be apportioned in the following manner:</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_2306__subsec_b__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>If by applicants within an incorporated city or city acting under special charter:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Thirty percent (30%) to the school district in which the licenses are collected for general revenue purposes;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Forty percent (40%) for general revenue purposes of the city; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Thirty percent (30%) to the county current expense fund.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_2306__subsec_c__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>If by applicants without an incorporated city:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Fifty percent (50%) to the school district in which the licenses are collected; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Fifty percent (50%) to the county current expense fund. History: [63-2306, added 1995, ch. 206, sec. 2, p. 702.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2306. Monthly settlement for licenses — Application of license money. On the first Monday in each month the treasurer shall pay into the county treasury all money collected from all licenses sold during the preceding month upon the certificate of the county auditor, and shall file a statement or report each month with the county auditor showing the amount of licenses collected in each school district to be apportioned in the following manner:</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_2306__subsec_b__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>If by applicants within an incorporated city or city acting under special charter:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Thirty percent (30%) to the school district in which the licenses are collected for general revenue purposes;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Forty percent (40%) for general revenue purposes of the city; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Thirty percent (30%) to the county current expense fund.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_2306__subsec_c__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>If by applicants without an incorporated city:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Fifty percent (50%) to the school district in which the licenses are collected; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Fifty percent (50%) to the county current expense fund. History: [63-2306, added 1995, ch. 206, sec. 2, p. 702.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2306. Monthly settlement for licenses — Application of license money. On the first Monday in each month the treasurer shall pay into the county treasury all money collected from all licenses sold during the preceding month upon the certificate of the county auditor, and shall file a statement or report each month with the county auditor showing the amount of licenses collected in each school district to be apportioned in the following manner:</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_2306__subsec_b__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>If by applicants within an incorporated city or city acting under special charter:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Thirty percent (30%) to the school district in which the licenses are collected for general revenue purposes;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Forty percent (40%) for general revenue purposes of the city; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Thirty percent (30%) to the county current expense fund.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_2306__subsec_c__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>If by applicants without an incorporated city:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Fifty percent (50%) to the school district in which the licenses are collected; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Fifty percent (50%) to the county current expense fund. History: [63-2306, added 1995, ch. 206, sec. 2, p. 702.]
+63-2306. Monthly settlement for licenses — Application of license money. On the first Monday in each month the treasurer shall pay into the county treasury all money collected from all licenses sold during the preceding month upon the certificate of the county auditor, and shall file a statement or report each month with the county auditor showing the amount of licenses collected in each school district to be apportioned in the following manner:</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_2306__subsec_b__subsec_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>If by applicants within an incorporated city or city acting under special charter:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Thirty percent (30%) to the school district in which the licenses are collected for general revenue purposes;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Forty percent (40%) for general revenue purposes of the city; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Thirty percent (30%) to the county current expense fund.</akn:p>
+            </akn:content>
+            <akn:paragraph eId="63_2306__subsec_c__subsec_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>If by applicants without an incorporated city:</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Fifty percent (50%) to the school district in which the licenses are collected; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2306__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Fifty percent (50%) to the county current expense fund.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_2307">
+          <akn:num>63-2307</akn:num>
+          <akn:heading>Suits for recovery of license tax</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2307. Suits for recovery of license tax. Against any person required to take out a license who fails, neglects or refuses to take out such license, or who carries on, or attempts to carry on, business without such license, the treasurer may direct suit in the name of the state of Idaho as plaintiff, to be brought for the recovery of the license tax, and in such case either the treasurer or prosecuting attorney may make the necessary affidavit for a writ of attachment, which may issue without bond being given on behalf of the plaintiff. In case of a judgment for the plaintiff, five hundred dollars ($500) therefor and costs must be paid by the defendant into the county current expense fund. History: [63-2307, added 1995, ch. 206, sec. 2, p. 702.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2307. Suits for recovery of license tax. Against any person required to take out a license who fails, neglects or refuses to take out such license, or who carries on, or attempts to carry on, business without such license, the treasurer may direct suit in the name of the state of Idaho as plaintiff, to be brought for the recovery of the license tax, and in such case either the treasurer or prosecuting attorney may make the necessary affidavit for a writ of attachment, which may issue without bond being given on behalf of the plaintiff. In case of a judgment for the plaintiff, five hundred dollars ($500) therefor and costs must be paid by the defendant into the county current expense fund. History: [63-2307, added 1995, ch. 206, sec. 2, p. 702.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2307. Suits for recovery of license tax. Against any person required to take out a license who fails, neglects or refuses to take out such license, or who carries on, or attempts to carry on, business without such license, the treasurer may direct suit in the name of the state of Idaho as plaintiff, to be brought for the recovery of the license tax, and in such case either the treasurer or prosecuting attorney may make the necessary affidavit for a writ of attachment, which may issue without bond being given on behalf of the plaintiff. In case of a judgment for the plaintiff, five hundred dollars ($500) therefor and costs must be paid by the defendant into the county current expense fund. History: [63-2307, added 1995, ch. 206, sec. 2, p. 702.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2307. Suits for recovery of license tax. Against any person required to take out a license who fails, neglects or refuses to take out such license, or who carries on, or attempts to carry on, business without such license, the treasurer may direct suit in the name of the state of Idaho as plaintiff, to be brought for the recovery of the license tax, and in such case either the treasurer or prosecuting attorney may make the necessary affidavit for a writ of attachment, which may issue without bond being given on behalf of the plaintiff. In case of a judgment for the plaintiff, five hundred dollars ($500) therefor and costs must be paid by the defendant into the county current expense fund. History: [63-2307, added 1995, ch. 206, sec. 2, p. 702.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2307. Suits for recovery of license tax. Against any person required to take out a license who fails, neglects or refuses to take out such license, or who carries on, or attempts to carry on, business without such license, the treasurer may direct suit in the name of the state of Idaho as plaintiff, to be brought for the recovery of the license tax, and in such case either the treasurer or prosecuting attorney may make the necessary affidavit for a writ of attachment, which may issue without bond being given on behalf of the plaintiff. In case of a judgment for the plaintiff, five hundred dollars ($500) therefor and costs must be paid by the defendant into the county current expense fund. History: [63-2307, added 1995, ch. 206, sec. 2, p. 702.]
+63-2307. Suits for recovery of license tax. Against any person required to take out a license who fails, neglects or refuses to take out such license, or who carries on, or attempts to carry on, business without such license, the treasurer may direct suit in the name of the state of Idaho as plaintiff, to be brought for the recovery of the license tax, and in such case either the treasurer or prosecuting attorney may make the necessary affidavit for a writ of attachment, which may issue without bond being given on behalf of the plaintiff. In case of a judgment for the plaintiff, five hundred dollars ($500) therefor and costs must be paid by the defendant into the county current expense fund.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_2308">
+          <akn:num>63-2308</akn:num>
+          <akn:heading>Production of license — Plea of recovery in civil action</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2308. Production of license — Plea of recovery in civil action. Upon the trial of any action authorized by this chapter, the defendant is deemed not to have procured the proper license unless he either produces it or proves that he did procure it; but he may plead in bar of the action a recovery against him and the payment by him in a civil action of the proper license tax, together with the damages and costs. History: [63-2308, added 1995, ch. 206, sec. 2, p. 703.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2308. Production of license — Plea of recovery in civil action. Upon the trial of any action authorized by this chapter, the defendant is deemed not to have procured the proper license unless he either produces it or proves that he did procure it; but he may plead in bar of the action a recovery against him and the payment by him in a civil action of the proper license tax, together with the damages and costs. History: [63-2308, added 1995, ch. 206, sec. 2, p. 703.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2308. Production of license — Plea of recovery in civil action. Upon the trial of any action authorized by this chapter, the defendant is deemed not to have procured the proper license unless he either produces it or proves that he did procure it; but he may plead in bar of the action a recovery against him and the payment by him in a civil action of the proper license tax, together with the damages and costs. History: [63-2308, added 1995, ch. 206, sec. 2, p. 703.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2308. Production of license — Plea of recovery in civil action. Upon the trial of any action authorized by this chapter, the defendant is deemed not to have procured the proper license unless he either produces it or proves that he did procure it; but he may plead in bar of the action a recovery against him and the payment by him in a civil action of the proper license tax, together with the damages and costs. History: [63-2308, added 1995, ch. 206, sec. 2, p. 703.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2308. Production of license — Plea of recovery in civil action. Upon the trial of any action authorized by this chapter, the defendant is deemed not to have procured the proper license unless he either produces it or proves that he did procure it; but he may plead in bar of the action a recovery against him and the payment by him in a civil action of the proper license tax, together with the damages and costs. History: [63-2308, added 1995, ch. 206, sec. 2, p. 703.]
+63-2308. Production of license — Plea of recovery in civil action. Upon the trial of any action authorized by this chapter, the defendant is deemed not to have procured the proper license unless he either produces it or proves that he did procure it; but he may plead in bar of the action a recovery against him and the payment by him in a civil action of the proper license tax, together with the damages and costs.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_2309">
+          <akn:num>63-2309</akn:num>
+          <akn:heading>Penalty for violations</akn:heading>
+          <akn:subsection eId="63_2309__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>months or by both such fine and imprisonment. History: [63-2309, added 1995, ch. 206, sec. 2, p. 703.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2309. Penalty for violations. Anyone failing to comply with any of the provisions of this chapter shall be guilty of a misdemeanor and upon conviction thereof shall be subject to a fine not exceeding three hundred dollars ($300) or imprisonment in the county jail for not to exceed six</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2309__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>months or by both such fine and imprisonment. History: [63-2309, added 1995, ch. 206, sec. 2, p. 703.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2309. Penalty for violations. Anyone failing to comply with any of the provisions of this chapter shall be guilty of a misdemeanor and upon conviction thereof shall be subject to a fine not exceeding three hundred dollars ($300) or imprisonment in the county jail for not to exceed six</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2309__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>months or by both such fine and imprisonment. History: [63-2309, added 1995, ch. 206, sec. 2, p. 703.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2309. Penalty for violations. Anyone failing to comply with any of the provisions of this chapter shall be guilty of a misdemeanor and upon conviction thereof shall be subject to a fine not exceeding three hundred dollars ($300) or imprisonment in the county jail for not to exceed six</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2309__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>months or by both such fine and imprisonment. History: [63-2309, added 1995, ch. 206, sec. 2, p. 703.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 23 LICENSE TAXES 63-2309. Penalty for violations. Anyone failing to comply with any of the provisions of this chapter shall be guilty of a misdemeanor and upon conviction thereof shall be subject to a fine not exceeding three hundred dollars ($300) or imprisonment in the county jail for not to exceed six</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2309__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>months or by both such fine and imprisonment. History: [63-2309, added 1995, ch. 206, sec. 2, p. 703.]
+63-2309. Penalty for violations. Anyone failing to comply with any of the provisions of this chapter shall be guilty of a misdemeanor and upon conviction thereof shall be subject to a fine not exceeding three hundred dollars ($300) or imprisonment in the county jail for not to exceed six</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_2309__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>months or by both such fine and imprisonment.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

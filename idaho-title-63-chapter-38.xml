@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-38" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-38" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="63-38" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-38/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-38/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-38/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-38/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_63_38">
+        <akn:num>Chapter 38</akn:num>
+        <akn:heading>Chapter 38</akn:heading>
+        <akn:section eId="sec_63_3801">
+          <akn:num>63-3801</akn:num>
+          <akn:heading>Establishment</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3801. Establishment. Within the department of revenue and taxation, there is hereby established a board of tax appeals as an independent body which shall not in any way be subject to the supervision or control of the state tax commission. History: [63-3801, added 1969, ch. 453, sec. 1, p. 1195; am. 1974, ch. 19, sec. 11, p. 524.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3801. Establishment. Within the department of revenue and taxation, there is hereby established a board of tax appeals as an independent body which shall not in any way be subject to the supervision or control of the state tax commission. History: [63-3801, added 1969, ch. 453, sec. 1, p. 1195; am. 1974, ch. 19, sec. 11, p. 524.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3801. Establishment. Within the department of revenue and taxation, there is hereby established a board of tax appeals as an independent body which shall not in any way be subject to the supervision or control of the state tax commission. History: [63-3801, added 1969, ch. 453, sec. 1, p. 1195; am. 1974, ch. 19, sec. 11, p. 524.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3801. Establishment. Within the department of revenue and taxation, there is hereby established a board of tax appeals as an independent body which shall not in any way be subject to the supervision or control of the state tax commission. History: [63-3801, added 1969, ch. 453, sec. 1, p. 1195; am. 1974, ch. 19, sec. 11, p. 524.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3801. Establishment. Within the department of revenue and taxation, there is hereby established a board of tax appeals as an independent body which shall not in any way be subject to the supervision or control of the state tax commission. History: [63-3801, added 1969, ch. 453, sec. 1, p. 1195; am. 1974, ch. 19, sec. 11, p. 524.]
+63-3801. Establishment. Within the department of revenue and taxation, there is hereby established a board of tax appeals as an independent body which shall not in any way be subject to the supervision or control of the state tax commission.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_3802">
+          <akn:num>63-3802</akn:num>
+          <akn:heading>Members</akn:heading>
+          <akn:subsection eId="63_3802__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>members appointed by the governor with the advice and consent of the senate. The members shall be residents of this state and shall be selected on the basis of their knowledge of and experience in taxation, gained from service as certified public accountants, public accountants, licensed real estate brokers, attorneys, duly accredited property appraisers, or in some other manner. No more than two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3802__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>members of the board shall be members of the same political party. No member of the board shall hold any elective office or any public office involving assessment of taxes or administration of any of the tax laws of this state. No member shall take part directly or indirectly in any election campaign on behalf of any political party or organization or candidate or any measure to be voted upon by the people. Nothing in this act shall prohibit a person from properly and lawfully engaging in his business or profession. In any matter, in which a member might, directly or indirectly, encounter a possible conflict of interest, he shall disqualify himself from making any necessary decisions. History: [63-3802, added 1969, ch. 453, sec. 2, p. 1195.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3802. Members. The board of tax appeals shall consist of three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3802__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>members appointed by the governor with the advice and consent of the senate. The members shall be residents of this state and shall be selected on the basis of their knowledge of and experience in taxation, gained from service as certified public accountants, public accountants, licensed real estate brokers, attorneys, duly accredited property appraisers, or in some other manner. No more than two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3802__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>members of the board shall be members of the same political party. No member of the board shall hold any elective office or any public office involving assessment of taxes or administration of any of the tax laws of this state. No member shall take part directly or indirectly in any election campaign on behalf of any political party or organization or candidate or any measure to be voted upon by the people. Nothing in this act shall prohibit a person from properly and lawfully engaging in his business or profession. In any matter, in which a member might, directly or indirectly, encounter a possible conflict of interest, he shall disqualify himself from making any necessary decisions. History: [63-3802, added 1969, ch. 453, sec. 2, p. 1195.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3802. Members. The board of tax appeals shall consist of three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3802__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>members appointed by the governor with the advice and consent of the senate. The members shall be residents of this state and shall be selected on the basis of their knowledge of and experience in taxation, gained from service as certified public accountants, public accountants, licensed real estate brokers, attorneys, duly accredited property appraisers, or in some other manner. No more than two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3802__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>members of the board shall be members of the same political party. No member of the board shall hold any elective office or any public office involving assessment of taxes or administration of any of the tax laws of this state. No member shall take part directly or indirectly in any election campaign on behalf of any political party or organization or candidate or any measure to be voted upon by the people. Nothing in this act shall prohibit a person from properly and lawfully engaging in his business or profession. In any matter, in which a member might, directly or indirectly, encounter a possible conflict of interest, he shall disqualify himself from making any necessary decisions. History: [63-3802, added 1969, ch. 453, sec. 2, p. 1195.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3802. Members. The board of tax appeals shall consist of three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3802__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>members appointed by the governor with the advice and consent of the senate. The members shall be residents of this state and shall be selected on the basis of their knowledge of and experience in taxation, gained from service as certified public accountants, public accountants, licensed real estate brokers, attorneys, duly accredited property appraisers, or in some other manner. No more than two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3802__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>members of the board shall be members of the same political party. No member of the board shall hold any elective office or any public office involving assessment of taxes or administration of any of the tax laws of this state. No member shall take part directly or indirectly in any election campaign on behalf of any political party or organization or candidate or any measure to be voted upon by the people. Nothing in this act shall prohibit a person from properly and lawfully engaging in his business or profession. In any matter, in which a member might, directly or indirectly, encounter a possible conflict of interest, he shall disqualify himself from making any necessary decisions. History: [63-3802, added 1969, ch. 453, sec. 2, p. 1195.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3802. Members. The board of tax appeals shall consist of three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3802__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>members appointed by the governor with the advice and consent of the senate. The members shall be residents of this state and shall be selected on the basis of their knowledge of and experience in taxation, gained from service as certified public accountants, public accountants, licensed real estate brokers, attorneys, duly accredited property appraisers, or in some other manner. No more than two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3802__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>members of the board shall be members of the same political party. No member of the board shall hold any elective office or any public office involving assessment of taxes or administration of any of the tax laws of this state. No member shall take part directly or indirectly in any election campaign on behalf of any political party or organization or candidate or any measure to be voted upon by the people. Nothing in this act shall prohibit a person from properly and lawfully engaging in his business or profession. In any matter, in which a member might, directly or indirectly, encounter a possible conflict of interest, he shall disqualify himself from making any necessary decisions. History: [63-3802, added 1969, ch. 453, sec. 2, p. 1195.]
+63-3802. Members. The board of tax appeals shall consist of three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3802__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>members appointed by the governor with the advice and consent of the senate. The members shall be residents of this state and shall be selected on the basis of their knowledge of and experience in taxation, gained from service as certified public accountants, public accountants, licensed real estate brokers, attorneys, duly accredited property appraisers, or in some other manner. No more than two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3802__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>members of the board shall be members of the same political party. No member of the board shall hold any elective office or any public office involving assessment of taxes or administration of any of the tax laws of this state. No member shall take part directly or indirectly in any election campaign on behalf of any political party or organization or candidate or any measure to be voted upon by the people. Nothing in this act shall prohibit a person from properly and lawfully engaging in his business or profession. In any matter, in which a member might, directly or indirectly, encounter a possible conflict of interest, he shall disqualify himself from making any necessary decisions.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_3803">
+          <akn:num>63-3803</akn:num>
+          <akn:heading>Terms — Election of chairman</akn:heading>
+          <akn:subsection eId="63_3803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>shall be appointed for a term to expire on June 30, 1970; one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>for a term to expire on June 30, 1971; and one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>for a term to expire on June 30, 1972. Succeeding members shall be appointed for three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>year terms. Any vacancy shall be filled by the governor for the unexpired term subject to confirmation by the senate at its next regular session. The board shall elect a chairman from its membership and the chairman shall hold office until the first regular meeting of the subsequent fiscal year. History: [63-3803, added 1969, ch. 453, sec. 3, p. 1195.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3803. Terms — Election of chairman. Of the members first appointed, one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>shall be appointed for a term to expire on June 30, 1970; one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>for a term to expire on June 30, 1971; and one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>for a term to expire on June 30, 1972. Succeeding members shall be appointed for three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>year terms. Any vacancy shall be filled by the governor for the unexpired term subject to confirmation by the senate at its next regular session. The board shall elect a chairman from its membership and the chairman shall hold office until the first regular meeting of the subsequent fiscal year. History: [63-3803, added 1969, ch. 453, sec. 3, p. 1195.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3803. Terms — Election of chairman. Of the members first appointed, one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>shall be appointed for a term to expire on June 30, 1970; one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>for a term to expire on June 30, 1971; and one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>for a term to expire on June 30, 1972. Succeeding members shall be appointed for three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>year terms. Any vacancy shall be filled by the governor for the unexpired term subject to confirmation by the senate at its next regular session. The board shall elect a chairman from its membership and the chairman shall hold office until the first regular meeting of the subsequent fiscal year. History: [63-3803, added 1969, ch. 453, sec. 3, p. 1195.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3803. Terms — Election of chairman. Of the members first appointed, one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>shall be appointed for a term to expire on June 30, 1970; one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>for a term to expire on June 30, 1971; and one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>for a term to expire on June 30, 1972. Succeeding members shall be appointed for three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>year terms. Any vacancy shall be filled by the governor for the unexpired term subject to confirmation by the senate at its next regular session. The board shall elect a chairman from its membership and the chairman shall hold office until the first regular meeting of the subsequent fiscal year. History: [63-3803, added 1969, ch. 453, sec. 3, p. 1195.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3803. Terms — Election of chairman. Of the members first appointed, one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>shall be appointed for a term to expire on June 30, 1970; one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>for a term to expire on June 30, 1971; and one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>for a term to expire on June 30, 1972. Succeeding members shall be appointed for three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>year terms. Any vacancy shall be filled by the governor for the unexpired term subject to confirmation by the senate at its next regular session. The board shall elect a chairman from its membership and the chairman shall hold office until the first regular meeting of the subsequent fiscal year. History: [63-3803, added 1969, ch. 453, sec. 3, p. 1195.]
+63-3803. Terms — Election of chairman. Of the members first appointed, one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>shall be appointed for a term to expire on June 30, 1970; one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>for a term to expire on June 30, 1971; and one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>for a term to expire on June 30, 1972. Succeeding members shall be appointed for three</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3803__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>year terms. Any vacancy shall be filled by the governor for the unexpired term subject to confirmation by the senate at its next regular session. The board shall elect a chairman from its membership and the chairman shall hold office until the first regular meeting of the subsequent fiscal year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_3804">
+          <akn:num>63-3804</akn:num>
+          <akn:heading>Compensation</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3804. Compensation. Each member of the board shall be compensated in the amount of three hundred dollars ($300) per day and shall be reimbursed for actual and necessary expenses, subject to the limits provided in section 67-2008 , Idaho Code. History: [63-3804, added 1969, ch. 453, sec. 4, p. 1195; am. 1980, ch. 247, sec. 79, p. 646; am. 1982, ch. 355, sec. 1, p. 904; am. 1998, ch. 233, sec. 1, p. 790; am. 2017, ch. 39, sec. 1, p. 61.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3804. Compensation. Each member of the board shall be compensated in the amount of three hundred dollars ($300) per day and shall be reimbursed for actual and necessary expenses, subject to the limits provided in section 67-2008 , Idaho Code. History: [63-3804, added 1969, ch. 453, sec. 4, p. 1195; am. 1980, ch. 247, sec. 79, p. 646; am. 1982, ch. 355, sec. 1, p. 904; am. 1998, ch. 233, sec. 1, p. 790; am. 2017, ch. 39, sec. 1, p. 61.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3804. Compensation. Each member of the board shall be compensated in the amount of three hundred dollars ($300) per day and shall be reimbursed for actual and necessary expenses, subject to the limits provided in section 67-2008 , Idaho Code. History: [63-3804, added 1969, ch. 453, sec. 4, p. 1195; am. 1980, ch. 247, sec. 79, p. 646; am. 1982, ch. 355, sec. 1, p. 904; am. 1998, ch. 233, sec. 1, p. 790; am. 2017, ch. 39, sec. 1, p. 61.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3804. Compensation. Each member of the board shall be compensated in the amount of three hundred dollars ($300) per day and shall be reimbursed for actual and necessary expenses, subject to the limits provided in section 67-2008 , Idaho Code. History: [63-3804, added 1969, ch. 453, sec. 4, p. 1195; am. 1980, ch. 247, sec. 79, p. 646; am. 1982, ch. 355, sec. 1, p. 904; am. 1998, ch. 233, sec. 1, p. 790; am. 2017, ch. 39, sec. 1, p. 61.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3804. Compensation. Each member of the board shall be compensated in the amount of three hundred dollars ($300) per day and shall be reimbursed for actual and necessary expenses, subject to the limits provided in section 67-2008 , Idaho Code. History: [63-3804, added 1969, ch. 453, sec. 4, p. 1195; am. 1980, ch. 247, sec. 79, p. 646; am. 1982, ch. 355, sec. 1, p. 904; am. 1998, ch. 233, sec. 1, p. 790; am. 2017, ch. 39, sec. 1, p. 61.]
+63-3804. Compensation. Each member of the board shall be compensated in the amount of three hundred dollars ($300) per day and shall be reimbursed for actual and necessary expenses, subject to the limits provided in section 67-2008 , Idaho Code.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_3805">
+          <akn:num>63-3805</akn:num>
+          <akn:heading>Removal</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3805. Removal. The governor may remove any member of the board of tax appeals for cause. History: [63-3805, added 1969, ch. 453, sec. 5, p. 1195.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3805. Removal. The governor may remove any member of the board of tax appeals for cause. History: [63-3805, added 1969, ch. 453, sec. 5, p. 1195.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3805. Removal. The governor may remove any member of the board of tax appeals for cause. History: [63-3805, added 1969, ch. 453, sec. 5, p. 1195.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3805. Removal. The governor may remove any member of the board of tax appeals for cause. History: [63-3805, added 1969, ch. 453, sec. 5, p. 1195.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3805. Removal. The governor may remove any member of the board of tax appeals for cause. History: [63-3805, added 1969, ch. 453, sec. 5, p. 1195.]
+63-3805. Removal. The governor may remove any member of the board of tax appeals for cause.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_3806">
+          <akn:num>63-3806</akn:num>
+          <akn:heading>Appointment of employees</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3806. Appointment of employees. The board shall appoint a clerk and such other employees as it deems necessary to carry out its duties and may employ counsel. History: [63-3806, added 1969, ch. 453, sec. 6, p. 1195.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3806. Appointment of employees. The board shall appoint a clerk and such other employees as it deems necessary to carry out its duties and may employ counsel. History: [63-3806, added 1969, ch. 453, sec. 6, p. 1195.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3806. Appointment of employees. The board shall appoint a clerk and such other employees as it deems necessary to carry out its duties and may employ counsel. History: [63-3806, added 1969, ch. 453, sec. 6, p. 1195.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3806. Appointment of employees. The board shall appoint a clerk and such other employees as it deems necessary to carry out its duties and may employ counsel. History: [63-3806, added 1969, ch. 453, sec. 6, p. 1195.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3806. Appointment of employees. The board shall appoint a clerk and such other employees as it deems necessary to carry out its duties and may employ counsel. History: [63-3806, added 1969, ch. 453, sec. 6, p. 1195.]
+63-3806. Appointment of employees. The board shall appoint a clerk and such other employees as it deems necessary to carry out its duties and may employ counsel.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_3807">
+          <akn:num>63-3807</akn:num>
+          <akn:heading>Meetings — Call for hearings — Office — Quorum</akn:heading>
+          <akn:subsection eId="63_3807__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after its appointment to organize. The board shall meet annually at the state capitol at a date to be determined by the board and shall hold hearings and meetings at the call of the chairman or a majority of the board. The principal office of the board shall be in Ada county, but the board or any of its members may sit and hold hearings at any other place within the state. A majority of the board shall constitute a quorum for the transaction of any official business other than the conduct of hearings and the board may act even though one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3807__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>position on the board is vacant. History: [63-3807, added 1969, ch. 453, sec. 7, p. 1195; am. 2001, ch. 183, sec. 30, p. 638.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3807. Meetings — Call for hearings — Office — Quorum. The first board shall meet within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3807__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after its appointment to organize. The board shall meet annually at the state capitol at a date to be determined by the board and shall hold hearings and meetings at the call of the chairman or a majority of the board. The principal office of the board shall be in Ada county, but the board or any of its members may sit and hold hearings at any other place within the state. A majority of the board shall constitute a quorum for the transaction of any official business other than the conduct of hearings and the board may act even though one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3807__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>position on the board is vacant. History: [63-3807, added 1969, ch. 453, sec. 7, p. 1195; am. 2001, ch. 183, sec. 30, p. 638.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3807. Meetings — Call for hearings — Office — Quorum. The first board shall meet within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3807__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after its appointment to organize. The board shall meet annually at the state capitol at a date to be determined by the board and shall hold hearings and meetings at the call of the chairman or a majority of the board. The principal office of the board shall be in Ada county, but the board or any of its members may sit and hold hearings at any other place within the state. A majority of the board shall constitute a quorum for the transaction of any official business other than the conduct of hearings and the board may act even though one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3807__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>position on the board is vacant. History: [63-3807, added 1969, ch. 453, sec. 7, p. 1195; am. 2001, ch. 183, sec. 30, p. 638.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3807. Meetings — Call for hearings — Office — Quorum. The first board shall meet within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3807__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after its appointment to organize. The board shall meet annually at the state capitol at a date to be determined by the board and shall hold hearings and meetings at the call of the chairman or a majority of the board. The principal office of the board shall be in Ada county, but the board or any of its members may sit and hold hearings at any other place within the state. A majority of the board shall constitute a quorum for the transaction of any official business other than the conduct of hearings and the board may act even though one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3807__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>position on the board is vacant. History: [63-3807, added 1969, ch. 453, sec. 7, p. 1195; am. 2001, ch. 183, sec. 30, p. 638.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3807. Meetings — Call for hearings — Office — Quorum. The first board shall meet within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3807__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after its appointment to organize. The board shall meet annually at the state capitol at a date to be determined by the board and shall hold hearings and meetings at the call of the chairman or a majority of the board. The principal office of the board shall be in Ada county, but the board or any of its members may sit and hold hearings at any other place within the state. A majority of the board shall constitute a quorum for the transaction of any official business other than the conduct of hearings and the board may act even though one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3807__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>position on the board is vacant. History: [63-3807, added 1969, ch. 453, sec. 7, p. 1195; am. 2001, ch. 183, sec. 30, p. 638.]
+63-3807. Meetings — Call for hearings — Office — Quorum. The first board shall meet within thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3807__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days after its appointment to organize. The board shall meet annually at the state capitol at a date to be determined by the board and shall hold hearings and meetings at the call of the chairman or a majority of the board. The principal office of the board shall be in Ada county, but the board or any of its members may sit and hold hearings at any other place within the state. A majority of the board shall constitute a quorum for the transaction of any official business other than the conduct of hearings and the board may act even though one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3807__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>position on the board is vacant.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_3808">
+          <akn:num>63-3808</akn:num>
+          <akn:heading>Adoption of rules and issuance of subpoenas</akn:heading>
+          <akn:subsection eId="63_3808__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>days from the service of such order on the witness, to show cause why he has not attended and testified or produced the documentary evidence before the board. If it shall appear to the court that the subpoena was regularly issued by the board or a member and regularly served, the court shall thereupon enter an order that the witness appear before the board at the time and place fixed in the order to testify or produce the required documentary evidence, and upon failure to obey that order, the witness shall be dealt with for contempt of court. History: [63-3808, added 1969, ch. 453, sec. 8, p. 1195; am. 1973, ch. 116, sec. 1, p. 217.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3808. Adoption of rules and issuance of subpoenas. The board shall adopt and publish such rules and regulations as may be necessary to carry out its duties and amplify the procedural structure set out in this act and chapter 52, title 67 , Idaho Code. The board and each member shall have power to issue subpoenas requiring the attendance of witnesses and the production of documentary evidence in the like manner and to the same extent as courts of record. The process issued shall extend to all parts of the state and may be served by any person authorized to serve process of courts of record. The subpoena shall state the name of the board, the title of the action, and shall command each person to whom it is directed to attend and give testimony and produce the books, papers, documents, or tangible things designated therein at the time and place therein specified. Each witness who shall appear by order of the board or a member shall receive for his attendance the same fees and mileage allowed by law to a witness in civil cases in the district court, which amount shall be paid by the party at whose request such witness was subpoenaed. If any witness shall fail to properly respond to a subpoena, the board may pe</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3808__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>days from the service of such order on the witness, to show cause why he has not attended and testified or produced the documentary evidence before the board. If it shall appear to the court that the subpoena was regularly issued by the board or a member and regularly served, the court shall thereupon enter an order that the witness appear before the board at the time and place fixed in the order to testify or produce the required documentary evidence, and upon failure to obey that order, the witness shall be dealt with for contempt of court. History: [63-3808, added 1969, ch. 453, sec. 8, p. 1195; am. 1973, ch. 116, sec. 1, p. 217.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3808. Adoption of rules and issuance of subpoenas. The board shall adopt and publish such rules and regulations as may be necessary to carry out its duties and amplify the procedural structure set out in this act and chapter 52, title 67 , Idaho Code. The board and each member shall have power to issue subpoenas requiring the attendance of witnesses and the production of documentary evidence in the like manner and to the same extent as courts of record. The process issued shall extend to all parts of the state and may be served by any person authorized to serve process of courts of record. The subpoena shall state the name of the board, the title of the action, and shall command each person to whom it is directed to attend and give testimony and produce the books, papers, documents, or tangible things designated therein at the time and place therein specified. Each witness who shall appear by order of the board or a member shall receive for his attendance the same fees and mileage allowed by law to a witness in civil cases in the district court, which amount shall be paid by the party at whose request such witness was subpoenaed. If any witness shall fail to properly respond to a subpoena, the board may pe</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3808__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>days from the service of such order on the witness, to show cause why he has not attended and testified or produced the documentary evidence before the board. If it shall appear to the court that the subpoena was regularly issued by the board or a member and regularly served, the court shall thereupon enter an order that the witness appear before the board at the time and place fixed in the order to testify or produce the required documentary evidence, and upon failure to obey that order, the witness shall be dealt with for contempt of court. History: [63-3808, added 1969, ch. 453, sec. 8, p. 1195; am. 1973, ch. 116, sec. 1, p. 217.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3808. Adoption of rules and issuance of subpoenas. The board shall adopt and publish such rules and regulations as may be necessary to carry out its duties and amplify the procedural structure set out in this act and chapter 52, title 67 , Idaho Code. The board and each member shall have power to issue subpoenas requiring the attendance of witnesses and the production of documentary evidence in the like manner and to the same extent as courts of record. The process issued shall extend to all parts of the state and may be served by any person authorized to serve process of courts of record. The subpoena shall state the name of the board, the title of the action, and shall command each person to whom it is directed to attend and give testimony and produce the books, papers, documents, or tangible things designated therein at the time and place therein specified. Each witness who shall appear by order of the board or a member shall receive for his attendance the same fees and mileage allowed by law to a witness in civil cases in the district court, which amount shall be paid by the party at whose request such witness was subpoenaed. If any witness shall fail to properly respond to a subpoena, the board may pe</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3808__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>days from the service of such order on the witness, to show cause why he has not attended and testified or produced the documentary evidence before the board. If it shall appear to the court that the subpoena was regularly issued by the board or a member and regularly served, the court shall thereupon enter an order that the witness appear before the board at the time and place fixed in the order to testify or produce the required documentary evidence, and upon failure to obey that order, the witness shall be dealt with for contempt of court. History: [63-3808, added 1969, ch. 453, sec. 8, p. 1195; am. 1973, ch. 116, sec. 1, p. 217.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3808. Adoption of rules and issuance of subpoenas. The board shall adopt and publish such rules and regulations as may be necessary to carry out its duties and amplify the procedural structure set out in this act and chapter 52, title 67 , Idaho Code. The board and each member shall have power to issue subpoenas requiring the attendance of witnesses and the production of documentary evidence in the like manner and to the same extent as courts of record. The process issued shall extend to all parts of the state and may be served by any person authorized to serve process of courts of record. The subpoena shall state the name of the board, the title of the action, and shall command each person to whom it is directed to attend and give testimony and produce the books, papers, documents, or tangible things designated therein at the time and place therein specified. Each witness who shall appear by order of the board or a member shall receive for his attendance the same fees and mileage allowed by law to a witness in civil cases in the district court, which amount shall be paid by the party at whose request such witness was subpoenaed. If any witness shall fail to properly respond to a subpoena, the board may petition the district court in and for the county in which the proceed</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3808__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>days from the service of such order on the witness, to show cause why he has not attended and testified or produced the documentary evidence before the board. If it shall appear to the court that the subpoena was regularly issued by the board or a member and regularly served, the court shall thereupon enter an order that the witness appear before the board at the time and place fixed in the order to testify or produce the required documentary evidence, and upon failure to obey that order, the witness shall be dealt with for contempt of court. History: [63-3808, added 1969, ch. 453, sec. 8, p. 1195; am. 1973, ch. 116, sec. 1, p. 217.]
+63-3808. Adoption of rules and issuance of subpoenas. The board shall adopt and publish such rules and regulations as may be necessary to carry out its duties and amplify the procedural structure set out in this act and chapter 52, title 67 , Idaho Code.
+The board and each member shall have power to issue subpoenas requiring the attendance of witnesses and the production of documentary evidence in the like manner and to the same extent as courts of record. The process issued shall extend to all parts of the state and may be served by any person authorized to serve process of courts of record. The subpoena shall state the name of the board, the title of the action, and shall command each person to whom it is directed to attend and give testimony and produce the books, papers, documents, or tangible things designated therein at the time and place therein specified.
+Each witness who shall appear by order of the board or a member shall receive for his attendance the same fees and mileage allowed by law to a witness in civil cases in the district court, which amount shall be paid by the party at whose request such witness was subpoenaed. If any witness shall fail to properly respond to a subpoena, the board may petition the district court in and for the county in which the proceeding is pending setting forth the issuance of the subpoena, its</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3808__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>days from the service of such order on the witness, to show cause why he has not attended and testified or produced the documentary evidence before the board. If it shall appear to the court that the subpoena was regularly issued by the board or a member and regularly served, the court shall thereupon enter an order that the witness appear before the board at the time and place fixed in the order to testify or produce the required documentary evidence, and upon failure to obey that order, the witness shall be dealt with for contempt of court.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_3809">
+          <akn:num>63-3809</akn:num>
+          <akn:heading>Hearings — Matter considered by board to be of public importance</akn:heading>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A hearing will be conducted and a recommended decision rendered by a hearing officer or by one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>member of the board. The recommended decision shall become final when signed by at least two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>board members.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>If the recommended decision fails to gain the signature of two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>members, the chairman shall direct that a substitute recommended decision be drafted for submission to board members and which shall become final upon the signature of two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>or more members.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Prior to a final decision being rendered, if, in the opinion of one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>or more members of the board, a matter is of sufficient importance to the public, it may be certified for consideration by the entire board either at a hearing or upon a transcript of a hearing held by one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of its members and recorded in any suitable manner.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Following the filing of a timely notice of appeal to the board of tax appeals for a property tax appeal hearing, a hearing will be set, conducted and a decision shall be rendered no later than May 1. An appeal hearing may be delayed or continued upon written agreement of all parties. History: [63-3809, added 1969, ch. 453, sec. 9, p. 1195; am. 1998, ch. 226, sec. 1, p. 775; am. 1999, ch. 107, sec. 2, p. 335.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3809. Hearings — Matter considered by board to be of public importance. Hearing assignments will be made by the chairman.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A hearing will be conducted and a recommended decision rendered by a hearing officer or by one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>member of the board. The recommended decision shall become final when signed by at least two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>board members.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>If the recommended decision fails to gain the signature of two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>members, the chairman shall direct that a substitute recommended decision be drafted for submission to board members and which shall become final upon the signature of two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>or more members.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Prior to a final decision being rendered, if, in the opinion of one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>or more members of the board, a matter is of sufficient importance to the public, it may be certified for consideration by the entire board either at a hearing or upon a transcript of a hearing held by one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of its members and recorded in any suitable manner.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Following the filing of a timely notice of appeal to the board of tax appeals for a property tax appeal hearing, a hearing will be set, conducted and a decision shall be rendered no later than May 1. An appeal hearing may be delayed or continued upon written agreement of all parties. History: [63-3809, added 1969, ch. 453, sec. 9, p. 1195; am. 1998, ch. 226, sec. 1, p. 775; am. 1999, ch. 107, sec. 2, p. 335.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3809. Hearings — Matter considered by board to be of public importance. Hearing assignments will be made by the chairman.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A hearing will be conducted and a recommended decision rendered by a hearing officer or by one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>member of the board. The recommended decision shall become final when signed by at least two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>board members.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>If the recommended decision fails to gain the signature of two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>members, the chairman shall direct that a substitute recommended decision be drafted for submission to board members and which shall become final upon the signature of two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>or more members.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Prior to a final decision being rendered, if, in the opinion of one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>or more members of the board, a matter is of sufficient importance to the public, it may be certified for consideration by the entire board either at a hearing or upon a transcript of a hearing held by one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of its members and recorded in any suitable manner.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Following the filing of a timely notice of appeal to the board of tax appeals for a property tax appeal hearing, a hearing will be set, conducted and a decision shall be rendered no later than May 1. An appeal hearing may be delayed or continued upon written agreement of all parties. History: [63-3809, added 1969, ch. 453, sec. 9, p. 1195; am. 1998, ch. 226, sec. 1, p. 775; am. 1999, ch. 107, sec. 2, p. 335.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3809. Hearings — Matter considered by board to be of public importance. Hearing assignments will be made by the chairman.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A hearing will be conducted and a recommended decision rendered by a hearing officer or by one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>member of the board. The recommended decision shall become final when signed by at least two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>board members.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>If the recommended decision fails to gain the signature of two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>members, the chairman shall direct that a substitute recommended decision be drafted for submission to board members and which shall become final upon the signature of two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>or more members.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Prior to a final decision being rendered, if, in the opinion of one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>or more members of the board, a matter is of sufficient importance to the public, it may be certified for consideration by the entire board either at a hearing or upon a transcript of a hearing held by one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of its members and recorded in any suitable manner.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Following the filing of a timely notice of appeal to the board of tax appeals for a property tax appeal hearing, a hearing will be set, conducted and a decision shall be rendered no later than May 1. An appeal hearing may be delayed or continued upon written agreement of all parties. History: [63-3809, added 1969, ch. 453, sec. 9, p. 1195; am. 1998, ch. 226, sec. 1, p. 775; am. 1999, ch. 107, sec. 2, p. 335.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3809. Hearings — Matter considered by board to be of public importance. Hearing assignments will be made by the chairman.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A hearing will be conducted and a recommended decision rendered by a hearing officer or by one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>member of the board. The recommended decision shall become final when signed by at least two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>board members.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>If the recommended decision fails to gain the signature of two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>members, the chairman shall direct that a substitute recommended decision be drafted for submission to board members and which shall become final upon the signature of two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>or more members.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Prior to a final decision being rendered, if, in the opinion of one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>or more members of the board, a matter is of sufficient importance to the public, it may be certified for consideration by the entire board either at a hearing or upon a transcript of a hearing held by one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of its members and recorded in any suitable manner.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Following the filing of a timely notice of appeal to the board of tax appeals for a property tax appeal hearing, a hearing will be set, conducted and a decision shall be rendered no later than May 1. An appeal hearing may be delayed or continued upon written agreement of all parties. History: [63-3809, added 1969, ch. 453, sec. 9, p. 1195; am. 1998, ch. 226, sec. 1, p. 775; am. 1999, ch. 107, sec. 2, p. 335.]
+63-3809. Hearings — Matter considered by board to be of public importance. Hearing assignments will be made by the chairman.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A hearing will be conducted and a recommended decision rendered by a hearing officer or by one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>member of the board. The recommended decision shall become final when signed by at least two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>board members.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>If the recommended decision fails to gain the signature of two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>members, the chairman shall direct that a substitute recommended decision be drafted for submission to board members and which shall become final upon the signature of two</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>or more members.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Prior to a final decision being rendered, if, in the opinion of one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>or more members of the board, a matter is of sufficient importance to the public, it may be certified for consideration by the entire board either at a hearing or upon a transcript of a hearing held by one</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of its members and recorded in any suitable manner.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3809__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Following the filing of a timely notice of appeal to the board of tax appeals for a property tax appeal hearing, a hearing will be set, conducted and a decision shall be rendered no later than May 1. An appeal hearing may be delayed or continued upon written agreement of all parties.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_3810">
+          <akn:num>63-3810</akn:num>
+          <akn:heading>Motion for rehearing — Rehearing by entire board</akn:heading>
+          <akn:subsection eId="63_3810__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>days of the time the decision of the board is mailed to him. If requested in the motion, the matter may be determined by the entire board of tax appeals. If a rehearing by the entire board is requested, it will be conducted at a regular meeting in Boise or a meeting convened for that purpose in Ada county or such other place as may be designated by the chairman. History: [63-3810, added 1969, ch. 453, sec. 10, p. 1195; am. 2001, ch. 183, sec. 31, p. 639.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3810. Motion for rehearing — Rehearing by entire board. A party adversely affected by a decision may move for rehearing if such motion is filed within ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3810__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>days of the time the decision of the board is mailed to him. If requested in the motion, the matter may be determined by the entire board of tax appeals. If a rehearing by the entire board is requested, it will be conducted at a regular meeting in Boise or a meeting convened for that purpose in Ada county or such other place as may be designated by the chairman. History: [63-3810, added 1969, ch. 453, sec. 10, p. 1195; am. 2001, ch. 183, sec. 31, p. 639.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3810. Motion for rehearing — Rehearing by entire board. A party adversely affected by a decision may move for rehearing if such motion is filed within ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3810__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>days of the time the decision of the board is mailed to him. If requested in the motion, the matter may be determined by the entire board of tax appeals. If a rehearing by the entire board is requested, it will be conducted at a regular meeting in Boise or a meeting convened for that purpose in Ada county or such other place as may be designated by the chairman. History: [63-3810, added 1969, ch. 453, sec. 10, p. 1195; am. 2001, ch. 183, sec. 31, p. 639.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3810. Motion for rehearing — Rehearing by entire board. A party adversely affected by a decision may move for rehearing if such motion is filed within ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3810__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>days of the time the decision of the board is mailed to him. If requested in the motion, the matter may be determined by the entire board of tax appeals. If a rehearing by the entire board is requested, it will be conducted at a regular meeting in Boise or a meeting convened for that purpose in Ada county or such other place as may be designated by the chairman. History: [63-3810, added 1969, ch. 453, sec. 10, p. 1195; am. 2001, ch. 183, sec. 31, p. 639.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3810. Motion for rehearing — Rehearing by entire board. A party adversely affected by a decision may move for rehearing if such motion is filed within ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3810__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>days of the time the decision of the board is mailed to him. If requested in the motion, the matter may be determined by the entire board of tax appeals. If a rehearing by the entire board is requested, it will be conducted at a regular meeting in Boise or a meeting convened for that purpose in Ada county or such other place as may be designated by the chairman. History: [63-3810, added 1969, ch. 453, sec. 10, p. 1195; am. 2001, ch. 183, sec. 31, p. 639.]
+63-3810. Motion for rehearing — Rehearing by entire board. A party adversely affected by a decision may move for rehearing if such motion is filed within ten</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3810__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>days of the time the decision of the board is mailed to him. If requested in the motion, the matter may be determined by the entire board of tax appeals. If a rehearing by the entire board is requested, it will be conducted at a regular meeting in Boise or a meeting convened for that purpose in Ada county or such other place as may be designated by the chairman.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_3810A">
+          <akn:num>63-3810A</akn:num>
+          <akn:heading>Representation at hearing</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3810A. Representation at hearing. A taxpayer has the right to appear or to be represented by another person of his choosing in any hearing or rehearing held on the taxpayer’s appeal. The presiding officer must afford the taxpayer or his representative, or both, adequate notice and opportunity to participate in any hearing or rehearing of the taxpayer’s case. History: [63-3810A, added 2021, ch. 212, sec. 1, p. 581.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3810A. Representation at hearing. A taxpayer has the right to appear or to be represented by another person of his choosing in any hearing or rehearing held on the taxpayer’s appeal. The presiding officer must afford the taxpayer or his representative, or both, adequate notice and opportunity to participate in any hearing or rehearing of the taxpayer’s case. History: [63-3810A, added 2021, ch. 212, sec. 1, p. 581.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3810A. Representation at hearing. A taxpayer has the right to appear or to be represented by another person of his choosing in any hearing or rehearing held on the taxpayer’s appeal. The presiding officer must afford the taxpayer or his representative, or both, adequate notice and opportunity to participate in any hearing or rehearing of the taxpayer’s case. History: [63-3810A, added 2021, ch. 212, sec. 1, p. 581.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3810A. Representation at hearing. A taxpayer has the right to appear or to be represented by another person of his choosing in any hearing or rehearing held on the taxpayer’s appeal. The presiding officer must afford the taxpayer or his representative, or both, adequate notice and opportunity to participate in any hearing or rehearing of the taxpayer’s case. History: [63-3810A, added 2021, ch. 212, sec. 1, p. 581.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3810A. Representation at hearing. A taxpayer has the right to appear or to be represented by another person of his choosing in any hearing or rehearing held on the taxpayer’s appeal. The presiding officer must afford the taxpayer or his representative, or both, adequate notice and opportunity to participate in any hearing or rehearing of the taxpayer’s case. History: [63-3810A, added 2021, ch. 212, sec. 1, p. 581.]
+63-3810A. Representation at hearing. A taxpayer has the right to appear or to be represented by another person of his choosing in any hearing or rehearing held on the taxpayer’s appeal. The presiding officer must afford the taxpayer or his representative, or both, adequate notice and opportunity to participate in any hearing or rehearing of the taxpayer’s case.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_3811">
+          <akn:num>63-3811</akn:num>
+          <akn:heading>Appeal from determination of tax liability</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3811. Appeal from determination of tax liability. Taxpayers may, within the period herein provided and by following the procedures herein required, appeal to the board of tax appeals from a final determination of any tax liability, including those pursuant to sections 63-501 , 63-511 and 63-3049 , Idaho Code. History: [63-3811, added 1969, ch. 453, sec. 11, p. 1195; am. 1983, ch. 231, sec. 2, p. 635; am. 1996, ch. 322, sec. 69, p. 1097; am. 2004, ch. 94, sec. 1, p. 339.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3811. Appeal from determination of tax liability. Taxpayers may, within the period herein provided and by following the procedures herein required, appeal to the board of tax appeals from a final determination of any tax liability, including those pursuant to sections 63-501 , 63-511 and 63-3049 , Idaho Code. History: [63-3811, added 1969, ch. 453, sec. 11, p. 1195; am. 1983, ch. 231, sec. 2, p. 635; am. 1996, ch. 322, sec. 69, p. 1097; am. 2004, ch. 94, sec. 1, p. 339.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3811. Appeal from determination of tax liability. Taxpayers may, within the period herein provided and by following the procedures herein required, appeal to the board of tax appeals from a final determination of any tax liability, including those pursuant to sections 63-501 , 63-511 and 63-3049 , Idaho Code. History: [63-3811, added 1969, ch. 453, sec. 11, p. 1195; am. 1983, ch. 231, sec. 2, p. 635; am. 1996, ch. 322, sec. 69, p. 1097; am. 2004, ch. 94, sec. 1, p. 339.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3811. Appeal from determination of tax liability. Taxpayers may, within the period herein provided and by following the procedures herein required, appeal to the board of tax appeals from a final determination of any tax liability, including those pursuant to sections 63-501 , 63-511 and 63-3049 , Idaho Code. History: [63-3811, added 1969, ch. 453, sec. 11, p. 1195; am. 1983, ch. 231, sec. 2, p. 635; am. 1996, ch. 322, sec. 69, p. 1097; am. 2004, ch. 94, sec. 1, p. 339.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3811. Appeal from determination of tax liability. Taxpayers may, within the period herein provided and by following the procedures herein required, appeal to the board of tax appeals from a final determination of any tax liability, including those pursuant to sections 63-501 , 63-511 and 63-3049 , Idaho Code. History: [63-3811, added 1969, ch. 453, sec. 11, p. 1195; am. 1983, ch. 231, sec. 2, p. 635; am. 1996, ch. 322, sec. 69, p. 1097; am. 2004, ch. 94, sec. 1, p. 339.]
+63-3811. Appeal from determination of tax liability. Taxpayers may, within the period herein provided and by following the procedures herein required, appeal to the board of tax appeals from a final determination of any tax liability, including those pursuant to sections 63-501 , 63-511 and 63-3049 , Idaho Code.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_3812">
+          <akn:num>63-3812</akn:num>
+          <akn:heading>Appeal from board — Payment of taxes while on appeal</akn:heading>
+          <akn:subsection eId="63_3812__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The appeal shall be taken and perfected in accordance with rule 84 of the Idaho rules of civil procedure.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Any record made in such matter together with the record of all proceedings shall be filed by the clerk with the district court of the proper county.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Appeals may be based upon any issue presented by the appellant to the board of tax appeals and shall be heard and determined by the court without a jury in a trial de novo on the issues in the same manner as though it were an original proceeding in that court. The burden of proof shall fall upon the party seeking affirmative relief to establish that the decision made by the board of tax appeals is erroneous. A preponderance of the evidence shall suffice to sustain the burden of proof. The burden of proof shall fall upon the party seeking affirmative relief and the burden of going forward with the evidence shall shift as in other civil litigation. The court shall render its decision in writing, including therein a concise statement of the facts found by the court and conclusions of law reached by the court. The court may affirm, reverse or modify the order, direct the tax collector of the county or the state tax commission to refund any taxes found in such appeal to be erroneously or illegally assessed or collected or may direct the collection of additional taxes in proper cases.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Nothing in this section shall be construed to suspend the payment of taxes pending any appeal, except that any privileges as to bonds or other rights extended by the provisions of chapters 30 and 36, title 63 , Idaho Code, shall not be affected. Payment of taxes while an appeal hereunder is pending shall not operate to waive the right to an appeal.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Any final order of the district court under this section shall be subject to appeal to the supreme court in the manner provided by law. History: [63-3812, added 1969, ch. 453, sec. 12, p. 1195; am. 1983, ch. 231, sec. 3, p. 635; am. 1993, ch. 94, sec. 12, p. 238; am. 1993, ch. 290, sec. 1, p. 1082; am. 2000, ch. 6, sec. 1, p. 9; am. 2003, ch. 266, sec. 4, p. 705; am. 2004, ch. 95, sec. 1, p. 339.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3812. Appeal from board — Payment of taxes while on appeal. Whenever any taxpayer, assessor, the state tax commission or any other party appearing before the board of tax appeals is aggrieved by a decision of the board of tax appeals or a decision on a motion for rehearing, an appeal may be taken to the district court located in the county of residence of the affected taxpayer, or to the district court in and for the county in which property affected by an assessment is located.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The appeal shall be taken and perfected in accordance with rule 84 of the Idaho rules of civil procedure.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Any record made in such matter together with the record of all proceedings shall be filed by the clerk with the district court of the proper county.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Appeals may be based upon any issue presented by the appellant to the board of tax appeals and shall be heard and determined by the court without a jury in a trial de novo on the issues in the same manner as though it were an original proceeding in that court. The burden of proof shall fall upon the party seeking affirmative relief to establish that the decision made by the board of tax appeals is erroneous. A preponderance of the evidence shall suffice to sustain the burden of proof. The burden of proof shall fall upon the party seeking affirmative relief and the burden of going forward with the evidence shall shift as in other civil litigation. The court shall render its decision in writing, including therein a concise statement of the facts found by the court and conclusions of law reached by the court. The court may affirm, reverse or modify the order, direct the tax collector of the county or the state tax commission to refund any taxes found in such appeal to be erroneously or illegally assessed or collected or may direct the collection of additional taxes in proper cases.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Nothing in this section shall be construed to suspend the payment of taxes pending any appeal, except that any privileges as to bonds or other rights extended by the provisions of chapters 30 and 36, title 63 , Idaho Code, shall not be affected. Payment of taxes while an appeal hereunder is pending shall not operate to waive the right to an appeal.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Any final order of the district court under this section shall be subject to appeal to the supreme court in the manner provided by law. History: [63-3812, added 1969, ch. 453, sec. 12, p. 1195; am. 1983, ch. 231, sec. 3, p. 635; am. 1993, ch. 94, sec. 12, p. 238; am. 1993, ch. 290, sec. 1, p. 1082; am. 2000, ch. 6, sec. 1, p. 9; am. 2003, ch. 266, sec. 4, p. 705; am. 2004, ch. 95, sec. 1, p. 339.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3812. Appeal from board — Payment of taxes while on appeal. Whenever any taxpayer, assessor, the state tax commission or any other party appearing before the board of tax appeals is aggrieved by a decision of the board of tax appeals or a decision on a motion for rehearing, an appeal may be taken to the district court located in the county of residence of the affected taxpayer, or to the district court in and for the county in which property affected by an assessment is located.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The appeal shall be taken and perfected in accordance with rule 84 of the Idaho rules of civil procedure.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Any record made in such matter together with the record of all proceedings shall be filed by the clerk with the district court of the proper county.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Appeals may be based upon any issue presented by the appellant to the board of tax appeals and shall be heard and determined by the court without a jury in a trial de novo on the issues in the same manner as though it were an original proceeding in that court. The burden of proof shall fall upon the party seeking affirmative relief to establish that the decision made by the board of tax appeals is erroneous. A preponderance of the evidence shall suffice to sustain the burden of proof. The burden of proof shall fall upon the party seeking affirmative relief and the burden of going forward with the evidence shall shift as in other civil litigation. The court shall render its decision in writing, including therein a concise statement of the facts found by the court and conclusions of law reached by the court. The court may affirm, reverse or modify the order, direct the tax collector of the county or the state tax commission to refund any taxes found in such appeal to be erroneously or illegally assessed or collected or may direct the collection of additional taxes in proper cases.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Nothing in this section shall be construed to suspend the payment of taxes pending any appeal, except that any privileges as to bonds or other rights extended by the provisions of chapters 30 and 36, title 63 , Idaho Code, shall not be affected. Payment of taxes while an appeal hereunder is pending shall not operate to waive the right to an appeal.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Any final order of the district court under this section shall be subject to appeal to the supreme court in the manner provided by law. History: [63-3812, added 1969, ch. 453, sec. 12, p. 1195; am. 1983, ch. 231, sec. 3, p. 635; am. 1993, ch. 94, sec. 12, p. 238; am. 1993, ch. 290, sec. 1, p. 1082; am. 2000, ch. 6, sec. 1, p. 9; am. 2003, ch. 266, sec. 4, p. 705; am. 2004, ch. 95, sec. 1, p. 339.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3812. Appeal from board — Payment of taxes while on appeal. Whenever any taxpayer, assessor, the state tax commission or any other party appearing before the board of tax appeals is aggrieved by a decision of the board of tax appeals or a decision on a motion for rehearing, an appeal may be taken to the district court located in the county of residence of the affected taxpayer, or to the district court in and for the county in which property affected by an assessment is located.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The appeal shall be taken and perfected in accordance with rule 84 of the Idaho rules of civil procedure.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Any record made in such matter together with the record of all proceedings shall be filed by the clerk with the district court of the proper county.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Appeals may be based upon any issue presented by the appellant to the board of tax appeals and shall be heard and determined by the court without a jury in a trial de novo on the issues in the same manner as though it were an original proceeding in that court. The burden of proof shall fall upon the party seeking affirmative relief to establish that the decision made by the board of tax appeals is erroneous. A preponderance of the evidence shall suffice to sustain the burden of proof. The burden of proof shall fall upon the party seeking affirmative relief and the burden of going forward with the evidence shall shift as in other civil litigation. The court shall render its decision in writing, including therein a concise statement of the facts found by the court and conclusions of law reached by the court. The court may affirm, reverse or modify the order, direct the tax collector of the county or the state tax commission to refund any taxes found in such appeal to be erroneously or illegally assessed or collected or may direct the collection of additional taxes in proper cases.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Nothing in this section shall be construed to suspend the payment of taxes pending any appeal, except that any privileges as to bonds or other rights extended by the provisions of chapters 30 and 36, title 63 , Idaho Code, shall not be affected. Payment of taxes while an appeal hereunder is pending shall not operate to waive the right to an appeal.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Any final order of the district court under this section shall be subject to appeal to the supreme court in the manner provided by law. History: [63-3812, added 1969, ch. 453, sec. 12, p. 1195; am. 1983, ch. 231, sec. 3, p. 635; am. 1993, ch. 94, sec. 12, p. 238; am. 1993, ch. 290, sec. 1, p. 1082; am. 2000, ch. 6, sec. 1, p. 9; am. 2003, ch. 266, sec. 4, p. 705; am. 2004, ch. 95, sec. 1, p. 339.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3812. Appeal from board — Payment of taxes while on appeal. Whenever any taxpayer, assessor, the state tax commission or any other party appearing before the board of tax appeals is aggrieved by a decision of the board of tax appeals or a decision on a motion for rehearing, an appeal may be taken to the district court located in the county of residence of the affected taxpayer, or to the district court in and for the county in which property affected by an assessment is located.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The appeal shall be taken and perfected in accordance with rule 84 of the Idaho rules of civil procedure.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Any record made in such matter together with the record of all proceedings shall be filed by the clerk with the district court of the proper county.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Appeals may be based upon any issue presented by the appellant to the board of tax appeals and shall be heard and determined by the court without a jury in a trial de novo on the issues in the same manner as though it were an original proceeding in that court. The burden of proof shall fall upon the party seeking affirmative relief to establish that the decision made by the board of tax appeals is erroneous. A preponderance of the evidence shall suffice to sustain the burden of proof. The burden of proof shall fall upon the party seeking affirmative relief and the burden of going forward with the evidence shall shift as in other civil litigation. The court shall render its decision in writing, including therein a concise statement of the facts found by the court and conclusions of law reached by the court. The court may affirm, reverse or modify the order, direct the tax collector of the county or the state tax commission to refund any taxes found in such appeal to be erroneously or illegally assessed or collected or may direct the collection of additional taxes in proper cases.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Nothing in this section shall be construed to suspend the payment of taxes pending any appeal, except that any privileges as to bonds or other rights extended by the provisions of chapters 30 and 36, title 63 , Idaho Code, shall not be affected. Payment of taxes while an appeal hereunder is pending shall not operate to waive the right to an appeal.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Any final order of the district court under this section shall be subject to appeal to the supreme court in the manner provided by law. History: [63-3812, added 1969, ch. 453, sec. 12, p. 1195; am. 1983, ch. 231, sec. 3, p. 635; am. 1993, ch. 94, sec. 12, p. 238; am. 1993, ch. 290, sec. 1, p. 1082; am. 2000, ch. 6, sec. 1, p. 9; am. 2003, ch. 266, sec. 4, p. 705; am. 2004, ch. 95, sec. 1, p. 339.]
+63-3812. Appeal from board — Payment of taxes while on appeal. Whenever any taxpayer, assessor, the state tax commission or any other party appearing before the board of tax appeals is aggrieved by a decision of the board of tax appeals or a decision on a motion for rehearing, an appeal may be taken to the district court located in the county of residence of the affected taxpayer, or to the district court in and for the county in which property affected by an assessment is located.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The appeal shall be taken and perfected in accordance with rule 84 of the Idaho rules of civil procedure.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Any record made in such matter together with the record of all proceedings shall be filed by the clerk with the district court of the proper county.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Appeals may be based upon any issue presented by the appellant to the board of tax appeals and shall be heard and determined by the court without a jury in a trial de novo on the issues in the same manner as though it were an original proceeding in that court. The burden of proof shall fall upon the party seeking affirmative relief to establish that the decision made by the board of tax appeals is erroneous. A preponderance of the evidence shall suffice to sustain the burden of proof. The burden of proof shall fall upon the party seeking affirmative relief and the burden of going forward with the evidence shall shift as in other civil litigation. The court shall render its decision in writing, including therein a concise statement of the facts found by the court and conclusions of law reached by the court. The court may affirm, reverse or modify the order, direct the tax collector of the county or the state tax commission to refund any taxes found in such appeal to be erroneously or illegally assessed or collected or may direct the collection of additional taxes in proper cases.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Nothing in this section shall be construed to suspend the payment of taxes pending any appeal, except that any privileges as to bonds or other rights extended by the provisions of chapters 30 and 36, title 63 , Idaho Code, shall not be affected. Payment of taxes while an appeal hereunder is pending shall not operate to waive the right to an appeal.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_3812__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Any final order of the district court under this section shall be subject to appeal to the supreme court in the manner provided by law.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_3813">
+          <akn:num>63-3813</akn:num>
+          <akn:heading>Conclusive decision</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3813. Conclusive decision. In all cases which are not appealed to the district court within the prescribed time, the decision of the board of tax appeals shall be conclusive and all records shall be corrected to comply with the decision of the board. A final decision or order of the board of tax appeals directing a market value change for taxable property that is not further appealed shall be fixed for the current year appealed and there shall be no increase in value for the subsequent assessment year when no physical change occurs to the property; provided however, that annual trending or equalization applied to all properties of a property class or category within the county or a clearly defined area shall still apply. If the order requires repayment or refund of taxes these shall be repaid or refunded by the proper authorities and, if the order affirms or establishes a liability for the payment of taxes, the usual procedure for collection of such taxes shall continue or commence. History: [63-3813, added 1969, ch. 453, sec. 13, p. 1195; am. 2002, ch. 332, sec. 1, p. 938.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3813. Conclusive decision. In all cases which are not appealed to the district court within the prescribed time, the decision of the board of tax appeals shall be conclusive and all records shall be corrected to comply with the decision of the board. A final decision or order of the board of tax appeals directing a market value change for taxable property that is not further appealed shall be fixed for the current year appealed and there shall be no increase in value for the subsequent assessment year when no physical change occurs to the property; provided however, that annual trending or equalization applied to all properties of a property class or category within the county or a clearly defined area shall still apply. If the order requires repayment or refund of taxes these shall be repaid or refunded by the proper authorities and, if the order affirms or establishes a liability for the payment of taxes, the usual procedure for collection of such taxes shall continue or commence. History: [63-3813, added 1969, ch. 453, sec. 13, p. 1195; am. 2002, ch. 332, sec. 1, p. 938.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3813. Conclusive decision. In all cases which are not appealed to the district court within the prescribed time, the decision of the board of tax appeals shall be conclusive and all records shall be corrected to comply with the decision of the board. A final decision or order of the board of tax appeals directing a market value change for taxable property that is not further appealed shall be fixed for the current year appealed and there shall be no increase in value for the subsequent assessment year when no physical change occurs to the property; provided however, that annual trending or equalization applied to all properties of a property class or category within the county or a clearly defined area shall still apply. If the order requires repayment or refund of taxes these shall be repaid or refunded by the proper authorities and, if the order affirms or establishes a liability for the payment of taxes, the usual procedure for collection of such taxes shall continue or commence. History: [63-3813, added 1969, ch. 453, sec. 13, p. 1195; am. 2002, ch. 332, sec. 1, p. 938.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3813. Conclusive decision. In all cases which are not appealed to the district court within the prescribed time, the decision of the board of tax appeals shall be conclusive and all records shall be corrected to comply with the decision of the board. A final decision or order of the board of tax appeals directing a market value change for taxable property that is not further appealed shall be fixed for the current year appealed and there shall be no increase in value for the subsequent assessment year when no physical change occurs to the property; provided however, that annual trending or equalization applied to all properties of a property class or category within the county or a clearly defined area shall still apply. If the order requires repayment or refund of taxes these shall be repaid or refunded by the proper authorities and, if the order affirms or establishes a liability for the payment of taxes, the usual procedure for collection of such taxes shall continue or commence. History: [63-3813, added 1969, ch. 453, sec. 13, p. 1195; am. 2002, ch. 332, sec. 1, p. 938.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3813. Conclusive decision. In all cases which are not appealed to the district court within the prescribed time, the decision of the board of tax appeals shall be conclusive and all records shall be corrected to comply with the decision of the board. A final decision or order of the board of tax appeals directing a market value change for taxable property that is not further appealed shall be fixed for the current year appealed and there shall be no increase in value for the subsequent assessment year when no physical change occurs to the property; provided however, that annual trending or equalization applied to all properties of a property class or category within the county or a clearly defined area shall still apply. If the order requires repayment or refund of taxes these shall be repaid or refunded by the proper authorities and, if the order affirms or establishes a liability for the payment of taxes, the usual procedure for collection of such taxes shall continue or commence. History: [63-3813, added 1969, ch. 453, sec. 13, p. 1195; am. 2002, ch. 332, sec. 1, p. 938.]
+63-3813. Conclusive decision. In all cases which are not appealed to the district court within the prescribed time, the decision of the board of tax appeals shall be conclusive and all records shall be corrected to comply with the decision of the board. A final decision or order of the board of tax appeals directing a market value change for taxable property that is not further appealed shall be fixed for the current year appealed and there shall be no increase in value for the subsequent assessment year when no physical change occurs to the property; provided however, that annual trending or equalization applied to all properties of a property class or category within the county or a clearly defined area shall still apply. If the order requires repayment or refund of taxes these shall be repaid or refunded by the proper authorities and, if the order affirms or establishes a liability for the payment of taxes, the usual procedure for collection of such taxes shall continue or commence.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_3814">
+          <akn:num>63-3814</akn:num>
+          <akn:heading>Proceedings to conform with administrative procedure act</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3814. Proceedings to conform with administrative procedure act. The proceedings of the board shall be conducted in conformity with the administrative procedure act set out in chapter 52, title 67 , of the Idaho Code, except insofar as this act is inconsistent therewith. History: [63-3814, added 1969, ch. 453, sec. 15, p. 1195.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3814. Proceedings to conform with administrative procedure act. The proceedings of the board shall be conducted in conformity with the administrative procedure act set out in chapter 52, title 67 , of the Idaho Code, except insofar as this act is inconsistent therewith. History: [63-3814, added 1969, ch. 453, sec. 15, p. 1195.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3814. Proceedings to conform with administrative procedure act. The proceedings of the board shall be conducted in conformity with the administrative procedure act set out in chapter 52, title 67 , of the Idaho Code, except insofar as this act is inconsistent therewith. History: [63-3814, added 1969, ch. 453, sec. 15, p. 1195.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3814. Proceedings to conform with administrative procedure act. The proceedings of the board shall be conducted in conformity with the administrative procedure act set out in chapter 52, title 67 , of the Idaho Code, except insofar as this act is inconsistent therewith. History: [63-3814, added 1969, ch. 453, sec. 15, p. 1195.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 38 BOARD OF TAX APPEALS 63-3814. Proceedings to conform with administrative procedure act. The proceedings of the board shall be conducted in conformity with the administrative procedure act set out in chapter 52, title 67 , of the Idaho Code, except insofar as this act is inconsistent therewith. History: [63-3814, added 1969, ch. 453, sec. 15, p. 1195.]
+63-3814. Proceedings to conform with administrative procedure act. The proceedings of the board shall be conducted in conformity with the administrative procedure act set out in chapter 52, title 67 , of the Idaho Code, except insofar as this act is inconsistent therewith.</akn:p>
+          </akn:content>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

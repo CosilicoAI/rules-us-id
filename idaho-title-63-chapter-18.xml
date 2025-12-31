@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-18" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-18" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="63-18" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-18/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-18/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-63/chapter-18/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-63/chapter-18/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_63_18">
+        <akn:num>Chapter 18</akn:num>
+        <akn:heading>Chapter 18</akn:heading>
+        <akn:section eId="sec_63_1801">
+          <akn:num>63-1801</akn:num>
+          <akn:heading>SHORT TITLE</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 18 SHORT-TERM OR VACATION RENTAL MARKETPLACES 63-1801. SHORT TITLE. This act may be cited as the "Short-term Rental and Vacation Rental Act." History: [63-1801, added 2017, ch. 239, sec. 1, p. 591.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 18 SHORT-TERM OR VACATION RENTAL MARKETPLACES 63-1801. SHORT TITLE. This act may be cited as the "Short-term Rental and Vacation Rental Act." History: [63-1801, added 2017, ch. 239, sec. 1, p. 591.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 18 SHORT-TERM OR VACATION RENTAL MARKETPLACES 63-1801. SHORT TITLE. This act may be cited as the "Short-term Rental and Vacation Rental Act." History: [63-1801, added 2017, ch. 239, sec. 1, p. 591.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 18 SHORT-TERM OR VACATION RENTAL MARKETPLACES 63-1801. SHORT TITLE. This act may be cited as the "Short-term Rental and Vacation Rental Act." History: [63-1801, added 2017, ch. 239, sec. 1, p. 591.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 18 SHORT-TERM OR VACATION RENTAL MARKETPLACES 63-1801. SHORT TITLE. This act may be cited as the "Short-term Rental and Vacation Rental Act." History: [63-1801, added 2017, ch. 239, sec. 1, p. 591.]
+63-1801. SHORT TITLE. This act may be cited as the "Short-term Rental and Vacation Rental Act."</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_1802">
+          <akn:num>63-1802</akn:num>
+          <akn:heading>legislative intent</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 18 SHORT-TERM OR VACATION RENTAL MARKETPLACES 63-1802. legislative intent. This act is designed to promote access to short-term rentals and vacation rentals by limiting local governmental authority to prohibit these beneficial property uses, or to specifically target them for regulation, except in circumstances necessary to safeguard public health and welfare. This act is also designed to preserve personal property rights and promote property owner access to platforms for offering their properties as short-term rentals and vacation rentals, and enhancing local tax revenue by permitting platforms to assume tax collection and remittance responsibilities. History: [63-1802, added 2017, ch. 239, sec. 1, p. 591.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 18 SHORT-TERM OR VACATION RENTAL MARKETPLACES 63-1802. legislative intent. This act is designed to promote access to short-term rentals and vacation rentals by limiting local governmental authority to prohibit these beneficial property uses, or to specifically target them for regulation, except in circumstances necessary to safeguard public health and welfare. This act is also designed to preserve personal property rights and promote property owner access to platforms for offering their properties as short-term rentals and vacation rentals, and enhancing local tax revenue by permitting platforms to assume tax collection and remittance responsibilities. History: [63-1802, added 2017, ch. 239, sec. 1, p. 591.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 18 SHORT-TERM OR VACATION RENTAL MARKETPLACES 63-1802. legislative intent. This act is designed to promote access to short-term rentals and vacation rentals by limiting local governmental authority to prohibit these beneficial property uses, or to specifically target them for regulation, except in circumstances necessary to safeguard public health and welfare. This act is also designed to preserve personal property rights and promote property owner access to platforms for offering their properties as short-term rentals and vacation rentals, and enhancing local tax revenue by permitting platforms to assume tax collection and remittance responsibilities. History: [63-1802, added 2017, ch. 239, sec. 1, p. 591.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 18 SHORT-TERM OR VACATION RENTAL MARKETPLACES 63-1802. legislative intent. This act is designed to promote access to short-term rentals and vacation rentals by limiting local governmental authority to prohibit these beneficial property uses, or to specifically target them for regulation, except in circumstances necessary to safeguard public health and welfare. This act is also designed to preserve personal property rights and promote property owner access to platforms for offering their properties as short-term rentals and vacation rentals, and enhancing local tax revenue by permitting platforms to assume tax collection and remittance responsibilities. History: [63-1802, added 2017, ch. 239, sec. 1, p. 591.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 18 SHORT-TERM OR VACATION RENTAL MARKETPLACES 63-1802. legislative intent. This act is designed to promote access to short-term rentals and vacation rentals by limiting local governmental authority to prohibit these beneficial property uses, or to specifically target them for regulation, except in circumstances necessary to safeguard public health and welfare. This act is also designed to preserve personal property rights and promote property owner access to platforms for offering their properties as short-term rentals and vacation rentals, and enhancing local tax revenue by permitting platforms to assume tax collection and remittance responsibilities. History: [63-1802, added 2017, ch. 239, sec. 1, p. 591.]
+63-1802. legislative intent. This act is designed to promote access to short-term rentals and vacation rentals by limiting local governmental authority to prohibit these beneficial property uses, or to specifically target them for regulation, except in circumstances necessary to safeguard public health and welfare. This act is also designed to preserve personal property rights and promote property owner access to platforms for offering their properties as short-term rentals and vacation rentals, and enhancing local tax revenue by permitting platforms to assume tax collection and remittance responsibilities.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_63_1803">
+          <akn:num>63-1803</akn:num>
+          <akn:heading>Definitions</akn:heading>
+          <akn:subsection eId="63_1803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Local government" means any governmental entity or agency, including counties, municipalities, and taxing districts, but not the state of Idaho and the agencies and departments of the state.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Lodging operator" means a person that rents a short-term rental or vacation rental to an occupant using a short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Lodging transaction" means a charge to an occupant by a lodging operator for the occupancy of any short-term rental or vacation rental using a short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Short-term rental" or "vacation rental" means any individually or collectively owned single-family house or dwelling unit or any unit or group of units in a condominium, cooperative or timeshare, or owner-occupied residential home that is offered for a fee and for thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days or less. Short-term rental or vacation rental does not include a unit that is used for any retail, restaurant, banquet space, event center or another similar use.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Short-term rental marketplace" means a person that provides a platform through which a lodging operator, or the authorized agent of the lodging operator, offers a short-term rental or vacation rental to an occupant. History: [63-1803, added 2017, ch. 239, sec. 1, p. 591.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 18 SHORT-TERM OR VACATION RENTAL MARKETPLACES 63-1803. Definitions. In this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Local government" means any governmental entity or agency, including counties, municipalities, and taxing districts, but not the state of Idaho and the agencies and departments of the state.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Lodging operator" means a person that rents a short-term rental or vacation rental to an occupant using a short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Lodging transaction" means a charge to an occupant by a lodging operator for the occupancy of any short-term rental or vacation rental using a short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Short-term rental" or "vacation rental" means any individually or collectively owned single-family house or dwelling unit or any unit or group of units in a condominium, cooperative or timeshare, or owner-occupied residential home that is offered for a fee and for thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days or less. Short-term rental or vacation rental does not include a unit that is used for any retail, restaurant, banquet space, event center or another similar use.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Short-term rental marketplace" means a person that provides a platform through which a lodging operator, or the authorized agent of the lodging operator, offers a short-term rental or vacation rental to an occupant. History: [63-1803, added 2017, ch. 239, sec. 1, p. 591.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 18 SHORT-TERM OR VACATION RENTAL MARKETPLACES 63-1803. Definitions. In this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Local government" means any governmental entity or agency, including counties, municipalities, and taxing districts, but not the state of Idaho and the agencies and departments of the state.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Lodging operator" means a person that rents a short-term rental or vacation rental to an occupant using a short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Lodging transaction" means a charge to an occupant by a lodging operator for the occupancy of any short-term rental or vacation rental using a short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Short-term rental" or "vacation rental" means any individually or collectively owned single-family house or dwelling unit or any unit or group of units in a condominium, cooperative or timeshare, or owner-occupied residential home that is offered for a fee and for thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days or less. Short-term rental or vacation rental does not include a unit that is used for any retail, restaurant, banquet space, event center or another similar use.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Short-term rental marketplace" means a person that provides a platform through which a lodging operator, or the authorized agent of the lodging operator, offers a short-term rental or vacation rental to an occupant. History: [63-1803, added 2017, ch. 239, sec. 1, p. 591.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 18 SHORT-TERM OR VACATION RENTAL MARKETPLACES 63-1803. Definitions. In this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Local government" means any governmental entity or agency, including counties, municipalities, and taxing districts, but not the state of Idaho and the agencies and departments of the state.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Lodging operator" means a person that rents a short-term rental or vacation rental to an occupant using a short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Lodging transaction" means a charge to an occupant by a lodging operator for the occupancy of any short-term rental or vacation rental using a short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Short-term rental" or "vacation rental" means any individually or collectively owned single-family house or dwelling unit or any unit or group of units in a condominium, cooperative or timeshare, or owner-occupied residential home that is offered for a fee and for thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days or less. Short-term rental or vacation rental does not include a unit that is used for any retail, restaurant, banquet space, event center or another similar use.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Short-term rental marketplace" means a person that provides a platform through which a lodging operator, or the authorized agent of the lodging operator, offers a short-term rental or vacation rental to an occupant. History: [63-1803, added 2017, ch. 239, sec. 1, p. 591.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 18 SHORT-TERM OR VACATION RENTAL MARKETPLACES 63-1803. Definitions. In this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Local government" means any governmental entity or agency, including counties, municipalities, and taxing districts, but not the state of Idaho and the agencies and departments of the state.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Lodging operator" means a person that rents a short-term rental or vacation rental to an occupant using a short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Lodging transaction" means a charge to an occupant by a lodging operator for the occupancy of any short-term rental or vacation rental using a short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Short-term rental" or "vacation rental" means any individually or collectively owned single-family house or dwelling unit or any unit or group of units in a condominium, cooperative or timeshare, or owner-occupied residential home that is offered for a fee and for thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days or less. Short-term rental or vacation rental does not include a unit that is used for any retail, restaurant, banquet space, event center or another similar use.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Short-term rental marketplace" means a person that provides a platform through which a lodging operator, or the authorized agent of the lodging operator, offers a short-term rental or vacation rental to an occupant. History: [63-1803, added 2017, ch. 239, sec. 1, p. 591.]
+63-1803. Definitions. In this chapter:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Local government" means any governmental entity or agency, including counties, municipalities, and taxing districts, but not the state of Idaho and the agencies and departments of the state.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Lodging operator" means a person that rents a short-term rental or vacation rental to an occupant using a short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Lodging transaction" means a charge to an occupant by a lodging operator for the occupancy of any short-term rental or vacation rental using a short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Short-term rental" or "vacation rental" means any individually or collectively owned single-family house or dwelling unit or any unit or group of units in a condominium, cooperative or timeshare, or owner-occupied residential home that is offered for a fee and for thirty</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_30">
+            <akn:num>(30)</akn:num>
+            <akn:content>
+              <akn:p>days or less. Short-term rental or vacation rental does not include a unit that is used for any retail, restaurant, banquet space, event center or another similar use.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1803__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Short-term rental marketplace" means a person that provides a platform through which a lodging operator, or the authorized agent of the lodging operator, offers a short-term rental or vacation rental to an occupant.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_63_1804">
+          <akn:num>63-1804</akn:num>
+          <akn:heading>Limiting tax duties of short-Term Rental marketplaces — collection of tax</akn:heading>
+          <akn:subsection eId="63_1804__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A local government may not levy a sales, use, franchise, receipts, or other similar tax or fee on the business of operating a short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>A short-term rental marketplace shall register with the state tax commission for collection, reporting, and payment of sales and use and travel and convention taxes levied by this state and any applicable local government taxes administered by the state tax commission on short-term rentals and vacation rentals due from a lodging operator on any lodging transaction facilitated by the short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>A short-term rental marketplace shall collect, report, and pay taxes imposed on the lodging operator or occupant of a short-term rental or vacation rental by any local government.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Any local government that has levied a tax pursuant to statutory authorization, may contract with the state tax commission for the collection and administration of such taxes in like manner and under definitions and rules of the state tax commission for the collection and administration of the state sales or use tax under chapter 36, title 63 , Idaho Code. Alternatively, such local government shall have authority to administer and collect such tax. All revenues collected on behalf of the local governments by the state tax commission pursuant to this chapter shall be distributed as follows: An amount of money shall be distributed to the state refund fund sufficient to pay current refund claims. All refunds authorized by the commission to be paid shall be paid through the state refund fund and those moneys are continuously appropriated. The state tax commission may retain an amount of money equal to such fee as may be agreed upon between the state tax commission and such local government for the actual cost of the collection and administration of the tax. The amount retained by the commission shall not exceed the amount authorized to be expended by appropriation by the legislature. Any unencumbered balance in excess of the actual cost at the end of each fiscal year shall be distributed as provided in this section. All remaining moneys received pursuant to this chapter shall be placed in a fund designated by the state controller and remitted monthly to the local government levying such tax.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>A short-term rental marketplace that has not facilitated a lodging transaction in Idaho shall have forty-five</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_45">
+            <akn:num>(45)</akn:num>
+            <akn:content>
+              <akn:p>days to comply with this section upon completion of their first lodging transaction in Idaho. History: [63-1804, added 2017, ch. 239, sec. 1, p. 591.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 18 SHORT-TERM OR VACATION RENTAL MARKETPLACES 63-1804. Limiting tax duties of short-Term Rental marketplaces — collection of tax.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A local government may not levy a sales, use, franchise, receipts, or other similar tax or fee on the business of operating a short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>A short-term rental marketplace shall register with the state tax commission for collection, reporting, and payment of sales and use and travel and convention taxes levied by this state and any applicable local government taxes administered by the state tax commission on short-term rentals and vacation rentals due from a lodging operator on any lodging transaction facilitated by the short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>A short-term rental marketplace shall collect, report, and pay taxes imposed on the lodging operator or occupant of a short-term rental or vacation rental by any local government.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Any local government that has levied a tax pursuant to statutory authorization, may contract with the state tax commission for the collection and administration of such taxes in like manner and under definitions and rules of the state tax commission for the collection and administration of the state sales or use tax under chapter 36, title 63 , Idaho Code. Alternatively, such local government shall have authority to administer and collect such tax. All revenues collected on behalf of the local governments by the state tax commission pursuant to this chapter shall be distributed as follows: An amount of money shall be distributed to the state refund fund sufficient to pay current refund claims. All refunds authorized by the commission to be paid shall be paid through the state refund fund and those moneys are continuously appropriated. The state tax commission may retain an amount of money equal to such fee as may be agreed upon between the state tax commission and such local government for the actual cost of the collection and administration of the tax. The amount retained by the commission shall not exceed the amount authorized to be expended by appropriation by the legislature. Any unencumbered balance in excess of the actual cost at the end of each fiscal year shall be distributed as provided in this section. All remaining moneys received pursuant to this chapter shall be placed in a fund designated by the state controller and remitted monthly to the local government levying such tax.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>A short-term rental marketplace that has not facilitated a lodging transaction in Idaho shall have forty-five</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_45">
+            <akn:num>(45)</akn:num>
+            <akn:content>
+              <akn:p>days to comply with this section upon completion of their first lodging transaction in Idaho. History: [63-1804, added 2017, ch. 239, sec. 1, p. 591.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 18 SHORT-TERM OR VACATION RENTAL MARKETPLACES 63-1804. Limiting tax duties of short-Term Rental marketplaces — collection of tax.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A local government may not levy a sales, use, franchise, receipts, or other similar tax or fee on the business of operating a short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>A short-term rental marketplace shall register with the state tax commission for collection, reporting, and payment of sales and use and travel and convention taxes levied by this state and any applicable local government taxes administered by the state tax commission on short-term rentals and vacation rentals due from a lodging operator on any lodging transaction facilitated by the short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>A short-term rental marketplace shall collect, report, and pay taxes imposed on the lodging operator or occupant of a short-term rental or vacation rental by any local government.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Any local government that has levied a tax pursuant to statutory authorization, may contract with the state tax commission for the collection and administration of such taxes in like manner and under definitions and rules of the state tax commission for the collection and administration of the state sales or use tax under chapter 36, title 63 , Idaho Code. Alternatively, such local government shall have authority to administer and collect such tax. All revenues collected on behalf of the local governments by the state tax commission pursuant to this chapter shall be distributed as follows: An amount of money shall be distributed to the state refund fund sufficient to pay current refund claims. All refunds authorized by the commission to be paid shall be paid through the state refund fund and those moneys are continuously appropriated. The state tax commission may retain an amount of money equal to such fee as may be agreed upon between the state tax commission and such local government for the actual cost of the collection and administration of the tax. The amount retained by the commission shall not exceed the amount authorized to be expended by appropriation by the legislature. Any unencumbered balance in excess of the actual cost at the end of each fiscal year shall be distributed as provided in this section. All remaining moneys received pursuant to this chapter shall be placed in a fund designated by the state controller and remitted monthly to the local government levying such tax.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>A short-term rental marketplace that has not facilitated a lodging transaction in Idaho shall have forty-five</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_45">
+            <akn:num>(45)</akn:num>
+            <akn:content>
+              <akn:p>days to comply with this section upon completion of their first lodging transaction in Idaho. History: [63-1804, added 2017, ch. 239, sec. 1, p. 591.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 63 REVENUE AND TAXATION CHAPTER 18 SHORT-TERM OR VACATION RENTAL MARKETPLACES 63-1804. Limiting tax duties of short-Term Rental marketplaces — collection of tax.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A local government may not levy a sales, use, franchise, receipts, or other similar tax or fee on the business of operating a short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>A short-term rental marketplace shall register with the state tax commission for collection, reporting, and payment of sales and use and travel and convention taxes levied by this state and any applicable local government taxes administered by the state tax commission on short-term rentals and vacation rentals due from a lodging operator on any lodging transaction facilitated by the short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>A short-term rental marketplace shall collect, report, and pay taxes imposed on the lodging operator or occupant of a short-term rental or vacation rental by any local government.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Any local government that has levied a tax pursuant to statutory authorization, may contract with the state tax commission for the collection and administration of such taxes in like manner and under definitions and rules of the state tax commission for the collection and administration of the state sales or use tax under chapter 36, title 63 , Idaho Code. Alternatively, such local government shall have authority to administer and collect such tax. All revenues collected on behalf of the local governments by the state tax commission pursuant to this chapter shall be distributed as follows: An amount of money shall be distributed to the state refund fund sufficient to pay current refund claims. All refunds authorized by the commission to be paid shall be paid through the state refund fund and those moneys are continuously appropriated. The state tax commission may retain an amount of money equal to such fee as may be agreed upon between the state tax commission and such local government for the actual cost of the collection and administration of the tax. The amount retained by the commission shall not exceed the amount authorized to be expended by appropriation by the legislature. Any unencumbered balance in excess of the actual cost at the end of each fiscal year shall be distributed as provided in this section. All remaining moneys received pursuant to this chapter shall be placed in a fund designated by the state controller and remitted monthly to the local government levying such tax.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>A short-term rental marketplace that has not facilitated a lodging transaction in Idaho shall have forty-five</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_45">
+            <akn:num>(45)</akn:num>
+            <akn:content>
+              <akn:p>days to comply with this section upon completion of their first lodging transaction in Idaho. History: [63-1804, added 2017, ch. 239, sec. 1, p. 591.]
+TITLE 63 REVENUE AND TAXATION CHAPTER 18 SHORT-TERM OR VACATION RENTAL MARKETPLACES 63-1804. Limiting tax duties of short-Term Rental marketplaces — collection of tax.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A local government may not levy a sales, use, franchise, receipts, or other similar tax or fee on the business of operating a short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>A short-term rental marketplace shall register with the state tax commission for collection, reporting, and payment of sales and use and travel and convention taxes levied by this state and any applicable local government taxes administered by the state tax commission on short-term rentals and vacation rentals due from a lodging operator on any lodging transaction facilitated by the short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>A short-term rental marketplace shall collect, report, and pay taxes imposed on the lodging operator or occupant of a short-term rental or vacation rental by any local government.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Any local government that has levied a tax pursuant to statutory authorization, may contract with the state tax commission for the collection and administration of such taxes in like manner and under definitions and rules of the state tax commission for the collection and administration of the state sales or use tax under chapter 36, title 63 , Idaho Code. Alternatively, such local government shall have authority to administer and collect such tax. All revenues collected on behalf of the local governments by the state tax commission pursuant to this chapter shall be distributed as follows: An amount of money shall be distributed to the state refund fund sufficient to pay current refund claims. All refunds authorized by the commission to be paid shall be paid through the state refund fund and those moneys are continuously appropriated. The state tax commission may retain an amount of money equal to such fee as may be agreed upon between the state tax commission and such local government for the actual cost of the collection and administration of the tax. The amount retained by the commission shall not exceed the amount authorized to be expended by appropriation by the legislature. Any unencumbered balance in excess of the actual cost at the end of each fiscal year shall be distributed as provided in this section. All remaining moneys received pursuant to this chapter shall be placed in a fund designated by the state controller and remitted monthly to the local government levying such tax.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>A short-term rental marketplace that has not facilitated a lodging transaction in Idaho shall have forty-five</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_45">
+            <akn:num>(45)</akn:num>
+            <akn:content>
+              <akn:p>days to comply with this section upon completion of their first lodging transaction in Idaho. History: [63-1804, added 2017, ch. 239, sec. 1, p. 591.]
+63-1804. Limiting tax duties of short-Term Rental marketplaces — collection of tax.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>A local government may not levy a sales, use, franchise, receipts, or other similar tax or fee on the business of operating a short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>A short-term rental marketplace shall register with the state tax commission for collection, reporting, and payment of sales and use and travel and convention taxes levied by this state and any applicable local government taxes administered by the state tax commission on short-term rentals and vacation rentals due from a lodging operator on any lodging transaction facilitated by the short-term rental marketplace.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>A short-term rental marketplace shall collect, report, and pay taxes imposed on the lodging operator or occupant of a short-term rental or vacation rental by any local government.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Any local government that has levied a tax pursuant to statutory authorization, may contract with the state tax commission for the collection and administration of such taxes in like manner and under definitions and rules of the state tax commission for the collection and administration of the state sales or use tax under chapter 36, title 63 , Idaho Code. Alternatively, such local government shall have authority to administer and collect such tax. All revenues collected on behalf of the local governments by the state tax commission pursuant to this chapter shall be distributed as follows: An amount of money shall be distributed to the state refund fund sufficient to pay current refund claims. All refunds authorized by the commission to be paid shall be paid through the state refund fund and those moneys are continuously appropriated. The state tax commission may retain an amount of money equal to such fee as may be agreed upon between the state tax commission and such local government for the actual cost of the collection and administration of the tax. The amount retained by the commission shall not exceed the amount authorized to be expended by appropriation by the legislature. Any unencumbered balance in excess of the actual cost at the end of each fiscal year shall be distributed as provided in this section. All remaining moneys received pursuant to this chapter shall be placed in a fund designated by the state controller and remitted monthly to the local government levying such tax.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>A short-term rental marketplace that has not facilitated a lodging transaction in Idaho shall have forty-five</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="63_1804__subsec_45">
+            <akn:num>(45)</akn:num>
+            <akn:content>
+              <akn:p>days to comply with this section upon completion of their first lodging transaction in Idaho.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

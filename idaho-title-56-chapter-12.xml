@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="chapter">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-12" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-12" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#idaho-legislature" />
+          <akn:FRBRcountry value="us-id" />
+          <akn:FRBRnumber value="56-12" />
+          <akn:FRBRname value="idaho-statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-12/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-12/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-id/act/idaho-statutes/title-56/chapter-12/eng@2025-12-31/main.xml" />
+          <akn:FRBRuri value="/akn/us-id/act/idaho-statutes/title-56/chapter-12/eng@2025-12-31/main.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="idaho-legislature" href="https://legislature.idaho.gov" showAs="Idaho State Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:chapter eId="chp_56_12">
+        <akn:num>Chapter 12</akn:num>
+        <akn:heading>Foster Care</akn:heading>
+        <akn:section eId="sec_56_1201">
+          <akn:num>56-1201</akn:num>
+          <akn:heading>Idaho state independent living council — Legislative intent</akn:heading>
+          <akn:subsection eId="56_1201__subsec_20">
+            <akn:num>(20)</akn:num>
+            <akn:content>
+              <akn:p>departments of state government authorized by section 20, article IV, of the constitution of the state of Idaho, or of the departments prescribed in section 67-2402 , Idaho Code. It is legislative intent that the Idaho state independent living council operate and be recognized not as a state agency or department, but as a governmental entity whose creation has been authorized by the state, much in the same manner as other single purpose districts. Pursuant to this intent, and because the Idaho state independent living council is not a state department or agency, the Idaho state independent living council is exempt from the required participation in the services of the purchasing agent or employee liability coverage, as rendered by the department of administration. However, nothing shall prohibit the Idaho state independent living council from entering into contractual arrangements with the department of administration, or any other department of state government or an elected constitutional officer, for these or any other services. It is legislative intent to require compliance with the state merit system, and to affirm the participation of the Idaho state independent living council in the public employee retirement system, chapter 13, title 59 , Idaho Code, and the personnel system, chapter 53, title 67 , Idaho Code. It is also legislative intent that the matters of location of deposit of Idaho state independent living council funds, or the instruments or documents of payment from those funds shall be construed as no more than items of convenience for the conduct of business, and in no way reflect upon the nature or status of the Idaho state independent living council as an entity of government. This section merely affirms that the Idaho state independent living council created under this chapter is not a state agency and in no way changes the character of it as it existed prior to this chapter. The functions previously performed by the state independent living cou</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1201__subsec_20">
+            <akn:num>(20)</akn:num>
+            <akn:content>
+              <akn:p>departments of state government authorized by section 20, article IV, of the constitution of the state of Idaho, or of the departments prescribed in section 67-2402 , Idaho Code. It is legislative intent that the Idaho state independent living council operate and be recognized not as a state agency or department, but as a governmental entity whose creation has been authorized by the state, much in the same manner as other single purpose districts. Pursuant to this intent, and because the Idaho state independent living council is not a state department or agency, the Idaho state independent living council is exempt from the required participation in the services of the purchasing agent or employee liability coverage, as rendered by the department of administration. However, nothing shall prohibit the Idaho state independent living council from entering into contractual arrangements with the department of administration, or any other department of state government or an elected constitutional officer, for these or any other services. It is legislative intent to require compliance with the state merit system, and to affirm the participation of the Idaho state independent living council in the public employee retirement system, chapter 13, title 59 , Idaho Code, and the personnel system, chapter 53, title 67 , Idaho Code. It is also legislative intent that the matters of location of deposit of Idaho state independent living council funds, or the instruments or documents of payment from those funds shall be construed as no more than items of convenience for the conduct of business, and in no way reflect upon the nature or status of the Idaho state independent living council as an entity of government. This section merely affirms that the Idaho state independent living council created under this chapter is not a state agency and in no way changes the character of it as it existed prior to this chapter. The functions previously performed by the state independent living cou</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1201__subsec_20">
+            <akn:num>(20)</akn:num>
+            <akn:content>
+              <akn:p>departments of state government authorized by section 20, article IV, of the constitution of the state of Idaho, or of the departments prescribed in section 67-2402 , Idaho Code. It is legislative intent that the Idaho state independent living council operate and be recognized not as a state agency or department, but as a governmental entity whose creation has been authorized by the state, much in the same manner as other single purpose districts. Pursuant to this intent, and because the Idaho state independent living council is not a state department or agency, the Idaho state independent living council is exempt from the required participation in the services of the purchasing agent or employee liability coverage, as rendered by the department of administration. However, nothing shall prohibit the Idaho state independent living council from entering into contractual arrangements with the department of administration, or any other department of state government or an elected constitutional officer, for these or any other services. It is legislative intent to require compliance with the state merit system, and to affirm the participation of the Idaho state independent living council in the public employee retirement system, chapter 13, title 59 , Idaho Code, and the personnel system, chapter 53, title 67 , Idaho Code. It is also legislative intent that the matters of location of deposit of Idaho state independent living council funds, or the instruments or documents of payment from those funds shall be construed as no more than items of convenience for the conduct of business, and in no way reflect upon the nature or status of the Idaho state independent living council as an entity of government. This section merely affirms that the Idaho state independent living council created under this chapter is not a state agency and in no way changes the character of it as it existed prior to this chapter. The functions previously performed by the state independent living cou</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1201__subsec_20">
+            <akn:num>(20)</akn:num>
+            <akn:content>
+              <akn:p>departments of state government authorized by section 20, article IV, of the constitution of the state of Idaho, or of the departments prescribed in section 67-2402 , Idaho Code. It is legislative intent that the Idaho state independent living council operate and be recognized not as a state agency or department, but as a governmental entity whose creation has been authorized by the state, much in the same manner as other single purpose districts. Pursuant to this intent, and because the Idaho state independent living council is not a state department or agency, the Idaho state independent living council is exempt from the required participation in the services of the purchasing agent or employee liability coverage, as rendered by the department of administration. However, nothing shall prohibit the Idaho state independent living council from entering into contractual arrangements with the department of administration, or any other department of state government or an elected constitutional officer, for these or any other services. It is legislative intent to require compliance with the state merit system, and to affirm the participation of the Idaho state independent living council in the public employee retirement system, chapter 13, title 59 , Idaho Code, and the personnel system, chapter 53, title 67 , Idaho Code. It is also legislative intent that the matters of location of deposit of Idaho state independent living council funds, or the instruments or documents of payment from those funds shall be construed as no more than items of convenience for the conduct of business, and in no way reflect upon the nature or status of the Idaho state independent living council as an entity of government. This section merely affirms that the Idaho state independent living council created under this chapter is not a state agency and in no way changes the character of it as it existed prior to this chapter. The functions previously performed by the state independent living cou</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1201__subsec_20">
+            <akn:num>(20)</akn:num>
+            <akn:content>
+              <akn:p>departments of state government authorized by section 20, article IV, of the constitution of the state of Idaho, or of the departments prescribed in section 67-2402 , Idaho Code. It is legislative intent that the Idaho state independent living council operate and be recognized not as a state agency or department, but as a governmental entity whose creation has been authorized by the state, much in the same manner as other single purpose districts. Pursuant to this intent, and because the Idaho state independent living council is not a state department or agency, the Idaho state independent living council is exempt from the required participation in the services of the purchasing agent or employee liability coverage, as rendered by the department of administration. However, nothing shall prohibit the Idaho state independent living council from entering into contractual arrangements with the department of administration, or any other department of state government or an elected constitutional officer, for these or any other services. It is legislative intent to require compliance with the state merit system, and to affirm the participation of the Idaho state independent living council in the public employee retirement system, chapter 13, title 59 , Idaho Code, and the personnel system, chapter 53, title 67 , Idaho Code. It is also legislative intent that the matters of location of deposit of Idaho state independent living council funds, or the instruments or documents of payment from those funds shall be construed as no more than items of convenience for the conduct of business, and in no way reflect upon the nature or status of the Idaho state independent living council as an entity of government. This section merely affirms that the Idaho state independent living council created under this chapter is not a state agency and in no way changes the character of it as it existed prior to this chapter. The functions previously performed by the state independent living cou</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1201__subsec_20">
+            <akn:num>(20)</akn:num>
+            <akn:content>
+              <akn:p>departments of state government authorized by section 20, article IV, of the constitution of the state of Idaho, or of the departments prescribed in section 67-2402 , Idaho Code.
+It is legislative intent that the Idaho state independent living council operate and be recognized not as a state agency or department, but as a governmental entity whose creation has been authorized by the state, much in the same manner as other single purpose districts. Pursuant to this intent, and because the Idaho state independent living council is not a state department or agency, the Idaho state independent living council is exempt from the required participation in the services of the purchasing agent or employee liability coverage, as rendered by the department of administration. However, nothing shall prohibit the Idaho state independent living council from entering into contractual arrangements with the department of administration, or any other department of state government or an elected constitutional officer, for these or any other services.
+It is legislative intent to require compliance with the state merit system, and to affirm the participation of the Idaho state independent living council in the public employee retirement system, chapter 13, title 59 , Idaho Code, and the personnel system, chapter 53, title 67 , Idaho Code.
+It is also legislative intent that the matters of location of deposit of Idaho state independent living council funds, or the instruments or documents of payment from those funds shall be construed as no more than items of convenience for the conduct of business, and in no way reflect upon the nature or status of the Idaho state independent living council as an entity of government.
+This section merely affirms that the Idaho state independent living council created under this chapter is not a state agency and in no way changes the character of it as it existed prior to this chapter. The functions previously performed by the state independent living cou</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1202">
+          <akn:num>56-1202</akn:num>
+          <akn:heading>Idaho state independent living council — Powers</akn:heading>
+          <akn:subsection eId="56_1202__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Be independent of any state agency;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Adopt bylaws and policies governing its operation;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Provide to the council’s employees the employee benefit package offered to state of Idaho employees; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Meet at least quarterly. History: [56-1202, added 2004, ch. 327, sec. 1, p. 978.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1202. Idaho state independent living council — Powers. The council shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Be independent of any state agency;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Adopt bylaws and policies governing its operation;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Provide to the council’s employees the employee benefit package offered to state of Idaho employees; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Meet at least quarterly. History: [56-1202, added 2004, ch. 327, sec. 1, p. 978.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1202. Idaho state independent living council — Powers. The council shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Be independent of any state agency;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Adopt bylaws and policies governing its operation;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Provide to the council’s employees the employee benefit package offered to state of Idaho employees; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Meet at least quarterly. History: [56-1202, added 2004, ch. 327, sec. 1, p. 978.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1202. Idaho state independent living council — Powers. The council shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Be independent of any state agency;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Adopt bylaws and policies governing its operation;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Provide to the council’s employees the employee benefit package offered to state of Idaho employees; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Meet at least quarterly. History: [56-1202, added 2004, ch. 327, sec. 1, p. 978.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1202. Idaho state independent living council — Powers. The council shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Be independent of any state agency;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Adopt bylaws and policies governing its operation;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Provide to the council’s employees the employee benefit package offered to state of Idaho employees; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Meet at least quarterly. History: [56-1202, added 2004, ch. 327, sec. 1, p. 978.]
+56-1202. Idaho state independent living council — Powers. The council shall:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Be independent of any state agency;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Adopt bylaws and policies governing its operation;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Provide to the council’s employees the employee benefit package offered to state of Idaho employees; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1202__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Meet at least quarterly.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1203">
+          <akn:num>56-1203</akn:num>
+          <akn:heading>Directors of Idaho state independent living council</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1203. Directors of Idaho state independent living council. Directors of the Idaho state independent living council shall be appointed by, and serve at the pleasure of, the governor. The governor shall comply with the provisions of the rehabilitation act of 1973, as amended, in making appointments to the council. The council shall select an executive director to carry out the executive functions of the council. History: [56-1203, added 2004, ch. 327, sec. 1, p. 979; am. 2016, ch. 224, sec. 1, p. 619.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1203. Directors of Idaho state independent living council. Directors of the Idaho state independent living council shall be appointed by, and serve at the pleasure of, the governor. The governor shall comply with the provisions of the rehabilitation act of 1973, as amended, in making appointments to the council. The council shall select an executive director to carry out the executive functions of the council. History: [56-1203, added 2004, ch. 327, sec. 1, p. 979; am. 2016, ch. 224, sec. 1, p. 619.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1203. Directors of Idaho state independent living council. Directors of the Idaho state independent living council shall be appointed by, and serve at the pleasure of, the governor. The governor shall comply with the provisions of the rehabilitation act of 1973, as amended, in making appointments to the council. The council shall select an executive director to carry out the executive functions of the council. History: [56-1203, added 2004, ch. 327, sec. 1, p. 979; am. 2016, ch. 224, sec. 1, p. 619.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1203. Directors of Idaho state independent living council. Directors of the Idaho state independent living council shall be appointed by, and serve at the pleasure of, the governor. The governor shall comply with the provisions of the rehabilitation act of 1973, as amended, in making appointments to the council. The council shall select an executive director to carry out the executive functions of the council. History: [56-1203, added 2004, ch. 327, sec. 1, p. 979; am. 2016, ch. 224, sec. 1, p. 619.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1203. Directors of Idaho state independent living council. Directors of the Idaho state independent living council shall be appointed by, and serve at the pleasure of, the governor. The governor shall comply with the provisions of the rehabilitation act of 1973, as amended, in making appointments to the council. The council shall select an executive director to carry out the executive functions of the council. History: [56-1203, added 2004, ch. 327, sec. 1, p. 979; am. 2016, ch. 224, sec. 1, p. 619.]
+56-1203. Directors of Idaho state independent living council. Directors of the Idaho state independent living council shall be appointed by, and serve at the pleasure of, the governor. The governor shall comply with the provisions of the rehabilitation act of 1973, as amended, in making appointments to the council. The council shall select an executive director to carry out the executive functions of the council.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_1204">
+          <akn:num>56-1204</akn:num>
+          <akn:heading>Additional powers and duties</akn:heading>
+          <akn:subsection eId="56_1204__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Assess the need for services for Idahoans with disabilities and advocate with decision makers;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Supervise and evaluate such staff as may be necessary to carry out the functions of the council;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Ensure that all regularly scheduled meetings of the council are open to the public and that sufficient advance notice of meetings is provided pursuant to the open meeting law;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Prepare reports and make recommendations, as necessary;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Perform other activities the council deems necessary to increase the ability of Idahoans with disabilities to live independently;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Promulgate rules, as may be necessary, in compliance with chapter 52, title 67 , Idaho Code. History: [56-1204, added 2004, ch. 327, sec. 1, p. 979; am. 2016, ch. 224, sec. 2, p. 619.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1204. Additional powers and duties. The council shall carry out those powers and duties set forth in the rehabilitation act of 1973, as amended. The council shall also:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Assess the need for services for Idahoans with disabilities and advocate with decision makers;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Supervise and evaluate such staff as may be necessary to carry out the functions of the council;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Ensure that all regularly scheduled meetings of the council are open to the public and that sufficient advance notice of meetings is provided pursuant to the open meeting law;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Prepare reports and make recommendations, as necessary;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Perform other activities the council deems necessary to increase the ability of Idahoans with disabilities to live independently;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Promulgate rules, as may be necessary, in compliance with chapter 52, title 67 , Idaho Code. History: [56-1204, added 2004, ch. 327, sec. 1, p. 979; am. 2016, ch. 224, sec. 2, p. 619.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1204. Additional powers and duties. The council shall carry out those powers and duties set forth in the rehabilitation act of 1973, as amended. The council shall also:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Assess the need for services for Idahoans with disabilities and advocate with decision makers;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Supervise and evaluate such staff as may be necessary to carry out the functions of the council;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Ensure that all regularly scheduled meetings of the council are open to the public and that sufficient advance notice of meetings is provided pursuant to the open meeting law;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Prepare reports and make recommendations, as necessary;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Perform other activities the council deems necessary to increase the ability of Idahoans with disabilities to live independently;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Promulgate rules, as may be necessary, in compliance with chapter 52, title 67 , Idaho Code. History: [56-1204, added 2004, ch. 327, sec. 1, p. 979; am. 2016, ch. 224, sec. 2, p. 619.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1204. Additional powers and duties. The council shall carry out those powers and duties set forth in the rehabilitation act of 1973, as amended. The council shall also:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Assess the need for services for Idahoans with disabilities and advocate with decision makers;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Supervise and evaluate such staff as may be necessary to carry out the functions of the council;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Ensure that all regularly scheduled meetings of the council are open to the public and that sufficient advance notice of meetings is provided pursuant to the open meeting law;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Prepare reports and make recommendations, as necessary;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Perform other activities the council deems necessary to increase the ability of Idahoans with disabilities to live independently;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Promulgate rules, as may be necessary, in compliance with chapter 52, title 67 , Idaho Code. History: [56-1204, added 2004, ch. 327, sec. 1, p. 979; am. 2016, ch. 224, sec. 2, p. 619.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1204. Additional powers and duties. The council shall carry out those powers and duties set forth in the rehabilitation act of 1973, as amended. The council shall also:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Assess the need for services for Idahoans with disabilities and advocate with decision makers;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Supervise and evaluate such staff as may be necessary to carry out the functions of the council;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Ensure that all regularly scheduled meetings of the council are open to the public and that sufficient advance notice of meetings is provided pursuant to the open meeting law;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Prepare reports and make recommendations, as necessary;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Perform other activities the council deems necessary to increase the ability of Idahoans with disabilities to live independently;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Promulgate rules, as may be necessary, in compliance with chapter 52, title 67 , Idaho Code. History: [56-1204, added 2004, ch. 327, sec. 1, p. 979; am. 2016, ch. 224, sec. 2, p. 619.]
+56-1204. Additional powers and duties. The council shall carry out those powers and duties set forth in the rehabilitation act of 1973, as amended. The council shall also:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Assess the need for services for Idahoans with disabilities and advocate with decision makers;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Supervise and evaluate such staff as may be necessary to carry out the functions of the council;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Ensure that all regularly scheduled meetings of the council are open to the public and that sufficient advance notice of meetings is provided pursuant to the open meeting law;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Prepare reports and make recommendations, as necessary;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Perform other activities the council deems necessary to increase the ability of Idahoans with disabilities to live independently;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="56_1204__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Promulgate rules, as may be necessary, in compliance with chapter 52, title 67 , Idaho Code.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:section>
+        <akn:section eId="sec_56_1205">
+          <akn:num>56-1205</akn:num>
+          <akn:heading>Allocation of funds by designated state units</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1205. Allocation of funds by designated state units. The Idaho state independent living council shall enter into an agreement with the state agency designated by the state plan for independent living for the receipt, allocation and disbursement of funds to support the council’s activities. The funds shall be deposited in the Idaho state independent living council fund created pursuant to section 56-1206 , Idaho Code. Such an agreement shall not be subject to the competitive bidding requirements as provided by law, and shall be limited to the amounts appropriated by the legislature or the United States congress. History: [56-1205, added 2004, ch. 327, sec. 1, p. 979; am. 2016, ch. 224, sec. 3, p. 619.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1205. Allocation of funds by designated state units. The Idaho state independent living council shall enter into an agreement with the state agency designated by the state plan for independent living for the receipt, allocation and disbursement of funds to support the council’s activities. The funds shall be deposited in the Idaho state independent living council fund created pursuant to section 56-1206 , Idaho Code. Such an agreement shall not be subject to the competitive bidding requirements as provided by law, and shall be limited to the amounts appropriated by the legislature or the United States congress. History: [56-1205, added 2004, ch. 327, sec. 1, p. 979; am. 2016, ch. 224, sec. 3, p. 619.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1205. Allocation of funds by designated state units. The Idaho state independent living council shall enter into an agreement with the state agency designated by the state plan for independent living for the receipt, allocation and disbursement of funds to support the council’s activities. The funds shall be deposited in the Idaho state independent living council fund created pursuant to section 56-1206 , Idaho Code. Such an agreement shall not be subject to the competitive bidding requirements as provided by law, and shall be limited to the amounts appropriated by the legislature or the United States congress. History: [56-1205, added 2004, ch. 327, sec. 1, p. 979; am. 2016, ch. 224, sec. 3, p. 619.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1205. Allocation of funds by designated state units. The Idaho state independent living council shall enter into an agreement with the state agency designated by the state plan for independent living for the receipt, allocation and disbursement of funds to support the council’s activities. The funds shall be deposited in the Idaho state independent living council fund created pursuant to section 56-1206 , Idaho Code. Such an agreement shall not be subject to the competitive bidding requirements as provided by law, and shall be limited to the amounts appropriated by the legislature or the United States congress. History: [56-1205, added 2004, ch. 327, sec. 1, p. 979; am. 2016, ch. 224, sec. 3, p. 619.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1205. Allocation of funds by designated state units. The Idaho state independent living council shall enter into an agreement with the state agency designated by the state plan for independent living for the receipt, allocation and disbursement of funds to support the council’s activities. The funds shall be deposited in the Idaho state independent living council fund created pursuant to section 56-1206 , Idaho Code. Such an agreement shall not be subject to the competitive bidding requirements as provided by law, and shall be limited to the amounts appropriated by the legislature or the United States congress. History: [56-1205, added 2004, ch. 327, sec. 1, p. 979; am. 2016, ch. 224, sec. 3, p. 619.]
+56-1205. Allocation of funds by designated state units. The Idaho state independent living council shall enter into an agreement with the state agency designated by the state plan for independent living for the receipt, allocation and disbursement of funds to support the council’s activities. The funds shall be deposited in the Idaho state independent living council fund created pursuant to section 56-1206 , Idaho Code. Such an agreement shall not be subject to the competitive bidding requirements as provided by law, and shall be limited to the amounts appropriated by the legislature or the United States congress.</akn:p>
+          </akn:content>
+        </akn:section>
+        <akn:section eId="sec_56_1206">
+          <akn:num>56-1206</akn:num>
+          <akn:heading>Idaho state independent living council fund</akn:heading>
+          <akn:content>
+            <akn:p>Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1206. Idaho state independent living council fund. There is hereby created in the state treasury the Idaho state independent living council fund. Moneys in the fund shall consist of appropriations, grants, federal funds, donations, gifts, or moneys from any other source. Moneys in the fund are hereby perpetually appropriated for purposes provided in this chapter. The state treasurer shall invest idle moneys in the fund and any interest received on those investments shall be returned to the fund. History: [56-1206, added 2004, ch. 327, sec. 1, p. 979.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1206. Idaho state independent living council fund. There is hereby created in the state treasury the Idaho state independent living council fund. Moneys in the fund shall consist of appropriations, grants, federal funds, donations, gifts, or moneys from any other source. Moneys in the fund are hereby perpetually appropriated for purposes provided in this chapter. The state treasurer shall invest idle moneys in the fund and any interest received on those investments shall be returned to the fund. History: [56-1206, added 2004, ch. 327, sec. 1, p. 979.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1206. Idaho state independent living council fund. There is hereby created in the state treasury the Idaho state independent living council fund. Moneys in the fund shall consist of appropriations, grants, federal funds, donations, gifts, or moneys from any other source. Moneys in the fund are hereby perpetually appropriated for purposes provided in this chapter. The state treasurer shall invest idle moneys in the fund and any interest received on those investments shall be returned to the fund. History: [56-1206, added 2004, ch. 327, sec. 1, p. 979.]
+Search Idaho Statutes Search Statutes Search Constitution pecnv.out TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1206. Idaho state independent living council fund. There is hereby created in the state treasury the Idaho state independent living council fund. Moneys in the fund shall consist of appropriations, grants, federal funds, donations, gifts, or moneys from any other source. Moneys in the fund are hereby perpetually appropriated for purposes provided in this chapter. The state treasurer shall invest idle moneys in the fund and any interest received on those investments shall be returned to the fund. History: [56-1206, added 2004, ch. 327, sec. 1, p. 979.]
+TITLE 56 PUBLIC ASSISTANCE AND WELFARE CHAPTER 12 IDAHO STATE INDEPENDENT LIVING COUNCIL 56-1206. Idaho state independent living council fund. There is hereby created in the state treasury the Idaho state independent living council fund. Moneys in the fund shall consist of appropriations, grants, federal funds, donations, gifts, or moneys from any other source. Moneys in the fund are hereby perpetually appropriated for purposes provided in this chapter. The state treasurer shall invest idle moneys in the fund and any interest received on those investments shall be returned to the fund. History: [56-1206, added 2004, ch. 327, sec. 1, p. 979.]
+56-1206. Idaho state independent living council fund. There is hereby created in the state treasury the Idaho state independent living council fund. Moneys in the fund shall consist of appropriations, grants, federal funds, donations, gifts, or moneys from any other source. Moneys in the fund are hereby perpetually appropriated for purposes provided in this chapter. The state treasurer shall invest idle moneys in the fund and any interest received on those investments shall be returned to the fund.</akn:p>
+          </akn:content>
+        </akn:section>
+      </akn:chapter>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>
